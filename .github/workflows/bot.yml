@@ -20,7 +20,7 @@ jobs:
           use-public-rspm: true   # schnelle Binaerpakete
 
       - name: Pakete installieren
-        run: install.packages(c("atrrr", "tidyRSS"))
+        run: install.packages(c("atrrr", "xml2"))
         shell: Rscript {0}
 
       - name: Bot ausfuehren
