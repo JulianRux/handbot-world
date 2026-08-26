@@ -7,38 +7,67 @@ feed_url    <- "https://www.handball-world.news/feed.xml"
 state_file  <- "state/posted_ids.txt"
 max_per_run <- 5
 
-# ---- Feed robust laden (mit Browser-User-Agent gegen 403) ----
-fetch_feed <- function(url) {
-  resp <- request(url) |>
-    req_headers(
-      `User-Agent` = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-      Accept = "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8"
-    ) |>
-    req_retry(max_tries = 3) |>
-    req_perform()
-
-  txt <- resp_body_string(resp)
-  txt <- gsub('xmlns(:[a-zA-Z0-9]+)?="[^"]*"', "", txt)   # Namespaces entfernen (RSS + Atom)
+# ---- Feed robust laden: direkt -> Proxy-Fallback ----
+parse_feed_xml <- function(txt) {
+  txt <- gsub('xmlns(:[a-zA-Z0-9]+)?="[^"]*"', "", txt)   # Namespaces raus (RSS + Atom)
   doc <- read_xml(txt)
   nodes <- xml_find_all(doc, "//item | //entry")
+  if (length(nodes) == 0) return(NULL)
 
   get1 <- function(node, xpath) {
     x <- xml_find_first(node, xpath)
     if (inherits(x, "xml_missing")) NA_character_ else xml_text(x)
   }
-  get_link <- function(node) {                              # RSS: <link>URL</link> | Atom: <link href="URL"/>
+  get_link <- function(node) {
     l <- xml_find_first(node, ".//link")
     if (inherits(l, "xml_missing")) return(NA_character_)
     href <- xml_attr(l, "href")
     if (!is.na(href) && nzchar(href)) href else xml_text(l)
   }
-
   data.frame(
     title = vapply(nodes, get1, "", xpath = ".//title"),
     link  = vapply(nodes, get_link, ""),
     guid  = vapply(nodes, function(n){ g <- get1(n,".//guid"); if(is.na(g)) g <- get1(n,".//id"); g }, ""),
     stringsAsFactors = FALSE
   )
+}
+
+fetch_feed <- function(url) {
+  hdrs <- list(
+    `User-Agent`      = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    Accept            = "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
+    `Accept-Language` = "de-DE,de;q=0.9,en;q=0.8",
+    Referer           = "https://www.handball-world.news/"
+  )
+
+  # Strategien der Reihe nach probieren, erste mit Ergebnis gewinnt
+  strategies <- list(
+    direct = url,
+    allorigins = paste0("https://api.allorigins.win/raw?url=", utils::URLencode(url, reserved = TRUE))
+  )
+
+  for (name in names(strategies)) {
+    res <- tryCatch({
+      resp <- httr2::request(strategies[[name]]) |>
+        httr2::req_headers(!!!hdrs) |>
+        httr2::req_timeout(30) |>
+        httr2::req_retry(max_tries = 2) |>
+        httr2::req_error(is_error = function(resp) FALSE) |>   # 403 nicht als R-Fehler werfen
+        httr2::req_perform()
+
+      if (httr2::resp_status(resp) != 200) {
+        message(name, ": HTTP ", httr2::resp_status(resp)); NULL
+      } else {
+        parse_feed_xml(httr2::resp_body_string(resp))
+      }
+    }, error = function(e) { message(name, ": ", conditionMessage(e)); NULL })
+
+    if (!is.null(res) && nrow(res) > 0) {
+      message("Feed geladen ueber: ", name, " (", nrow(res), " Eintraege)")
+      return(res)
+    }
+  }
+  stop("Feed konnte weder direkt noch ueber Proxy geladen werden.")
 }
 
 feed <- fetch_feed(feed_url)
