@@ -4,7 +4,7 @@ library(tidyRSS)
 
 feed_url    <- "https://rss.app/feeds/oe9wCvNL8vqUiZ8U.xml"
 state_file  <- "state/posted_ids.txt"
-max_per_run <- 5   # Sicherheitslimit gegen Fluten
+max_per_run <- 10   # Sicherheitslimit gegen Fluten
 
 # 1) Bereits gepostete IDs laden
 posted <- if (file.exists(state_file)) readLines(state_file, warn = FALSE) else character(0)
