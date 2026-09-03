@@ -2,7 +2,7 @@ name: bluesky-handball-bot
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # alle 30 Minuten (UTC)
+    #- cron: "*/30 * * * *"   # alle 30 Minuten (UTC)
   workflow_dispatch: {}       # manueller Start-Knopf zum Testen
 
 permissions:
