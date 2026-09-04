@@ -12,36 +12,45 @@ BROWSER_UA <- "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHT
 
 # Sieht der Text ueberhaupt nach einem Feed aus? (schuetzt vor Proxy-Fehlerseiten)
 looks_like_feed <- function(txt) {
-  !is.null(txt) && nzchar(txt) &&
+  !is.null(txt) && length(txt) == 1 && nzchar(txt) &&
     grepl("<rss|<feed|<item|<entry", txt, ignore.case = TRUE)
 }
 
-# Einen Feed-Text ueber mehrere Strategien beschaffen; erste gueltige gewinnt
+# Eine einzelne URL abrufen -> gueltiger Feed-Text oder NULL (KEIN return() im tryCatch!)
+try_one <- function(name, u) {
+  out <- tryCatch({
+    resp <- httr2::request(u) |>
+      httr2::req_headers(`User-Agent` = BROWSER_UA,
+                         Accept = "application/rss+xml, application/xml;q=0.9, */*;q=0.8") |>
+      httr2::req_timeout(40) |>
+      httr2::req_retry(max_tries = 2) |>
+      httr2::req_error(is_error = function(resp) FALSE) |>
+      httr2::req_perform()
+    st <- httr2::resp_status(resp)
+    if (st != 200) {
+      message(name, ": HTTP ", st); NULL
+    } else {
+      body <- httr2::resp_body_string(resp)
+      if (!looks_like_feed(body)) { message(name, ": Antwort ist kein Feed"); NULL }
+      else body
+    }
+  }, error = function(e) { message(name, ": ", conditionMessage(e)); NULL })
+  out
+}
+
+# Feed-Text ueber mehrere Strategien beschaffen; erste gueltige gewinnt
 download_feed_text <- function(url) {
   enc <- utils::URLencode(url, reserved = TRUE)
   strategies <- list(
-    list(name = "direct",     u = url),
-    list(name = "codetabs",   u = paste0("https://api.codetabs.com/v1/proxy/?quest=", url)),
-    list(name = "allorigins", u = paste0("https://api.allorigins.win/raw?url=", enc)),
-    list(name = "corsproxy",  u = paste0("https://corsproxy.io/?url=", enc)),
-    list(name = "thingproxy", u = paste0("https://thingproxy.freeboard.io/fetch/", url))
+    c(name = "direct",     u = url),
+    c(name = "codetabs",   u = paste0("https://api.codetabs.com/v1/proxy/?quest=", url)),
+    c(name = "allorigins", u = paste0("https://api.allorigins.win/raw?url=", enc)),
+    c(name = "corsproxy",  u = paste0("https://corsproxy.io/?url=", enc)),
+    c(name = "thingproxy", u = paste0("https://thingproxy.freeboard.io/fetch/", url))
   )
   for (s in strategies) {
-    res <- tryCatch({
-      resp <- httr2::request(s$u) |>
-        httr2::req_headers(`User-Agent` = BROWSER_UA,
-                           Accept = "application/rss+xml, application/xml;q=0.9, */*;q=0.8") |>
-        httr2::req_timeout(40) |>
-        httr2::req_retry(max_tries = 2) |>
-        httr2::req_error(is_error = function(resp) FALSE) |>
-        httr2::req_perform()
-      st <- httr2::resp_status(resp)
-      if (st != 200) { message(s$name, ": HTTP ", st); return(NULL) }
-      body <- httr2::resp_body_string(resp)
-      if (!looks_like_feed(body)) { message(s$name, ": Antwort ist kein Feed"); return(NULL) }
-      body
-    }, error = function(e) { message(s$name, ": ", conditionMessage(e)); NULL })
-    if (!is.null(res)) { message("Feed geladen ueber: ", s$name); return(res) }
+    body <- try_one(s[["name"]], s[["u"]])
+    if (!is.null(body)) { message("Feed geladen ueber: ", s[["name"]]); return(body) }
   }
   NULL
 }
