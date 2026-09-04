@@ -49,19 +49,46 @@ auth(user      = Sys.getenv("BSKY_USER"),
      overwrite = TRUE)
 
 # 5) Posten
+hashtag <- "#handball"
+sep     <- "\n"
+
 posted_now <- character(0)
 for (i in seq_len(nrow(new_items))) {
   title <- new_items$item_title[i]
   link  <- new_items$item_link[i]
 
-  txt <- title
-  if (nchar(txt) > 280) txt <- paste0(substr(txt, 1, 277), "...")  # Bluesky-Limit 300 Zeichen
+  if (is.na(title) || !nzchar(title) || is.na(link)) next
 
+  # --- Text bauen, immer unter 300 Zeichen (Bluesky-Limit) ---
+  # Fixkosten: Link + Hashtag + zwei Trenner
+  fixed  <- nchar(link) + nchar(hashtag) + 2 * nchar(sep)
+  budget <- 300 - fixed   # so viel Platz bleibt fuer den Titel
+
+  if (nchar(title) > budget) {
+    if (budget > 3) {
+      title <- paste0(substr(title, 1, budget - 3), "...")
+    } else {
+      title <- ""   # extrem langer Link -> Titel weglassen, Link + Hashtag bleiben
+    }
+  }
+
+  txt <- if (nzchar(title)) {
+    paste0(title, sep, link, sep, hashtag)
+  } else {
+    paste0(link, sep, hashtag)
+  }
+
+  # atrrr erkennt URL und #hashtag im Text automatisch und erzeugt die Vorschau-Karte
   ok <- tryCatch({
-    # link + preview_card erzeugt automatisch eine anklickbare Vorschau-Karte
-    post_skeet(text = txt, link = link, langs = "de", preview_card = TRUE)
+    post_skeet(text = txt, langs = "de", preview_card = TRUE)
     TRUE
-  }, error = function(e) { message("Fehler beim Posten: ", conditionMessage(e)); FALSE })
+  }, error = function(e) {
+    # Fallback ohne Vorschau-Karte, falls das Erzeugen der Karte scheitert
+    tryCatch({
+      post_skeet(text = txt, langs = "de", preview_card = FALSE)
+      TRUE
+    }, error = function(e2) { message("Fehler beim Posten: ", conditionMessage(e2)); FALSE })
+  })
 
   if (ok) posted_now <- c(posted_now, new_items$uid[i])
   Sys.sleep(2)
