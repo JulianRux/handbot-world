@@ -1,15 +1,15 @@
-# post_handball.R  (Weg 2: eigener Google-Apps-Script-Proxy)
+# post_handball.R  (Google-Proxy, #handball, Karte explizit + Diagnose)
 library(atrrr)
 library(httr2)
 library(xml2)
 
 # >>> HIER deine Google-Apps-Script Web-App-URL eintragen (.../exec) <<<
-proxy_url    <- "https://script.google.com/macros/s/XXXXXXXX/exec"
+proxy_url    <- "https://script.googleusercontent.com/macros/echo?user_content_key=AUkAhnSwrDjd7Tv_cxFdnAFxcWcFVvCC1dlW1PTEw98dLckkHm1sFsSVuqUTd4LCQU8c5rQWqNxUgXZ4iJRB12FenoiOqQu_aApT-F7LcIozAku4JYnXvPi1lCnLAjDUD6NITDmT4FCpTDZwoEo6E3LM82_VoavhwZwyvtVn8AYG8TEfwXTqq9OOisPjTT0QuOhse4qoYOxWb_X2WTr_uzQJupc3g2gcM1n66WWOSfzmCV3PbNc9kkpT4RHIw46bSyLiq1xKUFem7cp4jWuAeI35CIU3UuasfQ&lib=MUpDhm9ZWFt1-5DxXW9rZYPAJxmV1mrtP"
 
 original_url <- "https://www.handball-world.news/feed.xml"
 mirror_file  <- "feed/handball.xml"
 state_file   <- "state/posted_ids.txt"
-max_per_run  <- 20
+max_per_run  <- 10
 
 BROWSER_UA <- "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 
@@ -104,27 +104,46 @@ new_items <- new_items[rev(seq_len(nrow(new_items))), , drop = FALSE]
 if (nrow(new_items) == 0) { message("Keine neuen Beitraege."); quit(save = "no") }
 if (nrow(new_items) > max_per_run) new_items <- tail(new_items, max_per_run)
 
-# ---- Anmelden ----
+# ---- Anmelden (nötig, bevor fetch_preview ein Kartenbild hochladen kann) ----
 auth(user = Sys.getenv("BSKY_USER"), password = Sys.getenv("BSKY_APP_PASSWORD"), overwrite = TRUE)
 
-# ---- Posten (#handball, max. 300 Zeichen) ----
+# ---- Posten: Reihenfolge Titel -> #handball, Karte explizit erzeugen ----
 hashtag <- "#handball"; sep <- "\n"
 posted_now <- character(0)
+
 for (i in seq_len(nrow(new_items))) {
   title <- new_items$title[i]; link <- new_items$link[i]
   if (is.na(title) || !nzchar(title) || is.na(link)) next
-  fixed  <- nchar(link) + nchar(hashtag) + 2 * nchar(sep)
-  budget <- 300 - fixed
+
+  # 300-Zeichen-Grenze: Text = Titel + #handball (Link steckt in der Karte)
+  budget <- 300 - nchar(hashtag) - nchar(sep)
   if (nchar(title) > budget) title <- if (budget > 3) paste0(substr(title, 1, budget - 3), "...") else ""
-  txt <- if (nzchar(title)) paste0(title, sep, link, sep, hashtag) else paste0(link, sep, hashtag)
+  txt <- if (nzchar(title)) paste0(title, sep, hashtag) else hashtag
+
+  # Karte explizit anfordern und pruefen, ob sie befuellt ist
+  card <- tryCatch(atrrr::fetch_preview(link),
+                   error = function(e) { message("fetch_preview Fehler: ", conditionMessage(e)); NULL })
+  card_title <- tryCatch(card$external$title, error = function(e) NULL)
+  have_card  <- !is.null(card_title) && nzchar(card_title)
+  message("Karte fuer ", link, ": ", if (have_card) paste0("OK -> '", card_title, "'") else "LEER (Zielseite blockt cardyb)")
+
   ok <- tryCatch({
-    post_skeet(text = txt, langs = "de", preview_card = TRUE); TRUE
-  }, error = function(e) tryCatch({
-    post_skeet(text = txt, langs = "de", preview_card = FALSE); TRUE
-  }, error = function(e2) { message("Fehler beim Posten: ", conditionMessage(e2)); FALSE }))
+    if (have_card) {
+      post_skeet(text = txt, preview_card = card, langs = "de")
+    } else {
+      # Keine echte Karte moeglich -> Link sichtbar anhaengen (Titel -> #handball -> Link)
+      txt2 <- paste0(txt, sep, link, "\n")
+      if (nchar(txt2) > 300) txt2 <- paste0(substr(title, 1, max(0, 300 - nchar(hashtag) - nchar(link) - 4)),
+                                            sep, hashtag, sep, link, "\n")
+      post_skeet(text = txt2, langs = "de", preview_card = TRUE)
+    }
+    TRUE
+  }, error = function(e) { message("Fehler beim Posten: ", conditionMessage(e)); FALSE })
+
   if (ok) posted_now <- c(posted_now, new_items$uid[i])
   Sys.sleep(2)
 }
+
 if (length(posted_now) > 0) {
   writeLines(unique(c(posted, posted_now)), state_file)
   message(length(posted_now), " Beitrag/Beitraege gepostet.")
