@@ -2,11 +2,11 @@ name: bluesky-handball-bot
 
 on:
   schedule:
-    #- cron: "*/30 * * * *"   # alle 30 Minuten (UTC)
-  workflow_dispatch: {}       # manueller Start-Knopf zum Testen
+    - cron: "7,37 * * * *"    # xx:07 und xx:37 (UTC) - krumme Zeiten, weniger Ueberlastung
+  workflow_dispatch: {}         # manueller Start-Knopf zum Testen
 
 permissions:
-  contents: write             # noetig, um den Status zurueckzuschreiben
+  contents: write               # noetig, um den Status zurueckzuschreiben
 
 jobs:
   post:
