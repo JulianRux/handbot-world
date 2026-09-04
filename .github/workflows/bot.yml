@@ -20,7 +20,7 @@ jobs:
           use-public-rspm: true
 
       - name: Pakete installieren
-        run: install.packages(c("atrrr", "tidyRSS"))
+        run: install.packages(c("atrrr", "xml2"))
         shell: Rscript {0}
 
       - name: Bot ausfuehren
@@ -29,10 +29,10 @@ jobs:
           BSKY_APP_PASSWORD: ${{ secrets.BSKY_APP_PASSWORD }}
         run: Rscript post_handball.R
 
-      - name: Status zurueckschreiben
+      - name: Status und Feed-Kopie zurueckschreiben
         run: |
           git config user.name  "handball-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add state/posted_ids.txt
-          git diff --staged --quiet || git commit -m "Update posted state [skip ci]"
+          git add feed/ state/
+          git diff --staged --quiet || git commit -m "Update feed + state [skip ci]"
           git push
