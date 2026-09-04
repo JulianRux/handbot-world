@@ -4,12 +4,12 @@ library(httr2)
 library(xml2)
 
 # >>> HIER deine Google-Apps-Script Web-App-URL eintragen (.../exec) <<<
-proxy_url    <- "https://script.google.com/macros/s/AKfycbwxx_z_YyD0Cnete33d2duNdWRt-pc4j4AtzSmbByphh3Z08K2POjQW0PXSx71h5ReTLA/exec"
+proxy_url    <- "https://script.google.com/macros/s/XXXXXXXX/exec"
 
 original_url <- "https://www.handball-world.news/feed.xml"
 mirror_file  <- "feed/handball.xml"
 state_file   <- "state/posted_ids.txt"
-max_per_run  <- 10
+max_per_run  <- 20
 
 BROWSER_UA <- "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
 
@@ -116,8 +116,8 @@ for (i in seq_len(nrow(new_items))) {
   fixed  <- nchar(link) + nchar(hashtag) + 2 * nchar(sep)
   budget <- 300 - fixed
   if (nchar(title) > budget) title <- if (budget > 3) paste0(substr(title, 1, budget - 3), "...") else ""
-  txt <- if (nzchar(title)) paste0(title, sep, hashtag, sep, link) else paste0(hashtag, sep, link)
-    ok <- tryCatch({
+  txt <- if (nzchar(title)) paste0(title, sep, link, sep, hashtag) else paste0(link, sep, hashtag)
+  ok <- tryCatch({
     post_skeet(text = txt, langs = "de", preview_card = TRUE); TRUE
   }, error = function(e) tryCatch({
     post_skeet(text = txt, langs = "de", preview_card = FALSE); TRUE
