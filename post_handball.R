@@ -116,8 +116,8 @@ for (i in seq_len(nrow(new_items))) {
   fixed  <- nchar(link) + nchar(hashtag) + 2 * nchar(sep)
   budget <- 300 - fixed
   if (nchar(title) > budget) title <- if (budget > 3) paste0(substr(title, 1, budget - 3), "...") else ""
-  txt <- if (nzchar(title)) paste0(title, sep, link, sep, hashtag) else paste0(link, sep, hashtag)
-  ok <- tryCatch({
+  txt <- if (nzchar(title)) paste0(title, sep, hashtag, sep, link) else paste0(hashtag, sep, link)
+    ok <- tryCatch({
     post_skeet(text = txt, langs = "de", preview_card = TRUE); TRUE
   }, error = function(e) tryCatch({
     post_skeet(text = txt, langs = "de", preview_card = FALSE); TRUE
