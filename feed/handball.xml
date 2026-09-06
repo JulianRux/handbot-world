@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 10:50:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 11:13:58 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 10:50:11 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 11:13:58 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Zaepfel ist da: Diese französischen Stars spielten schon in der HBL]]></title>
+            <description><![CDATA[Ab 2027 spielt Theo Monar für die Füchse Berlin, ab sofort kann der Hauptstadtklub schon auf Aymeric Zaepfel zurückgreifen. Aymeric Minne kam diesen Sommer, Dika Mem wechselt nächsten Sommer und Thibaud Briet 2028 in die Handball-Bundesliga. Einige berühmte Franzosen spielten bereits im deutschen Oberhaus - eine Auswahl:]]></description>
+            <link>https://www.handball-world.news/slideshow/zaepfel-ist-da-diese-franzoesischen-stars-spielten-schon-in-der-hbl-1223103</link>
+            <guid isPermaLink="false">1223103</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 10:54:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nachgelegt im Rückraum: Der Kader der Füchse Berlin 2026/27]]></title>
+            <description><![CDATA[Wie sieht aktuell der Kader der Füchse Berlin für die Handball-Saison 2026/27 aus?]]></description>
+            <link>https://www.handball-world.news/artikel/nachgelegt-im-rueckraum-der-kader-der-fuechse-berlin-2026-27-1148686</link>
+            <guid isPermaLink="false">1148686</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 10:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Torlose zwölf Minuten kosten Balingen II den Heimsieg]]></title>
+            <description><![CDATA[Über zwölf Minuten ohne eigenen Treffer kosteten Handball-Drittligist HBW Balingen-Weilstetten II den Heimsieg gegen die SG Pforzheim/Eutingen. In einem kuriosen Spiel verbuchten die Schützlinge von Trainer Micha Thiemann letztlich mit einem 26:26 (17:11) aber zumindest den ersten Punkt der neuen Saison.]]></description>
+            <link>https://www.handball-world.news/spiel/hbw-balingen-weilstetten-ii-gegen-sg-pforzheimeutingen-2026-liga-sued-5264106/bericht</link>
+            <guid isPermaLink="false">1250194</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 10:59:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neu bei den Füchsen: Wer ist Aymeric Zaepfel?]]></title>
             <description><![CDATA[Die Füchse Berlin haben sich kurzfristig mit Aymeric Zaepfel verstärkt. Der Lothringer hatte schon bei der EM für Frankreich seinen großen Auftritt und musste große Fußstapfen ausfüllen. Das hat auch beim Pokalsieger Eindruck hinterlassen.]]></description>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1248984</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 10:42:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mehr Spannung? Frankreich schafft Unentschieden in 2. Liga ab]]></title>
-            <description><![CDATA[Die zweite französische Handball-Liga hat eine neue Regelung eingeführt. Ab sofort wird es keine Unentschieden mehr geben.]]></description>
-            <link>https://www.handball-world.news/artikel/mehr-spannung-frankreich-schafft-unentschieden-in-2-liga-ab-1248971</link>
-            <guid isPermaLink="false">1248971</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 12:32:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Krickau deutlich: Marsenic-Abschied ändert nichts an seiner Rolle]]></title>
-            <description><![CDATA[Mijajlo Marsenic verlässt die Füchse Berlin im kommenden Sommer. Bis dahin soll der Serbe aber weiterhin eine wichtige Rolle beim Hauptstadtklub spielen.]]></description>
-            <link>https://www.handball-world.news/artikel/krickau-deutlich-marsenic-abschied-aendert-nichts-an-seiner-rolle-1248949</link>
-            <guid isPermaLink="false">1248949</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 09:40:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HSG Wetzlar: Zwei Schlüsselspieler für Lemgo fraglich]]></title>
-            <description><![CDATA[Die HSG Wetzlar ist mit einer Enttäuschung in die neue Bundesliga-Saison gestartet. Vor dem zweiten Spiel haben die Mittelhessen personelle Probleme: Neu-Kapitän Josip Simic wird gegen Lemgo erneut fehlen, zudem sind zwei Schlüsselspieler angeschlagen und drohen ebenfalls auszufallen.]]></description>
-            <link>https://www.handball-world.news/artikel/hsg-wetzlar-zwei-schluesselspieler-fuer-lemgo-fraglich-1248974</link>
-            <guid isPermaLink="false">1248974</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 08:45:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
