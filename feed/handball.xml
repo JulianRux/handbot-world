@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 00:50:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 05:50:29 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 00:50:58 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 05:50:29 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Empor Rostock will in heimischer Halle nachlegen]]></title>
+            <description><![CDATA[Der HC Empor Rostock feiert am heutigen Sonntag seine Heimpremiere in der neuen Saison der 3. Handball-Liga. Nach dem 42:32 zum Auftakt bei Concordia Delitzsch will das Team von Stephan Just in der Fiete-Reder-Halle gegen die HSG Eider Harde nachlegen.]]></description>
+            <link>https://www.handball-world.news/artikel/empor-rostock-will-in-heimischer-halle-nachlegen-1249981</link>
+            <guid isPermaLink="false">1249981</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 05:39:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Der beste Aufsteiger seit ...? So gut ist Balingen]]></title>
+            <description><![CDATA[Es ist die Geschichte der noch jungen Bundesliga-Saison: Der HBW Balingen-Weilstetten macht als Aufsteiger richtig Spaß - und hat sich erarbeitet, dass die heutige Partie gegen den SC Magdeburg ein Spitzenspiel ist. Wie gut ist der Saisonstart Balingens eigentlich im historischen Kontext?]]></description>
+            <link>https://www.handball-world.news/artikel/der-beste-aufsteiger-seit-so-gut-ist-balingen-1249714</link>
+            <guid isPermaLink="false">1249714</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 05:00:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[1. HBF: Punkte für Buxtehude, Wildcats überraschen Flames]]></title>
             <description><![CDATA[Die Favoriten sind erfolgreich in die neue Spielzeit gestartet. Die HSG Blomberg-Lippe konnte gegen die TuS Metzingen die Marke von 40 Toren knacken, Borussia Dortmund konnte erst in der Schlussminute feiern. Am Samstag holte Buxtehude die ersten Zähler, Halle-Neustadt überraschte die Flames. Die Spiele, Ergebnisse und Torschützinnen in der Übersicht:]]></description>
@@ -50,20 +66,20 @@
             <pubDate>Sat, 05 Sep 2026 21:00:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 20:35:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Harter Fight mit zwei Roten Karten: Erster Sieg für Rhein-Neckar Löwen]]></title>
             <description><![CDATA[Die Rhein-Neckar Löwen konnten im Kellerduell die ersten Pluspunkte einfahren. Beim 27:26 (14:13) beim Bergischen HC mussten die Badener allerdings bis zur letzten Sekunde um den Sieg bangen.]]></description>
             <link>https://www.handball-world.news/spiel/bergischer-hc-gegen-r-n-loewen-2026-handball-bundesliga-5213771/bericht</link>
             <guid isPermaLink="false">1250012</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 20:38:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 05 Sep 2026 20:35:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gummersbach, Melsungen, die Roganovic-Show und der Krimi mit der 31]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1248794</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 01 Sep 2026 14:36:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHfK-Manager Günther: "Enorm, was wir zu schultern haben"]]></title>
-            <description><![CDATA[Die Mission Wiederaufstieg ist für den SC DHfK Leipzig erfolgreich angelaufen. Nach einem 11:12-Pausenrückstand konnte man GWD Minden mit 24:23 bezwingen. Für Leipzigs Manager Karsten Günther steht der Klub in dieser Saison vor großen Herausforderungen.]]></description>
-            <link>https://www.handball-world.news/artikel/dhfk-manager-guenther-enorm-was-wir-zu-schultern-haben-1248772</link>
-            <guid isPermaLink="false">1248772</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 13:39:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katar holt Gold: Ergebnisse und Tabellen der U-18-Asienmeisterschaft 2026]]></title>
-            <description><![CDATA[Im jordanischen Amman wird vom 20. bis 31. August die 11. U-18-Asienmeisterschaft im Handball ausgespielt. Die Tickets zur U-19-WM im kommenden Jahr sind vergeben, nun geht es am Montag um die Medaillen.]]></description>
-            <link>https://www.handball-world.news/artikel/katar-holt-gold-ergebnisse-und-tabellen-der-u-18-asienmeisterschaft-2026-1244286</link>
-            <guid isPermaLink="false">1244286</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 01 Sep 2026 13:13:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
