@@ -4,18 +4,138 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 06 Sep 2026 14:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 19:28:03 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 06 Sep 2026 14:08:19 GMT</pubDate>
+        <pubDate>Sun, 06 Sep 2026 19:28:03 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Flohr nach Fast-Sensation: "Hätte lieber die Punkte"]]></title>
+            <description><![CDATA[Der HBW Balingen-Weilstetten stand gegen den SC Magdeburg kurz vor einem Sensations-Sieg. Zu Buche steht eine überragende Leistung des Handball-Aufsteigers, die Trainer Matthias Flohr jedoch nicht vollends genießen kann.]]></description>
+            <link>https://www.handball-world.news/artikel/flohr-nach-fast-sensation-haette-lieber-die-punkte-1250362</link>
+            <guid isPermaLink="false">1250362</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 18:22:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL Kompakt: Zittersiege für Füchse, Kiel und SCM]]></title>
+            <description><![CDATA[Die Handball-Bundesliga schließt die englische Woche mit dem 3. Spieltag. Die SG Flensburg-Handewitt übernahm zumindest für eine Nacht die Spitze, doch der THW Kiel konnte kontern. Den ersten Sieg holten die Rhein-Neckar Löwen, sieglos bleiben hingegen Hamburg, Erlangen und der BHC. Balingen hatte Magdeburg am Rand einer Niederlage.]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-zittersiege-fuer-fuechse-kiel-und-scm-1250045</link>
+            <guid isPermaLink="false">1250045</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 18:09:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In letzter Sekunde: Balingen verpasst Sensation gegen Magdeburg]]></title>
+            <description><![CDATA[Der HBW Balingen-Weilstetten verlangte dem SC Magdeburg am Sonntagabend alles ab. Die Gallier führten über die meiste Zeit des Spiels, am Ende erzielte der deutsche Handball-Meister in letzter Sekunde aber den Siegtreffer.]]></description>
+            <link>https://www.handball-world.news/spiel/balingen-gegen-magdeburg-2026-handball-bundesliga-5213773/bericht</link>
+            <guid isPermaLink="false">1250292</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 18:16:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: THW Kiel siegt trotz Zerbe-Rot in Göppingen]]></title>
+            <description><![CDATA[Bereits im ersten Abschnitt gab es für den THW Kiel einen Rückschlag, mit Lukas Zerbe sah der einzig gelernte Rechtsaußen die Rote Karte. Eine zweite gab es nach der dritten Zeitstrafe für den Göppinger Viktor Klöve, vielleicht die entscheidende, den Kiel machte in der Folge aus einem 22:23 ein 27:23 und brachte ein 32:31 über die Linie.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-thw-kiel-siegt-trotz-zerbe-rot-in-goeppingen-1250348</link>
+            <guid isPermaLink="false">1250348</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 18:07:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2. Liga: Auswärtssiege am Freitag, Heimerfolge am Samstag]]></title>
+            <description><![CDATA[Der zweite Spieltag der 2. Handball-Bundesliga wurde am Freitag von drei Spielen eröffnet: Der SC DHfK Leipzig siegte auch bei Altmeister TV Großwallstadt, der TuS Ferndorf behielt gegen den TV Emsdetten die Oberhand und der Dessau-Roßlauer HV gegen die Eulen. Am Samstag landeten Nordhorn, Lübeck und Dresden hingegen drei Heimsiege. Am Sonntag distanzierte Hagen am Ende Coburg mit 35:19, Minden und Essen teilten sich die Punkte. Das abschließende Duell Potsdam gegen Hüttenberg folgt am Mittwoch. Die Spiele im Stenogramm.]]></description>
+            <link>https://www.handball-world.news/artikel/2-liga-auswaertssiege-am-freitag-heimerfolge-am-samstag-1249803</link>
+            <guid isPermaLink="false">1249803</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 16:59:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1. HBF: 71 Tore in Oldenburg, erste Buxtehude-Punkte]]></title>
+            <description><![CDATA[Die Favoriten sind erfolgreich in die neue Spielzeit gestartet. Die HSG Blomberg-Lippe konnte gegen die TuS Metzingen die Marke von 40 Toren knacken, Borussia Dortmund konnte erst in der Schlussminute feiern. Am Samstag holte Buxtehude die ersten Zähler, Halle-Neustadt überraschte die Flames. Das Sonntagsmatch ging an den THC. Die Spiele, Ergebnisse und Torschützinnen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/1-hbf-71-tore-in-oldenburg-erste-buxtehude-punkte-1249235</link>
+            <guid isPermaLink="false">1249235</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 16:48:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 17:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vier vergebene Siebenmeter: Füchse mit blauem Auge in Stuttgart]]></title>
+            <description><![CDATA[Die Füchse Berlin sind beim TVB Stuttgart gerade so nochmal mit einem blauen Auge davongekommen. Nachdem die Berliner insgesamt vier Siebenmeter vergaben, gelang den Handball-Hausherren beinahe noch das Remis.]]></description>
+            <link>https://www.handball-world.news/spiel/stuttgart-gegen-berlin-2026-handball-bundesliga-5213769/bericht</link>
+            <guid isPermaLink="false">1250255</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 16:42:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lemgo eine zu hohe Hürde für Aufsteiger Bietigheim]]></title>
+            <description><![CDATA[Der TBV Lemgo Lippe hat einen souveränen Auswärtserfolg bei der SG BBM Bietigheim eingefahren. Die Mannschaft von Florian Kehrmann konnte sich zeitweise auf acht Tore lösen, siegte am Ende mit 36:29 (20:15).]]></description>
+            <link>https://www.handball-world.news/spiel/bietigheim-gegen-lemgo-2026-handball-bundesliga-5213772/bericht</link>
+            <guid isPermaLink="false">1250267</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 16:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2. HBF: Mainz stürzt Spitzenreiter, erste Siege für Regensburg und Luchse]]></title>
+            <description><![CDATA[In der 2. Handball-Bundesliga der Frauen sind nach zwei Spieltagen noch vier Teams verlustpunktfrei, zwei weitere noch unbesiegt. Am Sonntag kämpfen Leverkusen und Kirchhof um die ersten Pluspunkte.]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbf-mainz-stuerzt-spitzenreiter-erste-siege-fuer-regensburg-und-luchse-1250210</link>
+            <guid isPermaLink="false">1250210</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 15:46:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trotz Zerbe-Rot: Kiel erkämpft knappen Sieg in Göppingen]]></title>
+            <description><![CDATA[Frisch Auf Göppingen schnupperte 45 Minuten an einer Sensation gegen den Deutschen Rekordmeister THW Kiel. Die Rote Karte für Victor Klöve fiel auch mit der entscheidenden Schwächephase zusammen. Bei den Zebras hatte zuvor Lukas Zerbe Rot gesehen, doch auch ohne gelernten Rechtsaußen kamen die Gäste am Ende zu einem knappen 32:31-Auswärtssieg.]]></description>
+            <link>https://www.handball-world.news/spiel/goeppingen-gegen-kiel-2026-handball-bundesliga-5213767/bericht</link>
+            <guid isPermaLink="false">1250228</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 15:21:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leutershausen mit Auswärtssieg bei Bergischen Panthern]]></title>
+            <description><![CDATA[Nach dem ungefährdeten Auftakterfolg gegen den HV Vallendar hat die S3 Leutershausen in der 3. Handball-Liga einen Auswärtserfolg bei den Bergischen Panthern nachgelegt. Coach Florian Taafel zeigte sich zufrieden mit der "guten Mannschaftsleistung", sah aber "auch noch etwas Luft nach oben".]]></description>
+            <link>https://www.handball-world.news/spiel/bergische-panther-gegen-leutershausen-2026-liga-sued-west-5263867/bericht</link>
+            <guid isPermaLink="false">1250202</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 14:42:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blomberg-Lippe verliert Champions-League-Premiere]]></title>
+            <description><![CDATA[Die Handballerinnen der HSG Blomberg-Lippe haben bei ihrer Premiere in der Champions League eine Niederlage kassiert. Die deutschen Meisterinnen und Supercup-Gewinnerinnen verloren in Lemgo 23:28 (10:13) gegen den rumänischen Titelträger CS Gloria Bistrita.]]></description>
+            <link>https://www.handball-world.news/spiel/blomberg-lippe-gegen-cs-gloria-2026-handball-champions-league-frauen-5249711/bericht</link>
+            <guid isPermaLink="false">1250249</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 15:20:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Varel verpasst Überraschung in Schlussviertelstunde]]></title>
+            <description><![CDATA["Wir hätten das Spiel gewinnen können", sagte Arek Blacha, Trainer des Handball-Drittligisten HSG Varel nach der 29:34-Heimniederlage gegen Titelaspirant Eintracht Hildesheim am Samstagabend in der Manfred-Schmidt-Sporthalle in Altjührden. In der Schlussviertelstunde spielte der Favorit seine Klasse aus.]]></description>
+            <link>https://www.handball-world.news/spiel/hsg-varel-gegen-hildesheim-2026-liga-nord-west-5263622/bericht</link>
+            <guid isPermaLink="false">1250254</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 14:37:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Kämpferisch reingehauen": Buxtehuder SV mit erstem Heimsieg]]></title>
             <description><![CDATA[Mit einem 26:23 (9:10) hat der Buxtehuder SV Aufsteiger HC Leipzig am 2. Spieltag der Handball-Bundesliga der Frauen geschlagen. Um den Sieg mussten die 1216 Zuschauer in der Halle Nord lange bangen. Erst zehn Minuten vor dem Ende drehten die Gastgeberinnen nochmal auf.]]></description>
             <link>https://www.handball-world.news/spiel/buxtehude-gegen-leipzig-2026-handball-frauen-bundesliga-5243990/bericht</link>
             <guid isPermaLink="false">1250244</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 14:05:27 GMT</pubDate>
+            <pubDate>Sun, 06 Sep 2026 14:16:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saarlouis: Wichtige Punkte aber Sorgen um Weissgerber]]></title>
+            <description><![CDATA["Das waren wertvolle und wichtige zwei Punkte für uns!", so ein zufriedener Jörg Lützelberger nach dem 25:22 (13:14)-Auswärtssieg seiner HG Saarlouis in der 3. Handball-Liga gegen die HSG Rodgau/Nieder-Roden. Wehrmutstropfen war die Verletzung von Lars Weissgerber.]]></description>
+            <link>https://www.handball-world.news/spiel/rodgau-nieder-roden-gegen-saarlouis-2026-liga-sued-west-5263864/bericht</link>
+            <guid isPermaLink="false">1250246</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 06 Sep 2026 14:16:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pütz nach dritter BHC-Niederlage: "Können das gut einordnen"]]></title>
@@ -24,14 +144,6 @@
             <guid isPermaLink="false">1250224</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 06 Sep 2026 13:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBF: Mainz stürzt Spitzenreiter, erste Siege für Regensburg und Luchse]]></title>
-            <description><![CDATA[In der 2. Handball-Bundesliga der Frauen sind nach zwei Spieltagen noch vier Teams verlustpunktfrei, zwei weitere noch unbesiegt. Am Sonntag kämpfen Leverkusen und Kirchhof um die ersten Pluspunkte.]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbf-mainz-stuerzt-spitzenreiter-erste-siege-fuer-regensburg-und-luchse-1250210</link>
-            <guid isPermaLink="false">1250210</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 12:57:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gerechte Punkteteilung bei Burgdorf gegen Flensborg]]></title>
@@ -162,12 +274,12 @@
             <pubDate>Sun, 06 Sep 2026 07:47:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Handball am Sonntag: Rot für Zerbe, SCM und Füchse später im Einsatz]]></title>
-            <description><![CDATA[Der Sonntag hält den nächsten Kracher in der Handball-Bundesliga bereit: Aufsteiger Balingen geht punktgleich mit weißer Weste ins Duell mit dem SC Magdeburg. Auch der THW Kiel, der in Göppingen früh Zerbe durch Rot verlor, und die Füchse spielen. Die Premiere von Blomberg-Lippe in der Champions League, Traditionsduelle in den 2. Ligen und auch international wird gespielt. Ein Klick auf die jeweilige Partie führt zum ausführlichen Liveticker.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-sonntag-rot-fuer-zerbe-scm-und-fuechse-spaeter-im-einsatz-1247805</link>
+            <title><![CDATA[Handball am Sonntag: THW und Füchse siegen, SCM unter Druck]]></title>
+            <description><![CDATA[Der Sonntag hält den nächsten Kracher in der Handball-Bundesliga bereit: Aufsteiger Balingen geht punktgleich mit weißer Weste ins Duell mit dem SC Magdeburg - und setzt den Meister unter Druck. Der THW Kiel, der in Göppingen früh Zerbe durch Rot verlor, und die Füchse siegten. Blomberg verlor die Premiere in der Champions League, Traditionsduelle in den 2. Ligen und auch international wird gespielt. Ein Klick auf die jeweilige Partie führt zum ausführlichen Liveticker.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-sonntag-thw-und-fuechse-siegen-scm-unter-druck-1247805</link>
             <guid isPermaLink="false">1247805</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 13:38:27 GMT</pubDate>
+            <pubDate>Sun, 06 Sep 2026 16:37:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deutliche Unterschiede: Die Etat-Tabelle in Frankreichs Frauenhandball]]></title>
@@ -226,22 +338,6 @@
             <pubDate>Sun, 06 Sep 2026 09:03:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[1. HBF: Punkte für Buxtehude, Wildcats überraschen Flames]]></title>
-            <description><![CDATA[Die Favoriten sind erfolgreich in die neue Spielzeit gestartet. Die HSG Blomberg-Lippe konnte gegen die TuS Metzingen die Marke von 40 Toren knacken, Borussia Dortmund konnte erst in der Schlussminute feiern. Am Samstag holte Buxtehude die ersten Zähler, Halle-Neustadt überraschte die Flames. Die Spiele, Ergebnisse und Torschützinnen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/1-hbf-punkte-fuer-buxtehude-wildcats-ueberraschen-flames-1249235</link>
-            <guid isPermaLink="false">1249235</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 21:17:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL Kompakt: Flensburg spitze, Löwen erleichtert]]></title>
-            <description><![CDATA[Die Handball-Bundesliga schließt die englische Woche mit dem 3. Spieltag. Die SG Flensburg-Handewitt übernahm zumindest für eine Nacht die Spitze, dahinter folgt Hannover-Burgdorf. Aufatmen konnten die Rhein-Neckar Löwen, keinen Sieger gab es trotz einer Roganovic-Show zwischen Gummersbach und Melsungen. Sieglos bleiben hingegen Hamburg, Erlangen und der BHC.]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-flensburg-spitze-loewen-erleichtert-1250045</link>
-            <guid isPermaLink="false">1250045</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 09:32:32 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Roganovic in Top20: Meiste Tore in einem HBL-Spiel]]></title>
             <description><![CDATA[Welcher Spieler hat die meisten Tore in einer Handball-Bundesliga-Partie erzielt? Die Übersicht:]]></description>
             <link>https://www.handball-world.news/artikel/roganovic-in-top20-meiste-tore-in-einem-hbl-spiel-1200812</link>
@@ -258,28 +354,12 @@
             <pubDate>Sat, 05 Sep 2026 20:27:31 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2. Liga: Auswärtssiege am Freitag, Heimerfolge am Samstag]]></title>
-            <description><![CDATA[Der zweite Spieltag der 2. Handball-Bundesliga wurde am Freitag von drei Spielen eröffnet. Nach dem knappen Auftakterfolg gegen GWD Minden siegte der SC DHfK Leipzig auch bei Altmeister TV Großwallstadt, der TuS Ferndorf behielt gegen den TV Emsdetten die Oberhand und der Dessau-Roßlauer HV gegen die Eulen. Am Samstag landeten Nordhorn, Lübeck und Dresden hingegen drei Heimsiege. Zwei weitere Partien stehen am morgigen Sonntag an, das abschließende Duell am Mittwoch. Die Spiele im Stenogramm.]]></description>
-            <link>https://www.handball-world.news/artikel/2-liga-auswaertssiege-am-freitag-heimerfolge-am-samstag-1249803</link>
-            <guid isPermaLink="false">1249803</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 21:00:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Harter Fight mit zwei Roten Karten: Erster Sieg für Rhein-Neckar Löwen]]></title>
             <description><![CDATA[Die Rhein-Neckar Löwen konnten im Kellerduell die ersten Pluspunkte einfahren. Beim 27:26 (14:13) beim Bergischen HC mussten die Badener allerdings bis zur letzten Sekunde um den Sieg bangen.]]></description>
             <link>https://www.handball-world.news/spiel/bergischer-hc-gegen-r-n-loewen-2026-handball-bundesliga-5213771/bericht</link>
             <guid isPermaLink="false">1250012</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 20:38:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 20:35:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gummersbach, Melsungen, die Roganovic-Show und der Krimi mit der 31]]></title>
@@ -783,7 +863,7 @@
             <link>https://www.handball-world.news/spiel/magdeburg-gegen-berlin-2026-handball-bundesliga-5213756/bericht</link>
             <guid isPermaLink="false">1249520</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 05:14:56 GMT</pubDate>
+            <pubDate>Sun, 06 Sep 2026 15:18:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eisenachs Fans verlassen die Halle: Aufsteiger Balingen feiert]]></title>
@@ -1128,86 +1208,6 @@
             <guid isPermaLink="false">1245604</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 02 Sep 2026 17:14:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gegen Hannover: Erlangen ohne Morante]]></title>
-            <description><![CDATA[Die Handballer des HC Erlangen wollen gegen die TSV Hannover-Burgdorf die ersten Saison-Punkte einfahren. Dabei müssen sie auf Eloy Morante verzichten.]]></description>
-            <link>https://www.handball-world.news/artikel/gegen-hannover-erlangen-ohne-morante-1249193</link>
-            <guid isPermaLink="false">1249193</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 17:52:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welches ist das schönste? Die Bundesliga-Trikots und ihre Preise]]></title>
-            <description><![CDATA[Sämtliche Handball-Bundesligisten spielen in der neuen Saison mit einem neuen Outfit. Wer hat das schönste Trikot 2026/27? Und was kosten die Jerseys?]]></description>
-            <link>https://www.handball-world.news/slideshow/welches-ist-das-schoenste-die-bundesliga-trikots-und-ihre-preise-1245781</link>
-            <guid isPermaLink="false">1245781</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 15:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jungfüchse holen ersten Saison-Titel]]></title>
-            <description><![CDATA[Am vergangenen Wochenende (28. bis 30. August) stand der traditionelle Berliner Handball-Sparkasse-Cup auf dem Programm. Die U19, U17 sowie U15 der Füchse luden ins Sportforum Hohenschönhausen. In einem Jahrgang waren die Berliner erfolgreich.]]></description>
-            <link>https://www.handball-world.news/artikel/jungfuechse-holen-ersten-saison-titel-1249072</link>
-            <guid isPermaLink="false">1249072</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 15:25:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grupe gegen Grupe: Bruder-Duell in Eisenach]]></title>
-            <description><![CDATA[Am Donnerstagabend gibt der ThSV Eisenach erstmals in der neuen Bundesliga-Saison vor heimischem Publikum Gas. Doch das erste Heimspiel hat noch eine weitere Besonderheit zu bieten.]]></description>
-            <link>https://www.handball-world.news/artikel/grupe-gegen-grupe-bruder-duell-in-eisenach-1249104</link>
-            <guid isPermaLink="false">1249104</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 15:17:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gelnhausen mit Personalmangel: Schon zum Saisonauftakt wird es eng]]></title>
-            <description><![CDATA[Bitterer Rückschlag für den TV Gelnhausen vor dem Saisonstart: Kreisläufer Max Bechert wird dem Handball-Drittligisten voraussichtlich rund sechs Wochen fehlen. Damit verschärft sich die ohnehin angespannte Personalsituation unmittelbar vor dem ersten Saisonspiel.]]></description>
-            <link>https://www.handball-world.news/artikel/gelnhausen-mit-personalmangel-schon-zum-saisonauftakt-wird-es-eng-1249009</link>
-            <guid isPermaLink="false">1249009</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 14:33:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SCM gegen Füchse - mehr als ein Star-Duell]]></title>
-            <description><![CDATA[Vor dem Duell des SC Magdeburg mit den Füchsen Berlin stehen vor allem Gisli Kristjansson und Mathias Gidsel im Mittelpunkt. Bei aller Vorfreude ist SCM-Trainer Wiegert damit nicht ganz einverstanden.]]></description>
-            <link>https://www.handball-world.news/artikel/scm-gegen-fuechse-mehr-als-ein-star-duell-1249029</link>
-            <guid isPermaLink="false">1249029</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 14:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Marsenic-Zukunft offen: "Ich glaube, es reicht mir"]]></title>
-            <description><![CDATA[Mijajlo Marsenic wird die Füchse Berlin im kommenden Sommer verlassen - doch wohin es den Kreisläufer zieht, ist noch unklar. Nur eines steht für den 33-Jährigen fest: In der Bundesliga will er aktuell nicht weitermachen. Marsenic sprach mit handball-world darüber, warum für ihn nach neun Jahren der richtige Zeitpunkt gekommen ist.]]></description>
-            <link>https://www.handball-world.news/artikel/marsenic-zukunft-offen-ich-glaube-es-reicht-mir-1249116</link>
-            <guid isPermaLink="false">1249116</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 14:02:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kretzschmar über Roganovic: "Ich mag den Jungen"]]></title>
-            <description><![CDATA[Bei seinem Handball-Bundesligadebüt konnte Gummersbachs Riesentalent Nikola Roganovic noch nicht sein volles Können unter Beweis stellen. Stefan Kretzschmar war trotzdem beeindruckt vom 20-Jährigen.]]></description>
-            <link>https://www.handball-world.news/artikel/kretzschmar-ueber-roganovic-ich-mag-den-jungen-1249017</link>
-            <guid isPermaLink="false">1249017</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 13:41:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lemgo mit klarem Ziel: Kehrmann will "Beton anrühren"]]></title>
-            <description><![CDATA[Am Donnerstagabend steht für den TBV Lemgo Lippe der erste Heimauftritt der Saison 2026/27 an. Wie das Team von Florian Kehrmann die ersten Punkte der neuen Bundesliga-Spielzeit einfahren will:]]></description>
-            <link>https://www.handball-world.news/artikel/lemgo-mit-klarem-ziel-kehrmann-will-beton-anruehren-1249048</link>
-            <guid isPermaLink="false">1249048</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 13:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heute geht's weiter: Der Spielplan der Bundesliga]]></title>
-            <description><![CDATA[Handball-Bundesliga Saison 2026/27 - alle Infos zum Spielplan]]></description>
-            <link>https://www.handball-world.news/artikel/heute-geht-s-weiter-der-spielplan-der-bundesliga-1191123</link>
-            <guid isPermaLink="false">1191123</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 02 Sep 2026 13:05:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
