@@ -4,9 +4,9 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 12:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 12:15:35 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 12:09:39 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 12:15:35 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
@@ -410,20 +410,20 @@
             <pubDate>Mon, 07 Sep 2026 06:27:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nach Modus-Reform: So viel Geld verdient man in der Champions League]]></title>
-            <description><![CDATA[Die Champions League und die European League im Handball haben einen neuen Modus erhalten und damit geht auch eine veränderte Verteilung der Preisgelder einher. Für die Top-Klubs wird die Königsklasse des Handballs immer attraktiver.]]></description>
-            <link>https://www.handball-world.news/artikel/nach-modus-reform-so-viel-geld-verdient-man-in-der-champions-league-1248394</link>
-            <guid isPermaLink="false">1248394</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 04:00:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[So funktioniert der Videobeweis in der Handball-Bundesliga]]></title>
             <description><![CDATA[Seit der Saison 2023/24 kommt der Videobeweis in der 1. Handball-Bundesliga zum Einsatz. Das technische Hilfsmittel darf - anders als im Fußball - ausschließlich von den beiden am Spiel beteiligten Schiedsrichtern angewendet werden. Ein Überblick.]]></description>
             <link>https://www.handball-world.news/artikel/so-funktioniert-der-videobeweis-in-der-handball-bundesliga-985145</link>
             <guid isPermaLink="false">985145</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 06:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nach Modus-Reform: So viel Geld verdient man in der Champions League]]></title>
+            <description><![CDATA[Die Champions League und die European League im Handball haben einen neuen Modus erhalten und damit geht auch eine veränderte Verteilung der Preisgelder einher. Für die Top-Klubs wird die Königsklasse des Handballs immer attraktiver.]]></description>
+            <link>https://www.handball-world.news/artikel/nach-modus-reform-so-viel-geld-verdient-man-in-der-champions-league-1248394</link>
+            <guid isPermaLink="false">1248394</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 04:00:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Vielleicht werde ich Gärtner": Jansen über Heim-WM und Karrierepläne]]></title>
