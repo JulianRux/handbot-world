@@ -4,18 +4,26 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 11:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 12:09:39 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 11:42:18 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 12:09:39 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
+            <title><![CDATA["Der Topfavorit": Wer für Hanning die besten Champions-League-Chancen hat]]></title>
+            <description><![CDATA[Nach zuletzt zwei Finalteilnahmen starten die Füchse Berlin am Donnerstag in Belgrad den nächsten Anlauf in der Champions League. Die größten Titel-Chancen hat für Füchse-Boss Bob Hanning eine Mannschaft, die noch nie die Königsklasse gewinnen konnte.]]></description>
+            <link>https://www.handball-world.news/artikel/der-topfavorit-wer-fuer-hanning-die-besten-champions-league-chancen-hat-1250778</link>
+            <guid isPermaLink="false">1250778</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:00:03 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[WM-Hoffnungen zerstört: Schwere Sauter-Verletzung bestätigt]]></title>
-            <description><![CDATA[Der Handball Club Hamburg muss bis auf Weiteres auf Moritz Sauter verzichten. Der Klub teilte nun weitere Informationen zur Verletzung des U-21-Weltmeisters mit. Für Sauter ist das gleichbedeutend mit dem Ende seiner Hoffnungen für die Heim-WM.]]></description>
+            <description><![CDATA[Der Handball Club Hamburg muss bis auf Weiteres auf Moritz Sauter verzichten. Der Klub teilte nun weitere Informationen zur Verletzung des U-21-Weltmeisters mit. Für Sauter ist die Diagnose gleichbedeutend mit dem Ende seiner Hoffnungen für die Heim-WM.]]></description>
             <link>https://www.handball-world.news/artikel/wm-hoffnungen-zerstoert-schwere-sauter-verletzung-bestaetigt-1250810</link>
             <guid isPermaLink="false">1250810</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 11:38:30 GMT</pubDate>
+            <pubDate>Tue, 08 Sep 2026 11:42:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Millionen-Investition für Leipzigs Arena]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1249601</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 07:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ohne Lasse Andersson: HÖJ kassiert Dämpfer bei Aufstiegsmission]]></title>
-            <description><![CDATA[Erster Paukenschlag ins Dänemarks 2. Liga, denn der große Aufstiegsfavorit HÖJ Elite musste sich Raekker Mölle Handbold mit 34:37 geschlagen geben.]]></description>
-            <link>https://www.handball-world.news/artikel/ohne-lasse-andersson-hoej-kassiert-daempfer-bei-aufstiegsmission-1249581</link>
-            <guid isPermaLink="false">1249581</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 06:23:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
