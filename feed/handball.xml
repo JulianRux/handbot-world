@@ -4,18 +4,34 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 12:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 13:05:08 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 12:15:35 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 13:05:08 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
-            <title><![CDATA["Der Topfavorit": Wer für Hanning die besten Champions-League-Chancen hat]]></title>
+            <title><![CDATA[Rhein-Neckar Löwen: Langzeitvertrag für U-18-Europameister Meißner]]></title>
+            <description><![CDATA[Die Rhein-Neckar Löwen treiben die Personalplanungen voran. Von der SG Pforzheim/Eutingen lotste man nun U-18-Europameister Finn Meißner zum Klub.]]></description>
+            <link>https://www.handball-world.news/artikel/rhein-neckar-loewen-langzeitvertrag-fuer-u-18-europameister-meissner-1250834</link>
+            <guid isPermaLink="false">1250834</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:52:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Nicht der richtige Weg": Wetzlar verzichtet auf Einspruch]]></title>
+            <description><![CDATA[Handball-Bundesligist HSG Wetzlar wird den nach dem Heimspiel gegen den ThSV Eisenach angekündigten Einspruch nicht weiterverfolgen. Was die Mittelhessen dazu sagen:]]></description>
+            <link>https://www.handball-world.news/artikel/nicht-der-richtige-weg-wetzlar-verzichtet-auf-einspruch-1250825</link>
+            <guid isPermaLink="false">1250825</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:38:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wer für Hanning die besten Champions-League-Chancen hat]]></title>
             <description><![CDATA[Nach zuletzt zwei Finalteilnahmen starten die Füchse Berlin am Donnerstag in Belgrad den nächsten Anlauf in der Champions League. Die größten Titel-Chancen hat für Füchse-Boss Bob Hanning eine Mannschaft, die noch nie die Königsklasse gewinnen konnte.]]></description>
-            <link>https://www.handball-world.news/artikel/der-topfavorit-wer-fuer-hanning-die-besten-champions-league-chancen-hat-1250778</link>
+            <link>https://www.handball-world.news/artikel/wer-fuer-hanning-die-besten-champions-league-chancen-hat-1250778</link>
             <guid isPermaLink="false">1250778</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:00:03 GMT</pubDate>
+            <pubDate>Tue, 08 Sep 2026 12:15:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WM-Hoffnungen zerstört: Schwere Sauter-Verletzung bestätigt]]></title>
@@ -111,7 +127,7 @@
             <link>https://www.handball-world.news/artikel/hat-sich-der-schiri-verzaehlt-wetzlar-kuendigt-einspruch-an-1250733</link>
             <guid isPermaLink="false">1250733</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 07:06:32 GMT</pubDate>
+            <pubDate>Tue, 08 Sep 2026 12:51:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[VfL-Duo an der Spitze: Die Top-Torschützen der HBL]]></title>
@@ -152,6 +168,14 @@
             <guid isPermaLink="false">1250695</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 07:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mit 43 Jahren: Spaniens Handball trauert um Ex-Nationalspielerin Ederra]]></title>
+            <description><![CDATA[Spaniens Handball ist in Trauer, die ehemalige Nationalspielerin Silvia Ederra ist nach langer Krankheit an ihrem heutigen Geburtstag im Alter von 43 Jahren verstorben.]]></description>
+            <link>https://www.handball-world.news/artikel/mit-43-jahren-spaniens-handball-trauert-um-ex-nationalspielerin-ederra-1250826</link>
+            <guid isPermaLink="false">1250826</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 12:37:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Atemloser Endspurt: Wetzlar und Eisenach zeigen bei Remis zwei Gesichter]]></title>
@@ -410,20 +434,20 @@
             <pubDate>Mon, 07 Sep 2026 06:27:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[So funktioniert der Videobeweis in der Handball-Bundesliga]]></title>
-            <description><![CDATA[Seit der Saison 2023/24 kommt der Videobeweis in der 1. Handball-Bundesliga zum Einsatz. Das technische Hilfsmittel darf - anders als im Fußball - ausschließlich von den beiden am Spiel beteiligten Schiedsrichtern angewendet werden. Ein Überblick.]]></description>
-            <link>https://www.handball-world.news/artikel/so-funktioniert-der-videobeweis-in-der-handball-bundesliga-985145</link>
-            <guid isPermaLink="false">985145</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 06:21:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nach Modus-Reform: So viel Geld verdient man in der Champions League]]></title>
             <description><![CDATA[Die Champions League und die European League im Handball haben einen neuen Modus erhalten und damit geht auch eine veränderte Verteilung der Preisgelder einher. Für die Top-Klubs wird die Königsklasse des Handballs immer attraktiver.]]></description>
             <link>https://www.handball-world.news/artikel/nach-modus-reform-so-viel-geld-verdient-man-in-der-champions-league-1248394</link>
             <guid isPermaLink="false">1248394</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 04:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[So funktioniert der Videobeweis in der Handball-Bundesliga]]></title>
+            <description><![CDATA[Seit der Saison 2023/24 kommt der Videobeweis in der 1. Handball-Bundesliga zum Einsatz. Das technische Hilfsmittel darf - anders als im Fußball - ausschließlich von den beiden am Spiel beteiligten Schiedsrichtern angewendet werden. Ein Überblick.]]></description>
+            <link>https://www.handball-world.news/artikel/so-funktioniert-der-videobeweis-in-der-handball-bundesliga-985145</link>
+            <guid isPermaLink="false">985145</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 06:21:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Vielleicht werde ich Gärtner": Jansen über Heim-WM und Karrierepläne]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1249587</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 07:57:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Füchse-Boss Hanning: Rot für "Gamechanger" Simak ausschlaggebend?]]></title>
-            <description><![CDATA[Frederik Simak sah gegen den SC Magdeburg die Rote Karte und fehlte den Füchsen damit in der zweiten Halbzeit des Topspiels. Während Bob Hanning die Folgen für Berlin betonte, bezog Bundestrainer Alfred Gislason klar Stellung zur Entscheidung.]]></description>
-            <link>https://www.handball-world.news/artikel/fuechse-boss-hanning-rot-fuer-gamechanger-simak-ausschlaggebend-1249591</link>
-            <guid isPermaLink="false">1249591</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 07:53:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lemgo-Coach Kehrmann: "Kleines Warnzeichen" nach Wetzlar-Sieg]]></title>
-            <description><![CDATA[Florian Kehrmann war nach dem 31:27-Erfolg über die HSG Wetzlar "sehr glücklich". Die Lipper konnten die ersten Pluspunkte einfahren und einen Fehlstart vermeiden. Dennoch nahm Lemgos Coach eine wichtige Lektion aus der Partie mit.]]></description>
-            <link>https://www.handball-world.news/artikel/lemgo-coach-kehrmann-kleines-warnzeichen-nach-wetzlar-sieg-1249589</link>
-            <guid isPermaLink="false">1249589</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 08:03:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blomberg lässt Metzingen nach der Pause links liegen]]></title>
-            <description><![CDATA[Die TuS Metzingen musste die erste Saisonniederlage hinnehmen. Während sich die Pink Ladies zunächst gut hielten, zog Meister Blomberg in der zweiten Hälfte davon und feierte einen deutlichen 40:28-Heimsieg.]]></description>
-            <link>https://www.handball-world.news/spiel/blomberg-lippe-gegen-metzingen-2026-handball-frauen-bundesliga-5243988/bericht</link>
-            <guid isPermaLink="false">1249601</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 07:50:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
