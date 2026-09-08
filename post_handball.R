@@ -134,30 +134,41 @@ for (i in seq_len(nrow(new_items))) {
   if (nchar(title) > budget) title <- if (budget > 3) paste0(substr(title, 1, budget - 3), "...") else ""
   txt <- if (nzchar(title)) paste0(title, sep, hashtag) else hashtag
 
-  # Karte explizit anfordern und pruefen, ob Titel UND URI befuellt sind
+  # Karte anfordern; cardyb liefert fuer manche Seiten eine leere URI -> mit link patchen
   card <- tryCatch(atrrr::fetch_preview(link),
                    error = function(e) { message("fetch_preview Fehler: ", conditionMessage(e)); NULL })
+  if (!is.null(card)) {
+    cu <- tryCatch(card$external$uri, error = function(e) NULL)
+    if (is.null(cu) || !nzchar(cu)) {
+      card$external$uri <- link   # leere cardyb-URI durch bekannten Link ersetzen
+    }
+  }
   card_title <- tryCatch(card$external$title, error = function(e) NULL)
   card_uri   <- tryCatch(card$external$uri,   error = function(e) NULL)
-  # Karte nur nutzen, wenn Titel UND URI gefuellt sind (leere URI -> HTTP 400 bei Bluesky)
   have_card  <- !is.null(card_title) && nzchar(card_title) &&
                 !is.null(card_uri)   && nzchar(card_uri)
   message("Karte fuer ", link, ": ",
-          if (have_card) paste0("OK -> '", card_title, "' | uri=", card_uri)
-          else "LEER/ohne URI -> Fallback mit sichtbarem Link")
+          if (have_card) paste0("versuche Karte -> '", card_title, "' | uri=", card_uri)
+          else "kein Titel -> direkt Text-Fallback")
 
-  ok <- tryCatch({
-    if (have_card) {
-      post_skeet(text = txt, preview_card = card, langs = "de")
-    } else {
-      # Keine echte Karte moeglich -> Link sichtbar anhaengen (Titel -> #handball -> Link)
-      txt2 <- paste0(txt, sep, link, "\n")
-      if (nchar(txt2) > 300) txt2 <- paste0(substr(title, 1, max(0, 300 - nchar(hashtag) - nchar(link) - 4)),
-                                            sep, hashtag, sep, link, "\n")
-      post_skeet(text = txt2, langs = "de", preview_card = TRUE)
-    }
-    TRUE
-  }, error = function(e) { message("Fehler beim Posten: ", conditionMessage(e)); FALSE })
+  # Text-Fallback vorbereiten (sichtbarer Link, KEIN externes Embed -> kann keinen 400 ausloesen)
+  txt2 <- paste0(txt, sep, link)
+  if (nchar(txt2) > 300) {
+    keep <- max(0, 300 - nchar(hashtag) - nchar(link) - 2 * nchar(sep) - 3)
+    txt2 <- paste0(substr(title, 1, keep), "...", sep, hashtag, sep, link)
+  }
+
+  ok <- FALSE
+  # 1) Falls Titel vorhanden: Karte mit gepatchter URI versuchen
+  if (have_card) {
+    ok <- tryCatch({ post_skeet(text = txt, preview_card = card, langs = "de"); TRUE },
+                   error = function(e) { message("Karte fehlgeschlagen: ", conditionMessage(e)); FALSE })
+  }
+  # 2) Fallback: reiner Text mit sichtbarem Link, ohne Embed
+  if (!ok) {
+    ok <- tryCatch({ post_skeet(text = txt2, preview_card = FALSE, langs = "de"); TRUE },
+                   error = function(e) { message("Fehler beim Posten: ", conditionMessage(e)); FALSE })
+  }
 
   if (ok) posted_now <- c(posted_now, new_items$uid[i])
   Sys.sleep(2)
