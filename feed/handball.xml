@@ -4,18 +4,90 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 08 Sep 2026 13:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Sep 2026 18:09:10 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Sep 2026 13:05:08 GMT</pubDate>
+        <pubDate>Tue, 08 Sep 2026 18:09:10 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Verletzungsticker: Sauter-Bestätigung, Sondermann-Ausfall]]></title>
+            <description><![CDATA[Welcher Spieler oder welche Spielerin hat sich verletzt, wo steht noch eine Diagnose aus und wo eine Rückkehr bevor? Der Verletzungsticker von handball-world liefert eine chronologische Übersicht.]]></description>
+            <link>https://www.handball-world.news/liveticker/1061262</link>
+            <guid isPermaLink="false">1061262</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 16:30:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transferticker: Löwen-Verpflichtung, Füchse-Verlängerung]]></title>
+            <description><![CDATA[Was passiert gerade auf dem Handball-Transfermarkt? Im Transferticker von handball-world gibt es - in Kooperation mit Picard - die neuesten Entwicklungen.]]></description>
+            <link>https://www.handball-world.news/liveticker/handball-transfers-1034721</link>
+            <guid isPermaLink="false">1034721</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 15:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mit 43 Jahren: Spaniens Handball trauert um Ex-Nationalspielerin Ederra]]></title>
+            <description><![CDATA[Spaniens Handball ist in Trauer, die ehemalige Nationalspielerin Silvia Ederra ist nach langer Krankheit an ihrem heutigen Geburtstag im Alter von 43 Jahren verstorben.]]></description>
+            <link>https://www.handball-world.news/artikel/mit-43-jahren-spaniens-handball-trauert-um-ex-nationalspielerin-ederra-1250826</link>
+            <guid isPermaLink="false">1250826</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 15:25:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wo kann ich die Champions League im TV sehen?]]></title>
+            <description><![CDATA[In dieser Woche starten der SC Magdeburg, die Füchse Berlin und die MT Melsungen in die EHF Handball Champions League. Wo die Spiele übertragen werden:]]></description>
+            <link>https://www.handball-world.news/artikel/wo-kann-ich-die-champions-league-im-tv-sehen-1250742</link>
+            <guid isPermaLink="false">1250742</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 15:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SCM über CL-Gegner Kolstad: "Finde den Weg relativ cool"]]></title>
+            <description><![CDATA[Mit dem neuen Modus in der Champions League erhöht sich auch der Anspruch des deutschen Meisters SC Magdeburg. Denn Punktverluste könnten später noch zählen. Der erste Härtetest ist gegen Kolstad.]]></description>
+            <link>https://www.handball-world.news/artikel/scm-ueber-cl-gegner-kolstad-finde-den-weg-relativ-cool-1250837</link>
+            <guid isPermaLink="false">1250837</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 14:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball im Fernsehen: CL-Start der Männer, Montagsspiel in Emsdetten]]></title>
+            <description><![CDATA[Der Spielbetrieb in den nationalen Ligen ist gestartet, international nimmt nun auch die Handball Champions League der Männer ihren Spielbetrieb auf und das gleich mit drei deutschen Teams. Die TV-Termine der Woche:]]></description>
+            <link>https://www.handball-world.news/artikel/handball-im-fernsehen-cl-start-der-maenner-montagsspiel-in-emsdetten-1100485</link>
+            <guid isPermaLink="false">1100485</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 14:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weltmeister und Gummersbach-Legende Rosendahl wird 70 Jahre]]></title>
+            <description><![CDATA[Weltmeister Gerd Rosendahl vollendet am heutigen Dienstag sein 70. Lebensjahr. Der Linkshänder gehörte zum siegreichen Team des Deutschen Handballbundes (DHB), das 1978 Weltmeister wurde.]]></description>
+            <link>https://www.handball-world.news/artikel/weltmeister-und-gummersbach-legende-rosendahl-wird-70-jahre-1250789</link>
+            <guid isPermaLink="false">1250789</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 14:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Champions-League-Debüt: Melsungen ist "heiß wie Frittenfett"]]></title>
+            <description><![CDATA[Während Magdeburg und Berlin längst Stammgäste sind, startet die MT Melsungen erstmals in der Champions League. Mit klaren Zielen.]]></description>
+            <link>https://www.handball-world.news/artikel/champions-league-debuet-melsungen-ist-heiss-wie-frittenfett-1250806</link>
+            <guid isPermaLink="false">1250806</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 13:41:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nachgelegt im Rückraum: Der Kader der Füchse Berlin 2026/27]]></title>
+            <description><![CDATA[Wie sieht aktuell der Kader der Füchse Berlin für die Handball-Saison 2026/27 aus?]]></description>
+            <link>https://www.handball-world.news/artikel/nachgelegt-im-rueckraum-der-kader-der-fuechse-berlin-2026-27-1148686</link>
+            <guid isPermaLink="false">1148686</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 13:18:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Rhein-Neckar Löwen: Langzeitvertrag für U-18-Europameister Meißner]]></title>
             <description><![CDATA[Die Rhein-Neckar Löwen treiben die Personalplanungen voran. Von der SG Pforzheim/Eutingen lotste man nun U-18-Europameister Finn Meißner zum Klub.]]></description>
             <link>https://www.handball-world.news/artikel/rhein-neckar-loewen-langzeitvertrag-fuer-u-18-europameister-meissner-1250834</link>
             <guid isPermaLink="false">1250834</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:52:34 GMT</pubDate>
+            <pubDate>Tue, 08 Sep 2026 13:27:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Nicht der richtige Weg": Wetzlar verzichtet auf Einspruch]]></title>
@@ -170,20 +242,12 @@
             <pubDate>Tue, 08 Sep 2026 07:18:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mit 43 Jahren: Spaniens Handball trauert um Ex-Nationalspielerin Ederra]]></title>
-            <description><![CDATA[Spaniens Handball ist in Trauer, die ehemalige Nationalspielerin Silvia Ederra ist nach langer Krankheit an ihrem heutigen Geburtstag im Alter von 43 Jahren verstorben.]]></description>
-            <link>https://www.handball-world.news/artikel/mit-43-jahren-spaniens-handball-trauert-um-ex-nationalspielerin-ederra-1250826</link>
-            <guid isPermaLink="false">1250826</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 12:37:10 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Atemloser Endspurt: Wetzlar und Eisenach zeigen bei Remis zwei Gesichter]]></title>
             <description><![CDATA[Das Spiel zwischen der HSG Wetzlar und dem ThSV Eisenach war wie erwartet intensiv. Beide Teams hatten in der jungen Saison noch nicht gepunktet. Nach 60 Minuten steht ein Unentschieden. Der Weg dahin war für beide Teams steinig - und bei Eisenach von einer Steigerung nach der Pause geprägt.]]></description>
             <link>https://www.handball-world.news/spiel/wetzlar-gegen-eisenach-2026-handball-bundesliga-5213770/bericht</link>
             <guid isPermaLink="false">1250655</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 19:21:54 GMT</pubDate>
+            <pubDate>Tue, 08 Sep 2026 13:11:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HBL Kompakt: Zittersiege für Füchse, Kiel und SCM, Remis in Wetzlar]]></title>
@@ -359,7 +423,7 @@
             <link>https://www.handball-world.news/artikel/das-ist-der-modus-der-champions-league-2026-27-1232653</link>
             <guid isPermaLink="false">1232653</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 09:29:02 GMT</pubDate>
+            <pubDate>Tue, 08 Sep 2026 14:09:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Erstligatauglich: Lübecker Hansehalle wiedereröffnet]]></title>
@@ -656,14 +720,6 @@
             <guid isPermaLink="false">1223103</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 06 Sep 2026 10:54:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nachgelegt im Rückraum: Der Kader der Füchse Berlin 2026/27]]></title>
-            <description><![CDATA[Wie sieht aktuell der Kader der Füchse Berlin für die Handball-Saison 2026/27 aus?]]></description>
-            <link>https://www.handball-world.news/artikel/nachgelegt-im-rueckraum-der-kader-der-fuechse-berlin-2026-27-1148686</link>
-            <guid isPermaLink="false">1148686</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 10:52:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Torlose zwölf Minuten kosten Balingen II den Heimsieg]]></title>
@@ -1098,14 +1154,6 @@
             <pubDate>Fri, 04 Sep 2026 14:42:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Verletzungsticker: Kiesler-Entwarnung, Flensburg-Update]]></title>
-            <description><![CDATA[Welcher Spieler oder welche Spielerin hat sich verletzt, wo steht noch eine Diagnose aus und wo eine Rückkehr bevor? Der Verletzungsticker von handball-world liefert eine chronologische Übersicht.]]></description>
-            <link>https://www.handball-world.news/liveticker/1061262</link>
-            <guid isPermaLink="false">1061262</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 14:24:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Rekordschütze Rambo nochmal im Minden-Trikot]]></title>
             <description><![CDATA[Anlässlich des 100-jährigen Vereinsjubiläums des TSV GWD Minden, kehren am 16. Januar 2027 einige Legenden zurück in die Kampa-Halle, um nochmals im GWD-Gewand auf der Platte zu stehen.]]></description>
             <link>https://www.handball-world.news/artikel/rekordschuetze-rambo-nochmal-im-minden-trikot-1249642</link>
@@ -1160,54 +1208,6 @@
             <guid isPermaLink="false">1249607</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 04 Sep 2026 10:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heim-WM: Neue Tickets ab sofort im Verkauf]]></title>
-            <description><![CDATA[Die Heim-Weltmeisterschaft im Handball rückt immer näher. In wenigen Tagen kommen weitere Tickets in den Verkauf.]]></description>
-            <link>https://www.handball-world.news/artikel/heim-wm-neue-tickets-ab-sofort-im-verkauf-1249033</link>
-            <guid isPermaLink="false">1249033</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 10:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wiegert nach Sieg über die Füchse: "Ich fand's nicht schön"]]></title>
-            <description><![CDATA[Der SC Magdeburg hat die Füchse Berlin zum zweiten Mal in zwölf Tagen geschlagen. Trainer Bennet Wiegert war trotz des Sieges mit dem Spiel dennoch nur bedingt einverstanden.]]></description>
-            <link>https://www.handball-world.news/artikel/wiegert-nach-sieg-ueber-die-fuechse-ich-fand-s-nicht-schoen-1249609</link>
-            <guid isPermaLink="false">1249609</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 09:36:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wetzlars Theiß: "30 Minuten reichen nicht"]]></title>
-            <description><![CDATA[Zweites Spiel, zweite Niederlage. Die HSG Wetzlar steht nach der 27:31-Niederlage in Lemgo kräftig unter Druck. Am Montag kommt es schon zum Schicksalsspiel mit Eisenach.]]></description>
-            <link>https://www.handball-world.news/artikel/wetzlars-theiss-30-minuten-reichen-nicht-1249603</link>
-            <guid isPermaLink="false">1249603</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 09:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jetzt doch? Hanning spricht von einem möglichen Füchse-Neuzugang]]></title>
-            <description><![CDATA[Nach dem Abgang von Lasse Andersson stellte sich immer wieder die Frage, ob die Füchse Berlin auf dem Transfermarkt noch einmal aktiv werden. Nachdem Geschäftsführer Bob Hanning entsprechende Pläne zunächst abgewiesen hatte, scheint er seine Haltung nach den ersten beiden Spieltagen der Handball-Bundesliga nun noch einmal überdacht zu haben.]]></description>
-            <link>https://www.handball-world.news/artikel/jetzt-doch-hanning-spricht-von-einem-moeglichen-fuechse-neuzugang-1249597</link>
-            <guid isPermaLink="false">1249597</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 08:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Vielleicht ein Scheiß-Matchplan": Eisenach nach Balingen-Pleite unter Druck]]></title>
-            <description><![CDATA[Die Eisenacher Bundesliga-Handballer erleben einen ernüchternden Heimauftakt. Gegen den Aufsteiger verlieren sie am Ende deutlich. Trainer Sebastian Hinze gibt sich im Nachgang selbstkritisch.]]></description>
-            <link>https://www.handball-world.news/artikel/vielleicht-ein-scheiss-matchplan-eisenach-nach-balingen-pleite-unter-druck-1249616</link>
-            <guid isPermaLink="false">1249616</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 08:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nach Kopfball-Parade: Kuzmanovic erklärt ungewöhnlichen Reflex]]></title>
-            <description><![CDATA[Beim Sieg des SC Magdeburg gegen die Füchse Berlin sorgte Dominik Kuzmanovic mit einer ungewöhnlichen Parade für Aufsehen. Der kroatische Keeper klärte einen freien Wurf von Mijajlo Marsenic mit dem Kopf. Nach dem Spiel erklärte er, wie viel Absicht dahintersteckte.]]></description>
-            <link>https://www.handball-world.news/artikel/nach-kopfball-parade-kuzmanovic-erklaert-ungewoehnlichen-reflex-1249587</link>
-            <guid isPermaLink="false">1249587</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 04 Sep 2026 07:57:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
