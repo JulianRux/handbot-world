@@ -54,15 +54,26 @@ download_feed_text <- function(url) {
 }
 
 parse_feed_text <- function(txt) {
-  txt <- gsub('xmlns(:[a-zA-Z0-9]+)?="[^"]*"', "", txt)
   doc <- read_xml(txt)
+  xml2::xml_ns_strip(doc)   # Namespaces sauber entfernen -> href-Attribute bleiben erhalten
   nodes <- xml_find_all(doc, "//item | //entry")
   if (length(nodes) == 0) return(NULL)
   g1 <- function(n, xp) { x <- xml_find_first(n, xp); if (inherits(x, "xml_missing")) NA_character_ else xml_text(x) }
   glink <- function(n) {
+    # Atom: <link href="..."/> bevorzugen (rel="alternate" oder ohne rel),
+    # sonst RSS: Textinhalt von <link>
+    la <- xml_find_first(n, ".//link[@rel='alternate']")
+    if (inherits(la, "xml_missing")) la <- xml_find_first(n, ".//link[@href]")
+    if (!inherits(la, "xml_missing")) {
+      h <- xml_attr(la, "href")
+      if (!is.na(h) && nzchar(h)) return(h)
+    }
     l <- xml_find_first(n, ".//link")
     if (inherits(l, "xml_missing")) return(NA_character_)
-    h <- xml_attr(l, "href"); if (!is.na(h) && nzchar(h)) h else xml_text(l)
+    h <- xml_attr(l, "href")
+    if (!is.na(h) && nzchar(h)) h else {
+      t <- xml_text(l); if (!is.na(t) && nzchar(trimws(t))) trimws(t) else NA_character_
+    }
   }
   data.frame(
     title = vapply(nodes, g1, "", xp = ".//title"),
@@ -113,19 +124,27 @@ posted_now <- character(0)
 
 for (i in seq_len(nrow(new_items))) {
   title <- new_items$title[i]; link <- new_items$link[i]
-  if (is.na(title) || !nzchar(title) || is.na(link)) next
+  if (is.na(title) || !nzchar(title) || is.na(link) || !nzchar(link)) {
+    message("Uebersprungen (Titel oder Link leer).")
+    next
+  }
 
   # 300-Zeichen-Grenze: Text = Titel + #handball (Link steckt in der Karte)
   budget <- 300 - nchar(hashtag) - nchar(sep)
   if (nchar(title) > budget) title <- if (budget > 3) paste0(substr(title, 1, budget - 3), "...") else ""
   txt <- if (nzchar(title)) paste0(title, sep, hashtag) else hashtag
 
-  # Karte explizit anfordern und pruefen, ob sie befuellt ist
+  # Karte explizit anfordern und pruefen, ob Titel UND URI befuellt sind
   card <- tryCatch(atrrr::fetch_preview(link),
                    error = function(e) { message("fetch_preview Fehler: ", conditionMessage(e)); NULL })
   card_title <- tryCatch(card$external$title, error = function(e) NULL)
-  have_card  <- !is.null(card_title) && nzchar(card_title)
-  message("Karte fuer ", link, ": ", if (have_card) paste0("OK -> '", card_title, "'") else "LEER (Zielseite blockt cardyb)")
+  card_uri   <- tryCatch(card$external$uri,   error = function(e) NULL)
+  # Karte nur nutzen, wenn Titel UND URI gefuellt sind (leere URI -> HTTP 400 bei Bluesky)
+  have_card  <- !is.null(card_title) && nzchar(card_title) &&
+                !is.null(card_uri)   && nzchar(card_uri)
+  message("Karte fuer ", link, ": ",
+          if (have_card) paste0("OK -> '", card_title, "' | uri=", card_uri)
+          else "LEER/ohne URI -> Fallback mit sichtbarem Link")
 
   ok <- tryCatch({
     if (have_card) {
@@ -147,4 +166,6 @@ for (i in seq_len(nrow(new_items))) {
 if (length(posted_now) > 0) {
   writeLines(unique(c(posted, posted_now)), state_file)
   message(length(posted_now), " Beitrag/Beitraege gepostet.")
+} else {
+  message("Nichts gepostet (alle Versuche fehlgeschlagen oder uebersprungen).")
 }
