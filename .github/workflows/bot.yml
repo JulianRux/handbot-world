@@ -2,7 +2,7 @@ name: bluesky-handball-bot
 
 on:
   schedule:
-    - cron: '7,37 * * * *'
+    - cron: '6,16,26,36,46,56 * * * *'
   workflow_dispatch:
 
 permissions:
