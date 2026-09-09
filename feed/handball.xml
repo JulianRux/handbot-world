@@ -4,18 +4,58 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 15:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Sep 2026 18:31:03 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 15:06:25 GMT</pubDate>
+        <pubDate>Wed, 09 Sep 2026 18:31:03 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Bis Jahresende: Eintracht Hagen holt Ex-Abwehrchef zurück]]></title>
+            <description><![CDATA[Kurzfristige Nachverpflichtung beim VfL Eintracht Hagen: Der aktuelle Tabellenführer der 2. Handball-Bundesliga holt seinen langjährigen Abwehrchef Alexander Becker zurück.]]></description>
+            <link>https://www.handball-world.news/artikel/bis-jahresende-eintracht-hagen-holt-ex-abwehrchef-zurueck-1251164</link>
+            <guid isPermaLink="false">1251164</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 16:16:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live! CL-Start mit SCM, Aalborg im Top-Duell zurück]]></title>
+            <description><![CDATA[Heute startet die neue Saison der EHF Champions League mit gleich sieben Partien: Zum Beispiel greift der SC Magdeburg ins Geschehen ein. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 17:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Langjährige Leistungsträger weg: Der Kader des SC Magdeburg 2026/27]]></title>
+            <description><![CDATA[Ein Blick auf den Kader des SC Magdeburgs für die Saison 2026/27:]]></description>
+            <link>https://www.handball-world.news/artikel/langjaehrige-leistungstraeger-weg-der-kader-des-sc-magdeburg-2026-27-1160947</link>
+            <guid isPermaLink="false">1160947</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 15:48:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Möglicher Punktabzug nach Green-Einsatz? HÖJ-Vorstand äußert sich]]></title>
+            <description><![CDATA[Letzte Woche kam es knüppeldick für HÖJ Elite. Erst die erste Saisonniederlage bei Raekke Mölle Handbold und dann legte auch noch Auftaktgegner Aarhus einen Protest wegen Jannick Green ein. Nun hat sich auch ein Funktionär des Aufstiegsfavoriten geäußert.]]></description>
+            <link>https://www.handball-world.news/artikel/moeglicher-punktabzug-nach-green-einsatz-hoej-vorstand-aeussert-sich-1251112</link>
+            <guid isPermaLink="false">1251112</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 15:59:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nur eine Minute verpasst: Er ist der Dauerbrenner der HBL]]></title>
+            <description><![CDATA[Welcher Spieler stand an den ersten drei Spieltagen der neuen Bundesliga-Saison am meisten auf dem Feld? Die Nummer eins in diesem Ranking ist nicht etwa Mathias Gidsel, Justus Fischer oder Matthes Langhoff.]]></description>
+            <link>https://www.handball-world.news/artikel/nur-eine-minute-verpasst-er-ist-der-dauerbrenner-der-hbl-1251139</link>
+            <guid isPermaLink="false">1251139</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 09 Sep 2026 15:00:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bielecki zurück in Kielce: "Allerdings in einer anderen Rolle"]]></title>
             <description><![CDATA[Industria Kielce startet am heutigen Abend mit einem Heimspiel gegen den HC Kriens-Luzern in die Champions League. Mit dabei ist dann auch Vereins-Legende Karol Bielecki. Der ehemalige HBL-Profi ist in neuer Funktion zurück.]]></description>
             <link>https://www.handball-world.news/artikel/bielecki-zurueck-in-kielce-allerdings-in-einer-anderen-rolle-1251152</link>
             <guid isPermaLink="false">1251152</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 14:49:02 GMT</pubDate>
+            <pubDate>Wed, 09 Sep 2026 15:00:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Füchse starten in Champions League: "Mehr Außenseiter"]]></title>
@@ -135,7 +175,7 @@
             <link>https://www.handball-world.news/artikel/sommer-2026-die-wechsel-in-der-2-bundesliga-1195443</link>
             <guid isPermaLink="false">1195443</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 08:25:02 GMT</pubDate>
+            <pubDate>Wed, 09 Sep 2026 16:00:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Schutzengel" für Ex-Nationalspieler Klein]]></title>
@@ -698,20 +738,20 @@
             <pubDate>Mon, 07 Sep 2026 06:27:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nach Modus-Reform: So viel Geld verdient man in der Champions League]]></title>
-            <description><![CDATA[Die Champions League und die European League im Handball haben einen neuen Modus erhalten und damit geht auch eine veränderte Verteilung der Preisgelder einher. Für die Top-Klubs wird die Königsklasse des Handballs immer attraktiver.]]></description>
-            <link>https://www.handball-world.news/artikel/nach-modus-reform-so-viel-geld-verdient-man-in-der-champions-league-1248394</link>
-            <guid isPermaLink="false">1248394</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 04:00:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[So funktioniert der Videobeweis in der Handball-Bundesliga]]></title>
             <description><![CDATA[Seit der Saison 2023/24 kommt der Videobeweis in der 1. Handball-Bundesliga zum Einsatz. Das technische Hilfsmittel darf - anders als im Fußball - ausschließlich von den beiden am Spiel beteiligten Schiedsrichtern angewendet werden. Ein Überblick.]]></description>
             <link>https://www.handball-world.news/artikel/so-funktioniert-der-videobeweis-in-der-handball-bundesliga-985145</link>
             <guid isPermaLink="false">985145</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 06:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nach Modus-Reform: So viel Geld verdient man in der Champions League]]></title>
+            <description><![CDATA[Die Champions League und die European League im Handball haben einen neuen Modus erhalten und damit geht auch eine veränderte Verteilung der Preisgelder einher. Für die Top-Klubs wird die Königsklasse des Handballs immer attraktiver.]]></description>
+            <link>https://www.handball-world.news/artikel/nach-modus-reform-so-viel-geld-verdient-man-in-der-champions-league-1248394</link>
+            <guid isPermaLink="false">1248394</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 07 Sep 2026 04:00:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Vielleicht werde ich Gärtner": Jansen über Heim-WM und Karrierepläne]]></title>
@@ -1168,46 +1208,6 @@
             <guid isPermaLink="false">1249913</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 13:38:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachhandball bleibt Teil der World Games]]></title>
-            <description><![CDATA[Auch bei den World Games 2029 in Karlsruhe wird der Beachhandball wieder vertreten sein. Sowohl der Männer- als auch der Frauenwettbewerb wurden in das offizielle Sportprogramm der Multisportveranstaltung aufgenommen, die vom 19. bis 29. Juli 2029 stattfinden wird.]]></description>
-            <link>https://www.handball-world.news/artikel/beachhandball-bleibt-teil-der-world-games-1249705</link>
-            <guid isPermaLink="false">1249705</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 12:36:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LNH 2026/27: So viel Budget haben die Klubs der französischen Liga]]></title>
-            <description><![CDATA[Die französische Handball-Liga LNH hat erneut die Budgets aller Erstligisten für die Saison 2026/27 offengelegt. Paris bleibt mit großem Abstand an der Spitze, die Aufsteiger lassen aber auch einige Teams hinter sich.]]></description>
-            <link>https://www.handball-world.news/artikel/lnh-2026-27-so-viel-budget-haben-die-klubs-der-franzoesischen-liga-1249905</link>
-            <guid isPermaLink="false">1249905</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 15:09:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TSV Bayer Dormagen: "Die Herausforderung ist groß"]]></title>
-            <description><![CDATA[Eine der weitesten Auswärtsfahrten der Handball-Saison wartet direkt zu Beginn auf den TSV Bayer Dormagen, der am heutigen Samstag beim VfL Lübeck-Schwartau gefordert ist. Anwurf ist um 18 Uhr.]]></description>
-            <link>https://www.handball-world.news/artikel/tsv-bayer-dormagen-die-herausforderung-ist-gross-1249515</link>
-            <guid isPermaLink="false">1249515</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 12:42:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2800 Kilometer und Spontanität nach Plan]]></title>
-            <description><![CDATA[Drei Moderationen in vier Tagen - endlich fliegt der Ball wieder in der Opel HBL und 2. HBL. Wie viel Spontanität braucht eine perfekt geplante Live-Sendung? "Der Saisonstart hat gezeigt: Sendungsplanung und die Realität des Handballs gehen nicht immer Hand in Hand", berichtet Lea Rostek in ihrer Kolumne aus dem Off.]]></description>
-            <link>https://www.handball-world.news/artikel/2800-kilometer-und-spontanitaet-nach-plan-1249896</link>
-            <guid isPermaLink="false">1249896</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 11:37:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wegen Green-Einsatz: HÖJ droht Punktabzug]]></title>
-            <description><![CDATA[Am Donnerstag verlor HÖJ Elite das Ligaspiel in Dänemarks 2. Handball-Liga beim Dorfklub Raekke Mölle Handbold. Doch dem ambitionierten Projekt droht ein Punktabzug und das wegen Janick Green und einer zwölf Jahre alten Geschichte.]]></description>
-            <link>https://www.handball-world.news/artikel/wegen-green-einsatz-hoej-droht-punktabzug-1249886</link>
-            <guid isPermaLink="false">1249886</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 11:18:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
