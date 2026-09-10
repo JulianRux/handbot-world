@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 09 Sep 2026 23:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 05:45:28 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Sep 2026 23:10:00 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 05:45:28 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA["Kein Wasser" und nur "sporadisch Strom" bei DHB-Torwart Späth]]></title>
+            <description><![CDATA[Handball-Profis und ein Leben im Glamour? Keineswegs. Zumindest aktuell bei Nationaltorhüter David Späth. Warum das so ist und wie er aktuell lebt, das verriet der Schlussmann der Rhein-Neckar Löwen nun.]]></description>
+            <link>https://www.handball-world.news/artikel/kein-wasser-und-nur-sporadisch-strom-bei-dhb-torwart-spaeth-1251090</link>
+            <guid isPermaLink="false">1251090</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 04:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Große Namen: Diese Stars fehlen in der Champions League]]></title>
+            <description><![CDATA[Eine neue Saison der EHF Champions League steht in den Startlöchern: Europas größte Handballbühne verspricht wieder Duelle der besten Teams und größten Namen des Sports. Doch während neue Stars ins Rampenlicht treten, werden in dieser Saison auch einige prominente Gesichter fehlen.]]></description>
+            <link>https://www.handball-world.news/slideshow/grosse-namen-diese-stars-fehlen-in-der-champions-league-1250790</link>
+            <guid isPermaLink="false">1250790</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 04:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CL kompakt: Krimisiege für Nantes, Kielce und Zagreb]]></title>
+            <description><![CDATA[Die Topfavoriten SC Magdeburg, FC Barcelona und One Veszprem HC sind souverän in die Königsklasse gestartet. Keinen Sieger gab es im Topspiel zwischen Aalborg und PSG. Krimisiege konnten in eigener Halle der RK Zagreb und der HBC Nantes feiern. Am Donnerstag starten noch zehn weitere Teams in die Königsklasse, darunter auch die Füchse Berlin und die MT Melsungen.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-krimisiege-fuer-nantes-kielce-und-zagreb-1250869</link>
+            <guid isPermaLink="false">1250869</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 04:50:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kuzmanovic und Thielicke glänzen beim Debüt: SCM zeigt Kolstad die Grenzen auf]]></title>
             <description><![CDATA[Der SC Magdeburg ist im ersten Saisonspiel der Champions League gegen Kolstad dominant aufgetreten und siegte letztlich deutlich mit 37:22 (19:12). Norwegens Meister war zwischenzeitlich überfordert, hatte nur Mitte der ersten Halbzeit eine starke Phase. Ein gelungenes Debüt in der Königsklasse feierten Dominik Kuzmanovic und Youngster Tim Thielicke.]]></description>
@@ -288,14 +312,6 @@
             <guid isPermaLink="false">1248926</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 10:05:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CL kompakt: Krimisiege für Nantes, Kielce und Zagreb]]></title>
-            <description><![CDATA[Die Topfavoriten SC Magdeburg, FC Barcelona und One Veszprem HC sind souverän in die Königsklasse gestartet. Keinen Sieger gab es im Topspiel zwischen Aalborg und PSG. Krimisiege konnten in eigener Halle der RK Zagreb und der HBC Nantes feiern. Am Donnerstag starten noch zehn weitere Teams in die Königsklasse, darunter auch die Füchse Berlin und die MT Melsungen.]]></description>
-            <link>https://www.handball-world.news/artikel/cl-kompakt-krimisiege-fuer-nantes-kielce-und-zagreb-1250869</link>
-            <guid isPermaLink="false">1250869</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 20:41:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Verletzungsticker: Sauter-Bestätigung, Sondermann-Ausfall]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1249959</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 05 Sep 2026 16:37:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Füchse Berlin: Nachverpflichtung vor Abschluss?]]></title>
-            <description><![CDATA[Die Füchse Berlin arbeiten an einem Neuzugang für den für die Aufgaben in der Handball-Bundesliga und Champions League aufgrund von Verletzungen derzeit dünn besetzten Rückraum. Der Franzose Aymeric Zaepfel gilt als heißester, aber längst nicht alleiniger Kandidat.]]></description>
-            <link>https://www.handball-world.news/artikel/fuechse-berlin-nachverpflichtung-vor-abschluss-1249928</link>
-            <guid isPermaLink="false">1249928</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 14:41:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HiF: Dyn-Start, heutige Termin und Lokalzeit]]></title>
-            <description><![CDATA[Seit über zwanzig Jahren informiert Handball im Fernsehen über Übertragungen im Free-TV und im Livestream sowie über die Hintergründe von der Rechtevergabe über Personalien vor und hinter der Kamera oder neue Formate. Im Liveblog gibt es eine Übersicht, heute mit einem Blick von Lea Rostek auf den Dyn-Start, den Terminen des Tages und dem Blick der WDR-Lokalzeit auf ein Handball-Juwel aus Hagen.]]></description>
-            <link>https://www.handball-world.news/liveticker/handball-im-fernsehen-1142319</link>
-            <guid isPermaLink="false">1142319</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 05 Sep 2026 16:07:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
