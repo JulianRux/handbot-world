@@ -4,18 +4,42 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 10 Sep 2026 20:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 22:22:00 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 Sep 2026 20:01:27 GMT</pubDate>
+        <pubDate>Thu, 10 Sep 2026 22:22:00 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: Lemgo unterliegt Flensburg und bangt um Suton]]></title>
+            <description><![CDATA[Die SG Flensburg-Handewitt bekam das Heft beim Auswärtsspiel in Lemgo bereits im ersten Abschnitt in die Hand und verbuchte am Ende einen ungefährdeten 39:30-Erfolg. Der TBV bangt unterdessen um Tim Suton, der gut fünf Minuten vor dem Ende der Partie vom Parkett humpelte.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-lemgo-unterliegt-flensburg-und-bangt-um-suton-1251595</link>
+            <guid isPermaLink="false">1251595</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 21:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CL kompakt: Krimisiege für Nantes, Kielce und Zagreb]]></title>
+            <description><![CDATA[Die Topfavoriten wie SC Magdeburg, FC Barcelona oder auch die Füchse Berlin sind souverän in die Handball Champions League gestartet - ebenso Debütant MT Melsungen. Keinen Sieger gab es hingegen im Topspiel zwischen Aalborg und PSG. Krimisiege konnten in eigener Halle der RK Zagreb und der HBC Nantes feiern, am Donnerstag behielten Szeged und Sporting die Punkte, Montpellier entführte diese hingegen aus Bukarest.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-krimisiege-fuer-nantes-kielce-und-zagreb-1250869</link>
+            <guid isPermaLink="false">1250869</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 21:28:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Melsungen liefert sich zur Premiere einen Krimi mit Skopje]]></title>
+            <description><![CDATA[In Gruppe B der EHF Champions League setzte sich Handball-Bundesligist MT Melsungen mit 33:31 (16:15) gegen Vardar Skopje durch. Die Nordhessen kontrollierten die Partie gegen den früheren Gewinner über weite Strecken, mussten in der hitzigen Schlussphase jedoch noch einmal bis in die letzten Sekunden um den Erfolg bangen.]]></description>
+            <link>https://www.handball-world.news/spiel/melsungen-gegen-vardar-2026-ehf-champions-league-5249821/bericht</link>
+            <guid isPermaLink="false">1251551</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 10 Sep 2026 21:07:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HBL kompakt: Flensburger Kantersieg, Eisenachs erster Erfolg]]></title>
             <description><![CDATA[Am 4. Spieltag der Handball-Bundesliga hat die SG Flensburg-Handewitt einen überraschend deutlichen Erfolg in Lemgo eingefahren. Außerdem feierte der ThSV Eisenach den ersten Sieg. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
             <link>https://www.handball-world.news/artikel/hbl-kompakt-flensburger-kantersieg-eisenachs-erster-erfolg-1251558</link>
             <guid isPermaLink="false">1251558</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 19:11:30 GMT</pubDate>
+            <pubDate>Thu, 10 Sep 2026 21:54:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eisenacher Erlösung! Heim-Negativserie endet gegen Bietigheim]]></title>
@@ -39,7 +63,7 @@
             <link>https://www.handball-world.news/artikel/tim-suton-droht-schwere-verletzung-1251578</link>
             <guid isPermaLink="false">1251578</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 18:31:02 GMT</pubDate>
+            <pubDate>Thu, 10 Sep 2026 21:44:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Berliner Auftaktsieg: Partizan ohne Mittel gegen Füchse-Tempo]]></title>
@@ -47,7 +71,7 @@
             <link>https://www.handball-world.news/spiel/partizan-gegen-berlin-2026-ehf-champions-league-5249819/bericht</link>
             <guid isPermaLink="false">1251546</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 18:49:34 GMT</pubDate>
+            <pubDate>Thu, 10 Sep 2026 21:04:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gegen Lemgo: Flensburg ohne Aymeric Minne]]></title>
@@ -288,14 +312,6 @@
             <guid isPermaLink="false">1250790</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 04:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CL kompakt: Krimisiege für Nantes, Kielce und Zagreb]]></title>
-            <description><![CDATA[Die Topfavoriten SC Magdeburg, FC Barcelona und One Veszprem HC sind souverän in die Königsklasse gestartet. Keinen Sieger gab es im Topspiel zwischen Aalborg und PSG. Krimisiege konnten in eigener Halle der RK Zagreb und der HBC Nantes feiern. Am Donnerstag starten noch zehn weitere Teams in die Königsklasse, darunter auch die Füchse Berlin und die MT Melsungen.]]></description>
-            <link>https://www.handball-world.news/artikel/cl-kompakt-krimisiege-fuer-nantes-kielce-und-zagreb-1250869</link>
-            <guid isPermaLink="false">1250869</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 04:50:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kuzmanovic und Thielicke glänzen beim Debüt: SCM zeigt Kolstad die Grenzen auf]]></title>
@@ -1034,20 +1050,20 @@
             <pubDate>Mon, 07 Sep 2026 06:27:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[So funktioniert der Videobeweis in der Handball-Bundesliga]]></title>
-            <description><![CDATA[Seit der Saison 2023/24 kommt der Videobeweis in der 1. Handball-Bundesliga zum Einsatz. Das technische Hilfsmittel darf - anders als im Fußball - ausschließlich von den beiden am Spiel beteiligten Schiedsrichtern angewendet werden. Ein Überblick.]]></description>
-            <link>https://www.handball-world.news/artikel/so-funktioniert-der-videobeweis-in-der-handball-bundesliga-985145</link>
-            <guid isPermaLink="false">985145</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 06:21:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nach Modus-Reform: So viel Geld verdient man in der Champions League]]></title>
             <description><![CDATA[Die Champions League und die European League im Handball haben einen neuen Modus erhalten und damit geht auch eine veränderte Verteilung der Preisgelder einher. Für die Top-Klubs wird die Königsklasse des Handballs immer attraktiver.]]></description>
             <link>https://www.handball-world.news/artikel/nach-modus-reform-so-viel-geld-verdient-man-in-der-champions-league-1248394</link>
             <guid isPermaLink="false">1248394</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 04:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[So funktioniert der Videobeweis in der Handball-Bundesliga]]></title>
+            <description><![CDATA[Seit der Saison 2023/24 kommt der Videobeweis in der 1. Handball-Bundesliga zum Einsatz. Das technische Hilfsmittel darf - anders als im Fußball - ausschließlich von den beiden am Spiel beteiligten Schiedsrichtern angewendet werden. Ein Überblick.]]></description>
+            <link>https://www.handball-world.news/artikel/so-funktioniert-der-videobeweis-in-der-handball-bundesliga-985145</link>
+            <guid isPermaLink="false">985145</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 06:21:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Vielleicht werde ich Gärtner": Jansen über Heim-WM und Karrierepläne]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1250224</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 06 Sep 2026 13:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gerechte Punkteteilung bei Burgdorf gegen Flensborg]]></title>
-            <description><![CDATA[Mit einer Punkteteilung gegen DHK Flensborg endete der erste Heimauftritt nach dem Wiederaufstieg in die 3. Liga für die U23-Handballer der TSV Burgdorf. "Es ist das gerechte Ergebnis. Den Punkt haben sich beide Mannschaften verdient", sagten sowohl Flensborgs Trainer Magnus Frisk Jensen als auch Recken-Coach Koray Ayar.]]></description>
-            <link>https://www.handball-world.news/spiel/burgdorf-ii-gegen-dhk-flensborg-2026-liga-nord-ost-5263386/bericht</link>
-            <guid isPermaLink="false">1250235</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 13:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zwickau auf unbestimmte Zeit ohne Ex-Nationalspielerin Bröns Petersen]]></title>
-            <description><![CDATA[Der BSV Sachsen Zwickau musste sich bei Frisch Auf Göppingen knapp mit 28:29 geschlagen geben. Viel schwerwiegender wiegen bei den Sächsinnen allerdings die gesundheitlichen Probleme im Kader von Norman Rentsch.]]></description>
-            <link>https://www.handball-world.news/spiel/goeppingen-gegen-zwickau-2026-handball-frauen-bundesliga-5243992/bericht</link>
-            <guid isPermaLink="false">1250204</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 12:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
