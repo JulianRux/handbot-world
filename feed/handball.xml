@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 00:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 04:40:42 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 00:15:07 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 04:40:42 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Schagens Knieprobleme: "Für Handball reicht's noch nicht"]]></title>
+            <description><![CDATA[Bobby Schagen laboriert seit einiger Zeit an Knieproblemen. Nun sprach der Lemgoer Handballer über den aktuellen Stand.]]></description>
+            <link>https://www.handball-world.news/artikel/schagens-knieprobleme-fuer-handball-reicht-s-noch-nicht-1251568</link>
+            <guid isPermaLink="false">1251568</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 04:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ist das noch Handball oder ist das schon Basketball?]]></title>
+            <description><![CDATA[Handball lebt von Härte, Kontakt und Abwehrarbeit. Doch nach der Roten Karte zuletzt gegen Lukas Zerbe stellt sich wieder die Frage: Schützen wir die Spieler gerade besser - oder pfeifen wir dem Sport Stück für Stück seine Körperlichkeit weg?]]></description>
+            <link>https://www.handball-world.news/artikel/ist-das-noch-handball-oder-ist-das-schon-basketball-1251082</link>
+            <guid isPermaLink="false">1251082</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 03:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die 15 größten Vertrags-Fragezeichen der Bundesliga]]></title>
+            <description><![CDATA[Im kommenden Sommer laufen die Verträge einiger Stars aus. Ein Blick auf die 15 größten Vertrags-Fragezeichen der Handball-Bundesliga:]]></description>
+            <link>https://www.handball-world.news/slideshow/die-15-groessten-vertrags-fragezeichen-der-bundesliga-1251186</link>
+            <guid isPermaLink="false">1251186</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 03:30:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Im Video: Lemgo unterliegt Flensburg und bangt um Suton]]></title>
             <description><![CDATA[Die SG Flensburg-Handewitt bekam das Heft beim Auswärtsspiel in Lemgo bereits im ersten Abschnitt in die Hand und verbuchte am Ende einen ungefährdeten 39:30-Erfolg. Der TBV bangt unterdessen um Tim Suton, der gut fünf Minuten vor dem Ende der Partie vom Parkett humpelte.]]></description>
@@ -1050,20 +1074,20 @@
             <pubDate>Mon, 07 Sep 2026 06:27:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[So funktioniert der Videobeweis in der Handball-Bundesliga]]></title>
-            <description><![CDATA[Seit der Saison 2023/24 kommt der Videobeweis in der 1. Handball-Bundesliga zum Einsatz. Das technische Hilfsmittel darf - anders als im Fußball - ausschließlich von den beiden am Spiel beteiligten Schiedsrichtern angewendet werden. Ein Überblick.]]></description>
-            <link>https://www.handball-world.news/artikel/so-funktioniert-der-videobeweis-in-der-handball-bundesliga-985145</link>
-            <guid isPermaLink="false">985145</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 06:21:36 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nach Modus-Reform: So viel Geld verdient man in der Champions League]]></title>
             <description><![CDATA[Die Champions League und die European League im Handball haben einen neuen Modus erhalten und damit geht auch eine veränderte Verteilung der Preisgelder einher. Für die Top-Klubs wird die Königsklasse des Handballs immer attraktiver.]]></description>
             <link>https://www.handball-world.news/artikel/nach-modus-reform-so-viel-geld-verdient-man-in-der-champions-league-1248394</link>
             <guid isPermaLink="false">1248394</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 04:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[So funktioniert der Videobeweis in der Handball-Bundesliga]]></title>
+            <description><![CDATA[Seit der Saison 2023/24 kommt der Videobeweis in der 1. Handball-Bundesliga zum Einsatz. Das technische Hilfsmittel darf - anders als im Fußball - ausschließlich von den beiden am Spiel beteiligten Schiedsrichtern angewendet werden. Ein Überblick.]]></description>
+            <link>https://www.handball-world.news/artikel/so-funktioniert-der-videobeweis-in-der-handball-bundesliga-985145</link>
+            <guid isPermaLink="false">985145</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 08 Sep 2026 06:21:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Vielleicht werde ich Gärtner": Jansen über Heim-WM und Karrierepläne]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1250254</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 06 Sep 2026 14:37:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Kämpferisch reingehauen": Buxtehuder SV mit erstem Heimsieg]]></title>
-            <description><![CDATA[Mit einem 26:23 (9:10) hat der Buxtehuder SV Aufsteiger HC Leipzig am 2. Spieltag der Handball-Bundesliga der Frauen geschlagen. Um den Sieg mussten die 1216 Zuschauer in der Halle Nord lange bangen. Erst zehn Minuten vor dem Ende drehten die Gastgeberinnen nochmal auf.]]></description>
-            <link>https://www.handball-world.news/spiel/buxtehude-gegen-leipzig-2026-handball-frauen-bundesliga-5243990/bericht</link>
-            <guid isPermaLink="false">1250244</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 14:16:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saarlouis: Wichtige Punkte aber Sorgen um Weissgerber]]></title>
-            <description><![CDATA["Das waren wertvolle und wichtige zwei Punkte für uns!", so ein zufriedener Jörg Lützelberger nach dem 25:22 (13:14)-Auswärtssieg seiner HG Saarlouis in der 3. Handball-Liga gegen die HSG Rodgau/Nieder-Roden. Wehrmutstropfen war die Verletzung von Lars Weissgerber.]]></description>
-            <link>https://www.handball-world.news/spiel/rodgau-nieder-roden-gegen-saarlouis-2026-liga-sued-west-5263864/bericht</link>
-            <guid isPermaLink="false">1250246</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 14:16:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pütz nach dritter BHC-Niederlage: "Können das gut einordnen"]]></title>
-            <description><![CDATA[Der Bergische HC hatte am Samstag die ebenfalls mit zwei Niederlagen in die Handball-Bundesliga gestarteten Rhein-Neckar Löwen zu einem Kellerduell Gast - und steht nach einem Krimi weiter mit leeren Händen da und bis mindestens Montag am Tabellenende. Die Verantwortlichen zeigten sich aber keineswegs beunruhigt.]]></description>
-            <link>https://www.handball-world.news/artikel/puetz-nach-dritter-bhc-niederlage-koennen-das-gut-einordnen-1250224</link>
-            <guid isPermaLink="false">1250224</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 13:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
