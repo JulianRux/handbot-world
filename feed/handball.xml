@@ -4,11 +4,67 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 04:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 09:08:34 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 04:40:42 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 09:08:34 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Füchse Berlin: "Herausforderung" zwischen Partizan und Gummersbach]]></title>
+            <description><![CDATA[Die Füchse gewinnen in der Königsklasse überraschend deutlich in Belgrad und freuen sich über ein Debüt. In der Handball-Bundesliga wartet nun mit Gummersbach eine deutlich schwierigere Aufgabe.]]></description>
+            <link>https://www.handball-world.news/artikel/fuechse-berlin-herausforderung-zwischen-partizan-und-gummersbach-1251707</link>
+            <guid isPermaLink="false">1251707</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 08:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bei Torrekord: Szeged lässt Kristianstad keine Chance]]></title>
+            <description><![CDATA[Am ersten Spieltag der EHF Champions League hat der ungarische Handball-Spitzenklub Pick Szeged einen deutlichen 42:31 (22:13)-Heimerfolg gegen den schwedischen Meister IFK Kristianstad verbucht. Dabei stellten die Hausherren einen vereinsinternen Rekord auf.]]></description>
+            <link>https://www.handball-world.news/spiel/pick-szeged-gegen-kristianstad-2026-ehf-champions-league-5249825/bericht</link>
+            <guid isPermaLink="false">1251694</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 08:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eisenach mit Wiedergutmachung: "Skepsis war spürbar"]]></title>
+            <description><![CDATA[Der ThSV Eisenach empfing zum zweiten mal in Folge zu Hause einen Aufsteiger. Anders als gegen Balingen ließen die Thüringer diesmal nichts anbrennen und konnten so mit den Fans den ersten Handball-Saisonsieg feiern.]]></description>
+            <link>https://www.handball-world.news/artikel/eisenach-mit-wiedergutmachung-skepsis-war-spuerbar-1251687</link>
+            <guid isPermaLink="false">1251687</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 08:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Verstehe nicht warum": Er hätte für Kretzschmar "Zeug zur Nationalmannschaft"]]></title>
+            <description><![CDATA[Die Handball-Bundesliga vereint einige der besten Spieler der Welt. Stefan Kretzschmar sieht bei einem deutschen Linksaußen jedoch eine verschenkte Chance aufgrund geringer Spielzeit.]]></description>
+            <link>https://www.handball-world.news/artikel/verstehe-nicht-warum-er-haette-fuer-kretzschmar-zeug-zur-nationalmannschaft-1251671</link>
+            <guid isPermaLink="false">1251671</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 07:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Marsenic nach Duell mit Ex-Klub: "Ein Privileg"]]></title>
+            <description><![CDATA[Die Füchse Berlin sind mit einem Kantersieg in die Handball Champions League gestartet. Für Mijaljo Marsenic war es ein besonderes Spiel.]]></description>
+            <link>https://www.handball-world.news/artikel/marsenic-nach-duell-mit-ex-klub-ein-privileg-1251665</link>
+            <guid isPermaLink="false">1251665</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 06:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grgic: "Von 39 Toren 33 in den Winkel geschrotet"]]></title>
+            <description><![CDATA[Die SG Flensburg-Handewitt bleibt verlustpunktfrei. Auch der TBV Lemgo Lippe konnte den Lauf der Handball-Norddeutschen nicht aufhalten, die besonders viel Zielwasser getrunken hatten.]]></description>
+            <link>https://www.handball-world.news/artikel/grgic-von-39-toren-33-in-den-winkel-geschrotet-1251663</link>
+            <guid isPermaLink="false">1251663</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 06:23:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball am Freitag: Südgipfel in HBL, dreimal 2. Liga]]></title>
+            <description><![CDATA[In der Handball-Bundesliga richtet sich der Blick auf den Südgipfel zwischen Rhein-Neckar Löwen und dem HBW Balingen-Weilstetten. In der 2. Liga sind drei Partien, zudem hat auch die 3. Liga ein Topspiel.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-freitag-suedgipfel-in-hbl-dreimal-2-liga-1247433</link>
+            <guid isPermaLink="false">1247433</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 06:00:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schagens Knieprobleme: "Für Handball reicht's noch nicht"]]></title>
             <description><![CDATA[Bobby Schagen laboriert seit einiger Zeit an Knieproblemen. Nun sprach der Lemgoer Handballer über den aktuellen Stand.]]></description>
@@ -31,7 +87,7 @@
             <link>https://www.handball-world.news/slideshow/die-15-groessten-vertrags-fragezeichen-der-bundesliga-1251186</link>
             <guid isPermaLink="false">1251186</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 03:30:06 GMT</pubDate>
+            <pubDate>Fri, 11 Sep 2026 05:50:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Im Video: Lemgo unterliegt Flensburg und bangt um Suton]]></title>
@@ -75,11 +131,11 @@
         </item>
         <item>
             <title><![CDATA[Bei Suton-Verletzung: Flensburg feiert Kantersieg in Lemgo]]></title>
-            <description><![CDATA[Normalerweise ist die SG Flensburg-Handewitt eher für ihre Offensivstärke bekannt. Gegen den TBV Lemgo Lippe brillierten die Norddeutschen, angeführt vom starken Benjamin Buric, auch in der Abwehr.nLemgo musste hingegen den Ausfall von Tim Suton verkraften.]]></description>
+            <description><![CDATA[Normalerweise ist die SG Flensburg-Handewitt eher für ihre Offensivstärke bekannt. Gegen den TBV Lemgo Lippe brillierten die Norddeutschen, angeführt vom starken Benjamin Buric, auch in der Abwehr. Lemgo musste hingegen den Ausfall von Tim Suton verkraften.]]></description>
             <link>https://www.handball-world.news/spiel/lemgo-gegen-flensburg-2026-handball-bundesliga-5213781/bericht</link>
             <guid isPermaLink="false">1251557</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 18:47:42 GMT</pubDate>
+            <pubDate>Fri, 11 Sep 2026 04:43:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Tim Suton droht schwere Verletzung]]></title>
@@ -1152,62 +1208,6 @@
             <guid isPermaLink="false">1249235</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 06 Sep 2026 16:48:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vier vergebene Siebenmeter: Füchse mit blauem Auge in Stuttgart]]></title>
-            <description><![CDATA[Die Füchse Berlin sind beim TVB Stuttgart gerade so nochmal mit einem blauen Auge davongekommen. Nachdem die Berliner insgesamt vier Siebenmeter vergaben, gelang den Handball-Hausherren beinahe noch das Remis.]]></description>
-            <link>https://www.handball-world.news/spiel/stuttgart-gegen-berlin-2026-handball-bundesliga-5213769/bericht</link>
-            <guid isPermaLink="false">1250255</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 16:42:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lemgo eine zu hohe Hürde für Aufsteiger Bietigheim]]></title>
-            <description><![CDATA[Der TBV Lemgo Lippe hat einen souveränen Auswärtserfolg bei der SG BBM Bietigheim eingefahren. Die Mannschaft von Florian Kehrmann konnte sich zeitweise auf acht Tore lösen, siegte am Ende mit 36:29 (20:15).]]></description>
-            <link>https://www.handball-world.news/spiel/bietigheim-gegen-lemgo-2026-handball-bundesliga-5213772/bericht</link>
-            <guid isPermaLink="false">1250267</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 16:06:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBF: Mainz stürzt Spitzenreiter, erste Siege für Regensburg und Luchse]]></title>
-            <description><![CDATA[In der 2. Handball-Bundesliga der Frauen sind nach zwei Spieltagen noch vier Teams verlustpunktfrei, zwei weitere noch unbesiegt. Am Sonntag kämpfen Leverkusen und Kirchhof um die ersten Pluspunkte.]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbf-mainz-stuerzt-spitzenreiter-erste-siege-fuer-regensburg-und-luchse-1250210</link>
-            <guid isPermaLink="false">1250210</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 15:46:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trotz Zerbe-Rot: Kiel erkämpft knappen Sieg in Göppingen]]></title>
-            <description><![CDATA[Frisch Auf Göppingen schnupperte 45 Minuten an einer Sensation gegen den Deutschen Rekordmeister THW Kiel. Die Rote Karte für Victor Klöve fiel auch mit der entscheidenden Schwächephase zusammen. Bei den Zebras hatte zuvor Lukas Zerbe Rot gesehen, doch auch ohne gelernten Rechtsaußen kamen die Gäste am Ende zu einem knappen 32:31-Auswärtssieg.]]></description>
-            <link>https://www.handball-world.news/spiel/goeppingen-gegen-kiel-2026-handball-bundesliga-5213767/bericht</link>
-            <guid isPermaLink="false">1250228</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 15:21:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Leutershausen mit Auswärtssieg bei Bergischen Panthern]]></title>
-            <description><![CDATA[Nach dem ungefährdeten Auftakterfolg gegen den HV Vallendar hat die S3 Leutershausen in der 3. Handball-Liga einen Auswärtserfolg bei den Bergischen Panthern nachgelegt. Coach Florian Taafel zeigte sich zufrieden mit der "guten Mannschaftsleistung", sah aber "auch noch etwas Luft nach oben".]]></description>
-            <link>https://www.handball-world.news/spiel/bergische-panther-gegen-leutershausen-2026-liga-sued-west-5263867/bericht</link>
-            <guid isPermaLink="false">1250202</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 14:42:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blomberg-Lippe verliert Champions-League-Premiere]]></title>
-            <description><![CDATA[Die Handballerinnen der HSG Blomberg-Lippe haben bei ihrer Premiere in der Champions League eine Niederlage kassiert. Die deutschen Meisterinnen und Supercup-Gewinnerinnen verloren in Lemgo 23:28 (10:13) gegen den rumänischen Titelträger CS Gloria Bistrita.]]></description>
-            <link>https://www.handball-world.news/spiel/blomberg-lippe-gegen-cs-gloria-2026-handball-champions-league-frauen-5249711/bericht</link>
-            <guid isPermaLink="false">1250249</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 15:20:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Varel verpasst Überraschung in Schlussviertelstunde]]></title>
-            <description><![CDATA["Wir hätten das Spiel gewinnen können", sagte Arek Blacha, Trainer des Handball-Drittligisten HSG Varel nach der 29:34-Heimniederlage gegen Titelaspirant Eintracht Hildesheim am Samstagabend in der Manfred-Schmidt-Sporthalle in Altjührden. In der Schlussviertelstunde spielte der Favorit seine Klasse aus.]]></description>
-            <link>https://www.handball-world.news/spiel/hsg-varel-gegen-hildesheim-2026-liga-nord-west-5263622/bericht</link>
-            <guid isPermaLink="false">1250254</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 06 Sep 2026 14:37:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
