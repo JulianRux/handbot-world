@@ -4,11 +4,67 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 13:32:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 17:07:00 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 13:32:28 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 17:07:00 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Live! Löwen - Balingen und 2. HBL]]></title>
+            <description><![CDATA[In der Handball-Bundesliga spielen heute die Rhein-Neckar Löwen gegen den HBW Balingen-Weilstetten. Unterdessen fliegt auch in der 2. HBL der Ball. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 16:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verletzungsticker: Suton-Schock, Sagosen-Ausfall]]></title>
+            <description><![CDATA[Welcher Spieler oder welche Spielerin hat sich verletzt, wo steht noch eine Diagnose aus und wo eine Rückkehr bevor? Der Verletzungsticker von handball-world liefert eine chronologische Übersicht.]]></description>
+            <link>https://www.handball-world.news/liveticker/1061262</link>
+            <guid isPermaLink="false">1061262</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 15:44:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Graz holt Champions-League-erfahrenen Kreisläufer]]></title>
+            <description><![CDATA[Igor Zabic verstärkt den österreichischen Handball-Erstligisten HSG Holding Graz. Der 34-jährige Slowene bringt reichlich internationale Erfahrung mit und soll den Grazer Kader sowohl am Kreis als auch in der Defensive verstärken.]]></description>
+            <link>https://www.handball-world.news/artikel/graz-holt-champions-league-erfahrenen-kreislaeufer-1251788</link>
+            <guid isPermaLink="false">1251788</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 15:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Warum Hannawald, Doder und Co. zu GWD Minden zurückkehren]]></title>
+            <description><![CDATA[Chrischa Hannawald, Dalibor Doder und Christoffer Rambo kehren im Januar 2027 zum Handball-Zweitligisten GWD Minden zurück. Welchen Grund das hat:]]></description>
+            <link>https://www.handball-world.news/artikel/warum-hannawald-doder-und-co-zu-gwd-minden-zurueckkehren-1251812</link>
+            <guid isPermaLink="false">1251812</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 15:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[18-Jähriger ganz oben: Die Top-Torschützen der Champions League]]></title>
+            <description><![CDATA[Die ersten Spiele der EHF Handball Champions League sind absolviert. Ein Blick auf die besten Torjäger:]]></description>
+            <link>https://www.handball-world.news/artikel/18-jaehriger-ganz-oben-die-top-torschuetzen-der-champions-league-1251347</link>
+            <guid isPermaLink="false">1251347</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 14:32:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vor Drittliga-Topspiel: Mehrere Empor-Ausfälle]]></title>
+            <description><![CDATA[Heute Abend treffen der EHV Aue und der HC Empor Rostock in der 3. Liga Nord-Ost aufeinander. Im Topspiel muss Empor auf mehrere Akteure verzichten.]]></description>
+            <link>https://www.handball-world.news/artikel/vor-drittliga-topspiel-mehrere-empor-ausfaelle-1251794</link>
+            <guid isPermaLink="false">1251794</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 14:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bundesliga 2026/27: Wann die Topspiele stattfinden]]></title>
+            <description><![CDATA[Der 4. Spieltag der Opel Handball-Bundesliga 2026/27 läuft. Wann finden die nächsten Topspiele statt? Ein Blick auf den Spielplan:]]></description>
+            <link>https://www.handball-world.news/artikel/bundesliga-2026-27-wann-die-topspiele-stattfinden-1241133</link>
+            <guid isPermaLink="false">1241133</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 13:39:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sommer 2026: Die Wechsel in der Handball Bundesliga Frauen]]></title>
             <description><![CDATA[Wen haben die Handball-Bundesligisten für die Spielzeit 2026/27 verpflichtet - und welche Spielerinnen haben ihre Klubs diesen Sommer verlassen? Die feststehenden Wechsel in der Übersicht:]]></description>
@@ -258,14 +314,6 @@
             <pubDate>Thu, 10 Sep 2026 16:59:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live! CL mit Füchsen und MT, HBL mit Flensburg]]></title>
-            <description><![CDATA[In der Champions League starten heute die Füchse Berlin und die MT Melsungen. Unterdessen fliegt auch in der Handball-Bundesliga der Ball. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 16:00:04 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Handball Business Blog: Lemgo-Deals, Löwen-Sponsor]]></title>
             <description><![CDATA[Neue Partnerschaften oder Entwicklungen im Bereich Sponsoring sowie Personalien abseits des Parketts bei Vereinen oder Verbänden, Stellenausschreibungen - und vieles mehr aus dem Bereich Handball und Business.]]></description>
             <link>https://www.handball-world.news/liveticker/handball-business-1125417</link>
@@ -312,14 +360,6 @@
             <guid isPermaLink="false">1251479</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 13:47:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verletzungsticker: Eulen-Ausfall, Magnusson-Comeback]]></title>
-            <description><![CDATA[Welcher Spieler oder welche Spielerin hat sich verletzt, wo steht noch eine Diagnose aus und wo eine Rückkehr bevor? Der Verletzungsticker von handball-world liefert eine chronologische Übersicht.]]></description>
-            <link>https://www.handball-world.news/liveticker/1061262</link>
-            <guid isPermaLink="false">1061262</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 13:25:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Verlieren komplett unser Konzept": Plötzliche Schwächephasen beschäftigen Löwen]]></title>
@@ -400,14 +440,6 @@
             <guid isPermaLink="false">1251395</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 09:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[18-Jähriger ganz oben: Die Top-Torschützen der Champions League]]></title>
-            <description><![CDATA[Die ersten Spiele der EHF Handball Champions League sind absolviert. Ein Blick auf die besten Torjäger:]]></description>
-            <link>https://www.handball-world.news/artikel/18-jaehriger-ganz-oben-die-top-torschuetzen-der-champions-league-1251347</link>
-            <guid isPermaLink="false">1251347</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 08:37:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[BVB-Coach Rothenpieler nach drittem Sieg: "Das ist das, was ich sehen will"]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1250479</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 08:48:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Dumm gelaufen": Diesen Spieler empfahl Krickau seinem Rivalen Wiegert]]></title>
-            <description><![CDATA[Das Verhältnis zwischen den Füchse Berlin und dem SC Magdeburg ist von sportlicher Rivalität geprägt. Nicolej Krickau hat seinem Handball-Trainerkollegen Bennet Wiegert jedoch einst einen heutigen Leistungsträger empfohlen.]]></description>
-            <link>https://www.handball-world.news/artikel/dumm-gelaufen-diesen-spieler-empfahl-krickau-seinem-rivalen-wiegert-1250477</link>
-            <guid isPermaLink="false">1250477</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 08:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Essen ringt Minden einen Punkt ab]]></title>
-            <description><![CDATA[Der TUSEM Essen holt am 2. Spieltag der 2. Handball-Bundesliga den ersten Punkt der Saison. Auswärts bei Bundesligaabsteiger GWD Minden stand am Ende ein 34:34 (17:17)-Unentschieden auf der Anzeigetafel.]]></description>
-            <link>https://www.handball-world.news/spiel/minden-gegen-essen-2026-handball-bundesliga-5214069/bericht</link>
-            <guid isPermaLink="false">1250463</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 07:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Warum Zaepfel? Hanning erklärt den Füchse-Transfer]]></title>
-            <description><![CDATA[Mit der Verpflichtung von Aymeric Zaepfel haben die Füchse Berlin ihren Kader im Rückraum noch einmal verstärkt. Geschäftsführer Bob Hanning erklärte nun, warum die Wahl auf den Franzosen fiel und welche Rolle der Neuzugang zunächst beim amtierenden DHB-Pokalsieger einnehmen soll.]]></description>
-            <link>https://www.handball-world.news/artikel/warum-zaepfel-hanning-erklaert-den-fuechse-transfer-1250460</link>
-            <guid isPermaLink="false">1250460</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 07:09:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vorzeitiger Newel-Abschied? "Mache mir keine Sorgen"]]></title>
-            <description><![CDATA[Frisch Auf Göppingen verliert mit Victor Klöve im Sommer einen Handball-Spieler durch eine Ausstiegsklausel. Geschäftsführer Gerd Hofele erklärte nun, ob man bei Elias Newel ähnliches befürchten muss.]]></description>
-            <link>https://www.handball-world.news/artikel/vorzeitiger-newel-abschied-mache-mir-keine-sorgen-1250457</link>
-            <guid isPermaLink="false">1250457</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 06:46:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
