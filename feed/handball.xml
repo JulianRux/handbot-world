@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 17:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Sep 2026 21:54:22 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 17:07:00 GMT</pubDate>
+        <pubDate>Fri, 11 Sep 2026 21:54:22 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[2. HBL: Essen-Debakel gegen Dresden, Hagen weiter spitze]]></title>
+            <description><![CDATA[Zum Auftakt des 3. Spieltags der 2. Handball-Bundesliga haben die Top-Teams VfL Eintracht Hagen und HC Elbflorenz Dresden ihre Aufgaben gelöst - wenn auch auf ganz unterschiedliche Art und Weise. Der TV Großwallstadt wartet weiter auf den ersten Punkt. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbl-essen-debakel-gegen-dresden-hagen-weiter-spitze-1251846</link>
+            <guid isPermaLink="false">1251846</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 20:28:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Löwen-Aufholjagd, Flensburgs Kantersieg]]></title>
+            <description><![CDATA[Am 4. Spieltag der Handball-Bundesliga haben die Rhein-Neckar Löwen mit einer Aufholjagd doch noch gegen Balingen gewonnen. Außerdem hat die SG Flensburg-Handewitt einen überraschend deutlichen Erfolg in Lemgo eingefahren. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-loewen-aufholjagd-flensburgs-kantersieg-1251558</link>
+            <guid isPermaLink="false">1251558</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 20:18:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Späth-Show: Löwen drehen Sechs-Tore-Rückstand gegen Balingen]]></title>
+            <description><![CDATA[Comeback der Rhein-Neckar Löwen nach zwischenzeitlichem Sechs-Tore-Rückstand: Mit einer Leistungssteigerung setzte sich das Team um den herausragenden David Späth doch noch mit 29:27 (9:14) gegen den HBW Balingen-Weilstetten durch. Für die Löwen ist es der zweite Bundesliga-Sieg dieser Saison.]]></description>
+            <link>https://www.handball-world.news/spiel/r-n-loewen-gegen-balingen-2026-handball-bundesliga-5213778/bericht</link>
+            <guid isPermaLink="false">1251844</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 11 Sep 2026 20:18:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live! Löwen - Balingen und 2. HBL]]></title>
             <description><![CDATA[In der Handball-Bundesliga spielen heute die Rhein-Neckar Löwen gegen den HBW Balingen-Weilstetten. Unterdessen fliegt auch in der 2. HBL der Ball. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
@@ -266,20 +290,12 @@
             <pubDate>Thu, 10 Sep 2026 21:07:53 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HBL kompakt: Flensburger Kantersieg, Eisenachs erster Erfolg]]></title>
-            <description><![CDATA[Am 4. Spieltag der Handball-Bundesliga hat die SG Flensburg-Handewitt einen überraschend deutlichen Erfolg in Lemgo eingefahren. Außerdem feierte der ThSV Eisenach den ersten Sieg. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-flensburger-kantersieg-eisenachs-erster-erfolg-1251558</link>
-            <guid isPermaLink="false">1251558</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 12:12:15 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Eisenacher Erlösung! Heim-Negativserie endet gegen Bietigheim]]></title>
             <description><![CDATA[Erlösung für den ThSV Eisenach: Die Heim-Negativserie des Handball-Bundesligisten ist nun beendet. Der 31:25 (14:14)-Sieg gegen Aufsteiger SG BBM Bietigheim ist der erste Heimerfolg seit Mitte Februar. Felix Aellen und Matija Spikic waren die Matchwinner für den ThSV.]]></description>
             <link>https://www.handball-world.news/spiel/eisenach-gegen-bietigheim-2026-handball-bundesliga-5213782/bericht</link>
             <guid isPermaLink="false">1251556</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 19:21:21 GMT</pubDate>
+            <pubDate>Fri, 11 Sep 2026 20:12:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bei Suton-Verletzung: Flensburg feiert Kantersieg in Lemgo]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1250525</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 09:58:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erstligatauglich: Lübecker Hansehalle wiedereröffnet]]></title>
-            <description><![CDATA[Die Heimspielstätte des Handball-Zweitligisten VfL Lübeck-Schwartau ist nach Sanierungsarbeiten wieder geöffnet. Die Ausstattung ist erstligatauglich.]]></description>
-            <link>https://www.handball-world.news/artikel/erstligatauglich-luebecker-hansehalle-wiedereroeffnet-1250482</link>
-            <guid isPermaLink="false">1250482</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 09:04:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neuer TV-Deal für Frankreich]]></title>
-            <description><![CDATA[Die europäischen Handball-Klubwettbewerbe erhalten in Frankreich ab der Saison 2026/27 eine neue mediale Heimat.]]></description>
-            <link>https://www.handball-world.news/artikel/neuer-tv-deal-fuer-frankreich-1250479</link>
-            <guid isPermaLink="false">1250479</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 08:48:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
