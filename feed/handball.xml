@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 11 Sep 2026 23:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 06:17:21 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 Sep 2026 23:35:32 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 06:17:21 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Handball bei bis zu 52 Grad: Dissinger spricht über Kuwait-Wechsel]]></title>
+            <description><![CDATA[Zwölf Vereine in acht verschiedenen Ländern hat Christian Dissinger mittlerweile in seinem Lebenslauf stehen. Nun hat es den Europameister von 2016 nach Kuwait verschlagen. Wie es dort für ihn läuft und in welchem Land er gerne nochmal spielen würde, verrät er im Gespräch mit handball-world.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-bei-bis-zu-52-grad-dissinger-spricht-ueber-kuwait-wechsel-1251826</link>
+            <guid isPermaLink="false">1251826</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 04:30:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2. HBL: Essen-Debakel gegen Dresden, Hagen weiter spitze]]></title>
             <description><![CDATA[Zum Auftakt des 3. Spieltags der 2. Handball-Bundesliga haben die Top-Teams VfL Eintracht Hagen und HC Elbflorenz Dresden ihre Aufgaben gelöst - wenn auch auf ganz unterschiedliche Art und Weise. Der TV Großwallstadt wartet weiter auf den ersten Punkt. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1250488</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 07 Sep 2026 10:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hommage an 1997: Flensburg präsentiert EL-Trikot]]></title>
-            <description><![CDATA[Die SG Flensburg-Handewitt tritt in dieser Saison erneut in der EHF European League an - 30 Jahre nach dem ersten EHF-Cup-Sieg. An den damaligen Handball-Erfolg erinnert die SG mit einem Trikot.]]></description>
-            <link>https://www.handball-world.news/artikel/hommage-an-1997-flensburg-praesentiert-el-trikot-1250525</link>
-            <guid isPermaLink="false">1250525</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 07 Sep 2026 09:58:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
