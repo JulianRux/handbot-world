@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Sep 2026 20:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 22:55:11 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Sep 2026 20:57:05 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 22:55:11 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: THW Kiel bei Jicha-Ehrung mit Sieg gegen Hannover]]></title>
+            <description><![CDATA[Über sieben Minuten musste der THW Kiel am Samstag in der Handball-Bundesliga auf den ersten Treffer gegen die TSV Hannover-Burgdorf warten - und auch in der Folge war es harte Arbeit bis zum vierten Sieg im vierten Spiel. Im Anschluss wurde die Aufnahme von Filip Jicha in die Hall of Fame gefeiert.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-thw-kiel-bei-jicha-ehrung-mit-sieg-gegen-hannover-1252132</link>
+            <guid isPermaLink="false">1252132</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 21:45:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2. HBL: Leipzig muss zittern]]></title>
             <description><![CDATA[Zum Auftakt des 3. Spieltags der 2. Handball-Bundesliga haben die Top-Teams VfL Eintracht Hagen und HC Elbflorenz Dresden ihre Aufgaben gelöst - wenn auch auf ganz unterschiedliche Art und Weise. Der TV Großwallstadt wartet weiter auf den ersten Punkt. Der SC DHfK Leipzig bleibt knapp ohne Punktverlust. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
@@ -31,7 +39,7 @@
             <link>https://www.handball-world.news/artikel/kiel-verabschiedet-erfolgreichstes-zebra-aller-zeiten-1252106</link>
             <guid isPermaLink="false">1252106</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 20:00:20 GMT</pubDate>
+            <pubDate>Sat, 12 Sep 2026 21:10:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zwei Ausnahmen, eine Verbannung: Die Hall of Fame des THW Kiel]]></title>
@@ -39,7 +47,7 @@
             <link>https://www.handball-world.news/slideshow/zwei-ausnahmen-eine-verbannung-die-hall-of-fame-des-thw-kiel-1238396</link>
             <guid isPermaLink="false">1238396</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 19:09:12 GMT</pubDate>
+            <pubDate>Sat, 12 Sep 2026 21:26:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HBL kompakt: Flensburgs Kantersieg, Löwen und Kiel mit Mühe]]></title>
@@ -47,7 +55,7 @@
             <link>https://www.handball-world.news/artikel/hbl-kompakt-flensburgs-kantersieg-loewen-und-kiel-mit-muehe-1251558</link>
             <guid isPermaLink="false">1251558</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 19:03:05 GMT</pubDate>
+            <pubDate>Sat, 12 Sep 2026 21:47:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Torhüter dominieren: Tapfere Recken fordern Kiel lange - aber erfolglos]]></title>
@@ -95,7 +103,7 @@
             <link>https://www.handball-world.news/artikel/das-war-ein-schlag-filip-jicha-ueber-trennung-vom-thw-kiel-1252012</link>
             <guid isPermaLink="false">1252012</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 15:42:31 GMT</pubDate>
+            <pubDate>Sat, 12 Sep 2026 21:36:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Späth: Ohne diesen Trainer "hätte ich es nicht geschafft"]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1250741</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 10:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dieser Nationalspieler besuchte die Basketball-WM]]></title>
-            <description><![CDATA[Die deutsche Basketball-Nationalmannschaft spielt in Berlin aktuell bei der Weltmeisterschaft. Ein Handballer der Füchse und des DHB-Teams ließ sich dies nicht entgehen.]]></description>
-            <link>https://www.handball-world.news/artikel/dieser-nationalspieler-besuchte-die-basketball-wm-1250726</link>
-            <guid isPermaLink="false">1250726</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 07:42:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
