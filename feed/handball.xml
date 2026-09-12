@@ -4,11 +4,51 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Sep 2026 13:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 16:35:41 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Sep 2026 13:55:58 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 16:35:41 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Live! Kiel - Hannover und 2. HBL]]></title>
+            <description><![CDATA[In der Handball-Bundesliga empfängt heute der THW Kiel die TSV Hannover-Burgdorf. Unterdessen fliegt auch in der 2. HBL der Ball. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 16:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Das war ein Schlag" - Filip Jicha über Trennung vom THW Kiel]]></title>
+            <description><![CDATA[Am heutigen Samstag wird Filip Jicha vom THW Kiel offiziell verabschiedet, der Handball-Rekordmeister hatte sich nach dem Verpassen eines internationalen Startplatzes vom Trainer getrennt. In einem Interview mit den Kieler Nachrichten äußerte sich der frühere Welthandballer zur Trennung.]]></description>
+            <link>https://www.handball-world.news/artikel/das-war-ein-schlag-filip-jicha-ueber-trennung-vom-thw-kiel-1252012</link>
+            <guid isPermaLink="false">1252012</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 15:42:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Späth: Ohne diesen Trainer "hätte ich es nicht geschafft"]]></title>
+            <description><![CDATA[In ihrem Podcast Fischer & Friend sprechen die Handball-Nationalspieler Justus Fischer und David Späth auch über ernste Themen.]]></description>
+            <link>https://www.handball-world.news/artikel/spaeth-ohne-diesen-trainer-haette-ich-es-nicht-geschafft-1251096</link>
+            <guid isPermaLink="false">1251096</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 15:53:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Füchse Berlin schließen Medienpartnerschaft]]></title>
+            <description><![CDATA[Die Füchse Berlin bauen ihr Mediennetzwerk aus und arbeiten künftig mit dem Berliner Radiosender 94,3 RS2 zusammen. Im Mittelpunkt der Partnerschaft stehen unter anderem Nachwuchs- und Familienthemen.]]></description>
+            <link>https://www.handball-world.news/artikel/fuechse-berlin-schliessen-medienpartnerschaft-1251975</link>
+            <guid isPermaLink="false">1251975</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 14:37:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball-Bundesliga: Diese Spieler schafften das perfekte Spiel]]></title>
+            <description><![CDATA[Bereits seit der Saison 2020/21 wird der Handball Performance Index (HPI ) verwendet, um die Leistung von Handballern transparent und datenbasiert zu vergleichen. Unter anderem zieht die Liga den Wert auch für die Vorschlagsliste beim Spieler des Monats und dem MVP der Saison zurate. Doch welchen Spielern gelang nach Ansicht der Daten das "perfekte Spiel" mit 100 HPI-Punkten und welche statistischen Werte wurden dabei erreicht?]]></description>
+            <link>https://www.handball-world.news/slideshow/handball-bundesliga-diese-spieler-schafften-das-perfekte-spiel-1248054</link>
+            <guid isPermaLink="false">1248054</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 13:51:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Großwallstadt schrammt knapp am ersten Punktgewinn vorbei]]></title>
             <description><![CDATA[Der TV Großwallstadt musste sich am Freitagabend bei den Eulen Ludwigshafen knapp mit 30:31 (16:16) geschlagen geben. Die Wällster glichen in der 55. Minute noch einmal aus und kamen nach einem Vier-Tore-Rückstand bis auf einen Treffer heran. Für den Punktgewinn fehlten am Ende jedoch wenige Sekunden.]]></description>
@@ -192,14 +232,6 @@
             <guid isPermaLink="false">1251844</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 20:18:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live! Löwen - Balingen und 2. HBL]]></title>
-            <description><![CDATA[In der Handball-Bundesliga spielen heute die Rhein-Neckar Löwen gegen den HBW Balingen-Weilstetten. Unterdessen fliegt auch in der 2. HBL der Ball. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 16:00:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Verletzungsticker: Suton-Schock, Sagosen-Ausfall]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1250646</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 04:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darum wurde Gidsel zum Pizzabäcker]]></title>
-            <description><![CDATA[Mathias Gidsel ist das Gesicht im modernen Handball. Das weckt Begehrlichkeiten, weswegen der Welthandballer nun sogar als Pizzabäcker in Aktion trat. Was dahintersteckt.]]></description>
-            <link>https://www.handball-world.news/artikel/darum-wurde-gidsel-zum-pizzabaecker-1250645</link>
-            <guid isPermaLink="false">1250645</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 03:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Im Video: Diskussionsstoff bei Remis zwischen Wetzlar und Eisenach]]></title>
-            <description><![CDATA[Unentschieden zwischen der HSG Wetzlar und dem ThSV Eisenach am 3. Spieltag der Handball-Bundesliga: Insbesondere ein weggepfiffenes Tor der Mittelhessen sorgt für Diskussionsstoff.]]></description>
-            <link>https://www.handball-world.news/videos/im-video-diskussionsstoff-bei-remis-zwischen-wetzlar-und-eisenach-1250695</link>
-            <guid isPermaLink="false">1250695</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 07:18:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Atemloser Endspurt: Wetzlar und Eisenach zeigen bei Remis zwei Gesichter]]></title>
-            <description><![CDATA[Das Spiel zwischen der HSG Wetzlar und dem ThSV Eisenach war wie erwartet intensiv. Beide Teams hatten in der jungen Saison noch nicht gepunktet. Nach 60 Minuten steht ein Unentschieden. Der Weg dahin war für beide Teams steinig - und bei Eisenach von einer Steigerung nach der Pause geprägt.]]></description>
-            <link>https://www.handball-world.news/spiel/wetzlar-gegen-eisenach-2026-handball-bundesliga-5213770/bericht</link>
-            <guid isPermaLink="false">1250655</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 13:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL Kompakt: Zittersiege für Füchse, Kiel und SCM, Remis in Wetzlar]]></title>
-            <description><![CDATA[Die Handball-Bundesliga schließt die englische Woche mit dem 3. Spieltag. Die SG Flensburg-Handewitt übernahm zumindest für eine Nacht die Spitze, doch der THW Kiel konnte kontern. Den ersten Sieg holten die Rhein-Neckar Löwen, sieglos bleiben hingegen Hamburg, Erlangen und der BHC. Balingen hatte Magdeburg am Rand einer Niederlage. Am Montag gab es für Wetzlar und Eisenach den ersten Punkt.]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-zittersiege-fuer-fuechse-kiel-und-scm-remis-in-wetzlar-1250045</link>
-            <guid isPermaLink="false">1250045</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 08:03:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
