@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 12 Sep 2026 16:35:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 18:40:59 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Sep 2026 16:35:41 GMT</pubDate>
+        <pubDate>Sat, 12 Sep 2026 18:40:59 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[1. HBF: Buxtehude knapp, THC problemlos]]></title>
+            <description><![CDATA[Borussia Dortmund bleibt weiterhin mit weißer Weste in der Handball-Bundesliga der Frauen. Das Topspiel bei der HSG Bensheim/Auerbach gewann der BVB mit 31:26. Auch die HSG Blomberg-Lippe konnte ihre weiße Weste mit einem 31:25 beim SV Union Halle-Neustadt wahren. Am Samstag gewann Buxtehude knapp, der Thüringer HC hatte keine Probleme.]]></description>
+            <link>https://www.handball-world.news/artikel/1-hbf-buxtehude-knapp-thc-problemlos-1251055</link>
+            <guid isPermaLink="false">1251055</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 18:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gegen Kiel: Recken ohne Uscins]]></title>
+            <description><![CDATA[Die TSV Hannover-Burgorf tritt heute zum schweren Handball-Auswärtsspiel beim THW Kiel an. Die Recken müssen dabei auf Renars Uscins verzichten.]]></description>
+            <link>https://www.handball-world.news/artikel/gegen-kiel-recken-ohne-uscins-1252051</link>
+            <guid isPermaLink="false">1252051</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 17:07:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blomberg unterliegt auch im zweiten Champions-League-Spiel]]></title>
+            <description><![CDATA[Zum zweiten EHF-Champions-League-Spiel der HSG Blomberg-Lippe war Storhamar Handball Elite zu Gast in der Lemgoer Phoenix Contact Arena. Nachdem beide Handball-Teams mit einer Niederlage in die neue Saison gestartet waren, setzte sich Storhamar mit 27:23 (10:9) durch.]]></description>
+            <link>https://www.handball-world.news/spiel/blomberg-lippe-gegen-storhamar-he-2026-handball-champions-league-frauen-5249721/bericht</link>
+            <guid isPermaLink="false">1252043</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 12 Sep 2026 16:34:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live! Kiel - Hannover und 2. HBL]]></title>
             <description><![CDATA[In der Handball-Bundesliga empfängt heute der THW Kiel die TSV Hannover-Burgdorf. Unterdessen fliegt auch in der 2. HBL der Ball. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
@@ -746,14 +770,6 @@
             <pubDate>Thu, 10 Sep 2026 06:08:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[1. HBF: Dortmund und Blomberg marschieren]]></title>
-            <description><![CDATA[Borussia Dortmund bleibt weiterhin mit weißer Weste in der Handball-Bundesliga der Frauen. Das Topspiel bei der HSG Bensheim/Auerbach gewann der BVB mit 31:26. Auch die HSG Blomberg-Lippe konnte ihre weiße Weste mit einem 31:25 beim SV Union Halle-Neustadt wahren.]]></description>
-            <link>https://www.handball-world.news/artikel/1-hbf-dortmund-und-blomberg-marschieren-1251055</link>
-            <guid isPermaLink="false">1251055</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 18:45:44 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sole rettet PSG das Remis in Aalborg]]></title>
             <description><![CDATA[Erster Rückschlag für Aalborg Handbold im neuen Modus der EHF Champions League. Im Topspiel am ersten Spieltag trennte man sich mit 33:33 (16:18). Sole rettete PSG das Remis mit einem Siebenmeter nach Ablauf der regulären Spielzeit. Beide Teams konnten ihre herausgespielten Führungen nicht ins Ziel bringen.]]></description>
             <link>https://www.handball-world.news/spiel/aalborg-ab-gegen-paris-sg-2026-ehf-champions-league-5249822/bericht</link>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1248389</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 08 Sep 2026 06:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aufregung um Zeitspiel: "Können wir niemals wahrnehmen"]]></title>
-            <description><![CDATA[Zwischen der HSG Wetzlar und dem ThSV Eisenach kam es am Montagabend zu einem Handball-Aufreger rund um die Pässe eines Zeitspiels. Beide Seiten wunderten sich über die Schiedsrichterentscheidung.]]></description>
-            <link>https://www.handball-world.news/artikel/aufregung-um-zeitspiel-koennen-wir-niemals-wahrnehmen-1250719</link>
-            <guid isPermaLink="false">1250719</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 07:08:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darum rät Dujshebaev zum Wechsel in die Bundesliga]]></title>
-            <description><![CDATA[Acht Jahre war die Familie Dujshebaev gemeinsam in Kielce, am Samstag kam es in Gummersbach zum Brüderduell. Der ältere Alex empfing mit dem VfL seinen Bruder Dani und die MT Melsungen. Vor Ort war auch Vater Talant, mittlerweile Nationaltrainer von Frankreich. Die Trainerlegende verriet, warum so viele Stars in die Bundesliga kommen.]]></description>
-            <link>https://www.handball-world.news/artikel/darum-raet-dujshebaev-zum-wechsel-in-die-bundesliga-1250646</link>
-            <guid isPermaLink="false">1250646</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 08 Sep 2026 04:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
