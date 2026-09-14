@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 18:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 22:03:11 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 18:39:09 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 22:03:11 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[2. HBL: Potsdam gewinnt Montagsspiel in Emsdetten]]></title>
+            <description><![CDATA[Riesen-Überraschung am 3. Spieltag der 2. Handball-Bundesliga haben: Absteiger GWD Minden unterlag am Soinntagabend Aufsteiger Hamm-Westfalen. Die Top-Teams VfL Eintracht Hagen und HC Elbflorenz Dresden lösten ihre Aufgaben - wenn auch auf ganz unterschiedliche Art und Weise. Der TV Großwallstadt wartet weiter auf den ersten Punkt. Der SC DHfK Leipzig bleibt knapp ohne Punktverlust - ebenso Potsdam nach dem Sieg in Emsdetten. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbl-potsdam-gewinnt-montagsspiel-in-emsdetten-1251846</link>
+            <guid isPermaLink="false">1251846</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 19:56:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Noch 80 Tage: Der Spielplan der Frauen-EM 2026]]></title>
             <description><![CDATA[In 80 Tagen geht's los: Die Handball-Europameisterschaft der Frauen 2026 findet vom 3. bis 20. Dezember in Polen, Rumänien, Tschechien, der Slowakei und der Türkei statt. Ein Blick auf den Spielplan:]]></description>
@@ -282,14 +290,6 @@
             <pubDate>Sun, 13 Sep 2026 18:03:05 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2. HBL: Hamm schlägt Minden]]></title>
-            <description><![CDATA[Riesen-Überraschung am 3. Spieltag der 2. Handball-Bundesliga haben: Absteiger GWD Minden unterlag am Soinntagabend Aufsteiger Hamm-Westfalen. Die Top-Teams VfL Eintracht Hagen und HC Elbflorenz Dresden lösten ihre Aufgaben - wenn auch auf ganz unterschiedliche Art und Weise. Der TV Großwallstadt wartet weiter auf den ersten Punkt. Der SC DHfK Leipzig bleibt knapp ohne Punktverlust. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbl-hamm-schlaegt-minden-1251846</link>
-            <guid isPermaLink="false">1251846</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 17:23:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[1. HBF: Leipzig und Zwickau weiter sieglos]]></title>
             <description><![CDATA[Borussia Dortmund bleibt weiterhin mit weißer Weste in der Handball-Bundesliga der Frauen. Das Topspiel bei der HSG Bensheim/Auerbach gewann der BVB mit 31:26. Auch die HSG Blomberg-Lippe konnte ihre weiße Weste mit einem 31:25 beim SV Union Halle-Neustadt wahren. Aufsteiger HC Leipzig und der BSV Sachsen-Zwickau warten hingegen weiter auf den ersten Sieg.]]></description>
             <link>https://www.handball-world.news/artikel/1-hbf-leipzig-und-zwickau-weiter-sieglos-1251055</link>
@@ -338,20 +338,20 @@
             <pubDate>Sun, 13 Sep 2026 14:58:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
-            <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
-            <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
-            <guid isPermaLink="false">1252253</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
             <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
             <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
             <guid isPermaLink="false">1252334</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
+            <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
+            <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
+            <guid isPermaLink="false">1252253</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wer hat die meisten Einsätze in der Bundesliga?]]></title>
