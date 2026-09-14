@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 13 Sep 2026 23:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 06:33:16 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Sep 2026 23:31:03 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 06:33:16 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Gidsel erstmals vorn: Die Top-Torschützen der HBL]]></title>
+            <description><![CDATA[Die Saison 2026/27 der Opel Handball-Bundesliga ist vier Spieltage alt. Wer hat die meisten Treffer erzielt? Ein Blick auf die Top-Torschützen der Liga:]]></description>
+            <link>https://www.handball-world.news/artikel/gidsel-erstmals-vorn-die-top-torschuetzen-der-hbl-1248389</link>
+            <guid isPermaLink="false">1248389</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 06:22:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Freihöfer nach Ludwig-Show: "Gönne es ihm von Herzen"]]></title>
+            <description><![CDATA[Lasse Ludwig führte die Füchse Berlin am Sonntagabend zu einem Handball-Sieg über den VfL Gummersbach. Seinen Freund und Mitspieler Tim Freihöfer freute das enorm.]]></description>
+            <link>https://www.handball-world.news/artikel/freihoefer-nach-ludwig-show-goenne-es-ihm-von-herzen-1252509</link>
+            <guid isPermaLink="false">1252509</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 06:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vom emotionalen Spieler zum analytischen Trainer: Wie sich Flohr neu erfand]]></title>
+            <description><![CDATA[Als Spieler lebte Matti Flohr von Emotionen, als Trainer musste er lernen, sie auch einmal beiseitezuschieben. Der Coach des HBW Balingen-Weilstetten spricht über seinen Wandel, eine prägende Station in Dormagen und die Idee hinter seinem Handball.]]></description>
+            <link>https://www.handball-world.news/artikel/vom-emotionalen-spieler-zum-analytischen-trainer-wie-sich-flohr-neu-erfand-1251752</link>
+            <guid isPermaLink="false">1251752</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 04:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Im Video: Füchse Berlin mit 8:0-Lauf gegen VfL Gummersbach]]></title>
             <description><![CDATA[Die Füchse Berlin setzten sich dank Lasse Ludwig mit einem 8:0-Lauf schon früh vom VfL Gummersbach ab. Dieses Polster reichte ihnen bis zum Schluss. Der Gast ließ sich nie ganz abschütteln, kam aber auch nicht gefährlich nah. Am Ende stand ein 33:28 auf der Anzeigetafel.]]></description>
@@ -114,20 +138,20 @@
             <pubDate>Sun, 13 Sep 2026 14:58:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
-            <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
-            <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
-            <guid isPermaLink="false">1252253</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
             <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
             <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
             <guid isPermaLink="false">1252334</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
+            <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
+            <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
+            <guid isPermaLink="false">1252253</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wer hat die meisten Einsätze in der Bundesliga?]]></title>
@@ -479,7 +503,7 @@
             <link>https://www.handball-world.news/artikel/sommer-2026-die-wechsel-in-der-2-hbf-1195712</link>
             <guid isPermaLink="false">1195712</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 10:12:04 GMT</pubDate>
+            <pubDate>Mon, 14 Sep 2026 06:24:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pfattheicher: Balinger Niederlage in Mannheim "mega bitter"]]></title>
@@ -607,7 +631,7 @@
             <link>https://www.handball-world.news/artikel/sommer-2026-die-wechsel-in-der-handball-bundesliga-frauen-1181486</link>
             <guid isPermaLink="false">1181486</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 13:13:01 GMT</pubDate>
+            <pubDate>Mon, 14 Sep 2026 06:25:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schwierige Erlangen-Vorbereitung: Erkältungswelle beim BHC]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1251074</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 09 Sep 2026 10:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Champions League 2026/27: Diese Teams sind neu]]></title>
-            <description><![CDATA[Zur Saison 2026/27 gibt es einige neue Mannschaften in der EHF Champions League. Viele sind Rückkehrer, drei Handball-Klubs feiern jedoch ihre Premiere.]]></description>
-            <link>https://www.handball-world.news/artikel/champions-league-2026-27-diese-teams-sind-neu-1250767</link>
-            <guid isPermaLink="false">1250767</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 10:00:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dauerkarten-Rekord: Euphorie um TV Gelnhausen hält an]]></title>
-            <description><![CDATA[Der Handball-Drittligist TV Gelnhausen erlebt gerade einen Aufschwung. Was steckt hinter dem Höhenflug der Barbarossastädter?]]></description>
-            <link>https://www.handball-world.news/artikel/dauerkarten-rekord-euphorie-um-tv-gelnhausen-haelt-an-1251019</link>
-            <guid isPermaLink="false">1251019</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 09:37:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die Schiedsrichter-Ansetzungen der HBL]]></title>
-            <description><![CDATA[4. Spieltag in der Handball-Bundesliga 2026/27: Die Schiedsrichter-Ansetzungen in der Übersicht.]]></description>
-            <link>https://www.handball-world.news/artikel/die-schiedsrichter-ansetzungen-der-hbl-1142712</link>
-            <guid isPermaLink="false">1142712</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 09:18:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
