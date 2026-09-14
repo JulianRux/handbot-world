@@ -4,11 +4,59 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 14 Sep 2026 13:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Sep 2026 18:39:09 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Sep 2026 13:15:36 GMT</pubDate>
+        <pubDate>Mon, 14 Sep 2026 18:39:09 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Noch 80 Tage: Der Spielplan der Frauen-EM 2026]]></title>
+            <description><![CDATA[In 80 Tagen geht's los: Die Handball-Europameisterschaft der Frauen 2026 findet vom 3. bis 20. Dezember in Polen, Rumänien, Tschechien, der Slowakei und der Türkei statt. Ein Blick auf den Spielplan:]]></description>
+            <link>https://www.handball-world.news/artikel/noch-80-tage-der-spielplan-der-frauen-em-2026-1211213</link>
+            <guid isPermaLink="false">1211213</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:41:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Von Hangstein bis Schluroff: Die Top-Torschützen der 18 Bundesligisten]]></title>
+            <description><![CDATA[Miro Schluroff, Mathias Gidsel und Felix Aellen sind derzeit die besten Torschützen der Handball-Bundesliga. Doch wer sind die besten Torschützen der einzelnen Teams? Der Blick auf die 18 Bundesligisten.]]></description>
+            <link>https://www.handball-world.news/slideshow/von-hangstein-bis-schluroff-die-top-torschuetzen-der-18-bundesligisten-1249755</link>
+            <guid isPermaLink="false">1249755</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Füchse Berlin setzen für den Erfolg auf ein Torhüter-Jobsharing]]></title>
+            <description><![CDATA[Die Füchse haben keine klare Nummer Eins im Tor. Gegen Gummersbach überragte Lasse Ludwig, zuvor durfte auch Andreas Palicka viele Spielanteile sammeln. Wer am Mittwoch in der Champions League gegen Veszprém im Tor stehen wird, ist aber dennoch offen.]]></description>
+            <link>https://www.handball-world.news/artikel/fuechse-berlin-setzen-fuer-den-erfolg-auf-ein-torhueter-jobsharing-1252697</link>
+            <guid isPermaLink="false">1252697</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 14:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wie geht's ab Sommer weiter? a Skipagötu äußert sich]]></title>
+            <description><![CDATA[Das Gerüst beim THW Kiel für die kommenden Jahre steht, einer der sechs auslaufenden Verträge betrifft allerdings Spielmacher Elias Ellefsen a Skipagötu. Um den Färinger gibt es Wechselgerüchte, nun hat er sich selbst geäußert.]]></description>
+            <link>https://www.handball-world.news/artikel/wie-geht-s-ab-sommer-weiter-a-skipagoetu-aeussert-sich-1252689</link>
+            <guid isPermaLink="false">1252689</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 14:32:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aufsteigerin vorne: Die Top-Torschützinnen der 2. HBF]]></title>
+            <description><![CDATA[Die Spielzeit in der 2. Handball-Bundesliga der Frauen ist gestartet und eine Spielerin Aufsteiger SV Todefelde konnte sich fast erwartungsgemäß an die Spitze setzen.]]></description>
+            <link>https://www.handball-world.news/artikel/aufsteigerin-vorne-die-top-torschuetzinnen-der-2-hbf-1250537</link>
+            <guid isPermaLink="false">1250537</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 13:40:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pick Szeged mit Ligapleite in Ungarn]]></title>
+            <description><![CDATA[One Veszprem HC und Pick Szeged sind eigentlich der Konkurrenz in Ungarn voraus. Die Meisterschaft wird meist in den direkten Duellen entschieden. Doch Szeged kassierte nun die erste Liganiederlage.]]></description>
+            <link>https://www.handball-world.news/artikel/pick-szeged-mit-ligapleite-in-ungarn-1252683</link>
+            <guid isPermaLink="false">1252683</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 13:24:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kriminiederlage in Coburg: Ferndorf-Coach sieht "ganz viele Ansätze"]]></title>
             <description><![CDATA[In buchstäblich letzter Sekunde war die erste Saisonniederlage für den TuS Ferndorf besiegelt. Gegner HSC 2000 Coburg konnte hingegen mit dem Buzzerbeater zum 31:30-Heimsieg erstmals punkten.]]></description>
@@ -26,12 +74,20 @@
             <pubDate>Mon, 14 Sep 2026 12:37:26 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Schwere Suton-Verletzung: Holt Lemgo jetzt Ersatz?]]></title>
+            <description><![CDATA[Der TBV Lemgo Lippe steht nach der schweren Verletzung von Tim Suton vor einer personellen Herausforderung. Gut möglich, dass der Handball-Bundesligist jetzt nochmal auf dem Transfermarkt aktiv wird.]]></description>
+            <link>https://www.handball-world.news/artikel/schwere-suton-verletzung-holt-lemgo-jetzt-ersatz-1252644</link>
+            <guid isPermaLink="false">1252644</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 14 Sep 2026 15:00:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Lauge übt harte Schiedsrichter-Kritik trotz Remis gegen Aalborg]]></title>
             <description><![CDATA[Dänemarks Ligaprimus musste den nächsten Punktverlust hinnehmen. Nach dem 30:30 bei Bjerringbro-Silkeborg ist man nur Vierter, doch Kritik gab es nach der Partie von BSH-Routinier Rasmus Lauge.]]></description>
             <link>https://www.handball-world.news/spiel/bjerringbro-silkeborg-gegen-aalborg-ab-2026-bambuni-herreligaen-5243832/bericht</link>
             <guid isPermaLink="false">1252634</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 12:03:46 GMT</pubDate>
+            <pubDate>Mon, 14 Sep 2026 13:44:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dritte Niederlage: Das fehlt HC Leipzig noch in der 1. Liga]]></title>
@@ -282,20 +338,20 @@
             <pubDate>Sun, 13 Sep 2026 14:58:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
-            <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
-            <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
-            <guid isPermaLink="false">1252334</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
             <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
             <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
             <guid isPermaLink="false">1252253</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
+            <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
+            <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
+            <guid isPermaLink="false">1252334</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wer hat die meisten Einsätze in der Bundesliga?]]></title>
@@ -1152,62 +1208,6 @@
             <guid isPermaLink="false">1248648</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 07:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[20 Lepschi-Paraden: Blomberg verteidigt Tabellenführung]]></title>
-            <description><![CDATA[Zum ersten Auswärtsauftritt in der Handball Bundesliga Frauen gastierte die HSG Blomberg-Lippe beim SV Union Halle-Neustadt. Dank der überragenden Lara Lepschi bleibt die HSG an der Tabellenspitze.]]></description>
-            <link>https://www.handball-world.news/spiel/halle-neustadt-gegen-blomberg-lippe-2026-handball-frauen-bundesliga-5243995/bericht</link>
-            <guid isPermaLink="false">1251328</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 07:02:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erst Rot, dann Spielunterbrechung: Mahrs Buzzerbeater sichert Potsdam-Sieg]]></title>
-            <description><![CDATA[Der 1. VfL Potsdam hat im Nachholspiel vom 2. Spieltag seine weiße Weste gewahrt. Im Heimspiel gegen den zuvor ebenfalls mit einem Sieg gestarteten TV Hüttenberg sorgte Markus Mahr für den entscheidenden Treffer zum 33:32 (15:16).]]></description>
-            <link>https://www.handball-world.news/spiel/potsdam-gegen-huettenberg-2026-handball-bundesliga-5214062/bericht</link>
-            <guid isPermaLink="false">1251327</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 06:39:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Einstand nach Maß: Wiegert "rundum zufrieden"]]></title>
-            <description><![CDATA[Der SC Magdeburg hat sein erstes Handball-Champions-League-Spiel 2026/27 mit Bravour gemeistert. Bennet Wiegert und Dominik Kuzmanovic waren entsprechend glücklich über die Leistung.]]></description>
-            <link>https://www.handball-world.news/artikel/einstand-nach-mass-wiegert-rundum-zufrieden-1251322</link>
-            <guid isPermaLink="false">1251322</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 06:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beim CL-Auftakt: 18-Jähriger wirft elf Tore]]></title>
-            <description><![CDATA[RK Celje ist mit einer knappen 29:31-Niederlage bei RK Zagreb in die neue Handball-Champions-League-Saison gestartet. Bei den Slowenen überragte ein 18-Jähriger, der bereits vor einigen Wochen auf sich aufmerksam machte.]]></description>
-            <link>https://www.handball-world.news/artikel/beim-cl-auftakt-18-jaehriger-wirft-elf-tore-1251319</link>
-            <guid isPermaLink="false">1251319</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 06:05:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Kein Wasser" und nur "sporadisch Strom" bei DHB-Torwart Späth]]></title>
-            <description><![CDATA[Handball-Profis und ein Leben im Glamour? Keineswegs. Zumindest aktuell bei Nationaltorhüter David Späth. Warum das so ist und wie er aktuell lebt, das verriet der Schlussmann der Rhein-Neckar Löwen nun.]]></description>
-            <link>https://www.handball-world.news/artikel/kein-wasser-und-nur-sporadisch-strom-bei-dhb-torwart-spaeth-1251090</link>
-            <guid isPermaLink="false">1251090</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 04:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Große Namen: Diese Stars fehlen in der Champions League]]></title>
-            <description><![CDATA[Eine neue Saison der EHF Champions League steht in den Startlöchern: Europas größte Handballbühne verspricht wieder Duelle der besten Teams und größten Namen des Sports. Doch während neue Stars ins Rampenlicht treten, werden in dieser Saison auch einige prominente Gesichter fehlen.]]></description>
-            <link>https://www.handball-world.news/slideshow/grosse-namen-diese-stars-fehlen-in-der-champions-league-1250790</link>
-            <guid isPermaLink="false">1250790</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 04:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kuzmanovic und Thielicke glänzen beim Debüt: SCM zeigt Kolstad die Grenzen auf]]></title>
-            <description><![CDATA[Der SC Magdeburg ist im ersten Saisonspiel der Champions League gegen Kolstad dominant aufgetreten und siegte letztlich deutlich mit 37:22 (19:12). Norwegens Meister war zwischenzeitlich überfordert, hatte nur Mitte der ersten Halbzeit eine starke Phase. Ein gelungenes Debüt in der Königsklasse feierten Dominik Kuzmanovic und Youngster Tim Thielicke.]]></description>
-            <link>https://www.handball-world.news/spiel/magdeburg-gegen-kolstad-2026-ehf-champions-league-5249828/bericht</link>
-            <guid isPermaLink="false">1251243</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 09 Sep 2026 20:30:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
