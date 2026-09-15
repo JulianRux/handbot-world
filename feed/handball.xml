@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 15 Sep 2026 00:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 05:05:06 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 15 Sep 2026 00:26:15 GMT</pubDate>
+        <pubDate>Tue, 15 Sep 2026 05:05:06 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Wie Suton und Sauter: Diese HBL-Stars kamen nach Kreuzbandriss zurück]]></title>
+            <description><![CDATA[Die schweren Knieverletzungen von Moritz Sauter und Tim Suton überschatten den Bundesligaauftakt. Während Sauter nach seinem ersten Kreuzbandriss noch am Anfang des langen Weges zurück steht, kennt Suton diesen bereits aus eigener Erfahrung und hat ihn schon zweimal gemeistert. Diese HBL-Stars zeigen, dass ein Kreuzbandriss eine Karriere ausbremsen, aber nicht zwangsläufig stoppen kann:]]></description>
+            <link>https://www.handball-world.news/slideshow/wie-suton-und-sauter-diese-hbl-stars-kamen-nach-kreuzbandriss-zurueck-1252593</link>
+            <guid isPermaLink="false">1252593</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 03:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2. HBL: Potsdam gewinnt Montagsspiel in Emsdetten]]></title>
             <description><![CDATA[Riesen-Überraschung am 3. Spieltag der 2. Handball-Bundesliga haben: Absteiger GWD Minden unterlag am Soinntagabend Aufsteiger Hamm-Westfalen. Die Top-Teams VfL Eintracht Hagen und HC Elbflorenz Dresden lösten ihre Aufgaben - wenn auch auf ganz unterschiedliche Art und Weise. Der TV Großwallstadt wartet weiter auf den ersten Punkt. Der SC DHfK Leipzig bleibt knapp ohne Punktverlust - ebenso Potsdam nach dem Sieg in Emsdetten. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
@@ -112,6 +120,14 @@
             <guid isPermaLink="false">1241133</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 11:06:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wegen Sauter und Suton: Wie lange ist das Transferfenster offen?]]></title>
+            <description><![CDATA[Sowohl der HC Hamburg als auch der TBV Lemgo Lippe müssen in den kommenden Monaten auf einen wichtigen Rückraumspieler verzichten. Beide Klubs wollen mitten in der Saison personell nachbessern. Aber wie lang geht das eigentlich noch?]]></description>
+            <link>https://www.handball-world.news/artikel/wegen-sauter-und-suton-wie-lange-ist-das-transferfenster-offen-1252612</link>
+            <guid isPermaLink="false">1252612</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 15 Sep 2026 04:00:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schweizerin vorne, Deutsche beste Feldtorschützin: Die Top-Torschützinnen der HBF]]></title>
@@ -338,20 +354,20 @@
             <pubDate>Sun, 13 Sep 2026 14:58:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
-            <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
-            <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
-            <guid isPermaLink="false">1252334</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
             <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
             <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
             <guid isPermaLink="false">1252253</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
+            <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
+            <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
+            <guid isPermaLink="false">1252334</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wer hat die meisten Einsätze in der Bundesliga?]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1251372</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 10 Sep 2026 08:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Können trotzdem stolz sein": Kriens-Luzern mit knapper Niederlage in Kielce]]></title>
-            <description><![CDATA[Der HC Kriens-Luzern zeigte sich im ersten Spiel in der Königsklasse konkurrenzfähig, am Ende musste man sich Industria Kielce mit 29:30 hauchdünn geschlagen geben. Auch Polens Meister war erleichtert.]]></description>
-            <link>https://www.handball-world.news/spiel/kielce-gegen-kriens-luzern-2026-ehf-champions-league-5249829/bericht</link>
-            <guid isPermaLink="false">1251353</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 07:49:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Linkshänder an der Spitze: Die Top-Torschützen der 2. HBL]]></title>
-            <description><![CDATA[Zwei Spieltage sind in der 2. Handball-Bundesliga 2026/27 absolviert. Wer sind die Top-Torschützen der Liga?]]></description>
-            <link>https://www.handball-world.news/artikel/linkshaender-an-der-spitze-die-top-torschuetzen-der-2-hbl-1248648</link>
-            <guid isPermaLink="false">1248648</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 10 Sep 2026 07:26:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
