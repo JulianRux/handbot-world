@@ -4,11 +4,43 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 16:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 22:19:30 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 16:44:48 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 22:19:30 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[CL kompakt: Krimi in Skopje, PSG mit Mühe]]></title>
+            <description><![CDATA[Am 2. Spieltag der EHF Handball Champions League feierten Sporting, Veszprem und Kielce ungefährdete Siege. Bei GOG gegen Szeged und Skopje gegen Nantes sollte die Entscheidung erst in der letzten Minute fallen, auch Paris tat sich gegen Zagreb lange schwer.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-krimi-in-skopje-psg-mit-muehe-1253345</link>
+            <guid isPermaLink="false">1253345</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 21:03:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gidsel wehrt sich: Veszprem lässt Füchsen keine Chance]]></title>
+            <description><![CDATA[Die Füchse Berlin mussten sich am 2. Spieltag der EHF Handball Champions League dem One Veszprem HC geschlagen geben. Nach einer Schwächephase kratzten die Berliner angeführt von Mathias Gidsel am Comeback, waren im Endeffekt jedoch chancenlos gegen stark eingestellte Ungarn.]]></description>
+            <link>https://www.handball-world.news/spiel/berlin-gegen-veszprem-2026-ehf-champions-league-5249831/bericht</link>
+            <guid isPermaLink="false">1253325</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 20:59:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live! Veszprem dominiert Füchse]]></title>
+            <description><![CDATA[In der Champions League treffen heute die Füchse Berlin auf Titel-Aspirant One Veszprem HC. Auch in der Frauen-Bundesliga fliegt der Ball. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 19:43:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1. HBF: Blomberg und Dortmund marschieren weiter]]></title>
+            <description><![CDATA[Am 4. Spieltag der Handball-Bundesliga Frauen haben die Meisterschaftskandidaten HSG Blomberg-Lippe und Borussia Dortmund ihre Pflichtaufgaben souverän gelöst. Auch der VfL Oldenburg fuhr einen letztlich ungefährdeten Sieg ein.]]></description>
+            <link>https://www.handball-world.news/artikel/1-hbf-blomberg-und-dortmund-marschieren-weiter-1253329</link>
+            <guid isPermaLink="false">1253329</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 19:41:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Die Schiedsrichter-Ansetzungen in 1. und 2. Frauen-Bundesliga]]></title>
             <description><![CDATA[In der 1. HBF wird der 4. Spieltag absolviert und der hält gleich drei Duelle am Mittwoch bereit. Der Rest der Liga spielt am Samstag. Im Unterhaus gibt es ein Sonntagsspiel. Einen doppelten Einsatz haben Nicolas Jaros und Felix Funk. Die Schiedsrichter-Ansetzungen der Woche.]]></description>
@@ -16,14 +48,6 @@
             <guid isPermaLink="false">1251047</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 16:18:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live! CL mit Berlin - Veszprem]]></title>
-            <description><![CDATA[In der Champions League treffen heute die Füchse Berlin auf Titel-Aspirant One Veszprem HC. Auch in der Frauen-Bundesliga fliegt der Ball. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 16:00:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Österreich lädt zur Talentsichtung: Sechs HBL-Legionäre dabei]]></title>
@@ -794,20 +818,20 @@
             <pubDate>Sun, 13 Sep 2026 14:58:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
-            <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
-            <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
-            <guid isPermaLink="false">1252334</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
             <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
             <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
             <guid isPermaLink="false">1252253</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
+            <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
+            <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
+            <guid isPermaLink="false">1252334</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wer hat die meisten Einsätze in der Bundesliga?]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1251933</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 12 Sep 2026 08:59:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dortmund vor nächster Königsklassen-Hürde]]></title>
-            <description><![CDATA[Nach dem überzeugenden Sieg in Bensheim wartet auf Borussia Dortmund die nächste schwere Aufgabe, diesmal in der Königsklasse. Beim Weltklasse-Team Brest Bretagne will der BVB zeigen, dass er aus dem Auftakt gegen Esbjerg gelernt hat.]]></description>
-            <link>https://www.handball-world.news/artikel/dortmund-vor-naechster-koenigsklassen-huerde-1251934</link>
-            <guid isPermaLink="false">1251934</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 08:28:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Wir haben gebrannt": Späth erklärt Löwen-Comeback]]></title>
-            <description><![CDATA[Die Rhein-Neckar Löwen lagen beim Aufsteiger HBW Balingen-Weilstetten zwischenzeitlich deutlich zurück, bewiesen aber Moral und drehten die Partie. David Späth lobte nach der Partie den Kampfgeist seiner Mannschaft, fand jedoch auch lobende Worte für den Gegner.]]></description>
-            <link>https://www.handball-world.news/artikel/wir-haben-gebrannt-spaeth-erklaert-loewen-comeback-1251927</link>
-            <guid isPermaLink="false">1251927</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 10:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball am Samstag: Frauen-CL, HBL, HBF und zweite Ligen]]></title>
-            <description><![CDATA[Der Samstag hält einige spannende Partien bereit. Während Blomberg und Dortmund in der Champions League gefordert sind, stehen auch in den nationalen Ligen bei Männern und Frauen interessante Duelle an. Unter anderem wartet auf den THW Kiel gegen die Recken ein erster Härtetest.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-samstag-frauen-cl-hbl-hbf-und-zweite-ligen-1251920</link>
-            <guid isPermaLink="false">1251920</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 07:48:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
