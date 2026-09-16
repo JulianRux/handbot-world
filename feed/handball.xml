@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 16 Sep 2026 01:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2026 06:45:59 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 16 Sep 2026 01:39:44 GMT</pubDate>
+        <pubDate>Wed, 16 Sep 2026 06:45:59 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Ex-Bietigheimerin Woller legt Handball-Pause ein]]></title>
+            <description><![CDATA[Fie Woller sorgt abseits des Handball-Feldes für freudige Nachrichten. Die ehemalige Bietigheimerin steht vor einem ganz besonderen neuen Lebensabschnitt.]]></description>
+            <link>https://www.handball-world.news/artikel/ex-bietigheimerin-woller-legt-handball-pause-ein-1252910</link>
+            <guid isPermaLink="false">1252910</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 06:24:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seit 2000: Die Torschützenkönige der Champions League]]></title>
+            <description><![CDATA[Von Legenden bis zum aktuellen Titelverteidiger Mathias Gidsel: Die Torschützenkönige der EHF Champions League seit 2000/01.]]></description>
+            <link>https://www.handball-world.news/slideshow/seit-2000-die-torschuetzenkoenige-der-champions-league-1251040</link>
+            <guid isPermaLink="false">1251040</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 06:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die größten Stars von Füchse-Gegner Veszprem]]></title>
+            <description><![CDATA[Der Traum vom Gewinn der EHF Champions League lebt und der Hunger ist im 50-jährigen Bestehen des Klubs so groß wie lange nicht. Daher hat Veszprem auf dem Transfermarkt noch einmal kräftig investiert und drei hochkarätige Neuzugänge verpflichtet. handball-world wirft vor dem Duell mit den Füchsen Berlin einen Blick auf die größten Stars von Ungarns Ligaprimus.]]></description>
+            <link>https://www.handball-world.news/slideshow/die-groessten-stars-von-fuechse-gegner-veszprem-1252816</link>
+            <guid isPermaLink="false">1252816</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 16 Sep 2026 04:00:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Noch 120 Tage: Der Spielplan der Heim-WM 2027]]></title>
             <description><![CDATA[Ab dem 13. Januar 2027 findet in Deutschland die Handball-WM 2027 statt. Der Titel wird am 31. Januar vergeben. Das DHB-Team spielt die Vorrunde in München. Ein Blick auf den Spielplan des Turniers:]]></description>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1247433</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 11 Sep 2026 12:10:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schagens Knieprobleme: "Für Handball reicht's noch nicht"]]></title>
-            <description><![CDATA[Bobby Schagen laboriert seit einiger Zeit an Knieproblemen. Nun sprach der Lemgoer Handballer über den aktuellen Stand.]]></description>
-            <link>https://www.handball-world.news/artikel/schagens-knieprobleme-fuer-handball-reicht-s-noch-nicht-1251568</link>
-            <guid isPermaLink="false">1251568</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 04:00:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ist das noch Handball oder ist das schon Basketball?]]></title>
-            <description><![CDATA[Handball lebt von Härte, Kontakt und Abwehrarbeit. Doch nach der Roten Karte zuletzt gegen Lukas Zerbe stellt sich wieder die Frage: Schützen wir die Spieler gerade besser - oder pfeifen wir dem Sport Stück für Stück seine Körperlichkeit weg?]]></description>
-            <link>https://www.handball-world.news/artikel/ist-das-noch-handball-oder-ist-das-schon-basketball-1251082</link>
-            <guid isPermaLink="false">1251082</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 08:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die 15 größten Vertrags-Fragezeichen der Bundesliga]]></title>
-            <description><![CDATA[Im kommenden Sommer laufen die Verträge einiger Stars aus. Ein Blick auf die 15 größten Vertrags-Fragezeichen der Handball-Bundesliga:]]></description>
-            <link>https://www.handball-world.news/slideshow/die-15-groessten-vertrags-fragezeichen-der-bundesliga-1251186</link>
-            <guid isPermaLink="false">1251186</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 11 Sep 2026 05:50:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
