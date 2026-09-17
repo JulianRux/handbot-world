@@ -4,18 +4,50 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 14:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 18:37:48 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 14:54:04 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 18:37:48 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Live! CL mit Melsungen und SCM, Südduell in HBL]]></title>
+            <description><![CDATA[In der Champions League sind heute die MT Melsungen und der SC Magdeburg gefordert. Die Nordhessen spielen in Plock, der SCM bei Kreins-Luzern Auch in der Bundesliga fliegt der Ball bei Göppingen gegen die Löwen. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 17:09:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympia-Bewerbung: Kommission wird Stellungnahme abgeben]]></title>
+            <description><![CDATA[In der kommenden Woche wird Deutschland über den Olympia-Bewerber für 2036, 2040 und 2044 entscheiden. Einen wichtigen Termin vor dem Votum gibt es schon vor der Wahl.]]></description>
+            <link>https://www.handball-world.news/artikel/olympia-bewerbung-kommission-wird-stellungnahme-abgeben-1253593</link>
+            <guid isPermaLink="false">1253593</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 15:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Große Überraschung: Sohn von Weltmeister Baur von Klopp nominiert]]></title>
+            <description><![CDATA[Damit hatte er selbst nicht gerechnet: Mika Baur, Sohn von Handball-Weltmeister Markus Baur, ist plötzlich Fußball-Nationalspieler. Jürgen Klopp nominierte den 22-Jährigen für seinen ersten Kader als Bundestrainer. Wie es dazu kam.]]></description>
+            <link>https://www.handball-world.news/artikel/grosse-ueberraschung-sohn-von-weltmeister-baur-von-klopp-nominiert-1253586</link>
+            <guid isPermaLink="false">1253586</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 15:25:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ankermann-Leihe? Szilagyi äußert sich]]></title>
+            <description><![CDATA[Weil Rasmus Ankermann beim THW Kiel derzeit nur wenig Spielzeit bekommt und sich bei anderen Bundesligisten Stammkräfte schwer verletzt haben, gibt es Gerüchte um eine mögliche Leihe des Kieler Top-Talents. Nun äußert sich THW-Geschäftsführer Viktor Szilagyi dazu.]]></description>
+            <link>https://www.handball-world.news/artikel/ankermann-leihe-szilagyi-aeussert-sich-1253612</link>
+            <guid isPermaLink="false">1253612</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 17:41:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Schock sitzt noch tief": Pregler äußert sich nach Verletzung]]></title>
             <description><![CDATA[Die Partie gegen den HC Hamburg war für Ole Pregler früh beendet. Nachdem Ben Matschke auf einer Pressekonferenz bereits über das vorzeitige Hinrunden-Aus sprach, äußerte sich nun auch der Rückraumspieler selbst.]]></description>
             <link>https://www.handball-world.news/artikel/schock-sitzt-noch-tief-pregler-aeussert-sich-nach-verletzung-1253591</link>
             <guid isPermaLink="false">1253591</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 14:33:01 GMT</pubDate>
+            <pubDate>Thu, 17 Sep 2026 15:15:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Oldenburg kippt Heimspiel gegen Neckarsulm mit 8:0-Lauf]]></title>
@@ -31,7 +63,7 @@
             <link>https://www.handball-world.news/artikel/gegen-kriens-luzern-kristjansson-trifft-auf-sein-vorbild-1253557</link>
             <guid isPermaLink="false">1253557</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 14:06:05 GMT</pubDate>
+            <pubDate>Thu, 17 Sep 2026 18:12:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nicht Schluroff: Er warf das härteste Tor der Liga]]></title>
@@ -224,14 +256,6 @@
             <guid isPermaLink="false">1253325</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 20:59:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live! Veszprem dominiert Füchse]]></title>
-            <description><![CDATA[In der Champions League treffen heute die Füchse Berlin auf Titel-Aspirant One Veszprem HC. Auch in der Frauen-Bundesliga fliegt der Ball. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 19:43:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1. HBF: Blomberg und Dortmund marschieren weiter]]></title>
@@ -1018,20 +1042,20 @@
             <pubDate>Sun, 13 Sep 2026 14:58:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
-            <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
-            <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
-            <guid isPermaLink="false">1252334</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
             <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
             <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
             <guid isPermaLink="false">1252253</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
+            <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
+            <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
+            <guid isPermaLink="false">1252334</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wer hat die meisten Einsätze in der Bundesliga?]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1251182</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 07:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Keine Ausrede": Fischer nach Niederlage bei seinem zukünftigen Klub]]></title>
-            <description><![CDATA[Die Recken haben am Samstagabend beim THW Kiel ihre erste Saisonniederlage kassiert. Nationalspieler Justus Fischer sah vor allem in der Defensive einen entscheidenden Unterschied.]]></description>
-            <link>https://www.handball-world.news/artikel/keine-ausrede-fischer-nach-niederlage-bei-seinem-zukuenftigen-klub-1252180</link>
-            <guid isPermaLink="false">1252180</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 07:23:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trotz Aufholjagd: Lübeck verpasst Überraschung in Leipzig]]></title>
-            <description><![CDATA[Ein starker Beginn und eine gute Crunchtime reichten am Ende für den VfL Lübeck-Schwartau gegen den Handball-Bundesligaabsteiger SC DHfK Leipzig nicht. Bei der 33:32-(16:14)-Niederlage fehlte nicht viel zu einer Überraschung.]]></description>
-            <link>https://www.handball-world.news/spiel/leipzig-gegen-lueb-schwartau-2026-handball-bundesliga-5214079/bericht</link>
-            <guid isPermaLink="false">1252133</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 06:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball am Sonntag: Fünfmal HBL, Auf- gegen Absteiger in 2. HBL]]></title>
-            <description><![CDATA[Der 4. Spieltag der Handball-Bundesliga wird heute mit fünf Spielen, unter anderem Füchse gegen Gummersbach, beendet. In der 2. HBL empfängt Aufsteiger Hamm Absteiger Minden. Hinzu kommen Spiele in der HBF, der Champions League der Frauen und in Dänemark.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-sonntag-fuenfmal-hbl-auf-gegen-absteiger-in-2-hbl-1252136</link>
-            <guid isPermaLink="false">1252136</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 06:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
