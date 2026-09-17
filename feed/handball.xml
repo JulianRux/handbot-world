@@ -4,11 +4,59 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 18:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 21:44:47 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 18:37:48 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 21:44:47 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[CL kompakt: Krimi in Montpellier und Plock, SCM mühelos]]></title>
+            <description><![CDATA[Am 2. Spieltag der EHF Handball Champions League feierten Sporting, Veszprem und Kielce ungefährdete Siege. Bei GOG gegen Szeged und Skopje gegen Nantes sollte die Entscheidung erst in der letzten Minute fallen, auch Paris tat sich gegen Zagreb lange schwer.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-krimi-in-montpellier-und-plock-scm-muehelos-1253345</link>
+            <guid isPermaLink="false">1253345</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 20:48:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bei historischem Heimspiel: Kriens-Luzern chancenlos gegen Magdeburg]]></title>
+            <description><![CDATA[Der HC Kriens-Luzern hatte bei seinem ersten Champions-League-Heimspiel der Vereinsgeschichte keine Chance auf einen Sieg. Der SC Magdeburg stellte beim 39:29-Sieg einmal mehr seine Klasse unter Beweis. Dabei kam ein SCM-Youngster zu seinem Debüt in der Königsklasse.]]></description>
+            <link>https://www.handball-world.news/spiel/kriens-luzern-gegen-magdeburg-2026-ehf-champions-league-5249840/bericht</link>
+            <guid isPermaLink="false">1253715</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 20:21:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Göppingen mit Derby-Sieg zum Auftakt]]></title>
+            <description><![CDATA[Der 5. Spieltag der Handball-Bundesliga startete mit einem Südderby: Frisch Auf Göppingen bezwang die Rhein-Neckar Löwen mit 29:27 (15:14). Am Freitag wartet schon das nächste Duell im Süden, wenn der TVB Stuttgart auf HBW Balingen-Weilstetten trifft. Außerdem empfängt Eisenach den THW Kiel.]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-goeppingen-mit-derby-sieg-zum-auftakt-1253614</link>
+            <guid isPermaLink="false">1253614</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 19:31:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Golla-Strafe entscheidend? Melsungen verliert Krimi in Plock]]></title>
+            <description><![CDATA[Die MT Melsungen musste sich am 2. Spieltag der EHF Champions League bei ORLEN Wisla Plock knapp mit 24:25 geschlagen geben. Die Nordhessen lieferten sich ein enges Duell und hatten bis in die Schlusssekunden die Chance auf den Sieg. Für zusätzliche Aufregung sorgten dabei zwei Videobeweise in der Schlussphase.]]></description>
+            <link>https://www.handball-world.news/spiel/wisla-plock-gegen-melsungen-2026-ehf-champions-league-5249833/bericht</link>
+            <guid isPermaLink="false">1253669</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 19:06:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Buchele-Gala: Göppingen erkämpft Sieg über Rhein-Neckar Löwen]]></title>
+            <description><![CDATA[Sowohl bei Frisch Auf Göppingen als auch bei den Rhein-Neckar Löwen ist der Beginn dieser Saison nichts für schwache Nerven - davon zeugen knappe Spielergebnisse. Die Gäste schienen dann mit Jaganjac und Mahé in der zweiten Spielhälfte das Spiel drehen zu können, doch am Ende feierte Göppingen - auch weil Julian Buchele zwölfmal parierte.]]></description>
+            <link>https://www.handball-world.news/spiel/goeppingen-gegen-r-n-loewen-2026-handball-bundesliga-5213785/bericht</link>
+            <guid isPermaLink="false">1253679</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 19:12:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[13 Nielsen-Treffer und Verletzungssorgen: Aalborg deklassiert Celje]]></title>
+            <description><![CDATA[Nach dem Unentschieden zum Auftakt gegen Paris Saint-Germain hat Aalborg im zweiten Champions-League-Spiel der Saison in Celje für klare Verhältnisse gesorgt. Beim 36:26-Sieg überragte vor allem Rechtsaußen Tobias Nielsen, der 13 Treffer erzielte. Sorgen bereitet dagegen die Verletzung von Neuzugang Anton Lindskog.]]></description>
+            <link>https://www.handball-world.news/spiel/celje-gegen-aalborg-ab-2026-ehf-champions-league-5249835/bericht</link>
+            <guid isPermaLink="false">1253681</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 18:37:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live! CL mit Melsungen und SCM, Südduell in HBL]]></title>
             <description><![CDATA[In der Champions League sind heute die MT Melsungen und der SC Magdeburg gefordert. Die Nordhessen spielen in Plock, der SCM bei Kreins-Luzern Auch in der Bundesliga fliegt der Ball bei Göppingen gegen die Löwen. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
@@ -240,14 +288,6 @@
             <guid isPermaLink="false">1242276</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 17 Sep 2026 03:30:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CL kompakt: Krimi in Skopje, PSG mit Mühe]]></title>
-            <description><![CDATA[Am 2. Spieltag der EHF Handball Champions League feierten Sporting, Veszprem und Kielce ungefährdete Siege. Bei GOG gegen Szeged und Skopje gegen Nantes sollte die Entscheidung erst in der letzten Minute fallen, auch Paris tat sich gegen Zagreb lange schwer.]]></description>
-            <link>https://www.handball-world.news/artikel/cl-kompakt-krimi-in-skopje-psg-mit-muehe-1253345</link>
-            <guid isPermaLink="false">1253345</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 21:03:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gidsel wehrt sich: Veszprem lässt Füchsen keine Chance]]></title>
@@ -1042,20 +1082,20 @@
             <pubDate>Sun, 13 Sep 2026 14:58:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
-            <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
-            <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
-            <guid isPermaLink="false">1252253</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nächster Ausfall? Pregler mit Schulter-Verletzung]]></title>
             <description><![CDATA[Bereits früh muss Frisch Auf Göppingen gegen den HC Hamburg auf Ole Pregler verzichten. Der Handball-Spielmacher hat sich eine Verletzung an der Schulter zugezogen.]]></description>
             <link>https://www.handball-world.news/artikel/naechster-ausfall-pregler-mit-schulter-verletzung-1252334</link>
             <guid isPermaLink="false">1252334</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 14:52:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Olympia-Bewerbung: Athleten Deutschland fordert "Sportler-Rat"]]></title>
+            <description><![CDATA[Die unabhängige Athleten-Vereinigung Athleten Deutschland hat sich auf ihrer Mitgliederversammlung mit Nachdruck für Olympische und Paralympische Spiele in Deutschland ausgesprochen.]]></description>
+            <link>https://www.handball-world.news/artikel/olympia-bewerbung-athleten-deutschland-fordert-sportler-rat-1252253</link>
+            <guid isPermaLink="false">1252253</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 13 Sep 2026 14:46:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wer hat die meisten Einsätze in der Bundesliga?]]></title>
@@ -1168,46 +1208,6 @@
             <guid isPermaLink="false">1252220</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 13 Sep 2026 09:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[„Fahren dahin, um die zwei Punkte mitzunehmen": Horzen vor Topspiel in Berlin]]></title>
-            <description><![CDATA[Am heutigen Sonntag steht bereits das nächste Topspiel in der Handball-Bundesliga an. Der VfL Gummersbach gastiert um 18 Uhr bei den Füchsen Berlin und trifft damit am 4. Spieltag bereits zum dritten Mal auf einen deutschen Champions-League-Teilnehmer.]]></description>
-            <link>https://www.handball-world.news/artikel/fahren-dahin-um-die-zwei-punkte-mitzunehmen-horzen-vor-topspiel-in-berlin-1252205</link>
-            <guid isPermaLink="false">1252205</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 09:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rödertal fügt Solingen die ersten Minuspunkte zu]]></title>
-            <description><![CDATA[Nach einer klaren Leistungssteigerung in Halbzeit zwei hat der HC Rödertal gegen den HSV Solingen-Gräfrath 76 mit 32:26 (12:12) gewonnen. Die Gäste mussten damit ihre erste Saisonniederlage hinnehmen.]]></description>
-            <link>https://www.handball-world.news/spiel/roedertal-gegen-solingen-graefrath-2026-handball-bundesliga-frauen-5242968/bericht</link>
-            <guid isPermaLink="false">1252197</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 08:38:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Er hat auf mich aufgepasst": Duvnjak würdigt Jicha]]></title>
-            <description><![CDATA[Der THW Kiel bleibt auch nach dem 29:26 gegen Hannover-Burgdorf ungeschlagen. Für Domagoj Duvnjak stand an diesem Abend allerdings nicht nur der Sieg, sondern auch die emotionale Verabschiedung von Filip Jicha im Mittelpunkt.]]></description>
-            <link>https://www.handball-world.news/artikel/er-hat-auf-mich-aufgepasst-duvnjak-wuerdigt-jicha-1252194</link>
-            <guid isPermaLink="false">1252194</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 08:14:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wiegert warnt vor Wetzlar: "Im Vorbeispazieren machst du in der Liga nichts"]]></title>
-            <description><![CDATA[Der SC Magdeburg empfängt am Sonntag die HSG Wetzlar und geht als klarer Favorit in die Partie. Beiden Seiten ist vor dem Duell jedoch bewusst, dass e sin der Bundesliga keine leichten Spiele gibt.]]></description>
-            <link>https://www.handball-world.news/artikel/wiegert-warnt-vor-wetzlar-im-vorbeispazieren-machst-du-in-der-liga-nichts-1252187</link>
-            <guid isPermaLink="false">1252187</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 07:50:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ungarischer Traditionsklub vor kompletten Neuaufbau]]></title>
-            <description><![CDATA[Sowohl bei Männern als auch Frauen findet sich die ungarische Stadt Dunaujvaros in den Meisterlisten. Nun steht der traditionelle Handballstandort vor einem Neubeginn.]]></description>
-            <link>https://www.handball-world.news/artikel/ungarischer-traditionsklub-vor-kompletten-neuaufbau-1251182</link>
-            <guid isPermaLink="false">1251182</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 13 Sep 2026 07:27:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
