@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 00:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 05:21:57 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 17 Sep 2026 00:39:05 GMT</pubDate>
+        <pubDate>Thu, 17 Sep 2026 05:21:57 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Wegen Andy Schmid: Kriens-Luzern mit besonderer Transferregel]]></title>
+            <description><![CDATA[Seit diesem Sommer ist Andy Schmid zusätzlich zu seinem Job bei der Schweizer Nationalmannschaft auch Cheftrainer des HC Kriens-Luzern. Das führt für den heutigen Magdeburg-Gegner zu einer besonderen Transferregel, verriet HCKL-Sportchef Nik Tominec gegenüber handball-world. Wie diese aussieht:]]></description>
+            <link>https://www.handball-world.news/artikel/wegen-andy-schmid-kriens-luzern-mit-besonderer-transferregel-1242221</link>
+            <guid isPermaLink="false">1242221</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 04:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die Füchse der Schweiz? So plant Kriens-Luzern]]></title>
+            <description><![CDATA[Es ist eines der spannendsten und gleichzeitig auch (noch) unbekanntesten Handball-Projekte Europas, das beim heutigen Magdeburg-Gegner HC Kriens-Luzern gerade entsteht. Sportchef Nik Tominec erklärte gegenüber handball-world, was die Ziele des Klubs sind, was die Füchse Berlin damit zu tun haben und welche Transfer-Strategie der HCKL verfolgt.]]></description>
+            <link>https://www.handball-world.news/artikel/die-fuechse-der-schweiz-so-plant-kriens-luzern-1242276</link>
+            <guid isPermaLink="false">1242276</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 17 Sep 2026 03:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CL kompakt: Krimi in Skopje, PSG mit Mühe]]></title>
             <description><![CDATA[Am 2. Spieltag der EHF Handball Champions League feierten Sporting, Veszprem und Kielce ungefährdete Siege. Bei GOG gegen Szeged und Skopje gegen Nantes sollte die Entscheidung erst in der letzten Minute fallen, auch Paris tat sich gegen Zagreb lange schwer.]]></description>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1251939</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 12 Sep 2026 10:19:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barcelona startet mit Kantersieg in Liga Asobal]]></title>
-            <description><![CDATA[In Spanien startete am Freitag die Liga Asobal in die neue Handball-Saison und erster Tabellenführer ist der große Favorit: Der FC Barcelona setzte sich mit 48:32 in Logron durch. Im zweiten Spiel des Tages verbuchte Granollers ein 38:34 gegen Cangas.]]></description>
-            <link>https://www.handball-world.news/spiel/logrono-gegen-barcelona-2026-liga-asobal-5247011/bericht</link>
-            <guid isPermaLink="false">1251938</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 09:20:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rhein-Neckar Löwen planen Änderung bei Machullas Doppelfunktion]]></title>
-            <description><![CDATA[Sportlich soll es für die Rhein-Neckar Löwen wieder nach oben gehen. Geschäftsführer Holger Bachert sprach nun über die Ambitionen des Klubs und darüber, wie künftig mit der Doppelrolle von Maik Machulla als Cheftrainer und Sportchef umgegangen werden soll.]]></description>
-            <link>https://www.handball-world.news/artikel/rhein-neckar-loewen-planen-aenderung-bei-machullas-doppelfunktion-1251933</link>
-            <guid isPermaLink="false">1251933</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 12 Sep 2026 08:59:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
