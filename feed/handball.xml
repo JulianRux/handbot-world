@@ -4,11 +4,43 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 15:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 18:20:11 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 15:06:19 GMT</pubDate>
+        <pubDate>Fri, 18 Sep 2026 18:20:11 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Live! THW in Eisenach, Derby in Balingen]]></title>
+            <description><![CDATA[Heute muss der THW Kiel in der Handball-Bundesliga beim ThSV Eisenach antreten. Außerdem trifft der HBW Balingen-Weilstetten auf den TVB Stuttgart. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 16:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die Top-Torschützen der 3. Liga]]></title>
+            <description><![CDATA[Die Saison in den vier Staffeln der 3. Handball-Liga ist gestartet, mit 64 Klubs ist jede Menge Action in höchsten Amateurbereich. Aber wer prägt die Liga aktuell? Ein Blick auf die Top-Torschützen der Liga:]]></description>
+            <link>https://www.handball-world.news/artikel/die-top-torschuetzen-der-3-liga-1253916</link>
+            <guid isPermaLink="false">1253916</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 15:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mit O'Sullivan: Der Kader des TBV Lemgo Lippe 2026/27]]></title>
+            <description><![CDATA[Drei Abgänge und insgesamt fünf Neuzugänge gab es beim TBV Lemgo Lippe für die neue Spielzeit. Das Aufgebot der Ostwestfalen für die Handball-Saison 2026/27:]]></description>
+            <link>https://www.handball-world.news/artikel/mit-o-sullivan-der-kader-des-tbv-lemgo-lippe-2026-27-1168566</link>
+            <guid isPermaLink="false">1168566</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 15:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[European-League-Klub holt Ex-HÖJ-Profi Mollerup]]></title>
+            <description><![CDATA[Nachverpflichtung des European-League-Teilnehmers Mors-Thy Handbold: Aufgrund der Verletzungsprobleme holt der Klub Ex-HÖJ-Profi Jonatan Mollerup.]]></description>
+            <link>https://www.handball-world.news/artikel/european-league-klub-holt-ex-hoej-profi-mollerup-1253942</link>
+            <guid isPermaLink="false">1253942</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 18 Sep 2026 15:15:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA["Das wäre zu spät": Vranjes spricht über Pajovic-Zukunft in Flensburg]]></title>
             <description><![CDATA[Der Vertrag von Trainer Ales Pajovic bei der SG Flensburg-Handewitt läuft 2027 aus. Sportchef Ljubomir Vranjes spricht mit handball-world über den Zeitplan für die Trainerentscheidung, die Entwicklung des Slowenen - und erklärt, welche anspruchsvolle Aufgabe Pajovic mit dem hochkarätig besetzten SG-Kader lösen soll.]]></description>
@@ -55,7 +87,7 @@
             <link>https://www.handball-world.news/artikel/die-bundesliga-transfers-fuer-den-sommer-2026-im-ueberblick-1139572</link>
             <guid isPermaLink="false">1139572</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 12:51:04 GMT</pubDate>
+            <pubDate>Fri, 18 Sep 2026 15:08:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zu viele Schwächephasen: Partizan unterliegt in Porto]]></title>
@@ -280,14 +312,6 @@
             <guid isPermaLink="false">1253681</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 12:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live! CL mit Melsungen und SCM, Südduell in HBL]]></title>
-            <description><![CDATA[In der Champions League sind heute die MT Melsungen und der SC Magdeburg gefordert. Die Nordhessen spielen in Plock, der SCM bei Kreins-Luzern Auch in der Bundesliga fliegt der Ball bei Göppingen gegen die Löwen. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 17:09:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Olympia-Bewerbung: Kommission wird Stellungnahme abgeben]]></title>
@@ -567,7 +591,7 @@
             <link>https://www.handball-world.news/artikel/wechsel-in-daenemarks-top-liga-im-sommer-2026-1222897</link>
             <guid isPermaLink="false">1222897</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 14:38:05 GMT</pubDate>
+            <pubDate>Fri, 18 Sep 2026 15:23:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Einspruch: Lübeck-Schwartau wehrt sich gegen Leipzig-Niederlage]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1248389</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 06:30:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Freihöfer nach Ludwig-Show: "Gönne es ihm von Herzen"]]></title>
-            <description><![CDATA[Lasse Ludwig führte die Füchse Berlin am Sonntagabend zu einem Handball-Sieg über den VfL Gummersbach. Seinen Freund und Mitspieler Tim Freihöfer freute das enorm.]]></description>
-            <link>https://www.handball-world.news/artikel/freihoefer-nach-ludwig-show-goenne-es-ihm-von-herzen-1252509</link>
-            <guid isPermaLink="false">1252509</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 06:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Im Video: Hamburg bricht nach der Pause gegen Göppingen ein]]></title>
-            <description><![CDATA[Frisch Auf Göppingen hat die ersten Auswärtspunkte der Saison eingefahren. Beim HC Hamburg steigerten sich die Gäste nach der Pause deutlich und sicherten sich trotz des Ausfalls von Ole Pregler einen knappen 32:31-Erfolg.]]></description>
-            <link>https://www.handball-world.news/videos/im-video-hamburg-bricht-nach-der-pause-gegen-goeppingen-ein-1252437</link>
-            <guid isPermaLink="false">1252437</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 09:04:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vom emotionalen Spieler zum analytischen Trainer: Wie sich Flohr neu erfand]]></title>
-            <description><![CDATA[Als Spieler lebte Matti Flohr von Emotionen, als Trainer musste er lernen, sie auch einmal beiseitezuschieben. Der Coach des HBW Balingen-Weilstetten spricht über seinen Wandel, eine prägende Station in Dormagen und die Idee hinter seinem Handball.]]></description>
-            <link>https://www.handball-world.news/artikel/vom-emotionalen-spieler-zum-analytischen-trainer-wie-sich-flohr-neu-erfand-1251752</link>
-            <guid isPermaLink="false">1251752</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 04:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
