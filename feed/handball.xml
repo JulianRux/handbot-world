@@ -4,11 +4,51 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 18:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 21:08:11 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 18:55:51 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 21:08:11 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 19:49:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2. HBF: Spitzenteams gewinnen, Solingen schießt Kirchhof ab]]></title>
+            <description><![CDATA[Der 4. Spieltag der 2. Handball-Bundesliga Frauen ist gespielt: Neben deutlichen Siegen der beiden verlustpunktfreien Mannschaften überragte vor allem der HSV Solingen-Gräfrath, der die SG 09 Kirchhof mit 17 Toren Unterschied nach Hause schickte.]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbf-spitzenteams-gewinnen-solingen-schiesst-kirchhof-ab-1254325</link>
+            <guid isPermaLink="false">1254325</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 20:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1. HBF: THC klettert, Leipzig weiter sieglos]]></title>
+            <description><![CDATA[Am 4. Spieltag der Handball-Bundesliga Frauen haben die Meisterschaftskandidaten HSG Blomberg-Lippe und Borussia Dortmund ihre Pflichtaufgaben souverän gelöst. Der Thüringer HC schob sich am Samstagabend auf Platz zwei, auch Bensheim und Göppingen konnten jubeln.]]></description>
+            <link>https://www.handball-world.news/artikel/1-hbf-thc-klettert-leipzig-weiter-sieglos-1253329</link>
+            <guid isPermaLink="false">1253329</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 19:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2. HBL: Großwallstadt und Potsdam ungefährdet]]></title>
+            <description><![CDATA[Am 4. Spieltag der 2. Handball-Bundesliga hat der TSV Bayer Dormagen den ersten Sieg eingefahren. Unterdessen gab es ein Remis in Nordhorn. Außerdem gewann der TuS Ferndorf, Großwallstadt und Potsdam gewannen am Samstag souverän. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbl-grosswallstadt-und-potsdam-ungefaehrdet-1253983</link>
+            <guid isPermaLink="false">1253983</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 19:18:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Kiel weiter verlustpunktfrei, Bietigheim zu fehlerbehaftet]]></title>
+            <description><![CDATA[Der THW Kiel hat auch am 5. Spieltag der Handball-Bundesliga einen Sieg eingefahren. Der Rekordmeister musste gegen Eisenach aber bis zum Schluss zittern, der TVB Stuttgart entschied ein dramatisches Derby ebenfalls knapp für sich. Die SG BBM Bietigheim stand sich gegen Hannover mit Fehlern selbst im Weg. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-kiel-weiter-verlustpunktfrei-bietigheim-zu-fehlerbehaftet-1253614</link>
+            <guid isPermaLink="false">1253614</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 18:52:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bietigheim zu ungeduldig: Hannover holt ersten Auswärtssieg]]></title>
             <description><![CDATA[Die TSV Hannover-Burgdorf hat den ersten Auswärtssieg der Handball-Bundesliga-Saison eingefahren. Phasenweise machte die SG BBM Bietigheim das Spiel noch einmal eng, zu oft standen sch die Gastgeber aber selbst im Weg.]]></description>
@@ -248,22 +288,6 @@
             <guid isPermaLink="false">1253630</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 05:00:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBL: Dormagen feiert ersten Sieg, Remis in Nordhorn]]></title>
-            <description><![CDATA[Am 4. Spieltag der 2. Handball-Bundesliga hat der TSV Bayer Dormagen den ersten Sieg eingefahren. Unterdessen gab es ein Remis in Nordhorn. Außerdem gewann der TuS Ferndorf. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbl-dormagen-feiert-ersten-sieg-remis-in-nordhorn-1253983</link>
-            <guid isPermaLink="false">1253983</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 20:28:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL kompakt: Kiel weiter verlustpunktfrei, TVB Derbysieger]]></title>
-            <description><![CDATA[Der THW Kiel hat auch am 5. Spieltag der Handball-Bundesliga einen Sieg eingefahren. Der Rekordmeister musste gegen Eisenach aber bis zum Schluss zittern. Außerdem entschied der TVB Stuttgart ein dramatisches Derby für sich. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-kiel-weiter-verlustpunktfrei-tvb-derbysieger-1253614</link>
-            <guid isPermaLink="false">1253614</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 20:16:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Perez de Vargas stürmt aus dem Tor: THW zittert bis zum Schluss in Eisenach]]></title>
@@ -802,14 +826,6 @@
             <pubDate>Wed, 16 Sep 2026 20:59:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[1. HBF: Blomberg und Dortmund marschieren weiter]]></title>
-            <description><![CDATA[Am 4. Spieltag der Handball-Bundesliga Frauen haben die Meisterschaftskandidaten HSG Blomberg-Lippe und Borussia Dortmund ihre Pflichtaufgaben souverän gelöst. Auch der VfL Oldenburg fuhr einen letztlich ungefährdeten Sieg ein.]]></description>
-            <link>https://www.handball-world.news/artikel/1-hbf-blomberg-und-dortmund-marschieren-weiter-1253329</link>
-            <guid isPermaLink="false">1253329</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 17 Sep 2026 09:28:12 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Die Schiedsrichter-Ansetzungen in 1. und 2. Frauen-Bundesliga]]></title>
             <description><![CDATA[In der 1. HBF wird der 4. Spieltag absolviert und der hält gleich drei Duelle am Mittwoch bereit. Der Rest der Liga spielt am Samstag. Im Unterhaus gibt es ein Sonntagsspiel. Einen doppelten Einsatz haben Nicolas Jaros und Felix Funk. Die Schiedsrichter-Ansetzungen der Woche.]]></description>
             <link>https://www.handball-world.news/artikel/die-schiedsrichter-ansetzungen-in-1-und-2-frauen-bundesliga-1251047</link>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1252799</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 08:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wie geht's weiter? Diese Spieler sind offiziell vertragslos]]></title>
-            <description><![CDATA[Bis zum Ende der vergangenen Saison standen sie noch in der Handball-Bundesliga oder im Ausland unter Vertrag. Ihren letzten Klub haben sie inzwischen verlassen - und stehen (zumindest offiziell) noch ohne neuen Verein da. Der Blick auf einige prominente Beispiele.]]></description>
-            <link>https://www.handball-world.news/slideshow/wie-geht-s-weiter-diese-spieler-sind-offiziell-vertragslos-1225016</link>
-            <guid isPermaLink="false">1225016</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 12:54:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doppelschicht für Magdeburger Nachwuchs-Juwel]]></title>
-            <description><![CDATA[Zwei Spiele, zwei Hallen, ein Nachmittag: Tim Thielicke vom SC Magdeburg erlebte am Sonntag eine besondere Doppelschicht.]]></description>
-            <link>https://www.handball-world.news/artikel/doppelschicht-fuer-magdeburger-nachwuchs-juwel-1252793</link>
-            <guid isPermaLink="false">1252793</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 07:38:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
