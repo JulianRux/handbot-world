@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 18 Sep 2026 23:08:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 05:50:01 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 18 Sep 2026 23:08:06 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 05:50:01 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Wieso ein Knorr-Wechsel Ankermann helfen könnte]]></title>
+            <description><![CDATA[Ein Gerücht um Juri Knorr und Paris könnte 2027 ein großes Stühlerücken der Spielmacher auslösen: Aalborg schaut nach Kiel, der THW auf Skipagötus Vertrag - und plötzlich könnte Rasmus Ankermann vor seiner großen Chance stehen.]]></description>
+            <link>https://www.handball-world.news/artikel/wieso-ein-knorr-wechsel-ankermann-helfen-koennte-1253933</link>
+            <guid isPermaLink="false">1253933</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 05:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rasmus Ankermann: Vorbild und Mutmacher]]></title>
+            <description><![CDATA[Rasmus Ankermann gilt als eines der derzeit größten deutschen Handballtalente. Dabei ist der 19-Jährige Diabetiker. Er beweist eindrucksvoll, dass eine Diagnose nicht das Ende eines Traums bedeutet - und macht Betroffenen Mut.]]></description>
+            <link>https://www.handball-world.news/artikel/rasmus-ankermann-vorbild-und-mutmacher-1253630</link>
+            <guid isPermaLink="false">1253630</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 05:00:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2. HBL: Dormagen feiert ersten Sieg, Remis in Nordhorn]]></title>
             <description><![CDATA[Am 4. Spieltag der 2. Handball-Bundesliga hat der TSV Bayer Dormagen den ersten Sieg eingefahren. Unterdessen gab es ein Remis in Nordhorn. Außerdem gewann der TuS Ferndorf. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1252522</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 14 Sep 2026 08:24:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SCM-Star an der Spitze: Die besten Vorlagengeber der Bundesliga]]></title>
-            <description><![CDATA[Vier Spieltage in der Opel Handball-Bundesliga 2026/27 sind absolviert. Wer hat bisher die meisten Assists geliefert? Ein Blick auf die besten Vorlagengeber der Liga:]]></description>
-            <link>https://www.handball-world.news/artikel/scm-star-an-der-spitze-die-besten-vorlagengeber-der-bundesliga-1248485</link>
-            <guid isPermaLink="false">1248485</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 08:20:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kofler "mega sauer": "Wollten für Moritz gewinnen"]]></title>
-            <description><![CDATA[Der Handball Club Hamburg hat am Sonntagnachmittag gegen Frisch Auf Göppingen zwei Punkte hergeschenkt. Aufgrund der aktuellen Situation tut dies doppelt weh.]]></description>
-            <link>https://www.handball-world.news/artikel/kofler-mega-sauer-wollten-fuer-moritz-gewinnen-1252516</link>
-            <guid isPermaLink="false">1252516</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 14 Sep 2026 10:01:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
