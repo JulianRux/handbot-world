@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 19 Sep 2026 16:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2026 18:55:51 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 19 Sep 2026 16:42:00 GMT</pubDate>
+        <pubDate>Sat, 19 Sep 2026 18:55:51 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Bietigheim zu ungeduldig: Hannover holt ersten Auswärtssieg]]></title>
+            <description><![CDATA[Die TSV Hannover-Burgdorf hat den ersten Auswärtssieg der Handball-Bundesliga-Saison eingefahren. Phasenweise machte die SG BBM Bietigheim das Spiel noch einmal eng, zu oft standen sch die Gastgeber aber selbst im Weg.]]></description>
+            <link>https://www.handball-world.news/spiel/bietigheim-gegen-hannover-2026-handball-bundesliga-5213790/bericht</link>
+            <guid isPermaLink="false">1254243</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 18:43:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live! Bietigheim empfängt Hannover]]></title>
+            <description><![CDATA[Heute sind die Recken aus Hannover bei der SG BBM Bietigheim zu Gast. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 19 Sep 2026 17:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Riesen-Aufholjagd: BVB holt ersten CL-Sieg]]></title>
             <description><![CDATA[Borussia Dortmund hat den ersten Saisonsieg in der Handball Champions League geholt. Gegen die stark besetzten Gäste aus Bukarest drehten die Schwarz-Gelben dabei einen Sieben-Tore-Rückstand.]]></description>
@@ -264,14 +280,6 @@
             <guid isPermaLink="false">1253982</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 18 Sep 2026 20:10:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live! THW in Eisenach]]></title>
-            <description><![CDATA[Heute muss der THW Kiel in der Handball-Bundesliga beim ThSV Eisenach antreten. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 18 Sep 2026 19:03:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Die Top-Torschützen der 3. Liga]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1252793</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 07:38:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vor CL-Duell: MT-Gegner Plock mit besonderem Angebot]]></title>
-            <description><![CDATA[Zum ersten Mal in der Geschichte werden die MT Melsungen und Wisla Plock aufeinandertreffen. Der polnische Handball-Spitzenklub hat MT-Fans nun ein besonderes Angebot gemacht.]]></description>
-            <link>https://www.handball-world.news/artikel/vor-cl-duell-mt-gegner-plock-mit-besonderem-angebot-1252794</link>
-            <guid isPermaLink="false">1252794</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 07:11:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
