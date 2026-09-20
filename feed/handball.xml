@@ -4,11 +4,51 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 17:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 19:32:54 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Sep 2026 17:21:05 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 19:32:54 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[HBL kompakt: Melsungen stoppt SCM, Berlins Sorgen um Palicka]]></title>
+            <description><![CDATA[Der THW Kiel und die SG Flensburg-Handewitt haben auch am 5. Spieltag der Handball-Bundesliga einen Sieg eingefahren. Damit kommt es kommendes Wochenende zum Spitzenspiel im Nordderby. Derweil kassierte der SC Magdeburg bei Melsungen die erste Niederlage, die Füchse Berlin haben Sorgen um Andreas Palicka: Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-melsungen-stoppt-scm-berlins-sorgen-um-palicka-1253614</link>
+            <guid isPermaLink="false">1253614</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 18:16:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wiegert nimmt es auf sich: Das sagen die Trainer nach dem Topspiel]]></title>
+            <description><![CDATA[Mit 37:34 siegte die MT Melsungen im Topspiel der Handball-Bundesliga gegen den SC Magdeburg -  nach dem Abpfiff geht es schnell ans Eingemachte. Was Bennet Wiegert ärgerte und warum Roberto García Parrondo von seinen Jungs schwärmte:]]></description>
+            <link>https://www.handball-world.news/artikel/wiegert-nimmt-es-auf-sich-das-sagen-die-trainer-nach-dem-topspiel-1254630</link>
+            <guid isPermaLink="false">1254630</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 19:01:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trotz Sechser-Serie: SC Magdeburg von MT Melsungen gestoppt]]></title>
+            <description><![CDATA[Nach knappen Siegen in Gummersbach und Balingen konnte den SC Magdeburg im dritten Auswärtsspiel der neuen Saison der Handball-Bundesliga auch ein 6:0-Lauf nicht mehr retten: Gegen eine konzentrierte MT Melsungen unterliefen den Gästen zu viele Ballverluste und so jubelten die Hausherren am Ende über ein 34:28 (19:14). Der SCM steht nun mit 8:2 Punkten auf dem vierten Platz, die MT liegt einen Punkt und einen Platz dahinter.]]></description>
+            <link>https://www.handball-world.news/spiel/melsungen-gegen-magdeburg-2026-handball-bundesliga-5213784/bericht</link>
+            <guid isPermaLink="false">1254582</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 19:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: Berlin dominiert Pokal-Neuauflage trotz Palicka-Sorgen]]></title>
+            <description><![CDATA[Die Füchse Berlin hatten beim Bergischen HC keine Mühe, um sich letztlich klar beim Bergischen HC mit 37:26 (15:9) zu behaupten. Während Tobias Gröndahl und Mathias Gidsel den Pokalsieger zum Auswärtserfolg führten, sollte vor allem eine Verletzung von Andreas Palicka für Aufsehen sorgen.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-berlin-dominiert-pokal-neuauflage-trotz-palicka-sorgen-1254581</link>
+            <guid isPermaLink="false">1254581</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 18:22:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[20 Tore von Minne/Jakobsen bei Flensburgs Arbeitssieg]]></title>
+            <description><![CDATA[Die SG Flensburg-Handewitt musste hart arbeiten, um sich mit 36:32 gegen den Handball Club Hamburg zu behaupten. Die Hanseaten hatten stark begonnen, zeigten eine kämpferische Leistung. Für etwas Zählbares langte es aber nicht.]]></description>
+            <link>https://www.handball-world.news/spiel/flensburg-gegen-hc-hamburg-2026-handball-bundesliga-5213783/bericht</link>
+            <guid isPermaLink="false">1254597</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 17:45:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
             <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
@@ -267,19 +307,11 @@
         </item>
         <item>
             <title><![CDATA[2. HBL: Großwallstadt und Potsdam ungefährdet]]></title>
-            <description><![CDATA[Am 4. Spieltag der 2. Handball-Bundesliga hat der TSV Bayer Dormagen den ersten Sieg eingefahren. Unterdessen gab es ein Remis in Nordhorn. Außerdem gewann der TuS Ferndorf, Großwallstadt und Potsdam gewannen am Samstag souverän. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <description><![CDATA[Am 4. Spieltag der 2. Handball-Bundesliga feierten Dormagen, Ferndorf, Großwallstadt und Potsdam Siege. In Nordhorn gab es ein Remis. Zudem gewannen Lübeck und Minden ihre Heimspiele, während Emsdetten und Leipzig auswärts zu feiern haben. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
             <link>https://www.handball-world.news/artikel/2-hbl-grosswallstadt-und-potsdam-ungefaehrdet-1253983</link>
             <guid isPermaLink="false">1253983</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 19:18:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL kompakt: Kiel weiter verlustpunktfrei, Bietigheim zu fehlerbehaftet]]></title>
-            <description><![CDATA[Der THW Kiel hat auch am 5. Spieltag der Handball-Bundesliga einen Sieg eingefahren. Der Rekordmeister musste gegen Eisenach aber bis zum Schluss zittern, der TVB Stuttgart entschied ein dramatisches Derby ebenfalls knapp für sich. Die SG BBM Bietigheim stand sich gegen Hannover mit Fehlern selbst im Weg. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-kiel-weiter-verlustpunktfrei-bietigheim-zu-fehlerbehaftet-1253614</link>
-            <guid isPermaLink="false">1253614</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 16:44:33 GMT</pubDate>
+            <pubDate>Sun, 20 Sep 2026 17:50:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bietigheim zu ungeduldig: Hannover holt ersten Auswärtssieg]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1253134</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 10:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spannung garantiert: Die letzten Füchse-Duelle mit Veszprem]]></title>
-            <description><![CDATA[Die Füchse Berlin empfangen heute Abend in der EHF Champions League Veszprem. Die vergangenen Duelle versprechen ein packendes Handball-Spiel.]]></description>
-            <link>https://www.handball-world.news/artikel/spannung-garantiert-die-letzten-fuechse-duelle-mit-veszprem-1252872</link>
-            <guid isPermaLink="false">1252872</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 10:06:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die Schiedsrichter-Ansetzungen der HBL]]></title>
-            <description><![CDATA[5. Spieltag in der Handball-Bundesliga 2026/27: Die Schiedsrichter-Ansetzungen in der Übersicht.]]></description>
-            <link>https://www.handball-world.news/artikel/die-schiedsrichter-ansetzungen-der-hbl-1142712</link>
-            <guid isPermaLink="false">1142712</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 09:36:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Entscheidung gefallen: Kai Häfner setzt Karriere fort]]></title>
-            <description><![CDATA[Der mittlerweile 37-jährige Kai Häfner hat die wohl beste Saison seines Lebens hinter sich. Jetzt ist klar: Der Europameister von 2016 wird über den Sommer 2027 hinaus Profi-Handball spielen.]]></description>
-            <link>https://www.handball-world.news/artikel/entscheidung-gefallen-kai-haefner-setzt-karriere-fort-1253164</link>
-            <guid isPermaLink="false">1253164</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 09:33:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nach Werbebanner-Panne: SCM gibt Update]]></title>
-            <description><![CDATA[Bei der Bundesliga-Partie des SC Magdeburg gegen die HSG Wetzlar standen plötzlich die rutschigen Werbebanner auf dem Hallenboden im Fokus. Nun erläutert der SCM die Situation.]]></description>
-            <link>https://www.handball-world.news/artikel/nach-werbebanner-panne-scm-gibt-update-1253153</link>
-            <guid isPermaLink="false">1253153</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 09:47:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
