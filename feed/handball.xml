@@ -4,11 +4,83 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 14:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 17:21:05 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Sep 2026 14:01:03 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 17:21:05 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 17:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2. HBF: Kellerduell an Werder Bremen, Spitzenteams gewinnen]]></title>
+            <description><![CDATA[Der 4. Spieltag der 2. Handball-Bundesliga Frauen ist gespielt: Neben deutlichen Siegen der beiden verlustpunktfreien Mannschaften überragte vor allem der HSV Solingen-Gräfrath, der die SG 09 Kirchhof mit 17 Toren Unterschied nach Hause schickte.]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbf-kellerduell-an-werder-bremen-spitzenteams-gewinnen-1254325</link>
+            <guid isPermaLink="false">1254325</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 17:15:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obling pariert, Gummersbach marschiert zum Auswärtssieg in Wetzlar]]></title>
+            <description><![CDATA[Der VfL Gummersbach hat bei der HSG Wetzlar einen 36:33-Auswärtssieg eingefahren. Der VfL bestimmte über weite Strecken das Geschehen und setzte sich früh entscheidend ab.]]></description>
+            <link>https://www.handball-world.news/spiel/wetzlar-gegen-gummersbach-2026-handball-bundesliga-5213788/bericht</link>
+            <guid isPermaLink="false">1254533</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 16:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Erlangen beendet Auswärtsfluch in Lemgo]]></title>
+            <description><![CDATA[Fast ein Jahr und ganze sieglose 16 Auswärtspartien musste der HC Erlangen hinter sich bringen, nun konnte man ausgerechnet den sonst so heimstarken TBV Lemgo Lippe im ersten Spiel nach der schweren Verletzung von Tim Suton knacken.]]></description>
+            <link>https://www.handball-world.news/spiel/lemgo-gegen-erlangen-2026-handball-bundesliga-5213786/bericht</link>
+            <guid isPermaLink="false">1254545</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 16:29:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Füchse Berlin ohne Palicka zur Klub-WM?]]></title>
+            <description><![CDATA[Die Füchse Berlin haben das Auswärtsspiel beim Bergischen HC in der Handball-Bundesliga mit 37:26 souverän gewonnen. Doch Sorgen macht vor allem Torhüter Andreas Palicka, der sich im Match verletzte.]]></description>
+            <link>https://www.handball-world.news/artikel/fuechse-berlin-ohne-palicka-zur-klub-wm-1254565</link>
+            <guid isPermaLink="false">1254565</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 16:09:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meiste Länderspiele für DHB-Frauen]]></title>
+            <description><![CDATA[Meiste Handball-Länderspiele für DHB-Frauen: Grit Jurack mit 306 Einsätzen - Übersicht Deutschland - Hier weiter lesen]]></description>
+            <link>https://www.handball-world.news/artikel/meiste-laenderspiele-fuer-dhb-frauen-999875</link>
+            <guid isPermaLink="false">999875</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 15:33:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trotz neun Firnhaber-Tore: Hamm unterliegt auch gegen Großwallstadt]]></title>
+            <description><![CDATA[Nach dem überraschenden Sieg gegen GWD Minden wollte der ASV Hamm-Westfalen beim TV Großwallstadt nachlegen. 20 gute Minuten reichten allerdings nicht, so setzte es beim 24:29 in der Untermain-Halle die dritte Niederlage im vierten Spiel.]]></description>
+            <link>https://www.handball-world.news/spiel/grosswallstadt-gegen-hamm-westfalen-2026-handball-bundesliga-5214084/bericht</link>
+            <guid isPermaLink="false">1254481</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 15:11:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trotz Platzwunde bei Palicka: Füchse Berlin siegen beim BHC]]></title>
+            <description><![CDATA[Die Füchse Berlin hatten beim Bergischen HC keine Mühe, um sich letztlich klar beim Bergischen HC mit 37:26 (15:9) zu behaupten. Während Tobias Gröndahl und Mathias Gidsel den Pokalsieger zum Auswärtserfolg führten, sollte vor allem eine Verletzung von Andreas Palicka für Aufsehen sorgen.]]></description>
+            <link>https://www.handball-world.news/spiel/bergischer-hc-gegen-berlin-2026-handball-bundesliga-5213789/bericht</link>
+            <guid isPermaLink="false">1254499</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 15:59:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trotz 21 Paraden: Buxtehude mit Heimniederlage]]></title>
+            <description><![CDATA[Eine Niederlage, aus der sich einige Lehren ziehen lassen, musste der Buxtehuder SV am 4. Spieltag hinnehmen. Gegen die HSG Bensheim/Auerbach verlor der BSV vor 982 Zuschauern trotz 21 Paraden von Nikki van der Vorst und Oliwia Kaminska mit 25:30 (14:17).]]></description>
+            <link>https://www.handball-world.news/spiel/buxtehude-gegen-bensheim-2026-handball-frauen-bundesliga-5244003/bericht</link>
+            <guid isPermaLink="false">1254493</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 14:23:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[0:4-Lauf in den Schlussminuten: Rödertal unterliegt in Regensburg]]></title>
             <description><![CDATA[Der HC Rödertal ist als Mitfavorit in die Saison 2026/27 gestartet. Auswärts läuft es bei den Sächsinnen allerdings noch nicht: Auch beim ESV 1927 Regensburg musste sich der HCR mit 28:31 (15:17) geschlagen geben.]]></description>
@@ -50,12 +122,12 @@
             <pubDate>Sun, 20 Sep 2026 12:18:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live! Pokalfinale reloaded eröffnet den Sonntag]]></title>
-            <description><![CDATA[In einer Neuauflage zwischen dem BHC und Wuppertal startet der Sonntag mit insgesamt fünf Erstligapartien. Später am Abend liefern sich unter anderem Melsungen und Magdeburg ein Schlüsselduell. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <title><![CDATA[Live! Gummersbach in Wetzlar, Top-Duell bei Melsungen]]></title>
+            <description><![CDATA[In einer Neuauflage zwischen dem BHC und Wuppertal startete der Sonntag mit insgesamt fünf Erstligapartien. Derzeit spielt Lemgo gegen Erlangen und Gummersbach in Wetzlar. Später am Abend liefern sich unter anderem Melsungen und Magdeburg ein Schlüsselduell. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
             <link>https://www.handball-world.news/matchkalender</link>
             <guid isPermaLink="false">1245795</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 12:03:14 GMT</pubDate>
+            <pubDate>Sun, 20 Sep 2026 14:56:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Die Top-Torschützinnen der DHB-Frauen]]></title>
@@ -186,22 +258,6 @@
             <pubDate>Sun, 20 Sep 2026 07:49:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 19:49:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBF: Spitzenteams gewinnen, Solingen schießt Kirchhof ab]]></title>
-            <description><![CDATA[Der 4. Spieltag der 2. Handball-Bundesliga Frauen ist gespielt: Neben deutlichen Siegen der beiden verlustpunktfreien Mannschaften überragte vor allem der HSV Solingen-Gräfrath, der die SG 09 Kirchhof mit 17 Toren Unterschied nach Hause schickte.]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbf-spitzenteams-gewinnen-solingen-schiesst-kirchhof-ab-1254325</link>
-            <guid isPermaLink="false">1254325</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 20:04:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[1. HBF: THC klettert, Leipzig weiter sieglos]]></title>
             <description><![CDATA[Am 4. Spieltag der Handball-Bundesliga Frauen haben die Meisterschaftskandidaten HSG Blomberg-Lippe und Borussia Dortmund ihre Pflichtaufgaben souverän gelöst. Der Thüringer HC schob sich am Samstagabend auf Platz zwei, auch Bensheim und Göppingen konnten jubeln.]]></description>
             <link>https://www.handball-world.news/artikel/1-hbf-thc-klettert-leipzig-weiter-sieglos-1253329</link>
@@ -223,7 +279,7 @@
             <link>https://www.handball-world.news/artikel/hbl-kompakt-kiel-weiter-verlustpunktfrei-bietigheim-zu-fehlerbehaftet-1253614</link>
             <guid isPermaLink="false">1253614</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 07:51:06 GMT</pubDate>
+            <pubDate>Sun, 20 Sep 2026 16:44:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bietigheim zu ungeduldig: Hannover holt ersten Auswärtssieg]]></title>
@@ -1152,62 +1208,6 @@
             <guid isPermaLink="false">1253153</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 09:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prokop: "Gab mehrere Anfragen"]]></title>
-            <description><![CDATA[Von 2017 bis 2020 trainierte Christian Prokop die deutsche Handball-Nationalmannschaft. Seit einigen Monaten sieht der Arbeitsalltag des 47-Jährigen anders aus.]]></description>
-            <link>https://www.handball-world.news/artikel/prokop-gab-mehrere-anfragen-1253127</link>
-            <guid isPermaLink="false">1253127</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 08:21:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TUSEM Essen mit neuem Partner für Auswärtsfahrten]]></title>
-            <description><![CDATA[Der TUSEM Essen hat einen neuen Premiumpartner für die laufende Zweitliga-Saison. Im Fokus der Zusammenarbeit steht die Unterbringung der Mannschaft bei den zahlreichen Auswärtsfahrten.]]></description>
-            <link>https://www.handball-world.news/artikel/tusem-essen-mit-neuem-partner-fuer-auswaertsfahrten-1253111</link>
-            <guid isPermaLink="false">1253111</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 07:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vor Veszprem-Duell: Hanning "nicht überzeugt" vom Füchse-Sieg]]></title>
-            <description><![CDATA[Mit One Veszprem HC wartet am 2. Spieltag der Champions League ein echter Härtetest auf die Füchse Berlin. Die Kadersituation beider Teams lässt Bob Hanning am Sieg der Hauptstädter zweifeln.]]></description>
-            <link>https://www.handball-world.news/artikel/vor-veszprem-duell-hanning-nicht-ueberzeugt-vom-fuechse-sieg-1253101</link>
-            <guid isPermaLink="false">1253101</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 07:52:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zweimal Dortmund in zwei Wochen: Wildcats vor doppeltem Härtetest]]></title>
-            <description><![CDATA[Sowohl im DHB-Pokal als auch in der Bundesliga ist der BVB der nächste Gegner des SV Union Halle-Neustadt. Heute Abend findet das erste von zwei Duellen statt, in das die Wildcats als klarer Underdog gehen.]]></description>
-            <link>https://www.handball-world.news/artikel/zweimal-dortmund-in-zwei-wochen-wildcats-vor-doppeltem-haertetest-1253109</link>
-            <guid isPermaLink="false">1253109</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 07:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball am Mittwoch: Füchse gegen Veszprem und HBF]]></title>
-            <description><![CDATA[Die Handballwoche startet mit einem echten Highlight: Am 2. Spieltag der Champions League empfangen die Füchse Berlin den ungarischen Topklub Veszprem. Darüber hinaus wird in der Handball-Bundesliga der Frauen sowie international gespielt.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-mittwoch-fuechse-gegen-veszprem-und-hbf-1253098</link>
-            <guid isPermaLink="false">1253098</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 06:48:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Bietigheimerin Woller legt Handball-Pause ein]]></title>
-            <description><![CDATA[Fie Woller sorgt abseits des Handball-Feldes für freudige Nachrichten. Die ehemalige Bietigheimerin steht vor einem ganz besonderen neuen Lebensabschnitt.]]></description>
-            <link>https://www.handball-world.news/artikel/ex-bietigheimerin-woller-legt-handball-pause-ein-1252910</link>
-            <guid isPermaLink="false">1252910</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 06:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Seit 2000: Die Torschützenkönige der Champions League]]></title>
-            <description><![CDATA[Von Legenden bis zum aktuellen Titelverteidiger Mathias Gidsel: Die Torschützenkönige der EHF Champions League seit 2000/01.]]></description>
-            <link>https://www.handball-world.news/slideshow/seit-2000-die-torschuetzenkoenige-der-champions-league-1251040</link>
-            <guid isPermaLink="false">1251040</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 06:00:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
