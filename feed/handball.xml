@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 19:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 23:33:29 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Sep 2026 19:32:54 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 23:33:29 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: MT Melsungen mit Ausrufezeichen gegen SC Magdeburg]]></title>
+            <description><![CDATA[Während der SC Magdeburg insbesondere mit den eigenen Ballverlusten haderte, spielte die MT Melsungen im Duell zweier Teilnehmer an der Handball Champions League groß auf, wackelte nach einem 34:25 zwar noch einmal kurz, doch feierte am Ende den Coup gegen amtierenden Meister.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-mt-melsungen-mit-ausrufezeichen-gegen-sc-magdeburg-1254662</link>
+            <guid isPermaLink="false">1254662</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 20:50:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: SG Flensburg-Handewitt ringt Hamburg nieder]]></title>
+            <description><![CDATA[Die SG Flensburg-Handewitt ist in der Handball-Bundesliga weiter ungeschlagen, hatte aber einige Mühe im Heimspiel gegen den HC Hamburg, der insbesondere kämpferische überzeugte. Dank zwanzig Treffern von Minne und Jakobsen stand am Ende aber ein 37:34 für die Hausherren auf der Anzeigetafel.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-sg-flensburg-handewitt-ringt-hamburg-nieder-1254664</link>
+            <guid isPermaLink="false">1254664</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 20:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: HSG Wetzlar verzweifelt an Obling]]></title>
+            <description><![CDATA[Mit sechzehn Paraden war Bertram Obling der Rückhalt für den VfL Gummersbach beim Sieg in Wetzlar. Nach einem 23:16 zu Beginn des zweiten Abschnitts hielten die Oberbergischen bis zum 36:33-Endstand Kurs auf die beiden Punkte.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-hsg-wetzlar-verzweifelt-an-obling-1254623</link>
+            <guid isPermaLink="false">1254623</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 19:32:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HBL kompakt: Melsungen stoppt SCM, Berlins Sorgen um Palicka]]></title>
             <description><![CDATA[Der THW Kiel und die SG Flensburg-Handewitt haben auch am 5. Spieltag der Handball-Bundesliga einen Sieg eingefahren. Damit kommt es kommendes Wochenende zum Spitzenspiel im Nordderby. Derweil kassierte der SC Magdeburg bei Melsungen die erste Niederlage, die Füchse Berlin haben Sorgen um Andreas Palicka: Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
@@ -43,11 +67,19 @@
         </item>
         <item>
             <title><![CDATA[20 Tore von Minne/Jakobsen bei Flensburgs Arbeitssieg]]></title>
-            <description><![CDATA[Die SG Flensburg-Handewitt musste hart arbeiten, um sich mit 36:32 gegen den Handball Club Hamburg zu behaupten. Die Hanseaten hatten stark begonnen, zeigten eine kämpferische Leistung. Für etwas Zählbares langte es aber nicht.]]></description>
+            <description><![CDATA[Die SG Flensburg-Handewitt musste hart arbeiten, um sich mit 37:34 gegen den Handball Club Hamburg zu behaupten. Die Hanseaten hatten stark begonnen, zeigten eine kämpferische Leistung. Für etwas Zählbares langte es aber nicht.]]></description>
             <link>https://www.handball-world.news/spiel/flensburg-gegen-hc-hamburg-2026-handball-bundesliga-5213783/bericht</link>
             <guid isPermaLink="false">1254597</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 17:45:22 GMT</pubDate>
+            <pubDate>Sun, 20 Sep 2026 19:49:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: Erlangen in Lemgo in den Endphasen stärker]]></title>
+            <description><![CDATA[Fast ein Jahr und ganze sieglose sechzehn Auswärtspartien musste der HC Erlangen hinter sich bringen, bevor ausgerechnet beim sonst so heimstarken TBV Lemgo Lippe wieder auswärts gejubelt werden konnte. Der HCE konnte vor allem die Schlussphasen beider Halbzeiten für sich entscheiden und sich so mit 29:26 durchsetzen.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-erlangen-in-lemgo-in-den-endphasen-staerker-1254611</link>
+            <guid isPermaLink="false">1254611</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 19:39:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1253123</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 16 Sep 2026 12:10:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neuer Partner unterstützt Blomberg bei Auswärtsfahrten]]></title>
-            <description><![CDATA[Handball-Bundesligist Blomberg-Lippe setzt bei der Verpflegung seiner Mannschaft künftig auf einen neuen Partner. Jan Diekjobst übernimmt die Ernährung bei den Auswärtsfahrten.]]></description>
-            <link>https://www.handball-world.news/artikel/neuer-partner-unterstuetzt-blomberg-bei-auswaertsfahrten-1253116</link>
-            <guid isPermaLink="false">1253116</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 11:44:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PSG an Knorr dran? Einordnung zu den Wechsel-Gerüchten]]></title>
-            <description><![CDATA[Die Gerüchteküche brodelt seit einigen Tagen im internationalen Handball. Mittendrin ist Juri Knorr, der Medienberichten zufolge vor einem Abschied aus Aalborg stehen soll. Ein potenzieller Abschied aus Dänemark könnte auch den SC Magdeburg oder den THW Kiel indirekt beeinflussen. Eine Einordnung.]]></description>
-            <link>https://www.handball-world.news/artikel/psg-an-knorr-dran-einordnung-zu-den-wechsel-geruechten-1253175</link>
-            <guid isPermaLink="false">1253175</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 11:29:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1. bis 3. Liga: Diese Teams sind noch verlustpunktfrei]]></title>
-            <description><![CDATA[Die Handball-Saison 2026/27 hat Fahrt aufgenommen - einige Teams haben bislang noch keinen einzigen Punkt abgegeben. Ein Blick auf die Mannschaften aus den Ligen 1 bis 3, die aktuell noch verlustpunktfrei sind:]]></description>
-            <link>https://www.handball-world.news/artikel/1-bis-3-liga-diese-teams-sind-noch-verlustpunktfrei-1253161</link>
-            <guid isPermaLink="false">1253161</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 11:07:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[60 Millionen für Leipzig: Das Großprojekt verändert den Handball]]></title>
-            <description><![CDATA[Leipzig macht den Weg für einen neuen Sportcampus frei. Bis zu 60 Millionen Euro stellt der Freistaat Sachsen für das ambitionierte Projekt zur Verfügung. Das schafft neue Optionen für den Handball.]]></description>
-            <link>https://www.handball-world.news/artikel/60-millionen-fuer-leipzig-das-grossprojekt-veraendert-den-handball-1253134</link>
-            <guid isPermaLink="false">1253134</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 16 Sep 2026 10:27:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
