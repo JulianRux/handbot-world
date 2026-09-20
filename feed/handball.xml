@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 20 Sep 2026 00:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 05:29:25 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 20 Sep 2026 00:49:15 GMT</pubDate>
+        <pubDate>Sun, 20 Sep 2026 05:29:25 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Lucas Krzikalla: Der Sprung ins kalte Wasser]]></title>
+            <description><![CDATA[Lucas Krzikalla hat die Hälfte seines Lebens bei der DHfK Leipzig verbracht, bevor er im Sommer nach Süddeutschland zog. Als Toptransfer der Münchner Panther startet Rechtsaußen jetzt in der Regionalliga durch. Im Gespräch mit der Bock auf Handball sprach der 32-Jährige nun über seine neue Herausforderung.]]></description>
+            <link>https://www.handball-world.news/artikel/lucas-krzikalla-der-sprung-ins-kalte-wasser-1253634</link>
+            <guid isPermaLink="false">1253634</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 20 Sep 2026 05:00:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
             <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1226385</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 15 Sep 2026 09:00:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trotz seiner 16 Jahre: Struck sorgt für Aufsehen in der 3. Liga]]></title>
-            <description><![CDATA[Lian Struck stand beim Auswärtsspiel des Drittligisten Team HandbALL Lippe II bei der Ahlener SG im Mittelpunkt. Für den 16-Jährigen wurde die Partie dabei zu einem besonderen Erlebnis.]]></description>
-            <link>https://www.handball-world.news/spiel/ahlener-sg-gegen-team-handball-lippe-ii-2026-liga-nord-west-5263644/bericht</link>
-            <guid isPermaLink="false">1252799</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 15 Sep 2026 08:29:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
