@@ -4,11 +4,83 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 17:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 20:22:00 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 17:14:20 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 20:22:00 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[DHB-Pokal kompakt: Emsdetten mit Pokalcoup, Flensburg zittert sich weiter]]></title>
+            <description><![CDATA[In zwei packenden Dienstagspartien hatten sich am Dienstag im Handball-Pokal am Ende doch die Favoriten durchgesetzt. Der Mittwoch hielt dann aber eine Überraschung in Emsdetten bereit, in Lübeck musste die SG Flensburg-Handewitt hart kämpfen. Ein Ticket in die nächste Runde ist noch offen, das spielen der TVB Stuttgart und der HC Erlangen am Donnerstag aus.]]></description>
+            <link>https://www.handball-world.news/artikel/dhb-pokal-kompakt-emsdetten-mit-pokalcoup-flensburg-zittert-sich-weiter-1255197</link>
+            <guid isPermaLink="false">1255197</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 20:17:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sensation perfekt: TV Emsdetten wirft Eisenach aus dem Pokal]]></title>
+            <description><![CDATA[Der TV Emsdetten hat im DHB-Pokal für eine große Überraschung gesorgt und den Handball-Erstligisten ThSV Eisenach mit 36:33 (16:15) aus dem Wettbewerb geworfen.]]></description>
+            <link>https://www.handball-world.news/spiel/emsdetten-gegen-eisenach-2026-dhb-pokal-5264887/bericht</link>
+            <guid isPermaLink="false">1255502</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 19:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vor leergefegten Rängen: Bietigheim scheidet gegen Minden aus]]></title>
+            <description><![CDATA[Die SG BBM Bietigheim und GWD Minden lieferten sich im Pokal ein Kopf-an-Kopf-Rennen. Der Handball-Zweitligist erarbeitete sich eine Führung, die am Ende reichen sollte.]]></description>
+            <link>https://www.handball-world.news/spiel/bietigheim-gegen-minden-2026-dhb-pokal-5264884/bericht</link>
+            <guid isPermaLink="false">1255474</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 19:26:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roganovic und Schluroff bringen Gummersbach eine Runde weiter]]></title>
+            <description><![CDATA[Der VfL Gummersbach ist einer Favoritenrolle gerecht geworden und hat seine Partie im DHB-Pokal bei Zweitligist Dessau-Roßlauer HV souverän mit 38:28 (20:12) gewonnen.]]></description>
+            <link>https://www.handball-world.news/spiel/dessau-rosslau-gegen-gummersbach-2026-dhb-pokal-5264893/bericht</link>
+            <guid isPermaLink="false">1255501</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 19:04:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zehn Minuten bringen Lübeck um Pokal-Sensation gegen Flensburg]]></title>
+            <description><![CDATA[Der VfL Lübeck-Schwartau hoffte dank einer starken Offensivleistung gegen die SG Flensburg-Handewitt lange auf eine Pokal-Sensation. Als dann in zehn Minuten aber nur ein Treffer gelang, drehte der Spitzenreiter der Handball-Bundesliga das Spiel und löste am Ende mit einem 38:35-Arbeitssieg das Ticket in die nächste Runde.]]></description>
+            <link>https://www.handball-world.news/spiel/lueb-schwartau-gegen-flensburg-2026-dhb-pokal-5264886/bericht</link>
+            <guid isPermaLink="false">1255489</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 18:53:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mahr und Schröder führen Potsdam zum Sieg im Zweitligaduell]]></title>
+            <description><![CDATA[Nach dem Pokalcoup gegen den SC DHfK Leipzig konnte TUSEM Essen im nächsten Zweitligaduell letztlich nicht nachlegen. Gegen den 1. VfL Potsdam kam der Traditionsverein zwar gut rein, am Ende triumphierten die Brandenburger souverän mit 32:25 (15:14).]]></description>
+            <link>https://www.handball-world.news/spiel/essen-gegen-potsdam-2026-dhb-pokal-5264895/bericht</link>
+            <guid isPermaLink="false">1255486</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 19:44:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wetzlar tapfer aber chancenlos: SCM steht im Achtelfinale]]></title>
+            <description><![CDATA[In der 2. Runde des DHB-Pokals musste die HSG Wetzlar zum zweiten mal in dieser Saison nach Magdeburg reichen. Wie schon beim Handball-Bundesliga-Duell konnte sich der SCM nach einiger Zeit eine Führung erarbeiteten, die nicht mehr in Gefahr geriet.]]></description>
+            <link>https://www.handball-world.news/spiel/magdeburg-gegen-wetzlar-2026-dhb-pokal-5264888/bericht</link>
+            <guid isPermaLink="false">1255467</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 18:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[THW Kiel lässt beim TV Hüttenberg nichts anbrennen]]></title>
+            <description><![CDATA[Der THW Kiel steht im Achtelfinale des DHB-Pokal. Wenige Tage vor dem Nord-Derby gegen die SG Flensburg-Handewitt hatte Deutschlands Rekordmeister keine Mühe, um den Zweitligisten TV Hüttenberg mit 41:23 (22:11) in die Schranken zu weisen.]]></description>
+            <link>https://www.handball-world.news/spiel/huettenberg-gegen-kiel-2026-dhb-pokal-5264891/bericht</link>
+            <guid isPermaLink="false">1255468</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 18:28:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die Cupara-Show: Balingens Defensive lässt Hannover keine Chance]]></title>
+            <description><![CDATA[Der HBW Balingen-Weilstetten behielt in der zweiten Runde des DHB-Pokals über die gesamte Partie die Oberhand und hielt die TSV Hannover-Burgdorf auf Distanz. Am Ende setzten sich die Gallier im Kollektiv mit 35:28 (15:11) klar durch.]]></description>
+            <link>https://www.handball-world.news/spiel/balingen-gegen-hannover-2026-dhb-pokal-5264889/bericht</link>
+            <guid isPermaLink="false">1255466</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 19:35:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live: Handball satt - zehn Mal DHB-Pokal]]></title>
             <description><![CDATA[Gleich zehn Partien der 2. Runde des DHB-Pokals werden am heutigen Mittwochabend ausgetragen. Dabei stehen auch mehrere Erstliga-Duelle an. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
@@ -240,14 +312,6 @@
             <guid isPermaLink="false">1255031</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 03:30:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHB-Pokal kompakt: HCH und Melsungen drehen enge Duelle]]></title>
-            <description><![CDATA[Mit zwei Duellen ist die 2. Runde des DHB-Pokals am heutigen Dienstag gestartet. Hamburg und Melsungen legten nach zwei spannenden Partien mit dem Einzug ins Achtelfinale vor. Am Mittwoch stehen gleich zehn Duelle an. Den Abschluss machen der TVB Stuttgart und der HC Erlangen am Donnerstag.]]></description>
-            <link>https://www.handball-world.news/artikel/dhb-pokal-kompakt-hch-und-melsungen-drehen-enge-duelle-1255197</link>
-            <guid isPermaLink="false">1255197</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 19:25:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MT beweist längeren Atem und ringt Löwen in der Verlängerung nieder]]></title>
@@ -1144,70 +1208,6 @@
             <guid isPermaLink="false">1238396</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 15:48:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bei Nordderby: Wiencek wieder im THW-Trikot]]></title>
-            <description><![CDATA[Patrick Wiencek spielte bis 2025 dreizehn Jahre für den THW Kiel. Nun hat der 37-Jährige Ex-Handballer noch einmal das Zebra-Trikot übergestreift.]]></description>
-            <link>https://www.handball-world.news/artikel/bei-nordderby-wiencek-wieder-im-thw-trikot-1254200</link>
-            <guid isPermaLink="false">1254200</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 15:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Newel einer für die Nationalmannschaft? Gislason äußert sich]]></title>
-            <description><![CDATA[Elias Newel hat sich bei Frisch Auf Göppingen in den Fokus gespielt und wurde in der vergangenen Saison zum besten Nachwuchsspieler ausgezeichnet. Bundestrainer Alfred Gislason äußert sich nun zur möglichen Perspektive des Spielmachers in der deutschen Nationalmannschaft.]]></description>
-            <link>https://www.handball-world.news/artikel/newel-einer-fuer-die-nationalmannschaft-gislason-aeussert-sich-1254135</link>
-            <guid isPermaLink="false">1254135</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 15:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wolfram verlässt TUSEM Essen mit sofortiger Wirkung]]></title>
-            <description><![CDATA[Beim TUSEM Essen gibt es eine Veränderung im Kader. Nach mehreren Jahren auf der Margarethenhöhe verlässt Finn Wolfram den Zweitligisten mit sofortiger Wirkung.]]></description>
-            <link>https://www.handball-world.news/artikel/wolfram-verlaesst-tusem-essen-mit-sofortiger-wirkung-1254175</link>
-            <guid isPermaLink="false">1254175</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 14:33:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[13 Europameister: U19-Bundestrainer Wudtke nominiert zwei Kader]]></title>
-            <description><![CDATA[Für die Maßnahmen in Malente (21. bis 23. September) sowie in Grünberg (28. bis 30. September) hat U19-Bundestrainer Erik Wudtke insgesamt 37 Talente eingeladen. Unter den eingeladenen Spielern sind auch 13 U18-Europameister aus Belgrad.]]></description>
-            <link>https://www.handball-world.news/artikel/13-europameister-u19-bundestrainer-wudtke-nominiert-zwei-kader-1254165</link>
-            <guid isPermaLink="false">1254165</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 14:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erfolgreiche OP: Metz mehrere Monate ohne Albek]]></title>
-            <description><![CDATA[Bittere Nachricht für Anna Albek: Die ungarische Nationalspielerin musste operiert werden und wird Champions-League-Teilnehmer Metz Handball mehrere Monate fehlen.]]></description>
-            <link>https://www.handball-world.news/artikel/erfolgreiche-op-metz-mehrere-monate-ohne-albek-1254143</link>
-            <guid isPermaLink="false">1254143</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 13:44:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBF: Bleibt das Spitzentrio weiter ohne Punktverlust?]]></title>
-            <description><![CDATA[Heute stehen sieben der acht Partien des 4. Spieltags in der 2. Handball-Bundesliga an. Heute sind unter anderem die bislang ungeschlagenen Teams aus Nürtingen, Waiblingen und Mainz gefordert.]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbf-bleibt-das-spitzentrio-weiter-ohne-punktverlust-1254153</link>
-            <guid isPermaLink="false">1254153</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 13:19:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zehn Feldspieler: Dezimiertes Dessau unterliegt nach 2:7-Lauf in Ferndorf]]></title>
-            <description><![CDATA[Zehn schwache Minuten zum Abschluss der ersten Hälfte kosten dem Dessau-Roßlauer HV die Chance auf einen Punktgewinn beim TuS Ferndorf. Die Hypothek war nach dem 14:19-Halbzeitrückstand zu groß.]]></description>
-            <link>https://www.handball-world.news/spiel/ferndorf-gegen-dessau-rosslau-2026-handball-bundesliga-5214088/bericht</link>
-            <guid isPermaLink="false">1254149</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 12:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Grgic neu dabei: Wer knackte die 500-HBL-Tore am schnellsten?]]></title>
-            <description><![CDATA[Marko Grgic hat die Marke von 500 HBL-Toren erreicht. Damit reiht sich der Nationalspieler in die Liste der Spieler ein, die für diesen Meilenstein die wenigsten Spiele benötigten. Doch wer führt sie an?]]></description>
-            <link>https://www.handball-world.news/artikel/grgic-neu-dabei-wer-knackte-die-500-hbl-tore-am-schnellsten-1254160</link>
-            <guid isPermaLink="false">1254160</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 13:22:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
