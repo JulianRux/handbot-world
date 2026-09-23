@@ -4,11 +4,91 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 23 Sep 2026 12:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Sep 2026 17:14:20 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 23 Sep 2026 12:19:42 GMT</pubDate>
+        <pubDate>Wed, 23 Sep 2026 17:14:20 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Live: Handball satt - zehn Mal DHB-Pokal]]></title>
+            <description><![CDATA[Gleich zehn Partien der 2. Runde des DHB-Pokals werden am heutigen Mittwochabend ausgetragen. Dabei stehen auch mehrere Erstliga-Duelle an. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 16:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transferticker: Mengon-Verlängerung, Ludwig-Abschied]]></title>
+            <description><![CDATA[Was passiert gerade auf dem Handball-Transfermarkt? Im Transferticker von handball-world gibt es - in Kooperation mit Picard - die neuesten Entwicklungen.]]></description>
+            <link>https://www.handball-world.news/liveticker/handball-transfers-1034721</link>
+            <guid isPermaLink="false">1034721</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 15:47:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Für den guten Zweck: Drittligist versteigert Trikots der Vorsaison]]></title>
+            <description><![CDATA[Beim TV Bissendorf-Holte läuft aktuell eine besondere Aktion: Der Drittligist versteigert Trikots aus der Vorsaison für den guten Zweck.]]></description>
+            <link>https://www.handball-world.news/artikel/fuer-den-guten-zweck-drittligist-versteigert-trikots-der-vorsaison-1255361</link>
+            <guid isPermaLink="false">1255361</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 15:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Der Norden greift wieder an]]></title>
+            <description><![CDATA[117. Nordderby zwischen dem THW Kiel und der SG Flensburg-Handewitt: Zwei Teams ohne Minuspunkte kämpfen um die Tabellenspitze. Ist das traditionsreichste Duell des deutschen Handballs in dieser Saison auch wieder das qualitativ beste Spiel?]]></description>
+            <link>https://www.handball-world.news/artikel/der-norden-greift-wieder-an-1255355</link>
+            <guid isPermaLink="false">1255355</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 15:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Füchse-Boss Hanning kritisiert Linken-Politikerin Eralp: "Rotzfrech"]]></title>
+            <description><![CDATA[Linken-Spitzenkandidatin Elif Eralp hatte nach ihrem Wahlsieg Berlins Olympia-Bewerbung als "erledigt" bezeichnet. Das bringt Füchse-Boss Bob Hanning auf die Palme. Dabei geht es besonders um das wie.]]></description>
+            <link>https://www.handball-world.news/artikel/fuechse-boss-hanning-kritisiert-linken-politikerin-eralp-rotzfrech-1255375</link>
+            <guid isPermaLink="false">1255375</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 14:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stets das gleiche Muster: Löwen nach Fehlstart unter Druck]]></title>
+            <description><![CDATA[Erst der schwache Bundesliga-Auftakt, nun das DHB-Pokal-Aus: Die Handballer der Rhein-Neckar Löwen verlieren ihre Spiele immer auf die gleiche Art und Weise. Der Trainer ist als Psychologe gefragt.]]></description>
+            <link>https://www.handball-world.news/artikel/stets-das-gleiche-muster-loewen-nach-fehlstart-unter-druck-1255371</link>
+            <guid isPermaLink="false">1255371</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 14:06:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Francisco Costa selbstkritisch: "Ich bin nur ein halber Spieler"]]></title>
+            <description><![CDATA[Francisco "Kiko" Costa gilt mit seiner Dynamik, seinem starken Eins-gegen-eins und seiner Wurfgewalt als eines der größten Talente im internationalen Handball. Der 21-jährige Rückraumspieler von Sporting CP sieht selbst allerdings noch Luft nach oben.]]></description>
+            <link>https://www.handball-world.news/artikel/francisco-costa-selbstkritisch-ich-bin-nur-ein-halber-spieler-1255326</link>
+            <guid isPermaLink="false">1255326</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 13:55:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexia Hauf: Ein Leben außerhalb der Komfortzone]]></title>
+            <description><![CDATA[Schon früh hat Alexia Hauf dem Handball alles untergeordnet. Mit 14 ging sie aufs Internat - eine Entscheidung, die sich auszahlen sollte. Heute ist die 28-Jährige etablierte Nationalspielerin. Den Blick für das große Ganze hat die amtierende deutsche Meisterin allerdings nie verloren.]]></description>
+            <link>https://www.handball-world.news/artikel/alexia-hauf-ein-leben-ausserhalb-der-komfortzone-1255354</link>
+            <guid isPermaLink="false">1255354</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 13:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pause für Staatsexamen: Linksaußen vom VfL Pfullingen kündigt Karriereende an]]></title>
+            <description><![CDATA[Der VfL Pfullingen muss sich zur kommenden Saison auf Linksaußen neu aufstellen: Christopher Rix hat sein Karriereende angekündigt. Schon jetzt legt der 29-Jährige eine zweimonatige Pause ein, um sich vollständig auf sein Staatsexamen konzentrieren zu können.]]></description>
+            <link>https://www.handball-world.news/artikel/pause-fuer-staatsexamen-linksaussen-vom-vfl-pfullingen-kuendigt-karriereende-an-1255316</link>
+            <guid isPermaLink="false">1255316</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Füchse betroffen: Spielplan der Klub-WM geändert]]></title>
+            <description><![CDATA[Einen Tag vor dem Beginn der Klub-WM im Handball wurde der Spielplan noch einmal angepasst. Betroffen ist auch eine Partie der Füchse Berlin.]]></description>
+            <link>https://www.handball-world.news/artikel/fuechse-betroffen-spielplan-der-klub-wm-geaendert-1255312</link>
+            <guid isPermaLink="false">1255312</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 23 Sep 2026 12:30:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nächster Ausfall: Kreisläuferin fehlt Füchsen wochenlang]]></title>
             <description><![CDATA[Nächster Rückschlag für die Füchse Berlin: Nach der sofortigen Trennung von Torhüterin Zoe Ludwig und bereits drei verletzungsbedingten Ausfällen fehlt nun auch Kreisläuferin Angela Cappellaro in den kommenden Wochen.]]></description>
@@ -192,14 +272,6 @@
             <guid isPermaLink="false">1162566</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 17:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live! Melsungen gegen Löwen in der Verlängerung]]></title>
-            <description><![CDATA[Während der HC Hamburg gegen den HC Elbflorenz bereits den Einzug ins Achtelfinale gefeiert hat, geht es in einem spannenden Duell in Kassel in die Verlängerung. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 18:41:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handball Business Blog: HLA setzt auf Wein, Eisenach auf Bier]]></title>
@@ -1136,78 +1208,6 @@
             <guid isPermaLink="false">1254160</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 19 Sep 2026 13:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sommer 2026: Die Wechsel in der 2. Bundesliga]]></title>
-            <description><![CDATA[Wen haben die Vereine der 2. Handball-Bundesliga für die Saison 2026/27 verpflichtet - und welche Spieler haben ihre Klubs diesen Sommer verlassen? Die feststehenden Wechsel in der Übersicht.]]></description>
-            <link>https://www.handball-world.news/artikel/sommer-2026-die-wechsel-in-der-2-bundesliga-1195443</link>
-            <guid isPermaLink="false">1195443</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 12:08:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nach Sechs-Tore-Rückstand: Nordhorn erkämpft sich Punkt gegen Coburg]]></title>
-            <description><![CDATA[Das war nichts für schwache Nerven: Vor 1.587 Zuschauern arbeitete sich die HSG Nordhorn-Lingen aus einem Sechs-Tore-Rückstand zurück und erkämpfte sich gegen den HSC 2000 Coburg schließlich ein 31:31 (13:15).]]></description>
-            <link>https://www.handball-world.news/spiel/nordhorn-gegen-coburg-2026-handball-bundesliga-5214082/bericht</link>
-            <guid isPermaLink="false">1254138</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 11:47:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Besonderer Moment": Schulze trifft auf Ex-Klub Leipzig]]></title>
-            <description><![CDATA[Für Luisa Schulze steht heute Abend eine besondere Partie an. Mit Frisch Auf Göppingen trifft die ehemalige Nationalspielerin auf Aufsteiger HC Leipzig und damit auf ihren langjährigen Ex-Klub.]]></description>
-            <link>https://www.handball-world.news/artikel/besonderer-moment-schulze-trifft-auf-ex-klub-leipzig-1254126</link>
-            <guid isPermaLink="false">1254126</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 11:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die 15 größten Vertrags-Fragezeichen der Bundesliga]]></title>
-            <description><![CDATA[Im kommenden Sommer laufen die Verträge einiger Stars aus. Ein Blick auf die 15 größten Vertrags-Fragezeichen der Handball-Bundesliga:]]></description>
-            <link>https://www.handball-world.news/slideshow/die-15-groessten-vertrags-fragezeichen-der-bundesliga-1251186</link>
-            <guid isPermaLink="false">1251186</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 11:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Doppelschlag: Team Esbjerg bindet zwei Schweizer Nationalspielerinnen langfristig]]></title>
-            <description><![CDATA[Team Esbjerg arbeitet weiterhin fleißig am Kader der Zukunft: Nach Katharina Filter und Neuzugang Julie Scaglione haben nun auch zwei Schweizer Nationalspielerinnen ihren Vertrag bis 2030 verlängert.]]></description>
-            <link>https://www.handball-world.news/artikel/doppelschlag-team-esbjerg-bindet-zwei-schweizer-nationalspielerinnen-langfristig-1254122</link>
-            <guid isPermaLink="false">1254122</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 11:10:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Tut dreimal brutal weh": Heinzelmann hadert mit nächster knapper Niederlage]]></title>
-            <description><![CDATA[Der HBW Balingen-Weilstetten hat im Derby gegen Stuttgart die dritte knappe Niederlage in Folge kassiert. Im Vergleich zu den Pleiten gegen Magdeburg und die Rhein-Neckar Löwen tat die gegen den TVB Tobias Heinzelmann besonders weh.]]></description>
-            <link>https://www.handball-world.news/artikel/tut-dreimal-brutal-weh-heinzelmann-hadert-mit-naechster-knapper-niederlage-1254108</link>
-            <guid isPermaLink="false">1254108</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 11:38:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verletzung in der Champions League: WM-Aus für spanischen Rechtsaußen]]></title>
-            <description><![CDATA[Rückschlag für den HBC Nantes und die spanische Nationalmannschaft: Kauldi Odriozola hat sich im Champions-League-Spiel bei Vardar Skopje eine schwere Knieverletzung zugezogen.]]></description>
-            <link>https://www.handball-world.news/artikel/verletzung-in-der-champions-league-wm-aus-fuer-spanischen-rechtsaussen-1254107</link>
-            <guid isPermaLink="false">1254107</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 07:51:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bundespräsident Steinmeier verkündet Olympia-Bewerber]]></title>
-            <description><![CDATA[In der kommenden Woche wird Deutschland über den Olympia-Bewerber für 2036, 2040 und 2044 entscheiden. Auch das Staatsoberhaupt wird in Baden-Baden dabei sein.]]></description>
-            <link>https://www.handball-world.news/artikel/bundespraesident-steinmeier-verkuendet-olympia-bewerber-1253588</link>
-            <guid isPermaLink="false">1253588</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 09:11:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lund nach Zittersieg in Eisenach: "Der Kopf ist nicht das Problem"]]></title>
-            <description><![CDATA[Der THW Kiel bleibt auch nach dem fünften Spieltag ohne Punktverlust. Nach dem knappen Sieg in Eisenach sieht Trainer Börge Lund allerdings noch viel Entwicklungspotenzial bei seiner Mannschaft.]]></description>
-            <link>https://www.handball-world.news/artikel/lund-nach-zittersieg-in-eisenach-der-kopf-ist-nicht-das-problem-1254100</link>
-            <guid isPermaLink="false">1254100</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 19 Sep 2026 08:58:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
