@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 24 Sep 2026 15:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2026 19:32:03 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 24 Sep 2026 15:55:26 GMT</pubDate>
+        <pubDate>Thu, 24 Sep 2026 19:32:03 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[DHB-Pokal kompakt: Erlangen holt letztes Achtelfinal-Ticket]]></title>
+            <description><![CDATA[In zwei packenden Dienstagspartien hatten sich im Handball-Pokal am Ende doch die Favoriten durchgesetzt. Der Mittwoch hielt dann aber bei den Ergebnissen eine Sensation in Emsdetten sowie Überraschungen in Bietigheim und Balingen bereit, in Lübeck musste die SG Flensburg-Handewitt derweil hart kämpfen. Das letzte Ticket fürs Achtelfinale sicherte sich am Donnerstagabend der HC Erlangen.]]></description>
+            <link>https://www.handball-world.news/artikel/dhb-pokal-kompakt-erlangen-holt-letztes-achtelfinal-ticket-1255197</link>
+            <guid isPermaLink="false">1255197</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 19:17:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pierre-Show und Nissen-Gala: Erlangen mit Start-Ziel-Sieg beim TVB]]></title>
+            <description><![CDATA[Der HC Erlangen hat sich im Pokal-Duell gegen den TVB Stuttgart durchgesetzt. Von Anfang an präsentierte sich das Team von Johannes Sellin, angeführt von einem starken Marek Nissen, als die bessere Mannschaft. Auch Schlussmann Rubens Pierre hatte mit seinen 14 Paraden einen großen Anteil am 29:26-Erfolg der Erlanger.]]></description>
+            <link>https://www.handball-world.news/spiel/stuttgart-gegen-erlangen-2026-dhb-pokal-5264885/bericht</link>
+            <guid isPermaLink="false">1255712</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 19:18:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live: Stuttgart oder Erlangen: Kampf um letztes Pokalticket]]></title>
+            <description><![CDATA[Mit einem Erstligaduell endet die 2. Runde im DHB-Pokal der Männer. Der TVB Stuttgart empfängt den HC Erlangen. Die Partie gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/spiel/tvb-1898-stuttgart-gegen-hc-erlangen-5264885/ticker</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 24 Sep 2026 16:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deutschlands Frauen im doppelten EM-Test: Hier kann man die Partien kostenlos sehen]]></title>
             <description><![CDATA[Deutschlands Handballerinnen bereiten sich mit zwei Freundschaftsspielen in Spanien auf die kommende Handball-EM vor. Dabei gibt es auch die Möglichkeit, das Spiel im kostenlosen Livestream zu verfolgen.]]></description>
@@ -234,14 +258,6 @@
             <pubDate>Thu, 24 Sep 2026 03:30:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[DHB-Pokal kompakt: Emsdetten mit Pokalcoup, Flensburg zittert sich weiter]]></title>
-            <description><![CDATA[In zwei packenden Dienstagspartien hatten sich am Dienstag im Handball-Pokal am Ende doch die Favoriten durchgesetzt. Der Mittwoch hielt dann aber bei den Ergebnissen eine Sensation in Emsdetten sowie Überraschungen in Bietigheim und Balingen bereit, in Lübeck musste die SG Flensburg-Handewitt derweil hart kämpfen. Ein Ticket in die nächste Runde ist noch offen, das spielen der TVB Stuttgart und der HC Erlangen am Donnerstag aus.]]></description>
-            <link>https://www.handball-world.news/artikel/dhb-pokal-kompakt-emsdetten-mit-pokalcoup-flensburg-zittert-sich-weiter-1255197</link>
-            <guid isPermaLink="false">1255197</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 23 Sep 2026 20:36:47 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Sensation perfekt: TV Emsdetten wirft Eisenach aus dem Pokal]]></title>
             <description><![CDATA[Der TV Emsdetten hat im DHB-Pokal für eine große Überraschung gesorgt und den Handball-Erstligisten ThSV Eisenach mit 36:33 (16:15) aus dem Wettbewerb geworfen.]]></description>
             <link>https://www.handball-world.news/spiel/emsdetten-gegen-eisenach-2026-dhb-pokal-5264887/bericht</link>
@@ -304,14 +320,6 @@
             <guid isPermaLink="false">1255468</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 23 Sep 2026 18:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live: Stuttgart oder Erlangen: Kampf um letztes Pokalticket]]></title>
-            <description><![CDATA[Mit einem Erstligaduell endet die 2. Runde im DHB-Pokal der Männer. Der TVB Stuttgart empfängt den HC Erlangen. Die Partie gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/spiel/tvb-1898-stuttgart-gegen-hc-erlangen-5264885/ticker</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 24 Sep 2026 15:42:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Transferticker: Mengon-Verlängerung, Ludwig-Abschied]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1254493</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 20 Sep 2026 14:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[0:4-Lauf in den Schlussminuten: Rödertal unterliegt in Regensburg]]></title>
-            <description><![CDATA[Der HC Rödertal ist als Mitfavorit in die Saison 2026/27 gestartet. Auswärts läuft es bei den Sächsinnen allerdings noch nicht: Auch beim ESV 1927 Regensburg musste sich der HCR mit 28:31 (15:17) geschlagen geben.]]></description>
-            <link>https://www.handball-world.news/spiel/regensburg-gegen-roedertal-2026-handball-bundesliga-frauen-5242975/bericht</link>
-            <guid isPermaLink="false">1254467</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 13:55:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
