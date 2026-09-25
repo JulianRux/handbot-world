@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 25 Sep 2026 00:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Sep 2026 05:29:35 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 25 Sep 2026 00:48:42 GMT</pubDate>
+        <pubDate>Fri, 25 Sep 2026 05:29:35 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Warum die Füchse nicht im DHB-Pokal spielen]]></title>
+            <description><![CDATA[Die 2. Runde des DHB-Pokals ist abgeschlossen. Die Füchse Berlin waren dabei nicht im Einsatz. Das steckt dahinter:]]></description>
+            <link>https://www.handball-world.news/artikel/warum-die-fuechse-nicht-im-dhb-pokal-spielen-1255539</link>
+            <guid isPermaLink="false">1255539</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 05:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burgan, wer? Das ist der Füchse-Gegner bei der Klub-WM]]></title>
+            <description><![CDATA[Die Füchse Berlin starten am heutigen Freitagabend (25. September, 19.45 Uhr) in die Klub-Weltmeisterschaft. Von Auftaktgegner Burgan SC haben wohl die wenigsten Handball-Fans schonmal gehört. handball-world klärt auf:]]></description>
+            <link>https://www.handball-world.news/artikel/burgan-wer-das-ist-der-fuechse-gegner-bei-der-klub-wm-1255204</link>
+            <guid isPermaLink="false">1255204</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 04:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Engel nun Handballprofi in Rumänien: "Ein Punkt, der sich total verändert hat"]]></title>
+            <description><![CDATA[In der vergangenen Saison schnappte sich Nina Engel noch den Titel der Torschützenkönigin in der Handball-Bundesliga der Frauen. Nun startet sie in Rumänien durch, bei Gloria Bistrita.]]></description>
+            <link>https://www.handball-world.news/artikel/engel-nun-handballprofi-in-rumaenien-ein-punkt-der-sich-total-veraendert-hat-1255667</link>
+            <guid isPermaLink="false">1255667</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 03:30:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DHB-Pokal kompakt: Erlangen holt letztes Achtelfinal-Ticket]]></title>
             <description><![CDATA[In zwei packenden Dienstagspartien hatten sich im Handball-Pokal am Ende doch die Favoriten durchgesetzt. Der Mittwoch hielt dann aber bei den Ergebnissen eine Sensation in Emsdetten sowie Überraschungen in Bietigheim und Balingen bereit, in Lübeck musste die SG Flensburg-Handewitt derweil hart kämpfen. Das letzte Ticket fürs Achtelfinale sicherte sich am Donnerstagabend der HC Erlangen.]]></description>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">999875</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 20 Sep 2026 15:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trotz neun Firnhaber-Tore: Hamm unterliegt auch gegen Großwallstadt]]></title>
-            <description><![CDATA[Nach dem überraschenden Sieg gegen GWD Minden wollte der ASV Hamm-Westfalen beim TV Großwallstadt nachlegen. 20 gute Minuten reichten allerdings nicht, so setzte es beim 24:29 in der Untermain-Halle die dritte Niederlage im vierten Spiel.]]></description>
-            <link>https://www.handball-world.news/spiel/grosswallstadt-gegen-hamm-westfalen-2026-handball-bundesliga-5214084/bericht</link>
-            <guid isPermaLink="false">1254481</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 15:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trotz Platzwunde bei Palicka: Füchse Berlin siegen beim BHC]]></title>
-            <description><![CDATA[Die Füchse Berlin hatten beim Bergischen HC keine Mühe, um sich letztlich klar beim Bergischen HC mit 37:26 (15:9) zu behaupten. Während Tobias Gröndahl und Mathias Gidsel den Pokalsieger zum Auswärtserfolg führten, sollte vor allem eine Verletzung von Andreas Palicka für Aufsehen sorgen.]]></description>
-            <link>https://www.handball-world.news/spiel/bergischer-hc-gegen-berlin-2026-handball-bundesliga-5213789/bericht</link>
-            <guid isPermaLink="false">1254499</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 15:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trotz 21 Paraden: Buxtehude mit Heimniederlage]]></title>
-            <description><![CDATA[Eine Niederlage, aus der sich einige Lehren ziehen lassen, musste der Buxtehuder SV am 4. Spieltag hinnehmen. Gegen die HSG Bensheim/Auerbach verlor der BSV vor 982 Zuschauern trotz 21 Paraden von Nikki van der Vorst und Oliwia Kaminska mit 25:30 (14:17).]]></description>
-            <link>https://www.handball-world.news/spiel/buxtehude-gegen-bensheim-2026-handball-frauen-bundesliga-5244003/bericht</link>
-            <guid isPermaLink="false">1254493</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 20 Sep 2026 14:23:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
