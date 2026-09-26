@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 14:30:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 17:55:12 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 14:30:07 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 17:55:12 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Live! Nord-Krimi THW Kiel gegen Flensburg in Crunch-Time]]></title>
+            <description><![CDATA[Das Nordderby zwischen dem THW Kiel und der SG Flensburg-Handewitt überstrahlt den Samstag: Die SG legte in der Anfangsviertelstunde vor, dann aber drehte der THW die Partie und nimmt eine Vier-Tore-Führung mit in die zweite Hälfte. Später spielt Magdeburg gegen Bietigheim, die Löwen empfangen Melsungen. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/spiel/thw-kiel-gegen-sg-flensburg-handewitt-5213793/ticker</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 17:44:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Ging alles sehr schnell": Höler gleich Man of the Match]]></title>
+            <description><![CDATA[Gegen einen überfordertn Burgan SC aus Kuwait hatten die Füchse Berlin beim Auftakt der Vereins-WM im Handball in Ägypten keine Probleme - auch dank eines starken Frederik Höler, der Nachrücker wurde als Man of the Match ausgezeichnet. Morgen wartet ein anderes Kaliber.]]></description>
+            <link>https://www.handball-world.news/artikel/ging-alles-sehr-schnell-hoeler-gleich-man-of-the-match-1256155</link>
+            <guid isPermaLink="false">1256155</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 15:39:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bestes HBL-Team aller Zeiten? So stark war der Kiel-Kader 2011/12]]></title>
+            <description><![CDATA[Dem THW Kiel gelang 2011/12 ein Kunststück, das bis heute kein anderes Team geschafft hat: Die "Zebras" spielten in Deutschland die perfekte Saison in der Handball-Bundesliga: 68:0 Punkte. Ein Wert, den in dieser Saison nur noch die Kieler und der heutige Gegner Flensburg erreichen können. handball-world schaut auf diese historische Mannschaft zurück.]]></description>
+            <link>https://www.handball-world.news/slideshow/bestes-hbl-team-aller-zeiten-so-stark-war-der-kiel-kader-2011-12-1239624</link>
+            <guid isPermaLink="false">1239624</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 14:40:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gröbenzell-Legende Fischer: "Einige sind näher an meiner siebenjährigen Tochter"]]></title>
             <description><![CDATA[Zwei Kinder, 33 Jahre Handball, eine 35-Stunde-Woche - aber immer noch nicht müde! Sina Fischer ist eine Legende beim HCD Gröbenzell. Dieses Jahr spielt die 38-Jährige mit den ersten Damen in der Regionalliga ihre 23. Saison im Seniorenbereich.]]></description>
@@ -16,14 +40,6 @@
             <guid isPermaLink="false">1256146</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 26 Sep 2026 14:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live! Nordderby als Topspiel, SCM und Melsungen gefordert]]></title>
-            <description><![CDATA[Das Nordderby zwischen dem THW Kiel und der SG Flensburg-Handewitt überstrahlt den Samstag, zudem wird dort auch das Achtelfinale im Pokal ausgelost. Später spielt Magdeburg gegen Bietigheim, die Löwen empfangen Melsungen. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 13:54:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Die Top-Torschützen der Klub-WM]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1254961</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 06:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dieses Duell doppelt sich: Melsungen und Löwen vor besonderer Woche]]></title>
-            <description><![CDATA[Erst K.o.-Duell, dann Bundesliga-Kracher: Die MT Melsungen und die Rhein-Neckar Löwen stehen sich in dieser Woche gleich zweimal gegenüber. Für beide Teams geht es damit innerhalb weniger Tage um zwei wichtige Ergebnisse.]]></description>
-            <link>https://www.handball-world.news/artikel/dieses-duell-doppelt-sich-melsungen-und-loewen-vor-besonderer-woche-1254854</link>
-            <guid isPermaLink="false">1254854</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 04:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fragen und Antworten zur Wahl des deutschen Olympiabewerbers]]></title>
-            <description><![CDATA[Der Deutsche Olympische Sportbund (DOSB) kürt am Samstag in Baden-Baden auf einer außerordentlichen Mitgliederversammlung seinen Kandidaten für den nächsten Anlauf einer deutschen Olympiabewerbung. Berlin, München und die Region Köln/Rhein-Ruhr fiebern der Entscheidung der Delegierten entgegen. Der SID beantwortet die wichtigsten Fragen.]]></description>
-            <link>https://www.handball-world.news/artikel/fragen-und-antworten-zur-wahl-des-deutschen-olympiabewerbers-1254913</link>
-            <guid isPermaLink="false">1254913</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 03:45:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
