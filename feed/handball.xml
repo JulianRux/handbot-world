@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 00:53:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 05:37:00 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 00:53:08 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 05:37:00 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Handball in München: Panther auf Angriff]]></title>
+            <description><![CDATA[Das Ziel, jedes Jahr eine neue Liga, klingt verrückt. Doch es wächst etwas zusammen im Süden Bayerns. Struktur, Vision und Kader stehen.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-in-muenchen-panther-auf-angriff-1253676</link>
+            <guid isPermaLink="false">1253676</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 05:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Zaepfel zehn Mal: Füchse erledigen Pflichtaufgabe bei Klub-WM]]></title>
             <description><![CDATA[Die Handballer der Füchse Berlin sind erfolgreich in die Klub-WM gestartet. In Ägyptens Hauptstadt Kairo setzte sich der DHB-Pokalsieger souverän mit 38:18 (20:11) gegen den kuwaitischen Außenseiter Burgan SC durch und erledigte damit seine Pflichtaufgabe vor dem wahrscheinlich vorentscheidenden Spiel der Gruppe B um den Einzug ins Finale.]]></description>
@@ -186,20 +194,20 @@
             <pubDate>Fri, 25 Sep 2026 10:00:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Deutsche Länderspiele gegen Spanien: Wer überträgt live im TV und Stream?]]></title>
-            <description><![CDATA[Die deutsche Frauen-Nationalmannschaft nimmt die neue Länderspiel-Saison mit zwei Vergleichen gegen Spanien in Angriff. Am 25. und 27. September trifft die Mannschaft in Granollers auf die Gastgeberinnen. Wo die Partien übertragen werden:]]></description>
-            <link>https://www.handball-world.news/artikel/deutsche-laenderspiele-gegen-spanien-wer-uebertraegt-live-im-tv-und-stream-1254779</link>
-            <guid isPermaLink="false">1254779</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 12:02:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bergendahl vor neuer Aufgabe: Nachwuchs für den SCM-Kreisläufer]]></title>
             <description><![CDATA[Sportlich kämpft Oscar Bergendahl mit dem SC Magdeburg um die nächsten Titel, privat wartet nun eine ganz besondere Aufgabe auf den Kreisläufer.]]></description>
             <link>https://www.handball-world.news/artikel/bergendahl-vor-neuer-aufgabe-nachwuchs-fuer-den-scm-kreislaeufer-1255843</link>
             <guid isPermaLink="false">1255843</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 09:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deutsche Länderspiele gegen Spanien: Wer überträgt live im TV und Stream?]]></title>
+            <description><![CDATA[Die deutsche Frauen-Nationalmannschaft nimmt die neue Länderspiel-Saison mit zwei Vergleichen gegen Spanien in Angriff. Am 25. und 27. September trifft die Mannschaft in Granollers auf die Gastgeberinnen. Wo die Partien übertragen werden:]]></description>
+            <link>https://www.handball-world.news/artikel/deutsche-laenderspiele-gegen-spanien-wer-uebertraegt-live-im-tv-und-stream-1254779</link>
+            <guid isPermaLink="false">1254779</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 12:02:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Auf einen Blick: Die 116 Ergebnisse im Nordderby]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1254788</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 21 Sep 2026 11:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SCM-Star an der Spitze: Die besten Vorlagengeber der Bundesliga]]></title>
-            <description><![CDATA[Fünf Spieltage in der Opel Handball-Bundesliga 2026/27 sind absolviert. Wer hat bisher die meisten Assists geliefert? Ein Blick auf die besten Vorlagengeber der Liga:]]></description>
-            <link>https://www.handball-world.news/artikel/scm-star-an-der-spitze-die-besten-vorlagengeber-der-bundesliga-1248485</link>
-            <guid isPermaLink="false">1248485</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 21 Sep 2026 10:42:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
