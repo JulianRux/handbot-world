@@ -4,11 +4,43 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 20:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 22:49:35 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 20:14:13 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 22:49:35 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Durch Videobeweis: Kiel wird in denkwürdigem Nord-Thriller der Sieg entrissen]]></title>
+            <description><![CDATA[Der THW Kiel und die SG Flensburg-Handewitt lieferten sich ein weiteres denkwürdiges Nord-Derby, das sich zu einem Nord-Thriller entwickelte: Die Kieler drehten im ersten Abschnitt einen Drei-Tore-Rückstand, verspielten dann im zweiten eine Fünf-Tore-Führung und bekamen den vermeintlichen Siegtreffer nach Videobeweis aberkannt.]]></description>
+            <link>https://www.handball-world.news/videos/durch-videobeweis-kiel-wird-in-denkwuerdigem-nord-thriller-der-sieg-entrissen-1256237</link>
+            <guid isPermaLink="false">1256237</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 21:09:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Das sagen Lund und Pajovic nach dem Remis im Nord-Thriller]]></title>
+            <description><![CDATA[Das Nord-Derby zwischen dem THW Kiel und der SG Flensburg-Handewitt wurde zu einem Handball-Thriller mit Überlänge - den nach Spielende ging der Blick in Richtung der vor dem Bildschirm stehenden Schiedsrichter: Die versagten dem vermeintlichen Siegtreffer die Anerkennung, es blieb beim 31:31. Was die Trainer Borge Lund und Ales Pajovic danach sagten.]]></description>
+            <link>https://www.handball-world.news/artikel/das-sagen-lund-und-pajovic-nach-dem-remis-im-nord-thriller-1256247</link>
+            <guid isPermaLink="false">1256247</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 22:18:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SC Magdeburg macht sich gegen Bietigheim das Leben schwer]]></title>
+            <description><![CDATA[Gegen Aufsteiger Bietigheim machte sich der deutsche Handball-Meister SC Magdeburg selbst das Leben schwer - vor allem in Person von Torhüter Martin Tomovski. Am Ende stand dennoch ein klarer Erfolg vor dem wichtigen Heimduell mit dem THW Kiel am Mittwoch.]]></description>
+            <link>https://www.handball-world.news/spiel/magdeburg-gegen-bietigheim-2026-handball-bundesliga-5213792/bericht</link>
+            <guid isPermaLink="false">1256248</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 20:43:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Löwen bezwingen Melsungen im packenden Schlusskrimi]]></title>
+            <description><![CDATA[Die Rhein-Neckar Löwen haben sich in einem packenden Duell in der Handball-Bundesliga mit 30:28 gegen die MT Melsungen durchgesetzt, die zuletzt Meister SC Magdeburg in die Knie gezwungen hatte. In einer über weite Strecken ausgeglichenen Partie setzten die Löwen in der Schlussphase die entscheidenden Akzente.]]></description>
+            <link>https://www.handball-world.news/spiel/r-n-loewen-gegen-melsungen-2026-handball-bundesliga-5213795/bericht</link>
+            <guid isPermaLink="false">1256173</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 20:27:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
             <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
@@ -23,7 +55,7 @@
             <link>https://www.handball-world.news/artikel/der-vermeintliche-siegtreffer-alles-rund-um-den-videobeweis-im-nordderby-1256224</link>
             <guid isPermaLink="false">1256224</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 20:03:24 GMT</pubDate>
+            <pubDate>Sat, 26 Sep 2026 21:08:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DHB Pokal-Auslosung: Achtelfinale mit reichlich Erstliga-Duellen]]></title>
@@ -31,7 +63,7 @@
             <link>https://www.handball-world.news/artikel/dhb-pokal-auslosung-achtelfinale-mit-reichlich-erstliga-duellen-1256219</link>
             <guid isPermaLink="false">1256219</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 18:43:41 GMT</pubDate>
+            <pubDate>Sat, 26 Sep 2026 20:13:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Live! Nach Nordkrimi nun Magdeburg und Melsungen im Einsatz]]></title>
@@ -48,14 +80,6 @@
             <guid isPermaLink="false">1256185</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 26 Sep 2026 19:24:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Löwen bezwingen Melsungen im packenden Schlusskrimi]]></title>
-            <description><![CDATA[Die Rhein-Neckar Löwen haben sich in einem packenden Duell in der Handball-Bundesliga mit 30:28 gegen die MT Melsungen durchgesetzt, die zuletzt Meister SC Magdeburg in die Knie gezwungen hatte. In einer über weite Strecken ausgeglichenen Partie setzten die Löwen in der Schlussphase die entscheidenden Akzente.]]></description>
-            <link>https://www.handball-world.news/spiel/r-n-loewen-gegen-melsungen-2026-handball-bundesliga-5213795/bericht</link>
-            <guid isPermaLink="false">1256173</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 19:55:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Ging alles sehr schnell": Höler gleich Man of the Match]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1255004</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 08:24:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hanning lobt Melsungens SCM-Coup: "Taktisch herausragend"]]></title>
-            <description><![CDATA[In der Handball-Bundesliga ist das Tempo bekanntlich hoch, nicht nur auf dem Spielfeld, sondern auch bei der Termindichte. In seiner aktuellen kicker-Kolumne spricht Bob Hanning nicht nur über den vergangenen Spieltag in der HBL, sondern auch die anstehende Pokalrunde und das Highlight vom kommenden Wochenende: Das Nordderby als Spitzenspiel.]]></description>
-            <link>https://www.handball-world.news/artikel/hanning-lobt-melsungens-scm-coup-taktisch-herausragend-1255000</link>
-            <guid isPermaLink="false">1255000</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 07:55:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHB-Pokal: Alle Sieger und Endspiele]]></title>
-            <description><![CDATA[Ein Blick auf die bisherigen Sieger und Endspiele im DHB-Pokal der Männer: Der THW Kiel ist auch in diesem deutschen Handball-Wettbewerb der Rekordsieger. Die jüngste Ausgabe gewannen die Füchse Berlin - zum zweiten Mal in der Vereinsgeschichte.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-historie-sieger-und-endspiele-des-dhb-pokals-984549</link>
-            <guid isPermaLink="false">984549</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 07:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Historisch: Europäisches Team gewinnt erstmals Rollstuhlhandball-WM]]></title>
-            <description><![CDATA[Im Granollers fand vom 14. bis zum 21. September die Rollstuhlhandball-WM statt. Dabei konnte sich Gastgeber Spanien zum ersten Mal den Titel holen.]]></description>
-            <link>https://www.handball-world.news/artikel/historisch-europaeisches-team-gewinnt-erstmals-rollstuhlhandball-wm-1254996</link>
-            <guid isPermaLink="false">1254996</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 07:09:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
