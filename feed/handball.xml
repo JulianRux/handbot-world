@@ -4,18 +4,58 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 17:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2026 20:14:13 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 17:55:12 GMT</pubDate>
+        <pubDate>Sat, 26 Sep 2026 20:14:13 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
-            <title><![CDATA[Live! Nord-Krimi THW Kiel gegen Flensburg in Crunch-Time]]></title>
-            <description><![CDATA[Das Nordderby zwischen dem THW Kiel und der SG Flensburg-Handewitt überstrahlt den Samstag: Die SG legte in der Anfangsviertelstunde vor, dann aber drehte der THW die Partie und nimmt eine Vier-Tore-Führung mit in die zweite Hälfte. Später spielt Magdeburg gegen Bietigheim, die Löwen empfangen Melsungen. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/spiel/thw-kiel-gegen-sg-flensburg-handewitt-5213793/ticker</link>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 19:42:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Der vermeintliche Siegtreffer: Alles rund um den Videobeweis im Nordderby]]></title>
+            <description><![CDATA[Das Nordderby in der Handball-Bundesliga zwischen dem THW Kiel und der SG Flensburg-Handewitt endete unentschieden, nachdem der vermeintliche Siegtreffer nicht gegeben wurde. Die entscheidende Situation unter der Lupe.]]></description>
+            <link>https://www.handball-world.news/artikel/der-vermeintliche-siegtreffer-alles-rund-um-den-videobeweis-im-nordderby-1256224</link>
+            <guid isPermaLink="false">1256224</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 20:03:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DHB Pokal-Auslosung: Achtelfinale mit reichlich Erstliga-Duellen]]></title>
+            <description><![CDATA[Die Achtelfinal-Paarungen im DHB-Pokal 2026/27 stehen fest: Bundestrainer Alfred Gislason zog nach dem Nordderby in Kiel die Lose und bescherte den Handball-Fans einige spannende Duelle.]]></description>
+            <link>https://www.handball-world.news/artikel/dhb-pokal-auslosung-achtelfinale-mit-reichlich-erstliga-duellen-1256219</link>
+            <guid isPermaLink="false">1256219</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 18:43:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live! Nach Nordkrimi nun Magdeburg und Melsungen im Einsatz]]></title>
+            <description><![CDATA[Das Nordderby zwischen dem THW Kiel und der SG Flensburg-Handewitt überstrahlte den Samstag - am Ende besiegelte der Videobeweis die Punkteteilung. Nun trifft Magdeburg gegen Bietigheim, die Löwen empfangen Melsungen. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
             <guid isPermaLink="false">1245795</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 17:44:56 GMT</pubDate>
+            <pubDate>Sat, 26 Sep 2026 18:07:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball-Wahnsinn mit Videobeweis: Kiels Siegtreffer gegen Flensburg zählt nicht]]></title>
+            <description><![CDATA[Ein weiteres denkwürdiges Nordderby lieferten sich der THW Kiel und die SG Flensburg-Handewitt in der Handball-Bundesliga: Die Gastgeber drehten einen Drei-Tore-Rückstand im ersten Abschnitt, führten im zweiten mit fünf Treffern - und mussten sich am Ende nach Videobeweis mit einem Punkt begnügen. Beide Teams sind so weiter ungeschlagen.]]></description>
+            <link>https://www.handball-world.news/spiel/kiel-gegen-flensburg-2026-handball-bundesliga-5213793/bericht</link>
+            <guid isPermaLink="false">1256185</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 19:24:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Löwen bezwingen Melsungen im packenden Schlusskrimi]]></title>
+            <description><![CDATA[Die Rhein-Neckar Löwen haben sich in einem packenden Duell in der Handball-Bundesliga mit 30:28 gegen die MT Melsungen durchgesetzt, die zuletzt Meister SC Magdeburg in die Knie gezwungen hatte. In einer über weite Strecken ausgeglichenen Partie setzten die Löwen in der Schlussphase die entscheidenden Akzente.]]></description>
+            <link>https://www.handball-world.news/spiel/r-n-loewen-gegen-melsungen-2026-handball-bundesliga-5213795/bericht</link>
+            <guid isPermaLink="false">1256173</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 19:55:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Ging alles sehr schnell": Höler gleich Man of the Match]]></title>
@@ -440,14 +480,6 @@
             <guid isPermaLink="false">1247433</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 06:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 05:48:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Warum die Füchse nicht im DHB-Pokal spielen]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1254996</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 07:09:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stunde der (gefühlten) Wahrheit: DOSB-Gutachten vor dem Olympia-Votum]]></title>
-            <description><![CDATA[Die drei deutschen Olympia-Kandidaten fiebern dem Wahl-Samstag entgegen. Zuvor aber gibt die DOSB-Evaluierungskommission ihr Statement ab - mit vorentscheidendem Charakter?]]></description>
-            <link>https://www.handball-world.news/artikel/stunde-der-gefuehlten-wahrheit-dosb-gutachten-vor-dem-olympia-votum-1254916</link>
-            <guid isPermaLink="false">1254916</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 06:48:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hans Lindberg absolviert Halbmarathon]]></title>
-            <description><![CDATA[Am vergangenen Sonntag fand der offizielle Kopenhagen Halbmarathon statt. Ein besonderer Handball-Gast lief ebenfalls mit.]]></description>
-            <link>https://www.handball-world.news/artikel/hans-lindberg-absolviert-halbmarathon-1254987</link>
-            <guid isPermaLink="false">1254987</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 06:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball am Dienstag: Drei Erstligisten im Pokaleinsatz]]></title>
-            <description><![CDATA[Die 2. Runde im DHB-Pokal wird am heutigen Dienstag eröffnet. Hamburg reist mit ungewöhnlichen Erinnerungen nach Dresden, ein Erstliga-Duell gibt es in Kassel.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-dienstag-drei-erstligisten-im-pokaleinsatz-1212216</link>
-            <guid isPermaLink="false">1212216</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 06:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hanning beeindruckt von Melsungen nach Sieg gegen Magdeburg: "Taktisch herausragend"]]></title>
-            <description><![CDATA[Mit der Magdeburger Niederlage gegen Melsungen sind nur noch Kiel und Flensburg ohne Punktverlust. Bob Hanning blickt in seiner kicker-Kolumne mit Vorfreude auf den nächsten Spieltag, an dem die beiden Ungeschlagenen aufeinander treffen.]]></description>
-            <link>https://www.handball-world.news/videos/hanning-beeindruckt-von-melsungen-nach-sieg-gegen-magdeburg-taktisch-herausragend-1254961</link>
-            <guid isPermaLink="false">1254961</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 06:16:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
