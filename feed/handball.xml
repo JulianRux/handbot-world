@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 26 Sep 2026 22:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 00:59:11 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 26 Sep 2026 22:49:35 GMT</pubDate>
+        <pubDate>Sun, 27 Sep 2026 00:59:11 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: Löwen mit Pokal-Revanche gegen Melsungen]]></title>
+            <description><![CDATA[Vier Tage nach dem Duell im DHB-Pokal trafen die Rhein-Neckar Löwen erneut auf die MT Melsungen. Mit dem Heimvorteil im Rücken nahmen die Löwen erfolgreich Revanche, auch weil das Team in der Crunch Time seine Chancen besser nutzte. "Die zwei Punkte tun uns gut. Vor allem die Art und Weise, wie wir das geschafft und so ein Ding auch einmal auf unsere Seite gezogen haben", freute sich Maik Machulla nach dem 30:28-Erfolg.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-loewen-mit-pokal-revanche-gegen-melsungen-1256255</link>
+            <guid isPermaLink="false">1256255</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 23:49:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: 16 Tomovski-Paraden können Magdeburg nicht stoppen]]></title>
+            <description><![CDATA[Nach einem schnellen 4:1 des SC Magdeburg kam Bietigheim zwar auf ein Tor heran, doch eine Vierer-Serie nach einer Auszeit von Bennet Wiegert stellte die Weichen - trotz 16 Paraden von Martin Tomovski fand der Aufsteiger nicht zurück ins Spiel. "Wenn du ein Bundesliga Spiel mit neun Toren gewinnst, kannst du nicht unzufrieden sein", so SCM-Coach Bennet Wiegert nach dem 33:24-Erfolg.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-16-tomovski-paraden-koennen-magdeburg-nicht-stoppen-1256260</link>
+            <guid isPermaLink="false">1256260</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 23:23:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Durch Videobeweis: Kiel wird in denkwürdigem Nord-Thriller der Sieg entrissen]]></title>
             <description><![CDATA[Der THW Kiel und die SG Flensburg-Handewitt lieferten sich ein weiteres denkwürdiges Nord-Derby, das sich zu einem Nord-Thriller entwickelte: Die Kieler drehten im ersten Abschnitt einen Drei-Tore-Rückstand, verspielten dann im zweiten eine Fünf-Tore-Führung und bekamen den vermeintlichen Siegtreffer nach Videobeweis aberkannt.]]></description>
@@ -16,6 +32,14 @@
             <guid isPermaLink="false">1256237</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 26 Sep 2026 21:09:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Nord-Thriller sowie SCM-Sieg und MT-Niederlage]]></title>
+            <description><![CDATA[Spannung in der Handball-Bundesliga: Kiel und Flensburg bleiben nach dem Remis im Nordderby ungeschlagen, Magdeburg siegt trotz Problemen gegen Bietigheim und die Rhein-Neckar Löwen schlagen die MT Melsungen, die zuvor dem SCM die ersten Minuspunkte beigebracht hatte. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-nord-thriller-sowie-scm-sieg-und-mt-niederlage-1256254</link>
+            <guid isPermaLink="false">1256254</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 26 Sep 2026 23:54:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Das sagen Lund und Pajovic nach dem Remis im Nord-Thriller]]></title>
@@ -31,15 +55,15 @@
             <link>https://www.handball-world.news/spiel/magdeburg-gegen-bietigheim-2026-handball-bundesliga-5213792/bericht</link>
             <guid isPermaLink="false">1256248</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 20:43:24 GMT</pubDate>
+            <pubDate>Sat, 26 Sep 2026 23:14:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Löwen bezwingen Melsungen im packenden Schlusskrimi]]></title>
-            <description><![CDATA[Die Rhein-Neckar Löwen haben sich in einem packenden Duell in der Handball-Bundesliga mit 30:28 gegen die MT Melsungen durchgesetzt, die zuletzt Meister SC Magdeburg in die Knie gezwungen hatte. In einer über weite Strecken ausgeglichenen Partie setzten die Löwen in der Schlussphase die entscheidenden Akzente.]]></description>
+            <title><![CDATA[Rhein-Neckar Löwen bezwingen Melsungen im packenden Schlusskrimi]]></title>
+            <description><![CDATA[Die Rhein-Neckar Löwen haben sich in einem packenden Duell in der Handball-Bundesliga mit 30:28 gegen die MT Melsungen durchgesetzt, die zuletzt Meister SC Magdeburg in die Knie gezwungen und die Löwen im Pokal besiegt hatte. In einer über weite Strecken ausgeglichenen Partie setzten die Löwen in der Schlussphase die entscheidenden Akzente.]]></description>
             <link>https://www.handball-world.news/spiel/r-n-loewen-gegen-melsungen-2026-handball-bundesliga-5213795/bericht</link>
             <guid isPermaLink="false">1256173</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 20:27:11 GMT</pubDate>
+            <pubDate>Sat, 26 Sep 2026 23:35:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
@@ -418,20 +442,20 @@
             <pubDate>Fri, 25 Sep 2026 10:00:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bergendahl vor neuer Aufgabe: Nachwuchs für den SCM-Kreisläufer]]></title>
-            <description><![CDATA[Sportlich kämpft Oscar Bergendahl mit dem SC Magdeburg um die nächsten Titel, privat wartet nun eine ganz besondere Aufgabe auf den Kreisläufer.]]></description>
-            <link>https://www.handball-world.news/artikel/bergendahl-vor-neuer-aufgabe-nachwuchs-fuer-den-scm-kreislaeufer-1255843</link>
-            <guid isPermaLink="false">1255843</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 09:37:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Deutsche Länderspiele gegen Spanien: Wer überträgt live im TV und Stream?]]></title>
             <description><![CDATA[Die deutsche Frauen-Nationalmannschaft nimmt die neue Länderspiel-Saison mit zwei Vergleichen gegen Spanien in Angriff. Am 25. und 27. September trifft die Mannschaft in Granollers auf die Gastgeberinnen. Wo die Partien übertragen werden:]]></description>
             <link>https://www.handball-world.news/artikel/deutsche-laenderspiele-gegen-spanien-wer-uebertraegt-live-im-tv-und-stream-1254779</link>
             <guid isPermaLink="false">1254779</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 25 Sep 2026 12:02:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bergendahl vor neuer Aufgabe: Nachwuchs für den SCM-Kreisläufer]]></title>
+            <description><![CDATA[Sportlich kämpft Oscar Bergendahl mit dem SC Magdeburg um die nächsten Titel, privat wartet nun eine ganz besondere Aufgabe auf den Kreisläufer.]]></description>
+            <link>https://www.handball-world.news/artikel/bergendahl-vor-neuer-aufgabe-nachwuchs-fuer-den-scm-kreislaeufer-1255843</link>
+            <guid isPermaLink="false">1255843</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 25 Sep 2026 09:37:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Auf einen Blick: Die 116 Ergebnisse im Nordderby]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1151001</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 22 Sep 2026 12:05:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Für unsere Ziele eine Schlüsselrolle": TVB verlängert mit Mengon]]></title>
-            <description><![CDATA[Der TVB Stuttgart stellt die Weichen für die Zukunft: Im linken Rückraum kann der Handball-Bundesligist langfristig planen. Simone Mengon hat seinen Vertrag vorzeitig verlängert.]]></description>
-            <link>https://www.handball-world.news/artikel/fuer-unsere-ziele-eine-schluesselrolle-tvb-verlaengert-mit-mengon-1255047</link>
-            <guid isPermaLink="false">1255047</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 09:17:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Füchse trennen sich von Torhüterin Ludwig]]></title>
-            <description><![CDATA[Umbruch im Tor: Die Füchse Berlin und Torhüterin Zoe Ludwig beenden die Zusammenarbeit mit sofortiger Wirkung.]]></description>
-            <link>https://www.handball-world.news/artikel/fuechse-trennen-sich-von-torhueterin-ludwig-1255010</link>
-            <guid isPermaLink="false">1255010</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 09:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Olympia im Blick: Argentinien gewinnt Südamerikaspiele]]></title>
-            <description><![CDATA[In der vergangenen Woche fanden in Argentinien die Südamerikaspiele statt. Dabei konnten sich die Gastgeberinnen mit vier Siegen in fünf Spielen den Titel sichern.]]></description>
-            <link>https://www.handball-world.news/artikel/olympia-im-blick-argentinien-gewinnt-suedamerikaspiele-1255004</link>
-            <guid isPermaLink="false">1255004</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 22 Sep 2026 08:24:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
