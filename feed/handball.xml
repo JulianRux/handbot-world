@@ -4,18 +4,66 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 29 Sep 2026 22:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 06:51:03 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Sep 2026 22:15:37 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 06:51:03 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
-            <title><![CDATA[European League kompakt: VfL patzt, BHC und Flensburg Mittwoch gefordert]]></title>
+            <title><![CDATA["Tagesform wird entscheiden": SCM will gegen Kiel Bock umstoßen]]></title>
+            <description><![CDATA[Sechs Spiele hintereinander ist der SC Magdeburg gegen den Rekordmeister ohne Sieg. Nun kommt der THW Kiel in der Handball-Bundesliga wieder nach Sachsen-Anhalt.]]></description>
+            <link>https://www.handball-world.news/artikel/tagesform-wird-entscheiden-scm-will-gegen-kiel-bock-umstossen-1256896</link>
+            <guid isPermaLink="false">1256896</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 06:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bereits operiert: Kristopans fehlt Melsungen wochenlang]]></title>
+            <description><![CDATA[Bittere Nachrichten aus Nordhessen: Die MT Melsungen muss mehrere Wochen auf Dainis Kristopans verzichten. Damit ist Reynir Thor Stefansson aktuell der einzig spielfähige Rückraum-Rechte im Aufgebot von Roberto Garcia Parrondo.]]></description>
+            <link>https://www.handball-world.news/artikel/bereits-operiert-kristopans-fehlt-melsungen-wochenlang-1257071</link>
+            <guid isPermaLink="false">1257071</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 06:21:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball am Mittwoch: Top-Duell in Magdeburg, EL und Pokal der Frauen]]></title>
+            <description><![CDATA[Die Frauen sind aus der Länderspielpause zurück, der DHB-Pokal übernimmt. Bei den Männern geht die European League weiter. Das Topspiel des Tages findet allerdings in der Handball-Bundesliga statt - der SC Magdeburg und der THW Kiel kämpfen um die Spitzenposition in der stärksten Liga der Welt.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-mittwoch-top-duell-in-magdeburg-el-und-pokal-der-frauen-1253098</link>
+            <guid isPermaLink="false">1253098</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 06:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Eine ganz miese Nummer": Kretzschmar über Videobeweis-Debatte zum Nordderby]]></title>
+            <description><![CDATA[Auch in der Woche nach dem Nordderby bleibt der Einsatz des Videobeweises ein Diskussionsthema. Experte Stefan Kretzschmar kann die anhaltende Debatte allerdings nur bedingt nachvollziehen.]]></description>
+            <link>https://www.handball-world.news/artikel/eine-ganz-miese-nummer-kretzschmar-ueber-videobeweis-debatte-zum-nordderby-1256988</link>
+            <guid isPermaLink="false">1256988</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 04:30:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vor Start in Europa: Das ist die größte BHC-Baustelle]]></title>
+            <description><![CDATA[Der Bergische HC bestreitet heute Abend sein erstes Spiel in der EHF European League. Der aktuelle Handball-Bundesliga-Letzte hat jedoch eine große Schwachstelle, die es abzustellen gilt.]]></description>
+            <link>https://www.handball-world.news/artikel/vor-start-in-europa-das-ist-die-groesste-bhc-baustelle-1256813</link>
+            <guid isPermaLink="false">1256813</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 04:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ist Späth zu gut für die Rhein-Neckar Löwen?]]></title>
+            <description><![CDATA[David Späth hält überragend - und damit auch die Rhein-Neckar Löwen im Spiel. Doch je stärker der Nationaltorwart wird, desto größer wird die Frage: Können die Löwen ihm langfristig die sportliche Perspektive bieten, die zu seinem Niveau passt?]]></description>
+            <link>https://www.handball-world.news/artikel/ist-spaeth-zu-gut-fuer-die-rhein-neckar-loewen-1256959</link>
+            <guid isPermaLink="false">1256959</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 03:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EL kompakt: VfL patzt, BHC und Flensburg Mittwoch gefordert]]></title>
             <description><![CDATA[In dieser Woche ist auch die European League gestartet. Der VfL Gummersbach musste bei seiner Rückkehr auf die europäische Bühne am Dienstag eine enttäuschende Niederlage hinnehmen. Die SG Flensburg-Handewitt und der Bergische HC steigen dagegen erst am Mittwoch in den Wettbewerb ein.]]></description>
-            <link>https://www.handball-world.news/artikel/european-league-kompakt-vfl-patzt-bhc-und-flensburg-mittwoch-gefordert-1257014</link>
+            <link>https://www.handball-world.news/artikel/el-kompakt-vfl-patzt-bhc-und-flensburg-mittwoch-gefordert-1257014</link>
             <guid isPermaLink="false">1257014</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 29 Sep 2026 19:26:22 GMT</pubDate>
+            <pubDate>Wed, 30 Sep 2026 05:24:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gruppenrunde beendet: Die Platzierungsspiele der Klub-WM]]></title>
@@ -1160,54 +1208,6 @@
             <guid isPermaLink="false">1255980</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 26 Sep 2026 09:42:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[THW Kiel warnt vor Anreiseproblemen beim Nordderby]]></title>
-            <description><![CDATA[Das 117. Nordderby zwischen dem THW Kiel und der SG Flensburg-Handewitt elektrisiert die Massen. Nicht nur vor den Bildschirmen bei ARD Sportschau und Streamingdienst Dyn, sondern auch vor Ort in der Merkur Ostseehalle. Deutschlands Rekordmeister warnt allerdings vor Anreiseproblemen.]]></description>
-            <link>https://www.handball-world.news/artikel/thw-kiel-warnt-vor-anreiseproblemen-beim-nordderby-1255891</link>
-            <guid isPermaLink="false">1255891</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 15:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noch 110 Tage: Der Spielplan der Heim-WM 2027]]></title>
-            <description><![CDATA[Ab dem 13. Januar 2027 findet in Deutschland die Handball-WM 2027 statt. Der Titel wird am 31. Januar vergeben. Das DHB-Team spielt die Vorrunde in München. Ein Blick auf den Spielplan des Turniers:]]></description>
-            <link>https://www.handball-world.news/artikel/noch-110-tage-der-spielplan-der-heim-wm-2027-1166869</link>
-            <guid isPermaLink="false">1166869</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 15:22:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Kitzeln tut es immer noch": Wiencek-Einsatz auch im großen Nordderby?]]></title>
-            <description><![CDATA[Überraschung in der Regionalliga: In der vergangenen Woche gab Patrick Wiencek gut ein Jahr nach seinem Karriereende in der U 23 des THW Kiel sein Comeback gegen Flensburg. Ob er auch beim großen Nordderby am Samstag auf der Platte steht und wie die Partie ausgeht, verriet er im Gespräch mit handball-world.]]></description>
-            <link>https://www.handball-world.news/artikel/kitzeln-tut-es-immer-noch-wiencek-einsatz-auch-im-grossen-nordderby-1255621</link>
-            <guid isPermaLink="false">1255621</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 15:18:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TV Großwallstadt: Saison-Aus für Linksaußen]]></title>
-            <description><![CDATA[Bittere Nachricht für den Handball-Zweitligisten TV Großwallstadt: Linksaußen Ben Horlebein fällt für den Rest der Saison aus.]]></description>
-            <link>https://www.handball-world.news/artikel/tv-grosswallstadt-saison-aus-fuer-linksaussen-1255939</link>
-            <guid isPermaLink="false">1255939</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 14:57:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diese Spieler sind Aalborgs Dauerbrenner mit den meisten Einsätzen]]></title>
-            <description><![CDATA[Aalborg Handbold ist einer der Top-Vereine im dänischen Handball. Beim Klub aus Nordjütland hat Kreisläufer Simon Hald einen großen Meilenstein erreicht und sein 400. Spiel bestritten. Doch drei Spieler spielten sogar noch häufiger für den Klub. Platz 1 ist dabei gleich doppelt mit bemerkenswerten 525 Einsätzen belegt.]]></description>
-            <link>https://www.handball-world.news/slideshow/diese-spieler-sind-aalborgs-dauerbrenner-mit-den-meisten-einsaetzen-1255819</link>
-            <guid isPermaLink="false">1255819</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 16:29:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHB-Frauen: Grijseels fällt für Spanien-Spiel aus]]></title>
-            <description><![CDATA[Die deutschen Handballerinnen werden den ersten von zwei Vergleichen mit Spanien ohne Alina Grijseels bestreiten. Was dahintersteckt:]]></description>
-            <link>https://www.handball-world.news/artikel/dhb-frauen-grijseels-faellt-fuer-spanien-spiel-aus-1255931</link>
-            <guid isPermaLink="false">1255931</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 25 Sep 2026 16:05:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
