@@ -4,11 +4,99 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 30 Sep 2026 13:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 18:28:19 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Sep 2026 13:04:39 GMT</pubDate>
+        <pubDate>Wed, 30 Sep 2026 18:28:19 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Nach nervösem Start: Flensburg reicht starke Halbzeit zum EL-Auftakt]]></title>
+            <description><![CDATA[Die SG Flensburg-Handewitt ist mit einem Sieg in die EHF Handball European League gestartet. Gegen BM Granollers konnte die SG auf Leistungsträger wie Simon Pytlick und Emil Jakobsen verzichten und siegte nach einer ausgeglichenen ersten Halbzeit deutlich.]]></description>
+            <link>https://www.handball-world.news/spiel/flensburg-gegen-granollers-2026-ehf-pokal-5260705/bericht</link>
+            <guid isPermaLink="false">1257318</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 18:21:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live! Topspiel SCM - THW und European League]]></title>
+            <description><![CDATA[Topspiel heute in der Handball-Bundesliga: Der SC Magdeburg empfängt den THW Kiel. Außerdem sind u.a. die SG Flensburg-Handewitt und der Bergische HC international im Einsatz. Die Spiele gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1250643</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 16:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Was hinter dem Leipziger Sondertrikot steckt]]></title>
+            <description><![CDATA[Der SC DHfK Leipzig setzt im Rahmen des "Pink October" ein Zeichen für mehr Aufmerksamkeit rund um das Thema Brustkrebs. Zum Heimspiel gegen TuS N-Lübbecke läuft der Bundesliga-Absteiger in einem limitierten Sondertrikot auf.]]></description>
+            <link>https://www.handball-world.news/artikel/was-hinter-dem-leipziger-sondertrikot-steckt-1257244</link>
+            <guid isPermaLink="false">1257244</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 15:43:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noch 105 Tage: Der Spielplan der Heim-WM 2027]]></title>
+            <description><![CDATA[Ab dem 13. Januar 2027 findet in Deutschland die Handball-WM 2027 statt. Der Titel wird am 31. Januar vergeben. Das DHB-Team spielt die Vorrunde in München. Ein Blick auf den Spielplan des Turniers:]]></description>
+            <link>https://www.handball-world.news/artikel/noch-105-tage-der-spielplan-der-heim-wm-2027-1166869</link>
+            <guid isPermaLink="false">1166869</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 15:17:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Analyse: Wie passt Knorr zu Parrondos Spielidee?]]></title>
+            <description><![CDATA[Juri Knorr zieht es 2027 zu Paris Saint-Germain. Dort wird er unter Roberto Garcia Parrondo spielen. Wie passt Knorr zur Spielidee des künftigen PSG-Trainers? Unser Taktik-Kolumnist Jörg Lützelberger mit einer Analyse.]]></description>
+            <link>https://www.handball-world.news/artikel/analyse-wie-passt-knorr-zu-parrondos-spielidee-1257215</link>
+            <guid isPermaLink="false">1257215</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 15:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vor Topspiel gegen SCM: Madsen-Rückschlag für Kiel]]></title>
+            <description><![CDATA[Kurz vor dem Topspiel gegen den SC Magdeburg muss der THW Kiel einen Rückschlag verkraften: Emil Madsen hat sich verletzt und fällt nicht nur für heute Abend aus.]]></description>
+            <link>https://www.handball-world.news/artikel/vor-topspiel-gegen-scm-madsen-rueckschlag-fuer-kiel-1257299</link>
+            <guid isPermaLink="false">1257299</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 14:56:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verletzungsticker: Kristopans-Ausfall, Babarskas-Operation]]></title>
+            <description><![CDATA[Welcher Spieler oder welche Spielerin hat sich verletzt, wo steht noch eine Diagnose aus und wo eine Rückkehr bevor? Der Verletzungsticker von handball-world liefert eine chronologische Übersicht.]]></description>
+            <link>https://www.handball-world.news/liveticker/1061262</link>
+            <guid isPermaLink="false">1061262</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 14:32:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verlängerung abgelehnt: Trainer Lohrbach verlässt Großwallstadt]]></title>
+            <description><![CDATA[Der TV Großwallstadt und André Lohrbach gehen nach der Saison getrennte Wege. Der Trainer hat sich - laut Klub - gegen eine Vertragsverlängerung beim Handball-Zweitligisten entschieden.]]></description>
+            <link>https://www.handball-world.news/artikel/verlaengerung-abgelehnt-trainer-lohrbach-verlaesst-grosswallstadt-1257282</link>
+            <guid isPermaLink="false">1257282</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 14:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heute geht's weiter: Der Spielplan der Bundesliga]]></title>
+            <description><![CDATA[Handball-Bundesliga Saison 2026/27 - alle Infos zum Spielplan]]></description>
+            <link>https://www.handball-world.news/artikel/heute-geht-s-weiter-der-spielplan-der-bundesliga-1191123</link>
+            <guid isPermaLink="false">1191123</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 14:06:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Füchse bangen um Gidsel]]></title>
+            <description><![CDATA[Beim Gruppenfinale der Klub-WM in Ägypten saß Rückraumspieler Gidsel nur auf der Bank. Der Welthandballer wird auch beim Platzierungsspiel fehlen und könnte auch in der Bundesliga passen.]]></description>
+            <link>https://www.handball-world.news/artikel/fuechse-bangen-um-gidsel-1257294</link>
+            <guid isPermaLink="false">1257294</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 14:45:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Ein Gütesiegel": DHB über PSG-Wechsel von Knorr und Uscins]]></title>
+            <description><![CDATA[In Juri Knorr und Renars Uscins wechseln zwei deutsche Nationalspieler zu Paris Saint-Germain. Was sagt das über den deutschen Handball aus? DHB-Sportvorstand Ingo Meckes äußert sich.]]></description>
+            <link>https://www.handball-world.news/artikel/ein-guetesiegel-dhb-ueber-psg-wechsel-von-knorr-und-uscins-1257257</link>
+            <guid isPermaLink="false">1257257</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2026 15:08:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Die Bundesliga-Transfers für den Sommer 2026 im Überblick]]></title>
             <description><![CDATA[Bundesliga-Transfers 2026 - Aktuelle Wechsel-Übersicht der Handball-Teams für den Sommer 2026 - Hier weiter lesen]]></description>
@@ -512,14 +600,6 @@
             <guid isPermaLink="false">1034721</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 28 Sep 2026 16:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live! Erlangen und Eisenach im intensiven Fight]]></title>
-            <description><![CDATA[Der 6. Spieltag endet mit einem Spiel am Montagabend. Der HC Erlangen empfängt den ThSV Eisenach. Die Thüringer könnten mit einem Auswärtssieg zum HCE aufschließen. Die Franken hingegen würden einen einstelligen Tabellenplatz erobern, wären mit einem Sieg punktgleich mit Melsungen und Gummersbach. Das Spiel gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/spiel/hc-erlangen-gegen-thsv-eisenach-5213798/ticker</link>
-            <guid isPermaLink="false">1250643</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 19:09:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gummersbach zum 50. Mal ausverkauft: Die Spielstätten der Bundesliga]]></title>
@@ -1128,86 +1208,6 @@
             <guid isPermaLink="false">1256248</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 26 Sep 2026 23:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rhein-Neckar Löwen bezwingen Melsungen im packenden Schlusskrimi]]></title>
-            <description><![CDATA[Die Rhein-Neckar Löwen haben sich in einem packenden Duell in der Handball-Bundesliga mit 30:28 gegen die MT Melsungen durchgesetzt, die zuletzt Meister SC Magdeburg in die Knie gezwungen und die Löwen im Pokal besiegt hatte. In einer über weite Strecken ausgeglichenen Partie setzten die Löwen in der Schlussphase die entscheidenden Akzente.]]></description>
-            <link>https://www.handball-world.news/spiel/r-n-loewen-gegen-melsungen-2026-handball-bundesliga-5213795/bericht</link>
-            <guid isPermaLink="false">1256173</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 23:35:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Der vermeintliche Siegtreffer: Alles rund um den Videobeweis im Nordderby]]></title>
-            <description><![CDATA[Das Nordderby in der Handball-Bundesliga zwischen dem THW Kiel und der SG Flensburg-Handewitt endete unentschieden, nachdem der vermeintliche Siegtreffer nicht gegeben wurde. Die entscheidende Situation unter der Lupe.]]></description>
-            <link>https://www.handball-world.news/artikel/der-vermeintliche-siegtreffer-alles-rund-um-den-videobeweis-im-nordderby-1256224</link>
-            <guid isPermaLink="false">1256224</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 15:21:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHB Pokal-Auslosung: Achtelfinale mit reichlich Erstliga-Duellen]]></title>
-            <description><![CDATA[Die Achtelfinal-Paarungen im DHB-Pokal 2026/27 stehen fest: Bundestrainer Alfred Gislason zog nach dem Nordderby in Kiel die Lose und bescherte den Handball-Fans einige spannende Duelle.]]></description>
-            <link>https://www.handball-world.news/artikel/dhb-pokal-auslosung-achtelfinale-mit-reichlich-erstliga-duellen-1256219</link>
-            <guid isPermaLink="false">1256219</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 00:57:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball-Wahnsinn mit Videobeweis: Kiels Siegtreffer gegen Flensburg zählt nicht]]></title>
-            <description><![CDATA[Ein weiteres denkwürdiges Nordderby lieferten sich der THW Kiel und die SG Flensburg-Handewitt in der Handball-Bundesliga: Die Gastgeber drehten einen Drei-Tore-Rückstand im ersten Abschnitt, führten im zweiten mit fünf Treffern - und mussten sich am Ende nach Videobeweis mit einem Punkt begnügen. Beide Teams sind so weiter ungeschlagen.]]></description>
-            <link>https://www.handball-world.news/spiel/kiel-gegen-flensburg-2026-handball-bundesliga-5213793/bericht</link>
-            <guid isPermaLink="false">1256185</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 06:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Ging alles sehr schnell": Höler gleich Man of the Match]]></title>
-            <description><![CDATA[Gegen einen überfordertn Burgan SC aus Kuwait hatten die Füchse Berlin beim Auftakt der Vereins-WM im Handball in Ägypten keine Probleme - auch dank eines starken Frederik Höler, der Nachrücker wurde als Man of the Match ausgezeichnet. Morgen wartet ein anderes Kaliber.]]></description>
-            <link>https://www.handball-world.news/artikel/ging-alles-sehr-schnell-hoeler-gleich-man-of-the-match-1256155</link>
-            <guid isPermaLink="false">1256155</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 15:39:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bestes HBL-Team aller Zeiten? So stark war der Kiel-Kader 2011/12]]></title>
-            <description><![CDATA[Dem THW Kiel gelang 2011/12 ein Kunststück, das bis heute kein anderes Team geschafft hat: Die "Zebras" spielten in Deutschland die perfekte Saison. handball-world schaut auf diese historische Mannschaft zurück.]]></description>
-            <link>https://www.handball-world.news/slideshow/bestes-hbl-team-aller-zeiten-so-stark-war-der-kiel-kader-2011-12-1239624</link>
-            <guid isPermaLink="false">1239624</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 28 Sep 2026 08:17:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gröbenzell-Legende Fischer: "Einige sind näher an meiner siebenjährigen Tochter"]]></title>
-            <description><![CDATA[Zwei Kinder, 33 Jahre Handball, eine 35-Stunde-Woche - aber immer noch nicht müde! Sina Fischer ist eine Legende beim HCD Gröbenzell. Dieses Jahr spielt die 38-Jährige mit den ersten Damen in der Regionalliga ihre 23. Saison im Seniorenbereich.]]></description>
-            <link>https://www.handball-world.news/artikel/groebenzell-legende-fischer-einige-sind-naeher-an-meiner-siebenjaehrigen-tochter-1256146</link>
-            <guid isPermaLink="false">1256146</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 14:19:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HC Hamburg: Jörgensen-Sorgen vor Schlüsselduell]]></title>
-            <description><![CDATA[Nach fünf Spieltagen steckt der Handball Club Hamburg im Tabellenkeller der Handball-Bundesliga. Mit 1:9 Zählern geht man ins Duell mit der punktgleichen HSG Wetzlar. Und ausgerechnet jetzt gehen die Personalsorgen weiter.]]></description>
-            <link>https://www.handball-world.news/artikel/hc-hamburg-joergensen-sorgen-vor-schluesselduell-1256128</link>
-            <guid isPermaLink="false">1256128</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 13:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[München ist deutscher Kandidat für Olympia]]></title>
-            <description><![CDATA[Deutschland geht mit München ins internationale Rennen um die Austragung von Olympia. Die bayerische Landeshauptstadt gewinnt gegen Köln-Rhein-Ruhr - und nimmt damit die nächste Hürde.]]></description>
-            <link>https://www.handball-world.news/artikel/muenchen-ist-deutscher-kandidat-fuer-olympia-1256132</link>
-            <guid isPermaLink="false">1256132</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 12:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nothelfer Bösing vor Eulen-Pflichtspieldebüt]]></title>
-            <description><![CDATA[Sebastian Bösing steht vor seinem Pflichtspiel-Debüt im Dress der Eulen Ludwigshafen. Nach auskuriertem Mittelhandbruch soll der Kreisläufer am Mittwoch im Heimspiel gegen die HSG Nordhorn-Lingen auflaufen.]]></description>
-            <link>https://www.handball-world.news/artikel/nothelfer-boesing-vor-eulen-pflichtspieldebuet-1256119</link>
-            <guid isPermaLink="false">1256119</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 12:02:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
