@@ -4,11 +4,51 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Oct 2026 01:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Oct 2026 07:15:02 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Oct 2026 01:21:26 GMT</pubDate>
+        <pubDate>Thu, 01 Oct 2026 07:15:02 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[TuS Metzingen fliegt im Pokal bei Zweitligist Solingen raus]]></title>
+            <description><![CDATA[Überraschung in der Klingenhalle: Handball-Zweitligist HSG Solingen-Gräfrath setzte sich am Mittwochabend in der zweiten Runde des DHB-Pokals mit 34:32 (18:15) gegen Bundesligist TuS Metzingen durch.]]></description>
+            <link>https://www.handball-world.news/spiel/solingen-graefrath-gegen-metzingen-2026-deutscher-handball-pokal-frauen-5265789/bericht</link>
+            <guid isPermaLink="false">1257411</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 06:51:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball am Donnerstag: 2x HBL, Klub-WM-Abschluss]]></title>
+            <description><![CDATA[In der Handball-Bundesliga treffen Lemgo und Hamburg sowie Eisenach und Stuttgart aufeinander. Zudem finden die Entscheidungsspiele bei der Klub-WM statt. Wo die Partien übertragen werden:]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-donnerstag-2x-hbl-klub-wm-abschluss-1257405</link>
+            <guid isPermaLink="false">1257405</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 06:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Nicht selbstverständlich": SCM jubelt über "richtig geilen Sieg"]]></title>
+            <description><![CDATA[Der SC Magdeburg gewann das Top-Spiel der Handball-Bundesliga gegen den THW Kiel souverän. Die Elbstädter machten im Nachhinein mehrere Faktoren für den Erfolg verantwortlich.]]></description>
+            <link>https://www.handball-world.news/artikel/nicht-selbstverstaendlich-scm-jubelt-ueber-richtig-geilen-sieg-1257398</link>
+            <guid isPermaLink="false">1257398</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 06:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Magdeburg reagiert auf Aalborg-Gerüchte um Claar]]></title>
+            <description><![CDATA[Wechselt nach Kiels Elias Ellefsen á Skipagötu auch Magdeburgs Felix Claar demnächst zum dänischen Topklub Aalborg Handbold? Gerüchte um eine Rückkehr des Schweden gibt es jedenfalls schon länger. Nun reagiert SCM-Chef Marc-Henrik Schmedt.]]></description>
+            <link>https://www.handball-world.news/artikel/magdeburg-reagiert-auf-aalborg-geruechte-um-claar-1257333</link>
+            <guid isPermaLink="false">1257333</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 05:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kuzmanovic und Mandic überragen: SCM gegen Kiel in der Einzelkritik]]></title>
+            <description><![CDATA[Der SC Magdeburg klettert - zumindest vorübergehend - an die Tabellenspitze der Opel HBL. Der Heimsieg gegen den THW Kiel war dank eines überragenden Rückhaltes zu keiner Zeit in Gefahr. Das Topspiel der Handball-Bundesliga in der Einzelkritik:]]></description>
+            <link>https://www.handball-world.news/artikel/kuzmanovic-und-mandic-ueberragen-scm-gegen-kiel-in-der-einzelkritik-1257325</link>
+            <guid isPermaLink="false">1257325</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 01 Oct 2026 03:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Im Video: Serie des SC Magdeburg hält gegen Angstgegner]]></title>
             <description><![CDATA[Die seit 27 Spiele anhaltende Heimserie des SC Magdeburg hat auch das Topspiel der Handball-Bundesliga gegen Angstgegner THW Kiel überstanden: Dank einer überragenden Abwehr und starken Torhütern setzte sich der Meister im ersten Abschnitt auf sieben Tore ab und hielt die Gäste bis zum 32:26-Endstand auf Distanz. Für den THW die erste Niederlage der Saison.]]></description>
@@ -39,7 +79,7 @@
             <link>https://www.handball-world.news/spiel/thueringer-hc-gegen-blomberg-lippe-2026-deutscher-handball-pokal-frauen-5265792/bericht</link>
             <guid isPermaLink="false">1257361</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 19:38:38 GMT</pubDate>
+            <pubDate>Thu, 01 Oct 2026 06:30:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kiel-Fluch mit Ausrufezeichen beendet: Überragende SCM-Abwehr knackt den THW]]></title>
@@ -1168,46 +1208,6 @@
             <guid isPermaLink="false">1256294</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 27 Sep 2026 07:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball am Sonntag: Klub-WM, HBL und Frauen-Länderspiel]]></title>
-            <description><![CDATA[Der Handball-Sonntag bietet ein abwechslungsreiches Programm. Am Vormittag machen die DHB-Frauen mit dem zweiten Länderspiel gegen Spanien den Anfang, ehe am Nachmittag neben der 1. und 2. Bundesliga auch die Füchse Berlin bei der Klub-WM gefordert sind. Dort wartet mit One Veszprem ein echter Hochkaräter.rn.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-sonntag-klub-wm-hbl-und-frauen-laenderspiel-1252136</link>
-            <guid isPermaLink="false">1252136</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 07:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ÖHB-Frauen schlagen deutschen Vorrundengegner]]></title>
-            <description><![CDATA[Während die DHB-Frauen den ersten Test in der Vorbereitung auf die Handball-EM im Winter gegen Spanien am Freitag gewannen, setzte sich Österreich gegen den deutschen Vorrundengegner Slowakei durch.]]></description>
-            <link>https://www.handball-world.news/artikel/oehb-frauen-schlagen-deutschen-vorrundengegner-1256251</link>
-            <guid isPermaLink="false">1256251</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 06:24:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Auf einen Blick: Die 117 Ergebnisse im Nordderby]]></title>
-            <description><![CDATA[Handball-Bundesliga | SG Flensburg-Handewitt vs. THW Kiel: Am Spieltag kämpfen beide Teams um die Tabellenführung. Letzte Duelle gingen an Flensburg. Hier mehr erfahren]]></description>
-            <link>https://www.handball-world.news/artikel/auf-einen-blick-die-derby-ergebnisse-der-bisherigen-duelle-thw-kiel-gegen-sg-flensburg-handewit-1003424</link>
-            <guid isPermaLink="false">1003424</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 05:39:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[In der ersten Reihe: Schiedsrichter-Aufsteiger im Fokus]]></title>
-            <description><![CDATA[Sie sind die 'Neuen' an der Pfeife in der OPEL HBL: Marvin Völkening und Jonas Zollitsch sowie Lukas und Robert Müller stiegen im Sommer in den Elite-Anschlusskader des Deutschen Handballbundes auf. Bock auf Handball besuchte die beiden Schiedsrichter-Teams beim Vorbereitungslehrgang in Halberstadt.]]></description>
-            <link>https://www.handball-world.news/artikel/in-der-ersten-reihe-schiedsrichter-aufsteiger-im-fokus-1253680</link>
-            <guid isPermaLink="false">1253680</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 27 Sep 2026 05:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Im Video: Löwen mit Pokal-Revanche gegen Melsungen]]></title>
-            <description><![CDATA[Vier Tage nach dem Duell im DHB-Pokal trafen die Rhein-Neckar Löwen erneut auf die MT Melsungen. Mit dem Heimvorteil im Rücken nahmen die Löwen erfolgreich Revanche, auch weil das Team in der Crunch Time seine Chancen besser nutzte. "Die zwei Punkte tun uns gut. Vor allem die Art und Weise, wie wir das geschafft und so ein Ding auch einmal auf unsere Seite gezogen haben", freute sich Maik Machulla nach dem 30:28-Erfolg.]]></description>
-            <link>https://www.handball-world.news/videos/im-video-loewen-mit-pokal-revanche-gegen-melsungen-1256255</link>
-            <guid isPermaLink="false">1256255</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 26 Sep 2026 23:49:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
