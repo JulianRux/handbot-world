@@ -4,11 +4,43 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 17:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 20:25:09 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Oct 2026 17:41:40 GMT</pubDate>
+        <pubDate>Sun, 04 Oct 2026 20:25:09 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: Lemgo hat im Schlagabtausch in Stuttgart die Antworten]]></title>
+            <description><![CDATA[Ein unterhaltsamen Schlagabtausch lieferten sich am Sonntag in der Handball-Bundesliga der TVB Stuttgart und der TBV Lemgo Lippe. Die Gäste aus Ostwestfalen hatten im zweiten Abschnitt mit Domenico Ebner und Nils Versteijnen zwei Trümpfe und bis zum Ende Antworten.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-lemgo-hat-im-schlagabtausch-in-stuttgart-die-antworten-1258352</link>
+            <guid isPermaLink="false">1258352</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 20:08:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Starke Torhüter prägen den Spieltag]]></title>
+            <description><![CDATA[Lemgo und Stuttgart haben zum Auftakt des 7. Spieltags in der Handball-Bundesliga Siege gefeiert. Am Freitag dominierten die Torhüter, sowohl beim BHC-Sieg in Balingen als auch beim Remis zwischen Wetzlar und Rhein-Neckar Löwen. Am Samstag jubelten mit Kiel, Flensburg, Melsungen und Berlin die Favoriten, doch einige mit großer Mühe. Auch Lemgo und der SCM überzeugten mit starken Torhüterleistungen bei ihren Siegen am Sonntag.]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-starke-torhueter-praegen-den-spieltag-1257654</link>
+            <guid isPermaLink="false">1257654</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 20:20:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DHB-Pokal: Zwei Zweitligisten im Viertelfinale, Meister Blomberg raus]]></title>
+            <description><![CDATA[Die 2. Runde im DHB-Pokal ist abgeschlossen. Mit dem HSV Solingen-Gräfrath und den Füchsen Berlin stehen zwei Zweitligisten im Viertelfinale. Mit Meister Blomberg und Metzingen mussten schon ein weiterer Europapokal-Teilnehmer die Segel streichen. Mit einem 31:22-Auswärtssieg in Zwickau sicherte sich Vorjahresfinalist Bensheim den letzten offenen Platz.]]></description>
+            <link>https://www.handball-world.news/artikel/dhb-pokal-zwei-zweitligisten-im-viertelfinale-meister-blomberg-raus-1257771</link>
+            <guid isPermaLink="false">1257771</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 20:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: Claar und Kuzmanovic führen SC Magdeburg an Spitze]]></title>
+            <description><![CDATA[Vorne traf Felix Claar, hinten parierte Dominik Kuzmanovic: Der SC Magdeburg setzte sich gegen den HC Erlangen so schnell auf fünf Tore ab und steuerte in der Folge zu einem überzeugenden Heimsieg. Der bringt die Spitzenposition in der aktuell allerdings etwas schiefen Tabelle der Handball-Bundesliga.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-claar-und-kuzmanovic-fuehren-sc-magdeburg-an-spitze-1258322</link>
+            <guid isPermaLink="false">1258322</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 20:04:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kehrmann zu Suton-Ausfall: "Hat uns sehr getroffen"]]></title>
             <description><![CDATA[Die Verletzung von Tim Suton schockte den TBV Lemgo Lippe. Nach dem Auswärtssieg in Stuttgart lobte Florian Kehrmann seine Mannschaft - und einen Neuzugang.]]></description>
@@ -16,6 +48,14 @@
             <guid isPermaLink="false">1258335</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 17:17:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche auf einen Blick.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 17:40:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ebner dreht nach Pause auf: Lemgo holt Auswärtssieg in Stuttgart]]></title>
@@ -282,22 +322,6 @@
             <pubDate>Sun, 04 Oct 2026 17:25:41 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 20:19:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL kompakt: Starke Torhüter prägen den Spieltag]]></title>
-            <description><![CDATA[Lemgo und Stuttgart haben zum Auftakt des 7. Spieltags in der Handball-Bundesliga Siege gefeiert. Am Freitagabend dominierten die Torhüter, sowohl beim BHC-Sieg in Balingen als auch beim Remis zwischen Wetzlar und Rhein-Neckar Löwen. Am Samstag jubelten mit Kiel, Flensburg, Melsungen und Berlin die Favoriten, doch einige mit sehr großer Mühe. Auch Lemgo und der SCM überzeugten mit starken Torhüterleistungen und feierten jeweils einen souveränen Sieg.]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-starke-torhueter-praegen-den-spieltag-1257654</link>
-            <guid isPermaLink="false">1257654</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 16:37:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lichtlein-Comeback und Freihöfer-Meilenstein bei Füchse-Zittersieg]]></title>
             <description><![CDATA[Die Füchse Berlin sind nach der Klub-WM wieder gut im Liga-Alltag angekommen. Bei der SG BBM Bietigheim lief nicht alles rund für den Hauptstadtklub, doch das Comeback von Nils Lichtlein und ein Meilenstein von Tim Freihöfer überstrahlten den 32:31-Arbeitssieg beim Aufsteiger.]]></description>
             <link>https://www.handball-world.news/spiel/bietigheim-gegen-berlin-2026-handball-bundesliga-5213808/bericht</link>
@@ -312,14 +336,6 @@
             <guid isPermaLink="false">1258159</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 09:07:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHB-Pokal: Zwei Zweitligisten im Viertelfinale, Meister Blomberg raus]]></title>
-            <description><![CDATA[Die 2. Runde im DHB-Pokal läuft. Mit dem HSV Solingen-Gräfrath und den Füchsen Berlin stehen zwei Zweitligisten im Viertelfinale. Mit Meister Blomberg und Metzingen mussten schon ein weiterer Europapokal-Teilnehmer die Segel streichen.]]></description>
-            <link>https://www.handball-world.news/artikel/dhb-pokal-zwei-zweitligisten-im-viertelfinale-meister-blomberg-raus-1257771</link>
-            <guid isPermaLink="false">1257771</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 19:18:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ohne Kreisläufer: Göppingen fordert Flensburg bis aufs Äußerste]]></title>
@@ -562,20 +578,20 @@
             <pubDate>Sat, 03 Oct 2026 09:34:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Vor Duell mit Ex-Klub: So wichtig ist Köster schon für Kiel]]></title>
-            <description><![CDATA[Julian Köster trifft am Samstagabend erstmals mit dem THW Kiel auf seinen langjährigen Ex-Klub VfL Gummersbach. Doch wie präsentiert sich der deutsche Nationalspieler bislang im Trikot der "Zebras"? Ein Blick auf seine Statistiken liefert interessante Einblicke.]]></description>
-            <link>https://www.handball-world.news/artikel/vor-duell-mit-ex-klub-so-wichtig-ist-koester-schon-fuer-kiel-1257869</link>
-            <guid isPermaLink="false">1257869</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 06:00:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Handball am Samstag: HBL mit Kiel, Flensburg, Melsungen und Füchsen]]></title>
             <description><![CDATA[Heute Abend stehen gleich vier hochklassige Partien in der Handball-Bundesliga auf dem Programm. Im Frauenhandball gibt es Partien aus dem DHB-Pokal und dem Europapokal. Auch in der 2. und 3. Bundesliga sowie international wird gespielt.]]></description>
             <link>https://www.handball-world.news/artikel/handball-am-samstag-hbl-mit-kiel-flensburg-melsungen-und-fuechsen-1251920</link>
             <guid isPermaLink="false">1251920</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 06:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vor Duell mit Ex-Klub: So wichtig ist Köster schon für Kiel]]></title>
+            <description><![CDATA[Julian Köster trifft am Samstagabend erstmals mit dem THW Kiel auf seinen langjährigen Ex-Klub VfL Gummersbach. Doch wie präsentiert sich der deutsche Nationalspieler bislang im Trikot der "Zebras"? Ein Blick auf seine Statistiken liefert interessante Einblicke.]]></description>
+            <link>https://www.handball-world.news/artikel/vor-duell-mit-ex-klub-so-wichtig-ist-koester-schon-fuer-kiel-1257869</link>
+            <guid isPermaLink="false">1257869</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 06:00:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Im Video: Wetzlars Aufholjagd reicht zum Remis]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1257294</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 30 Sep 2026 14:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Ein Gütesiegel": DHB über PSG-Wechsel von Knorr und Uscins]]></title>
-            <description><![CDATA[In Juri Knorr und Renars Uscins wechseln zwei deutsche Nationalspieler zu Paris Saint-Germain. Was sagt das über den deutschen Handball aus? DHB-Sportvorstand Ingo Meckes äußert sich.]]></description>
-            <link>https://www.handball-world.news/artikel/ein-guetesiegel-dhb-ueber-psg-wechsel-von-knorr-und-uscins-1257257</link>
-            <guid isPermaLink="false">1257257</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 15:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die Bundesliga-Transfers für den Sommer 2026 im Überblick]]></title>
-            <description><![CDATA[Bundesliga-Transfers 2026 - Aktuelle Wechsel-Übersicht der Handball-Teams für den Sommer 2026 - Hier weiter lesen]]></description>
-            <link>https://www.handball-world.news/artikel/die-bundesliga-transfers-fuer-den-sommer-2026-im-ueberblick-1139572</link>
-            <guid isPermaLink="false">1139572</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 30 Sep 2026 12:53:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
