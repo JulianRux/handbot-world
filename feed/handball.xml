@@ -4,9 +4,9 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Oct 2026 22:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 01:54:21 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Oct 2026 22:28:04 GMT</pubDate>
+        <pubDate>Sun, 04 Oct 2026 01:54:21 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
@@ -322,20 +322,20 @@
             <pubDate>Sat, 03 Oct 2026 09:34:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Handball am Samstag: HBL mit Kiel, Flensburg, Melsungen und Füchsen]]></title>
-            <description><![CDATA[Heute Abend stehen gleich vier hochklassige Partien in der Handball-Bundesliga auf dem Programm. Im Frauenhandball gibt es Partien aus dem DHB-Pokal und dem Europapokal. Auch in der 2. und 3. Bundesliga sowie international wird gespielt.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-samstag-hbl-mit-kiel-flensburg-melsungen-und-fuechsen-1251920</link>
-            <guid isPermaLink="false">1251920</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 06:00:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vor Duell mit Ex-Klub: So wichtig ist Köster schon für Kiel]]></title>
             <description><![CDATA[Julian Köster trifft am Samstagabend erstmals mit dem THW Kiel auf seinen langjährigen Ex-Klub VfL Gummersbach. Doch wie präsentiert sich der deutsche Nationalspieler bislang im Trikot der "Zebras"? Ein Blick auf seine Statistiken liefert interessante Einblicke.]]></description>
             <link>https://www.handball-world.news/artikel/vor-duell-mit-ex-klub-so-wichtig-ist-koester-schon-fuer-kiel-1257869</link>
             <guid isPermaLink="false">1257869</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 06:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball am Samstag: HBL mit Kiel, Flensburg, Melsungen und Füchsen]]></title>
+            <description><![CDATA[Heute Abend stehen gleich vier hochklassige Partien in der Handball-Bundesliga auf dem Programm. Im Frauenhandball gibt es Partien aus dem DHB-Pokal und dem Europapokal. Auch in der 2. und 3. Bundesliga sowie international wird gespielt.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-samstag-hbl-mit-kiel-flensburg-melsungen-und-fuechsen-1251920</link>
+            <guid isPermaLink="false">1251920</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 06:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Im Video: Wetzlars Aufholjagd reicht zum Remis]]></title>
