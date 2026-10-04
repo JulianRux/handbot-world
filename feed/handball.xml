@@ -4,9 +4,9 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 04 Oct 2026 20:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2026 23:19:00 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Oct 2026 20:25:09 GMT</pubDate>
+        <pubDate>Sun, 04 Oct 2026 23:19:00 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
@@ -19,11 +19,11 @@
         </item>
         <item>
             <title><![CDATA[HBL kompakt: Starke Torhüter prägen den Spieltag]]></title>
-            <description><![CDATA[Lemgo und Stuttgart haben zum Auftakt des 7. Spieltags in der Handball-Bundesliga Siege gefeiert. Am Freitag dominierten die Torhüter, sowohl beim BHC-Sieg in Balingen als auch beim Remis zwischen Wetzlar und Rhein-Neckar Löwen. Am Samstag jubelten mit Kiel, Flensburg, Melsungen und Berlin die Favoriten, doch einige mit großer Mühe. Auch Lemgo und der SCM überzeugten mit starken Torhüterleistungen bei ihren Siegen am Sonntag.]]></description>
+            <description><![CDATA[Lemgo und Stuttgart haben zum Auftakt des 7. Spieltags in der Handball-Bundesliga Siege gefeiert. Am Freitag dominierten die Torhüter, sowohl beim BHC-Sieg in Balingen als auch beim Remis zwischen Wetzlar und Rhein-Neckar Löwen. Am Samstag jubelten mit Kiel, Flensburg, Melsungen und Berlin die Favoriten. Auch bei den Siegen von Lemgo und Magdeburg gab es am Sonntag starke Leistungen zwischen den Pfosten.]]></description>
             <link>https://www.handball-world.news/artikel/hbl-kompakt-starke-torhueter-praegen-den-spieltag-1257654</link>
             <guid isPermaLink="false">1257654</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 20:20:56 GMT</pubDate>
+            <pubDate>Sun, 04 Oct 2026 20:30:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DHB-Pokal: Zwei Zweitligisten im Viertelfinale, Meister Blomberg raus]]></title>
@@ -32,6 +32,14 @@
             <guid isPermaLink="false">1257771</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 20:11:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2. HBL: Hagen, Ludwigshafen, Lübeck und Minden souverän, TVE und Hüttenberg scheitern knapp]]></title>
+            <description><![CDATA[Der 6. Spieltag der 2. Handball-Bundesliga startete mit einer Punkteteilung zwischen Lübbecke und Coburg. Der SC DHfK Leipzig konnte sich bei TUSEM Essen für das Pokalaus revanchieren. Auch der VfL Eintracht Hagen war siegreich, genau so wie die Eulen Ludwigshafen, der TV Großwallstadt, die GWD Minden, VfL Lübeck-Schwartau und Elbflorenz. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbl-hagen-ludwigshafen-luebeck-und-minden-souveraen-tve-und-huettenberg-scheitern-knapp-1257939</link>
+            <guid isPermaLink="false">1257939</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 04 Oct 2026 20:22:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Im Video: Claar und Kuzmanovic führen SC Magdeburg an Spitze]]></title>
@@ -314,14 +322,6 @@
             <pubDate>Sat, 03 Oct 2026 21:04:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[2. HBL: Hagen, Ludwigshafen, Lübeck und Minden souverän, TVE und Hüttenberg scheitern knapp]]></title>
-            <description><![CDATA[Der 6. Spieltag der 2. Handball-Bundesliga startete mit einer Punkteteilung zwischen Lübbecke und Coburg. Der SC DHfK Leipzig konnte sich bei TUSEM Essen für das Pokalaus revanchieren. Auch der VfL Eintracht Hagen war siegreich, genau so wie die Eulen Ludwigshafen, der TV Großwallstadt, die GWD Minden, VfL Lübeck-Schwartau und Elbflorenz. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbl-hagen-ludwigshafen-luebeck-und-minden-souveraen-tve-und-huettenberg-scheitern-knapp-1257939</link>
-            <guid isPermaLink="false">1257939</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 04 Oct 2026 17:25:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Lichtlein-Comeback und Freihöfer-Meilenstein bei Füchse-Zittersieg]]></title>
             <description><![CDATA[Die Füchse Berlin sind nach der Klub-WM wieder gut im Liga-Alltag angekommen. Bei der SG BBM Bietigheim lief nicht alles rund für den Hauptstadtklub, doch das Comeback von Nils Lichtlein und ein Meilenstein von Tim Freihöfer überstrahlten den 32:31-Arbeitssieg beim Aufsteiger.]]></description>
             <link>https://www.handball-world.news/spiel/bietigheim-gegen-berlin-2026-handball-bundesliga-5213808/bericht</link>
@@ -578,20 +578,20 @@
             <pubDate>Sat, 03 Oct 2026 09:34:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Handball am Samstag: HBL mit Kiel, Flensburg, Melsungen und Füchsen]]></title>
-            <description><![CDATA[Heute Abend stehen gleich vier hochklassige Partien in der Handball-Bundesliga auf dem Programm. Im Frauenhandball gibt es Partien aus dem DHB-Pokal und dem Europapokal. Auch in der 2. und 3. Bundesliga sowie international wird gespielt.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-samstag-hbl-mit-kiel-flensburg-melsungen-und-fuechsen-1251920</link>
-            <guid isPermaLink="false">1251920</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 06:00:06 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Vor Duell mit Ex-Klub: So wichtig ist Köster schon für Kiel]]></title>
             <description><![CDATA[Julian Köster trifft am Samstagabend erstmals mit dem THW Kiel auf seinen langjährigen Ex-Klub VfL Gummersbach. Doch wie präsentiert sich der deutsche Nationalspieler bislang im Trikot der "Zebras"? Ein Blick auf seine Statistiken liefert interessante Einblicke.]]></description>
             <link>https://www.handball-world.news/artikel/vor-duell-mit-ex-klub-so-wichtig-ist-koester-schon-fuer-kiel-1257869</link>
             <guid isPermaLink="false">1257869</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 06:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball am Samstag: HBL mit Kiel, Flensburg, Melsungen und Füchsen]]></title>
+            <description><![CDATA[Heute Abend stehen gleich vier hochklassige Partien in der Handball-Bundesliga auf dem Programm. Im Frauenhandball gibt es Partien aus dem DHB-Pokal und dem Europapokal. Auch in der 2. und 3. Bundesliga sowie international wird gespielt.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-samstag-hbl-mit-kiel-flensburg-melsungen-und-fuechsen-1251920</link>
+            <guid isPermaLink="false">1251920</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 03 Oct 2026 06:00:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Im Video: Wetzlars Aufholjagd reicht zum Remis]]></title>
