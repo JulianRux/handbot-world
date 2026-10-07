@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 19:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 23:44:03 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Oct 2026 19:35:09 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 23:44:03 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[CL kompakt: Luzern punktet, PSG und Veszprem gnadenlos]]></title>
+            <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-luzern-punktet-psg-und-veszprem-gnadenlos-1259144</link>
+            <guid isPermaLink="false">1259144</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 20:43:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kristjansson und Magnusson überragen gegen Kielce]]></title>
+            <description><![CDATA[Der SC Magdeburg hat die erste große Herausforderung in der EHF Champions League gemeistert. Gegen Industria Kielce stand ein Fünf-Tore-Sieg, bei dem ihr isländisches Handball-Duo mit je elf Treffern überragte.]]></description>
+            <link>https://www.handball-world.news/spiel/kielce-gegen-magdeburg-2026-ehf-champions-league-5249853/bericht</link>
+            <guid isPermaLink="false">1259143</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 20:39:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[1. HBF: Remis im Topspiel, BVB mit Pflichtsieg]]></title>
+            <description><![CDATA[Am 5. Spieltag der Handball-Bundesliga Frauen trennten sich der Thüringer HC und die HSG Blomberg-Lippe mit einem Unentschieden. Der BVB erledigte seine Pflichtaufgabe, Leipzig wartet weiter auf Punkte.]]></description>
+            <link>https://www.handball-world.news/artikel/1-hbf-remis-im-topspiel-bvb-mit-pflichtsieg-1259166</link>
+            <guid isPermaLink="false">1259166</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 20:23:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live! Schlüsselspiel für SCM in Kielce]]></title>
             <description><![CDATA[Heute trifft der SC Magdeburg in der EHF Champions League auswärts auf Industria Kielce - das Duell der beiden Top-Teams der Gruppe F. Das Spiel gibt es auf handball-world im Liveticker - ein Klick auf die Partie und die Auswahl des Tabs führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1253596</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 03 Oct 2026 15:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sommer 2026: Die Wechsel in der Handball Bundesliga Frauen]]></title>
-            <description><![CDATA[Wen haben die Handball-Bundesligisten für die Spielzeit 2026/27 verpflichtet - und welche Spielerinnen haben ihre Klubs diesen Sommer verlassen? Die feststehenden Wechsel in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/sommer-2026-die-wechsel-in-der-handball-bundesliga-frauen-1181486</link>
-            <guid isPermaLink="false">1181486</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 14:38:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Odense trennt sich von Cheftrainer]]></title>
-            <description><![CDATA[Odense Handbold hat die Zusammenarbeit mit Handball-Cheftrainer Jakob Vestergaard mit sofortiger Wirkung beendet. Die Suche nach einem Nachfolger soll umgehend beginnen.]]></description>
-            <link>https://www.handball-world.news/artikel/odense-trennt-sich-von-cheftrainer-1258051</link>
-            <guid isPermaLink="false">1258051</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 16:00:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Darum blieb Pytlick in der European League auf der Bank]]></title>
-            <description><![CDATA[Gegen BM Granollers feierte die SG Flensburg-Handewitt unter der Woche einen Auftaktsieg in der EHF European League. Handball-Superstar Simon Pytlick spielte dabei keine Sekunde.]]></description>
-            <link>https://www.handball-world.news/artikel/darum-blieb-pytlick-in-der-european-league-auf-der-bank-1258061</link>
-            <guid isPermaLink="false">1258061</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 03 Oct 2026 13:42:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
