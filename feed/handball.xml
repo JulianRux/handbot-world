@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 08 Oct 2026 22:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 02:08:28 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Oct 2026 22:13:36 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 02:08:28 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: Zehn Häfner-Treffer bei TVB-Sieg gegen Wetzlar]]></title>
+            <description><![CDATA[Die HSG Wetzlar wartet in der Handball-Bundesliga weiter auf den ersten Sieg: Das Schlusslicht hielt in der Porsche Arena zwar lange mit, doch der TVB Stuttgart verbuchte auch dank zehn Treffern von Kai Häfner und zwölf Paraden von Mohamed El-Tayar am Ende einen 31:26-Erfolg.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-zehn-haefner-treffer-bei-tvb-sieg-gegen-wetzlar-1259436</link>
+            <guid isPermaLink="false">1259436</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 23:51:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: ThSV Eisenach jubelt bei Rhein-Neckar Löwen]]></title>
+            <description><![CDATA[Der ThSV Eisenach trumpfte im Auswärtsspiel bei den Rhein-Neckar Löwen auf und verbuchten die Punkte vier und fünf in der aktuellen Saison der Handball-Bundesliga. Die Gäste setzten sich bereits beim 10:5 auf fünf Treffer ab und hielten den Favoriten in der Folge auf Abstand.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-thsv-eisenach-jubelt-bei-rhein-neckar-loewen-1259433</link>
+            <guid isPermaLink="false">1259433</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 08 Oct 2026 23:50:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CL kompakt: MT schlägt Nantes, Füchse und Aalborg souverän]]></title>
             <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
@@ -31,7 +47,7 @@
             <link>https://www.handball-world.news/artikel/gidsel-stellt-torrekord-in-der-koenigsklasse-ein-1259421</link>
             <guid isPermaLink="false">1259421</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 20:30:08 GMT</pubDate>
+            <pubDate>Thu, 08 Oct 2026 23:27:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ex-Löwen setzen für Eisenach in Mannheim den Matchplan um]]></title>
@@ -55,7 +71,7 @@
             <link>https://www.handball-world.news/artikel/hbl-kompakt-stuttgart-jubelt-eisenach-bezwingt-loewen-1259405</link>
             <guid isPermaLink="false">1259405</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 19:37:42 GMT</pubDate>
+            <pubDate>Thu, 08 Oct 2026 23:52:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[El-Tayar macht dicht: Stuttgart zieht Wetzlar den Stecker]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1258283</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 04 Oct 2026 16:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pokal-Krimi bis zur letzten Sekunde: Rödertal fehlt ein Tor zum Viertelfinale]]></title>
-            <description><![CDATA[Der HC Rödertal hat den Einzug ins Viertelfinale des DHB-Pokals knapp verpasst. Im Duell zweier Zweitligisten unterlagen die Rödertalbienen den Füchsen Berlin mit 30:31 (16:14) und mussten sich nach einer über weite Strecken ausgeglichenen Partie erst in der Schlussphase geschlagen geben.]]></description>
-            <link>https://www.handball-world.news/spiel/roedertal-gegen-fuechse-berlin-2026-deutscher-handball-pokal-frauen-5265793/bericht</link>
-            <guid isPermaLink="false">1258274</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 08:17:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Golla meldet sich in Wechsel-Diskussion zu Wort]]></title>
-            <description><![CDATA[Nach den beiden Vereinen hat sich nun auch Johannes Golla selbst zu den Diskussionen über eine Rückkehr zur SG Flensburg-Handewitt geäußert, trotz eines bis 2031 laufenden Vertrags bei der MT Melsungen. "Menschen, die mich gut kennen, haben längst gesehen, dass es mir nicht gut geht", so der Handball-Nationalspieler.]]></description>
-            <link>https://www.handball-world.news/artikel/golla-meldet-sich-in-wechsel-diskussion-zu-wort-1258296</link>
-            <guid isPermaLink="false">1258296</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 10:00:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
