@@ -4,11 +4,187 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 09 Oct 2026 08:57:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2026 20:40:49 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Oct 2026 08:57:57 GMT</pubDate>
+        <pubDate>Fri, 09 Oct 2026 20:40:49 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[2. HBL: Hagen bringt Potsdam zu Fall, Hamm gewinnt Kellerduell]]></title>
+            <description><![CDATA[Am 7. Spieltag der 2. Handball-Bundesliga hat der 1. VfL Potsdam die erste Niederlage kassiert - im Spitzenspiel gegen den neuen Tabellenführer Eintracht Hagen. Unterdessen gewann der ASV Hamm-Westfalen das Kellerduell gegen TUSEM Essen. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbl-hagen-bringt-potsdam-zu-fall-hamm-gewinnt-kellerduell-1259648</link>
+            <guid isPermaLink="false">1259648</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 19:52:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Flensburg übernimmt Tabellenführung]]></title>
+            <description><![CDATA[Die SG Flensburg-Handewitt bleibt auch am 8. Spieltag der Handball-Bundesliga ungeschlagen: Mit dem Sieg gegen die TSV Hannover-Burgdorf hat die SG die Tabellenführung erobert. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-flensburg-uebernimmt-tabellenfuehrung-1259405</link>
+            <guid isPermaLink="false">1259405</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 19:03:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fischer-Verletzung, zwölf Minne-Tore: Flensburg springt auf Platz eins]]></title>
+            <description><![CDATA[Die SG Flensburg-Handewitt bleibt in der Handball-Bundesliga ungeschlagen: Angeführt von einem überragenden Aymeric Minne setzten sich die Fördestädter bei der TSV Hannover-Burgdorf mit 39:32 (20:16) durch. Damit klettert Flensburg auf Tabellenplatz eins. Bei den Hausherren verletzte sich Justus Fischer.]]></description>
+            <link>https://www.handball-world.news/spiel/hannover-gegen-flensburg-2026-handball-bundesliga-5213813/bericht</link>
+            <guid isPermaLink="false">1259647</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 19:09:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangen um Fischer: Nationalspieler verletzt ausgewechselt]]></title>
+            <description><![CDATA[Das wird Handball-Bundestrainer Alfred Gislason Sorgen bereiten: Nationalspieler Justus Fischer hat sich im Bundesliga-Spiel gegen die SG Flensburg-Handewitt verletzt.]]></description>
+            <link>https://www.handball-world.news/artikel/bangen-um-fischer-nationalspieler-verletzt-ausgewechselt-1259659</link>
+            <guid isPermaLink="false">1259659</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 18:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live! Hannover gegen Flensburg]]></title>
+            <description><![CDATA[In der Handball-Bundesliga steht heute nur ein Spiel an: Die TSV Hannover-Burgdorf (6.) trifft auf die SG Flensburg-Handewitt (2.). Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
+            <link>https://www.handball-world.news/spiel/tsv-hannover-burgdorf-gegen-sg-flensburg-handewitt-5213813/ticker</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 16:00:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transferticker: Guardiola-Trennung, Jurmala-Entscheidung]]></title>
+            <description><![CDATA[Was passiert gerade auf dem Handball-Transfermarkt? Im Transferticker von handball-world gibt es - in Kooperation mit Picard - die neuesten Entwicklungen.]]></description>
+            <link>https://www.handball-world.news/liveticker/handball-transfers-1034721</link>
+            <guid isPermaLink="false">1034721</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 15:44:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nur ein Tausch: Der Kader von Frisch Auf Göppingen 2026/27]]></title>
+            <description><![CDATA[Wie sieht der Kader von Frisch Auf Göppingen für die Handball-Saison 2026/27 aus?]]></description>
+            <link>https://www.handball-world.news/artikel/nur-ein-tausch-der-kader-von-frisch-auf-goeppingen-2026-27-1234589</link>
+            <guid isPermaLink="false">1234589</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 15:27:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wie Jicha: Diese Trainer sind gerade ohne Verein]]></title>
+            <description><![CDATA[Mit Filip Jicha erlebte die Handball-Bundesliga im Sommer ein großes Trainerbeben, seitdem ist der nun ehemalige Coach des THW Kiel freigestellt. Er ist nicht der einzige bekannte Trainer-Name, der aktuell auf dem Markt ist.]]></description>
+            <link>https://www.handball-world.news/slideshow/wie-jicha-diese-trainer-sind-gerade-ohne-verein-1252913</link>
+            <guid isPermaLink="false">1252913</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 15:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Köster: Lunds Kommunikation "ein ganz geiler Mix"]]></title>
+            <description><![CDATA[Julian Köster hat beim THW Kiel längst schon eine Führungsposition inne. Der Neuzugang genießt die Zusammenarbeit mit Trainer Börge Lund. Der Norweger hat nun verraten, wann er zur Taktiktafel greift.]]></description>
+            <link>https://www.handball-world.news/artikel/koester-lunds-kommunikation-ein-ganz-geiler-mix-1259601</link>
+            <guid isPermaLink="false">1259601</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 14:47:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bundesliga: Diese Verträge laufen im Sommer 2027 aus]]></title>
+            <description><![CDATA[Domagoj Duvnjak, Dainis Kristopans oder Silvio Heinevetter: Bei einigen prominenten Namen in der Handball-Bundesliga ist (zumindest offiziell) noch nicht klar, wie es nach der laufenden Saison für sie weitergeht. Welche Verträge im Sommer 2027 auslaufen. Die Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/bundesliga-diese-vertraege-laufen-im-sommer-2027-aus-1252684</link>
+            <guid isPermaLink="false">1252684</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 14:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bester Torhüter? Wer in der Champions League noch mehr hält als Nielsen]]></title>
+            <description><![CDATA[Veszprem-Trainer Xavi Pascual lobte Emil Nielsen nach dessen 24-Paraden-Gala in den höchsten Tönen. Nielsen sei der beste Torhüter der Welt und das wisse jeder, so Pascual. Einer ist in der Königsklasse aber bisher noch besser unterwegs:]]></description>
+            <link>https://www.handball-world.news/artikel/bester-torhueter-wer-in-der-champions-league-noch-mehr-haelt-als-nielsen-1259585</link>
+            <guid isPermaLink="false">1259585</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 13:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GOG verleiht Kildelund an Ligakonkurrent]]></title>
+            <description><![CDATA[Dänemarks Topklub GOG verzichtet bis zum Jahresende auf Kasper Kildelund. Der 32-Jährige wird an einen Ligakonkurrenten verliehen.]]></description>
+            <link>https://www.handball-world.news/artikel/gog-verleiht-kildelund-an-ligakonkurrent-1259591</link>
+            <guid isPermaLink="false">1259591</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 13:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mega-Talent auf dem Podium: Die Top-Torschützen der Champions League]]></title>
+            <description><![CDATA[Der 3. Spieltag der Handball Champions League 2026/27 ist absolviert. Wer sind die besten Torschützen?]]></description>
+            <link>https://www.handball-world.news/artikel/mega-talent-auf-dem-podium-die-top-torschuetzen-der-champions-league-1251347</link>
+            <guid isPermaLink="false">1251347</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 12:48:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sommer 2026: Die Wechsel in Schwedens Top-Liga]]></title>
+            <description><![CDATA[Wen haben die Vereine der höchsten schwedischen Handball-Spielklasse, der Handbollsligan, für die Spielzeit 2026/27 verpflichtet - und welche Spieler haben ihre Klubs im Sommer 2026 verlassen? Die feststehenden Wechsel in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/sommer-2026-die-wechsel-in-schwedens-top-liga-1235448</link>
+            <guid isPermaLink="false">1235448</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 15:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Public Viewing: So können Vereine die Heim-WM kostenfrei übertragen]]></title>
+            <description><![CDATA[Mehr als 80 Prozent der Tickets für die Handball-WM 2027 sind bereits verkauft, für die deutschen Spiele gibt es aktuell keine Karten. Nun ermöglichen der Deutsche Handballbund und der übertragende Sender ProSieben den Vereinen Public Viewing.]]></description>
+            <link>https://www.handball-world.news/artikel/public-viewing-so-koennen-vereine-die-heim-wm-kostenfrei-uebertragen-1259559</link>
+            <guid isPermaLink="false">1259559</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 11:54:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ungeschlagen, aber gefordert: Flensburg trifft auf Hannovers Heimfestung]]></title>
+            <description><![CDATA[Die TSV Hannover-Burgdorf empfängt den bislang ungeschlagenen Tabellenzweiten SG Flensburg-Handewitt und setzt dabei auf ihre Heimstärke. Kann die Recken-Defensive die starke Flensburger Offensive stoppen und für die nächste Überraschung sorgen?]]></description>
+            <link>https://www.handball-world.news/artikel/ungeschlagen-aber-gefordert-flensburg-trifft-auf-hannovers-heimfestung-1259539</link>
+            <guid isPermaLink="false">1259539</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 11:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kuriose Verletzung: Norwegen-Star Mörk bangt um EM-Teilnahme]]></title>
+            <description><![CDATA[Das Team Esbjerg muss bis auf Weiteres auf Nora Mörk verzichten. Die Linkshänderin verletzte sich im Ligaspiel von Dänemarks Meister gegen Horsens. Sogar die Teilnahme an der Handball-EM ist in Gefahr.]]></description>
+            <link>https://www.handball-world.news/artikel/kuriose-verletzung-norwegen-star-moerk-bangt-um-em-teilnahme-1259554</link>
+            <guid isPermaLink="false">1259554</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 11:09:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simic sendet Champions-League-Botschaft: "Wir sind ernstzunehmen"]]></title>
+            <description><![CDATA[Nach dem Sieg von Melsungen gegen Nantes (28:23) sprechen Nebojsa Simic und Roberto Garcia Parrondo über einen heißen Abend und die Bedeutung der zwei Punkte.]]></description>
+            <link>https://www.handball-world.news/artikel/simic-sendet-champions-league-botschaft-wir-sind-ernstzunehmen-1259531</link>
+            <guid isPermaLink="false">1259531</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 10:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MT Melsungen plant ohne Guardiola]]></title>
+            <description><![CDATA[Die MT Melsungen wird ab dem Sommer auf Isaias Guardiola verzichten. Damit benötigen die Nordhessen für die kommende Saison einen neuen Co-Trainer.]]></description>
+            <link>https://www.handball-world.news/artikel/mt-melsungen-plant-ohne-guardiola-1259538</link>
+            <guid isPermaLink="false">1259538</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 11:26:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mannschaftskasse klingelt: Lichtlein verwirft Siebenmeter gegen Porto]]></title>
+            <description><![CDATA[Nils Lichtlein verwirft gegen Porto einen Siebenmeter, doch Trainer Krickau nimmt es mit Humor. Für den Rückkehrer der Füchse Berlin ist es dennoch ein besonderer Abend.]]></description>
+            <link>https://www.handball-world.news/artikel/mannschaftskasse-klingelt-lichtlein-verwirft-siebenmeter-gegen-porto-1259515</link>
+            <guid isPermaLink="false">1259515</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 10:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sieglos-Serie und Verletzungssorgen: Wetzlar will reagieren]]></title>
+            <description><![CDATA[Nach acht Spieltagen wartet die HSG Wetzlar weiterhin auf den ersten Saisonsieg. Nun wollen die Mittelhessen auch personell nachlegen.]]></description>
+            <link>https://www.handball-world.news/artikel/sieglos-serie-und-verletzungssorgen-wetzlar-will-reagieren-1259525</link>
+            <guid isPermaLink="false">1259525</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 09:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vertragsverlängerung: Jurmala bleibt Göppingen treu]]></title>
+            <description><![CDATA[Frisch Auf Göppingen verlängert den Vertrag mit Kreisläufer Ludvig Jurmala bis 2028. Der Schwede hat sich sportlich und privat etabliert und sieht seine Zukunft weiterhin bei den Grün-Weißen.]]></description>
+            <link>https://www.handball-world.news/artikel/vertragsverlaengerung-jurmala-bleibt-goeppingen-treu-1259512</link>
+            <guid isPermaLink="false">1259512</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 09 Oct 2026 12:18:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Angriff "nicht auf der Höhe": Wetzlar weiterhin sieglos]]></title>
             <description><![CDATA[Die HSG Wetzlar bleibt als einzige Mannschaft in der Handball-Bundesliga ohne Sieg. Mit dem 26:31 beim TVB Stuttgart rutschten die Mittelhessen zumindest vorübergehend ans Tabellenende.]]></description>
@@ -23,7 +199,7 @@
             <link>https://www.handball-world.news/artikel/deutscher-rueckraumspieler-fuer-pfadi-winterthur-1259518</link>
             <guid isPermaLink="false">1259518</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 08:44:28 GMT</pubDate>
+            <pubDate>Fri, 09 Oct 2026 09:10:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Historisches Doppel-Gold: Besondere Auszeichnung für DHB-Juniorinnen]]></title>
@@ -160,14 +336,6 @@
             <guid isPermaLink="false">1259399</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 09 Oct 2026 07:31:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL kompakt: Stuttgart jubelt, Eisenach bezwingt Löwen]]></title>
-            <description><![CDATA[Eisenach legte gegen die Löwen furios los und verteidigte die Führung bis zum 33:29-Endstand. Stuttgart lieferte sich mit Wetzlar lange ein enges Duell, setzte sich aber am Ende mit 31:26 durch. Am Freitag wartet Hannover gegen Flensburg, am Samstag Göppingen gegen Bietigheim, bevor am Sonntag weitere Duelle folgen.]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-stuttgart-jubelt-eisenach-bezwingt-loewen-1259405</link>
-            <guid isPermaLink="false">1259405</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 23:52:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[El-Tayar macht dicht: Stuttgart zieht Wetzlar den Stecker]]></title>
@@ -315,11 +483,11 @@
         </item>
         <item>
             <title><![CDATA[Pascual mit Nielsen-Lobeshymne nach Sieg in Belgrad]]></title>
-            <description><![CDATA[One Veszprem hat sich nach der Klub-Weltmeisterschaft schadlos in Europa zurückgemeldet: Bei Partizan Belgrad setzten sich die Ungarn souverän mit 36:27 durch. Großen Anteil daran hatte ein wieder einmal überragender Emil Nielsen.]]></description>
+            <description><![CDATA[One Veszprem hat sich nach der Klub-Weltmeisterschaft schadlos in Europa zurückgemeldet: Bei Partizan Belgrad setzten sich die Ungarn souverän mit 37:26 durch. Großen Anteil daran hatte ein wieder einmal überragender Emil Nielsen.]]></description>
             <link>https://www.handball-world.news/spiel/partizan-gegen-veszprem-2026-ehf-champions-league-5249843/bericht</link>
             <guid isPermaLink="false">1259240</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 09:35:03 GMT</pubDate>
+            <pubDate>Fri, 09 Oct 2026 12:23:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wechsel in Dänemarks Top-Liga im Sommer 2026]]></title>
@@ -439,15 +607,7 @@
             <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
             <guid isPermaLink="false">1047810</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 14:12:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live! Melsungen schließt gegen Nantes den Handball-Abend ab]]></title>
-            <description><![CDATA[Heute sind die Füchse Berlin und die MT Melsungen in der Champions League im Einsatz - das Team aus der Hauptstadt legte auch dank siebzehn Gidsel-Treffern erfolgreich. In der Handball-Bundesliga jubelte Eisenach in Mannheim und Stuttgart verbuchte zwei Punkte gegen Wetzlar. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1245795</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 19:17:54 GMT</pubDate>
+            <pubDate>Fri, 09 Oct 2026 10:17:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Große Ziele: Pierre schielt mit Erlangen nach Europa]]></title>
@@ -480,14 +640,6 @@
             <guid isPermaLink="false">1259071</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 15:21:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bundesliga: Diese Verträge laufen im Sommer 2027 aus]]></title>
-            <description><![CDATA[Domagoj Duvnjak, Dainis Kristopans oder Silvio Heinevetter: Bei einigen prominenten Namen in der Handball-Bundesliga ist (zumindest offiziell) noch nicht klar, wie es nach der laufenden Saison für sie weitergeht. Welche Verträge im kommenden Sommer auslaufen. Die Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/bundesliga-diese-vertraege-laufen-im-sommer-2027-aus-1252684</link>
-            <guid isPermaLink="false">1252684</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 07 Oct 2026 14:16:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ohne Metzner: Der Kader des HC Erlangen 2026/27]]></title>
@@ -712,14 +864,6 @@
             <guid isPermaLink="false">1250643</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 19:31:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Transferticker: Verlängerungen in Montpellier und Lübbecke]]></title>
-            <description><![CDATA[Was passiert gerade auf dem Handball-Transfermarkt? Im Transferticker von handball-world gibt es - in Kooperation mit Picard - die neuesten Entwicklungen.]]></description>
-            <link>https://www.handball-world.news/liveticker/handball-transfers-1034721</link>
-            <guid isPermaLink="false">1034721</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 15:41:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Handball-Weltverband setzt langfristig auf Lidl]]></title>
@@ -1064,150 +1208,6 @@
             <guid isPermaLink="false">1258494</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 05 Oct 2026 12:06:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Einstellung, Herz und Kampf": HC Elbflorenz ringt Hüttenberg nieder]]></title>
-            <description><![CDATA[Der HC Elbflorenz hat den TV Hüttenberg mit 33:31 (15:11) bezwungen. Dabei wechselte das Momentum mehrfach. Besonders nach dem 20:20 in der zweiten Halbzeit zeigte der HC Elbflorenz eine starke Reaktion. Ein starker Marino Mallwitz und vier Dresdner Treffer in Folge brachten die Gastgeber zurück auf Kurs.]]></description>
-            <link>https://www.handball-world.news/spiel/dresden-gegen-huettenberg-2026-handball-bundesliga-5214102/bericht</link>
-            <guid isPermaLink="false">1258498</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:18:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heim-WM und Paris: Juri Knorr und der nächste Schritt]]></title>
-            <description><![CDATA[Juri Knorr wechselt im kommenden Sommer nach Frankreich zu Paris St. Germain. Es ist der nächste Schritt in der Karriere des deutschen Handball-Nationalspielers. Am Rande eines Nachwuchscamps mit der DVAG blickte er zurück auf seine Karriere und voraus auf den Wechsel und die zuvor anstehende Heim-WM.]]></description>
-            <link>https://www.handball-world.news/artikel/heim-wm-und-paris-juri-knorr-und-der-naechste-schritt-1258024</link>
-            <guid isPermaLink="false">1258024</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 12:10:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Keine schwerere Knieverletzung bei Leipzigs Binder]]></title>
-            <description><![CDATA[Erleichterung beim SC DHfK Leipzig. Die Knieverletzung von Routinier Lukas Binder fällt nicht so schwerwiegend aus wie erwartet. Dennoch ist ein Einsatz im Heimspiel am Donnerstag fraglich.]]></description>
-            <link>https://www.handball-world.news/artikel/keine-schwerere-knieverletzung-bei-leipzigs-binder-1258531</link>
-            <guid isPermaLink="false">1258531</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 10:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sommer 2026: Die Wechsel in der 2. HBF]]></title>
-            <description><![CDATA[Wen haben die Vereine der 2. Handball Bundesliga Frauen für die Saison 2026/27 verpflichtet - und welche Spielerinnen haben ihre Klubs im Sommer 2026 verlassen? Die feststehenden Wechsel in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/sommer-2026-die-wechsel-in-der-2-hbf-1195712</link>
-            <guid isPermaLink="false">1195712</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 10:27:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rückkehr nach Flensburg? Der Fall Golla in der Chronologie]]></title>
-            <description><![CDATA[Vom geplanten Wechsel nach Melsungen bis zum überraschenden Rückkehrwunsch: Der Fall Johannes Golla hat in kurzer Zeit eine neue Wendung genommen. Die wichtigsten Ereignisse im Überblick:]]></description>
-            <link>https://www.handball-world.news/artikel/rueckkehr-nach-flensburg-der-fall-golla-in-der-chronologie-1258248</link>
-            <guid isPermaLink="false">1258248</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 13:04:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ferndorf-Coach Klatt: Das macht Potsdam so stark]]></title>
-            <description><![CDATA[Im deutschen Profihandball der Männer hat der 1. VfL Potsdam mittlerweile ein Alleinstellungsmerkmal. Die Brandenburger sind die einzige Mannschaft mit weißer Weste. Am heutigen Abend empfängt das Team von Emir Kurtagic nun den TuS Ferndorf,]]></description>
-            <link>https://www.handball-world.news/artikel/ferndorf-coach-klatt-das-macht-potsdam-so-stark-1258491</link>
-            <guid isPermaLink="false">1258491</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 09:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHB-Team: Das sind die Spiele bis zur Heim-WM]]></title>
-            <description><![CDATA[In 100 Tagen ist es so weit: Im Januar 2027 findet die Handball-WM in Deutschland statt. Wie sieht der Fahrplan des DHB-Teams bis dahin aus?]]></description>
-            <link>https://www.handball-world.news/artikel/dhb-team-das-sind-die-spiele-bis-zur-heim-wm-1220718</link>
-            <guid isPermaLink="false">1220718</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 09:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ein Sieg für das Selbstvertrauen: Kiel schöpft Energie, Gummersbach zwischen Lob und Wehmut]]></title>
-            <description><![CDATA[Nach der Niederlage in Magdeburg hat der THW Kiel mit dem 29:26 gegen den VfL Gummersbach die passende Antwort gegeben. Die Kieler tankten dabei nicht nur zwei Punkte, sondern auch neues Selbstvertrauen, während der VfL trotz einer starken ersten Hälfte mit gemischten Gefühlen auf die Partie zurückblickte.]]></description>
-            <link>https://www.handball-world.news/artikel/ein-sieg-fuer-das-selbstvertrauen-kiel-schoepft-energie-gummersbach-zwischen-lob-und-wehmut-1258480</link>
-            <guid isPermaLink="false">1258480</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 08:53:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hamm: Trotz Niederlage "Schritt nach vorne gemacht"]]></title>
-            <description><![CDATA[Ohne Punkte, aber zumindest mit dem Gefühl, einen Entwicklungsschritt in die richtige Richtung gemacht zu haben, ist der ASV Hamm-Westfalen am Sonntag aus Lübeck zurückgekehrt. Der Aufsteiger unterlag beim VfL Lübeck-Schwartau mit 26:33 (13:16).]]></description>
-            <link>https://www.handball-world.news/spiel/lueb-schwartau-gegen-hamm-westfalen-2026-handball-bundesliga-5214104/bericht</link>
-            <guid isPermaLink="false">1258477</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 08:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noch ein Monat bis Berlin: Was sich in der Uber Arena entscheiden kann]]></title>
-            <description><![CDATA[Die Zeit läuft, es wird ernst: In 100 Tagen startet Deutschland in die Heim-WM. In einem Monat gibt es für die deutschen Nationalspieler dabei eine der letzten Möglichkeiten, sich mit Hinblick auf das Handball-Großturnier für die DHB-Auswahl zu empfehlen.]]></description>
-            <link>https://www.handball-world.news/artikel/noch-ein-monat-bis-berlin-was-sich-in-der-uber-arena-entscheiden-kann-1258001</link>
-            <guid isPermaLink="false">1258001</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 08:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Nationalspieler übernimmt: Die Top-Torschützen der HBL]]></title>
-            <description><![CDATA[Die Saison 2026/27 der Opel Handball-Bundesliga ist sieben Spieltage alt. Wer hat die meisten Treffer erzielt? Ein Blick auf die Top-Torschützen der Liga:]]></description>
-            <link>https://www.handball-world.news/artikel/ex-nationalspieler-uebernimmt-die-top-torschuetzen-der-hbl-1248389</link>
-            <guid isPermaLink="false">1248389</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 07:45:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erlangen mit deutlichem Fazit: "Das Ding löschen"]]></title>
-            <description><![CDATA[Der SC Magdeburg hat beim HC Erlangen einen souveränen 35:28-Erfolg eingefahren und die Partie von Beginn an kontrolliert. Nach dem deutlichen Sieg äußerten sich Christoph Steinert vom HCE und Felix Claar vom SCM. Letzterer sprach unter anderem über seine Zukunftspläne.]]></description>
-            <link>https://www.handball-world.news/artikel/erlangen-mit-deutlichem-fazit-das-ding-loeschen-1258466</link>
-            <guid isPermaLink="false">1258466</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 07:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noch 100 Tage: Vorfreude bei ProSieben auf Heim-WM]]></title>
-            <description><![CDATA[In 100 Tagen startet die Heim-WM in Deutschland - live auf ProSieben. Das Handball-Fieber steigt auch beim übertragenden Free-TV-Sender.]]></description>
-            <link>https://www.handball-world.news/artikel/noch-100-tage-vorfreude-bei-prosieben-auf-heim-wm-1258399</link>
-            <guid isPermaLink="false">1258399</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 06:51:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sellin nach Magdeburg-Pleite: "Lieber hier als woanders"]]></title>
-            <description><![CDATA[Der HC Erlangen sah gegen den SC Magdeburg nur wenig Land. Zufrieden sein konnte Handball-Trainer Johannes Sellin nicht, er wusste die Niederlage allerdings auch einzuordnen.]]></description>
-            <link>https://www.handball-world.news/artikel/sellin-nach-magdeburg-pleite-lieber-hier-als-woanders-1258454</link>
-            <guid isPermaLink="false">1258454</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 06:24:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kohlbacher-Verletzung: Löwen geben Entwarnung]]></title>
-            <description><![CDATA[Jannik Kohlbacher musste in Wetzlar verletzt vom Feld. Nun haben sich die Rhein-Neckar Löwen zum Verletzungsstand ihres Handball-Kreisläufers geäußert.]]></description>
-            <link>https://www.handball-world.news/artikel/kohlbacher-verletzung-loewen-geben-entwarnung-1258449</link>
-            <guid isPermaLink="false">1258449</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 06:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noch 100 Tage: Der Spielplan der Heim-WM 2027]]></title>
-            <description><![CDATA[Ab dem 13. Januar 2027 findet in Deutschland die Handball-WM 2027 statt. Der Titel wird am 31. Januar vergeben. Das DHB-Team spielt die Vorrunde in München. Ein Blick auf den Spielplan des Turniers:]]></description>
-            <link>https://www.handball-world.news/artikel/noch-100-tage-der-spielplan-der-heim-wm-2027-1166869</link>
-            <guid isPermaLink="false">1166869</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 04:39:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Es muss auch der Wille da sein" - Knorr und Späth über Entwicklung]]></title>
-            <description><![CDATA[Juri Knorr und David Späth waren im Sommer bei einem Handball-Camp der DVAG im Einsatz und blickten dabei auch auf ihre eigene Entwicklung zurück. "Natürlich sollte man Talent haben, aber es muss auch der Wille da sein - und die Demut, zuhören und lernen zu wollen", sagt Thomas Knorr, Vater von Juri und selbst Torschützenkönig bei einer Handball-EM. Ein weiteres Thema im neuen Video aus der Serie "Eine Freundschaft, die bleibt" ist der Vergleich mit Dänemark und die bevorstehende Heim-WM.]]></description>
-            <link>https://www.handball-world.news/videos/es-muss-auch-der-wille-da-sein-knorr-und-spaeth-ueber-entwicklung-1257667</link>
-            <guid isPermaLink="false">1257667</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 07:09:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gislasons WM-Puzzle: Wer sicher dabei ist und wer zittern muss]]></title>
-            <description><![CDATA[In 100 Tagen beginnt die Handball-WM in Deutschland. Damit steigt die Spannung mit Blick auf den Kader, den Bundestrainer Alfred Gislason für das Turnier nominieren wird. Wir haben einen Blick auf das Personal-Puzzle des Isländers geworfen: Während einige Spieler ihr Ticket sicher haben, müssen andere zittern.]]></description>
-            <link>https://www.handball-world.news/artikel/gislasons-wm-puzzle-wer-sicher-dabei-ist-und-wer-zittern-muss-1253887</link>
-            <guid isPermaLink="false">1253887</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 05 Oct 2026 07:45:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
