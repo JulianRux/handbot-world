@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Oct 2026 20:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 23:48:06 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Oct 2026 20:36:42 GMT</pubDate>
+        <pubDate>Sat, 10 Oct 2026 23:48:06 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: SG BBM Bietigheim gelingt Coup in Göppingen]]></title>
+            <description><![CDATA[Zehn Minuten vor Spielende stand im schwäbischen Derby der Handball-Bundesliga ein 22:22 auf der Anzeigetafel, eine Vierer-Serie brachte die SG BBM Bietigheim dann aber auf die Siegerstraße. Frisch Auf Göppingen musste der dünnen Personaldecke Tribut zollen, die Gäste hielten dank der größeren Kraftreserven den Kurs und bejubelten mit dem 29:25 zwei wichtige Auswärtspunkte im Kampf um den Klassenverbleib.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-sg-bbm-bietigheim-gelingt-coup-in-goeppingen-1259997</link>
+            <guid isPermaLink="false">1259997</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 10 Oct 2026 23:07:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CL kompakt: MT schlägt Nantes, Füchse souverän, Remis in Szeged]]></title>
             <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
@@ -55,7 +63,7 @@
             <link>https://www.handball-world.news/artikel/hbl-kompakt-flensburg-uebernimmt-tabellenfuehrung-bietigheim-jubelt-im-derby-1259405</link>
             <guid isPermaLink="false">1259405</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 10 Oct 2026 19:08:21 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 23:09:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Überragende Crunch-Time: Bietigheim holt im Derby den zweiten Saisonsieg]]></title>
@@ -63,7 +71,7 @@
             <link>https://www.handball-world.news/spiel/goeppingen-gegen-bietigheim-2026-handball-bundesliga-5213814/bericht</link>
             <guid isPermaLink="false">1259924</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 10 Oct 2026 18:57:30 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 20:44:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Unter Druck: TuSEM Essen wartet weiter auf den ersten Sieg]]></title>
@@ -211,11 +219,11 @@
         </item>
         <item>
             <title><![CDATA[van Vliet muss im Krankenhaus: Jung-Gallier verlieren in Konstanz]]></title>
-            <description><![CDATA[Handball-Drittligist HBW Balingen-Weilstetten II hat das Derby beim der HSG Konstanz mit 28:33 (13:17) verloren. Zu allem Überfluss verloren die Jung-Gallier schon nach zwei Minuten auch ihren niederländischen Linkshänder Daan van Vliet durch eine Ellenbogenverletzung.]]></description>
+            <description><![CDATA[Handball-Drittligist HBW Balingen-Weilstetten II unterlag im Derby bei der HSG Konstanz mit 28:33 (13:17). Zu allem Überfluss verloren die Jung-Gallier schon nach zwei Minuten auch ihren niederländischen Linkshänder Daan van Vliet durch eine Ellenbogenverletzung.]]></description>
             <link>https://www.handball-world.news/spiel/hsg-konstanz-gegen-hbw-balingen-weilstetten-ii-2026-liga-sued-5264157/bericht</link>
             <guid isPermaLink="false">1259771</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 10 Oct 2026 09:48:46 GMT</pubDate>
+            <pubDate>Sat, 10 Oct 2026 21:24:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nach Los Angeles: Brisbane veröffentlicht Olympia-Logo für 2032]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1258720</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 06 Oct 2026 10:14:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Mathias kriegt viel auf die Fresse": Krickau über Härte gegen Gidsel]]></title>
-            <description><![CDATA[Superstar Mathias Gidsel ist der Dreh- und Angelpunkt der Füchse Berlin. Nun beklagt sein Trainer Nicolej Krickau, dass der dreimalige Welthandballer zu hart angegangen werde.]]></description>
-            <link>https://www.handball-world.news/artikel/mathias-kriegt-viel-auf-die-fresse-krickau-ueber-haerte-gegen-gidsel-1258739</link>
-            <guid isPermaLink="false">1258739</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 06 Oct 2026 10:12:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
