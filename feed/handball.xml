@@ -4,11 +4,59 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Oct 2026 01:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2026 07:49:31 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Oct 2026 01:19:27 GMT</pubDate>
+        <pubDate>Tue, 13 Oct 2026 07:49:31 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Wölfe Würzburg erweitern Geschäftsführung]]></title>
+            <description><![CDATA[Die Wölfe Würzburg stellen die Weichen für die weitere Entwicklung des Vereins und erweitern ihre Führungsstruktur: Raimund Schäfer wird künftig Teil der erweiterten Geschäftsleitung der Wölfe Würzburg.]]></description>
+            <link>https://www.handball-world.news/artikel/woelfe-wuerzburg-erweitern-geschaeftsfuehrung-1260745</link>
+            <guid isPermaLink="false">1260745</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 07:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BHC mit Update zu Fraatz und Barbarskas]]></title>
+            <description><![CDATA[Heute Abend trifft der Bergische HC am dritten Spieltag der European League auf den kroatischen Vertreter MRK Sesvete. Vor dem Duell, in das der Bundesligist als Tabellenführer geht, gab der Klub ein Update zur Personallage - insbesondere zu Gerdas Babarskas und Yannick Fraatz.]]></description>
+            <link>https://www.handball-world.news/artikel/bhc-mit-update-zu-fraatz-und-barbarskas-1260726</link>
+            <guid isPermaLink="false">1260726</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 07:09:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emsdetten mehrere Monate ohne Damböck]]></title>
+            <description><![CDATA[Handball-Zweitligist TV Emsdetten muss mehrere Monate auf Eric Damböck verzichten. Der österreichische Nationalspieler hat sich im Spiel gegen die HSG Nordhorn-Lingen schwer verletzt.]]></description>
+            <link>https://www.handball-world.news/artikel/emsdetten-mehrere-monate-ohne-damboeck-1260734</link>
+            <guid isPermaLink="false">1260734</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 07:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kader für die Heim-WM: "Das Rennen ist noch offen"]]></title>
+            <description><![CDATA[Die Kadernominierung der deutschen Handball-Nationalmannschaft für den November-Lehrgang steht kurz bevor. Besonders im rechten Rückraum ist die Entscheidung auch für die Heim-WM noch nicht gefallen. Co-Bundestrainer Erik Wudtke betonte, dass mehrere Kandidaten im Rennen sind und sich weiterhin beweisen müssen.]]></description>
+            <link>https://www.handball-world.news/artikel/kader-fuer-die-heim-wm-das-rennen-ist-noch-offen-1260715</link>
+            <guid isPermaLink="false">1260715</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 06:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball am Dienstag: Gummersbach, Flensburg und BHC europäisch]]></title>
+            <description><![CDATA[Heute steigt der 3. Spieltag der EHF European League. Während Flensburg und Gummersbach zu Hause im Einsatz sind, muss der Bergische HC auswärts ran.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-dienstag-gummersbach-flensburg-und-bhc-europaeisch-1258674</link>
+            <guid isPermaLink="false">1258674</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 06:43:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Von Gensheimer bis zum Machulla-Aus: Löwen-Chaos in der Chronologie]]></title>
+            <description><![CDATA[Knall bei den Rhein-Neckar Löwen: Maik Machulla ist nicht länger Cheftrainer der Mannheimer. Die Entlassung ist nur die negative Krönung eines anhaltenden Handball-Chaos. Die Entwicklung in der Chronologie der jüngeren Vereinsgeschichte:]]></description>
+            <link>https://www.handball-world.news/artikel/von-gensheimer-bis-zum-machulla-aus-loewen-chaos-in-der-chronologie-1260550</link>
+            <guid isPermaLink="false">1260550</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 13 Oct 2026 04:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Die Top-Torschützinnen der 3. Liga Frauen 2026/27]]></title>
             <description><![CDATA[Die Saison in den drei Staffeln der 3. Handball-Liga ist gestartet, mit 36 Klubs ist jede Menge Action im höchsten Amateurbereich. Aber wer prägt die Liga aktuell? Ein Blick auf die Top-Torschützinnen der Liga:]]></description>
@@ -1160,54 +1208,6 @@
             <guid isPermaLink="false">1259363</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 08 Oct 2026 14:32:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Heute geht's weiter: Der Spielplan der Bundesliga]]></title>
-            <description><![CDATA[Handball-Bundesliga Saison 2026/27 - alle Infos zum Spielplan]]></description>
-            <link>https://www.handball-world.news/artikel/heute-geht-s-weiter-der-spielplan-der-bundesliga-1191123</link>
-            <guid isPermaLink="false">1191123</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 14:06:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Befreiungsschlag im Süd-Derby: Neckarsulm beendet Durststrecke]]></title>
-            <description><![CDATA[Die Sport-Union Neckarsulm feiert im Süd-Derby gegen Frisch Auf Göppingen den ersten Saisonsieg. Für Göppingen bleibt dagegen die Suche nach dem Befreiungsschlag bestehen.]]></description>
-            <link>https://www.handball-world.news/spiel/neckarsulm-gegen-goeppingen-2026-handball-frauen-bundesliga-5244009/bericht</link>
-            <guid isPermaLink="false">1259338</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 13:43:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Besserer HPI als Magnusson: Wer jetzt von der Heim-WM träumt]]></title>
-            <description><![CDATA[Er spielt, laut dem HPI der Handball-Bundesliga, derzeit besser als Omar Ingi Magnusson. Auf seiner Position ist demnach nur Mathias Gidsel stärker. Jetzt träumt Niklas Theiß von der Heim-WM.]]></description>
-            <link>https://www.handball-world.news/artikel/besserer-hpi-als-magnusson-wer-jetzt-von-der-heim-wm-traeumt-1259329</link>
-            <guid isPermaLink="false">1259329</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 13:26:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Buxtehude verliert trotz starkem Comeback: BVB bleibt souverän]]></title>
-            <description><![CDATA[Dortmund setzt sich mit 33:23 (18:10) gegen Buxtehude durch und übernimmt die Tabellenführung. Für den BSV sorgt Rückkehrerin Fleur Schouten mit fünf Treffern für einen Lichtblick.]]></description>
-            <link>https://www.handball-world.news/spiel/dortmund-gegen-buxtehude-2026-handball-frauen-bundesliga-5244008/bericht</link>
-            <guid isPermaLink="false">1259317</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 12:52:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Das ist Wahnsinn": Kretzschmar kritisiert Wechselpraxis]]></title>
-            <description><![CDATA[Der Fall Johannes Golla sorgt für eine Debatte über frühzeitige Wechsel-Absprachen im Handball. Stefan Kretzschmar sieht die Entwicklung kritisch.]]></description>
-            <link>https://www.handball-world.news/artikel/das-ist-wahnsinn-kretzschmar-kritisiert-wechselpraxis-1259285</link>
-            <guid isPermaLink="false">1259285</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 12:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Metzingen souverän in Leipzig: Aufsteiger wartet weiter auf Punkte]]></title>
-            <description><![CDATA[Die TuS Metzingen hat beim HC Leipzig den dritten Auswärtssieg der Saison eingefahren. Der Aufsteiger wartet nach dem 27:32 hingegen weiter auf den ersten Punktgewinn.]]></description>
-            <link>https://www.handball-world.news/spiel/leipzig-gegen-metzingen-2026-handball-frauen-bundesliga-5244006/bericht</link>
-            <guid isPermaLink="false">1259304</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 08 Oct 2026 12:31:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
