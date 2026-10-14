@@ -4,11 +4,59 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Oct 2026 02:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2026 07:36:56 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Oct 2026 02:14:01 GMT</pubDate>
+        <pubDate>Wed, 14 Oct 2026 07:36:56 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[BHC mit erster EL-Pleite: "Müssen uns entschuldigen"]]></title>
+            <description><![CDATA[Der Bergische HC ging am Dienstagabend in der Handball European League phasenweise unter. Aus der Chefetage hagelte es dafür gehörig Kritik an der Mannschaft.]]></description>
+            <link>https://www.handball-world.news/artikel/bhc-mit-erster-el-pleite-muessen-uns-entschuldigen-1261100</link>
+            <guid isPermaLink="false">1261100</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 07:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Einspruch von Lübeck-Schwartau: Das ist das Urteil]]></title>
+            <description><![CDATA[Mitte September kassierte der VfL Lübeck-Schwartau eine knappe 32:33-Niederlage beim SC DHfK Leipzig. Im Anschluss legten die Norddeutschen einen Einspruch ein. Nun steht das Urteil des Bundesgerichts fest.]]></description>
+            <link>https://www.handball-world.news/artikel/einspruch-von-luebeck-schwartau-das-ist-das-urteil-1261103</link>
+            <guid isPermaLink="false">1261103</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 06:49:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball am Mittwoch: Königsklassen-Rückspiele und HBF]]></title>
+            <description><![CDATA[In der Champions League stehen heute dieselben Duelle wie in der vergangenen Woche an: Die MT Melsungen trifft erneut auf Nantes, während der SC Magdeburg Kielce empfängt. Außerdem stehen in der Handball-Bundesliga der Frauen zwei Partien auf dem Programm.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-mittwoch-koenigsklassen-rueckspiele-und-hbf-1253098</link>
+            <guid isPermaLink="false">1253098</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 06:23:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Einer für Gislason? Dieser Außen mischt die Champions League auf]]></title>
+            <description><![CDATA[Florian Drosten hat sich bereits in der letzten Saison auf die Karte der Handball-Bundesliga gespielt. Nun tritt er mit der MT Melsungen in der Champions League an - und überzeugt dort besonders in einer Statistik.]]></description>
+            <link>https://www.handball-world.news/artikel/einer-fuer-gislason-dieser-aussen-mischt-die-champions-league-auf-1261097</link>
+            <guid isPermaLink="false">1261097</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 06:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kretzschmar über Flensburgs Nielsen-Gerüchte: "Wenn das eintreten sollte..."]]></title>
+            <description><![CDATA[Dänemarks Weltklasse-Torwart Emil Nielsen wird mal wieder mit der SG Flensburg-Handewitt in Verbindung gebracht. Was wirklich dran ist, ist aktuell noch unklar. Stefan Kretzschmar hat aber schon eine klare Meinung dazu.]]></description>
+            <link>https://www.handball-world.news/artikel/kretzschmar-ueber-flensburgs-nielsen-geruechte-wenn-das-eintreten-sollte-1260927</link>
+            <guid isPermaLink="false">1260927</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 04:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schon wieder Kielce gegen den SCM: Darum wiederholen sich die CL-Duelle]]></title>
+            <description><![CDATA[Warum spielt der SC Magdeburg schon wieder gegen Kielce, die MT Melsungen erneut gegen Nantes und Berlin abermals gegen Porto? In der Champions League stehen diese Woche dieselben Duelle an wie am vergangenen Spieltag - aber warum eigentlich?]]></description>
+            <link>https://www.handball-world.news/artikel/schon-wieder-kielce-gegen-den-scm-darum-wiederholen-sich-die-cl-duelle-1260897</link>
+            <guid isPermaLink="false">1260897</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 14 Oct 2026 06:53:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EL kompakt: VfL und Flensburg souverän, BHC erstmals geschlagen]]></title>
             <description><![CDATA[Alle Partien des 3. Spieltags der European League wurde am Dienstagabend absolviert. Sowohl der VfL Gummersbach als auch die SG Flensburg-Handewitt feierten Kantersiege, während der Bergische HC erstmals eine Niederlage hinnehmen musste.]]></description>
@@ -1160,54 +1208,6 @@
             <guid isPermaLink="false">1259554</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 09 Oct 2026 11:09:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Simic sendet Champions-League-Botschaft: "Wir sind ernstzunehmen"]]></title>
-            <description><![CDATA[Nach dem Sieg von Melsungen gegen Nantes (28:23) sprechen Nebojsa Simic und Roberto Garcia Parrondo über einen heißen Abend und die Bedeutung der zwei Punkte.]]></description>
-            <link>https://www.handball-world.news/artikel/simic-sendet-champions-league-botschaft-wir-sind-ernstzunehmen-1259531</link>
-            <guid isPermaLink="false">1259531</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 10:42:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MT Melsungen plant ohne Guardiola]]></title>
-            <description><![CDATA[Die MT Melsungen wird ab dem Sommer auf Isaias Guardiola verzichten. Damit benötigen die Nordhessen für die kommende Saison einen neuen Co-Trainer.]]></description>
-            <link>https://www.handball-world.news/artikel/mt-melsungen-plant-ohne-guardiola-1259538</link>
-            <guid isPermaLink="false">1259538</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 11:26:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mannschaftskasse klingelt: Lichtlein verwirft Siebenmeter gegen Porto]]></title>
-            <description><![CDATA[Nils Lichtlein verwirft gegen Porto einen Siebenmeter, doch Trainer Krickau nimmt es mit Humor. Für den Rückkehrer der Füchse Berlin ist es dennoch ein besonderer Abend.]]></description>
-            <link>https://www.handball-world.news/artikel/mannschaftskasse-klingelt-lichtlein-verwirft-siebenmeter-gegen-porto-1259515</link>
-            <guid isPermaLink="false">1259515</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 10:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sieglos-Serie und Verletzungssorgen: Wetzlar will reagieren]]></title>
-            <description><![CDATA[Nach acht Spieltagen wartet die HSG Wetzlar weiterhin auf den ersten Saisonsieg. Nun wollen die Mittelhessen auch personell nachlegen.]]></description>
-            <link>https://www.handball-world.news/artikel/sieglos-serie-und-verletzungssorgen-wetzlar-will-reagieren-1259525</link>
-            <guid isPermaLink="false">1259525</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 09:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vertragsverlängerung: Jurmala bleibt Göppingen treu]]></title>
-            <description><![CDATA[Frisch Auf Göppingen verlängert den Vertrag mit Kreisläufer Ludvig Jurmala bis 2028. Der Schwede hat sich sportlich und privat etabliert und sieht seine Zukunft weiterhin bei den Grün-Weißen.]]></description>
-            <link>https://www.handball-world.news/artikel/vertragsverlaengerung-jurmala-bleibt-goeppingen-treu-1259512</link>
-            <guid isPermaLink="false">1259512</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 12:18:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Angriff "nicht auf der Höhe": Wetzlar weiterhin sieglos]]></title>
-            <description><![CDATA[Die HSG Wetzlar bleibt als einzige Mannschaft in der Handball-Bundesliga ohne Sieg. Mit dem 26:31 beim TVB Stuttgart rutschten die Mittelhessen zumindest vorübergehend ans Tabellenende.]]></description>
-            <link>https://www.handball-world.news/artikel/angriff-nicht-auf-der-hoehe-wetzlar-weiterhin-sieglos-1259487</link>
-            <guid isPermaLink="false">1259487</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 09 Oct 2026 08:45:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
