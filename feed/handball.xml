@@ -4,11 +4,83 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 13:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 20:34:50 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 13:41:39 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 20:34:50 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[15-mal Freihöfer: Füchse nach Arbeitssieg in Porto eine Runde weiter]]></title>
+            <description><![CDATA[Die Füchse Berlin haben sich mit einem 36:33-Auswärtssieg beim FC Porto den Einzug in die Hauptrunde der Champions League gesichert. Insgesamt war es ein hart erarbeiteter Erfolg, bei dem vor allem Tim Freihöfer herausragte: Der Linksaußen erzielte starke 15 Treffer.]]></description>
+            <link>https://www.handball-world.news/spiel/fc-porto-gegen-berlin-2026-ehf-champions-league-5249854/bericht</link>
+            <guid isPermaLink="false">1261840</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 20:28:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Löwen verpassen knapp Punkt gegen Kiel, Erlangen siegt souverän]]></title>
+            <description><![CDATA[Zum Auftakt des 9. Spieltags wartet die HSG Wetzlar nach der 30:34-Niederlage gegen Erlangen weiter auf den ersten Saisonsieg. Der THW Kiel gewinnt einen Krimi gegen die Rhein-Neckar Löwen mit 37:36. Am Wochenende stehen weitere spannende Duelle an, darunter das Topspiel zwischen Flensburg und Berlin am Sonntag. Den Abschluss bildet am Montag die Partie zwischen Balingen und Hannover. Ergebnisse und Torschützen des 9. Spieltages in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-loewen-verpassen-knapp-punkt-gegen-kiel-erlangen-siegt-souveraen-1261825</link>
+            <guid isPermaLink="false">1261825</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 19:56:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wetzlar-Fans enttäuscht: Erlangen lässt den Gastgebern keine Chance]]></title>
+            <description><![CDATA[Zum Auftakt des 9. Spieltags der Handball-Bundesliga setzte sich der HC Erlangen auswärts mit 34:30 gegen die HSG Wetzlar durch. Während die Mittelhessen weiter auf ihren ersten Saisonsieg warten, überzeugten die Franken mit einer geschlossenen Mannschaftsleistung und einem starken Rubens Pierre im Tor.]]></description>
+            <link>https://www.handball-world.news/spiel/wetzlar-gegen-erlangen-2026-handball-bundesliga-5213825/bericht</link>
+            <guid isPermaLink="false">1261818</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 19:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mahé-Rot und Späth-Show: Johansson besiegelt Löwen-Niederlage in Kiel]]></title>
+            <description><![CDATA[Die Rhein-Neckar Löwen haben beim ersten Spiel nach der Entlassung von Cheftrainer Maik Machulla nur knapp den Punktgewinn beim THW Kiel verpasst. Nach 60 Minuten auf Augenhöhe verwandelte Eric Johansson den entscheidenden Strafwurf und sorgte damit für den 37:36-Heimsieg des Rekordmeisters.]]></description>
+            <link>https://www.handball-world.news/spiel/kiel-gegen-r-n-loewen-2026-handball-bundesliga-5213820/bericht</link>
+            <guid isPermaLink="false">1261819</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 19:00:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kroatien nominiert fünf Bundesliga-Spieler für EM-Qualifikation]]></title>
+            <description><![CDATA[Fünf Bundesliga-Spieler dürfen auf Einsätze für Kroatien hoffen: Im November stehen für die Mannschaft von Dagur Sigurdsson zwei wichtige Duelle auf dem Weg zur EM 2028 an. Besonders der SC Magdeburg stellt mit zwei Torhütern einen großen Teil des Aufgebots.]]></description>
+            <link>https://www.handball-world.news/artikel/kroatien-nominiert-fuenf-bundesliga-spieler-fuer-em-qualifikation-1261786</link>
+            <guid isPermaLink="false">1261786</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 15:43:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Für diese Klubs soll Golla eine Ausstiegsklausel haben]]></title>
+            <description><![CDATA[Johannes Golla will die MT Melsungen trotz langfristigen Vertrags verlassen und seine Ausstiegsklausel könnte dabei eine entscheidende Rolle spielen. Doch welche sechs Klubs sich Hoffnungen auf den Nationalmannschaftskapitän machen dürfen, sorgt für zusätzliche Brisanz.]]></description>
+            <link>https://www.handball-world.news/artikel/fuer-diese-klubs-soll-golla-eine-ausstiegsklausel-haben-1261749</link>
+            <guid isPermaLink="false">1261749</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 15:52:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Späth über Machulla: "Er war einer der Gründe, warum ich verlängert habe"]]></title>
+            <description><![CDATA[Die Entlassung von Maik Machulla bei den Rhein-Neckar Löwen trifft auch David Späth. Der Torhüter verrät, welche Rolle der Ex-Coach für ihn persönlich spielte, und bedankt sich für das entgegengebrachte Vertrauen.]]></description>
+            <link>https://www.handball-world.news/artikel/spaeth-ueber-machulla-er-war-einer-der-gruende-warum-ich-verlaengert-habe-1261777</link>
+            <guid isPermaLink="false">1261777</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 15:54:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die Schiedsrichter-Ansetzungen der 2. HBL]]></title>
+            <description><![CDATA[7. Spieltag in der 2. Handball-Bundesliga - Die Schiedsrichter-Ansetzungen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/die-schiedsrichter-ansetzungen-der-2-hbl-1069520</link>
+            <guid isPermaLink="false">1069520</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 14:28:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kretzschmar über Gensheimer-Konflikt bei den Löwen: "Unnötig"]]></title>
+            <description><![CDATA[Uwe Gensheimer steht bei den Rhein-Neckar Löwen im Mittelpunkt einer Diskussion, zu der Stefan Kretzschmar eine klare Meinung hat. Was hinter seiner Kritik steckt, sorgt im Handball für Gesprächsstoff.]]></description>
+            <link>https://www.handball-world.news/artikel/kretzschmar-ueber-gensheimer-konflikt-bei-den-loewen-unnoetig-1261714</link>
+            <guid isPermaLink="false">1261714</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 13:58:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leipzig unter Druck setzen: ASV will den Favoriten ärgern]]></title>
             <description><![CDATA[Mit dem Rückenwind des 37:30-Heimsiegs gegen TuSEM Essen reist der ASV Hamm-Westfalen zum ambitionierten Erstligaabsteiger SC DHfK Leipzig. Beim Tabellenzweiten wartet am Freitagabend eine schwere Auswärtsaufgabe - doch die Westfalen wollen den Favoriten ärgern.]]></description>
@@ -39,7 +111,7 @@
             <link>https://www.handball-world.news/artikel/golla-zieht-kuendigung-zurueck-melsungen-lehnt-sg-angebot-ab-1261717</link>
             <guid isPermaLink="false">1261717</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 11:56:34 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 13:52:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blomberg vor Königsklassen-Härtetest in Metz: Ziele sind gesetzt]]></title>
@@ -234,12 +306,12 @@
             <pubDate>Wed, 14 Oct 2026 19:12:52 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live! MT geht in Nantes unter]]></title>
-            <description><![CDATA[In der Handball Champions League ist zunächst der SC Magdeburg zuhause gegen Industria Kielce, später am Abend dann die MT Melsungen beim HBC Nantes gefordert. Auch in der Frauen-Bundesliga wird gespielt. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
+            <title><![CDATA[Live! Füchse zu Gast in Porto]]></title>
+            <description><![CDATA[In der Handball-Bundesliga haben die Rhein-Neckar Löwen zum Auftakt des 9. Spieltag nur knapp den Punktgewinn beim THW Kiel verpasst. Erlangen hat unterdessen den nächsten Sieg gefeiert. In der Champions League sind nun die Füchse Berlin beim FC Porto gefordert. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
             <link>https://www.handball-world.news/matchkalender</link>
             <guid isPermaLink="false">1245795</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 19:26:54 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2026 19:24:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Im Video - Kraus sicher: "Flensburg kauft die Liga leer"]]></title>
@@ -1136,78 +1208,6 @@
             <guid isPermaLink="false">1260142</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 11 Oct 2026 11:54:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Altenholz trotzt Aues Aufholjagd und bleibt ungeschlagen]]></title>
-            <description><![CDATA[Der TSV Altenholz hat sich im Topspiel der dritten Liga Nord-Ost mit 29:27 gegen den EHV Aue durchgesetzt und bleibt damit verlustpunktfrei, während der Konkurrent die erste Saisonniederlage hinnehmen muss.]]></description>
-            <link>https://www.handball-world.news/spiel/aue-gegen-tsv-altenholz-2026-liga-nord-ost-5263437/bericht</link>
-            <guid isPermaLink="false">1260099</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 11:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Werktags um kurz nach 7: So startet ihr bestens informiert in den Handball-Tag]]></title>
-            <description><![CDATA[Was ist im Handball passiert? Wer wechselt? Wer fällt aus? Und welche Spiele stehen heute an? Mit dem Briefing von handball-world bekommt ihr die wichtigsten Antworten jeden Morgen direkt ins Postfach.]]></description>
-            <link>https://www.handball-world.news/artikel/werktags-um-kurz-nach-7-so-startet-ihr-bestens-informiert-in-den-handball-tag-1244515</link>
-            <guid isPermaLink="false">1244515</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 11:05:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aus Frankreich in die HBL: Pierre erklärt die Unterschiede]]></title>
-            <description><![CDATA[Nach sechs Jahren in Frankreich wagt Rubens Pierre beim HC Erlangen den Schritt in die Handball-Bundesliga. Nach seiner ersten Zeit in Deutschland sprach der Torhüter über die Unterschiede zwischen der französischen und deutschen Liga, vor allem was das Torwartspiel angeht.]]></description>
-            <link>https://www.handball-world.news/artikel/aus-frankreich-in-die-hbl-pierre-erklaert-die-unterschiede-1260128</link>
-            <guid isPermaLink="false">1260128</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 10:41:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Europa-Traum geplatzt: Metzingen scheitert in der Quali]]></title>
-            <description><![CDATA[Am Samstagabend haben die Tussies das Rückspiel in der 2. Qualifikationsrunde zur EHF European League gegen das rumänische Spitzenteam vom SCM Râmnicu Vâlcea bestritten. Bis Sekunden vor Ende war die Partie völlig offen, am Ende zogen die Ermstälerinnen mit 28:29 den Kürzeren und schieden aus dem internationalen Wettbewerb aus.]]></description>
-            <link>https://www.handball-world.news/spiel/metzingen-gegen-ramnicu-valcea-2026-european-league-frauen-handball-5249894/bericht</link>
-            <guid isPermaLink="false">1260120</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 10:15:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hermann nach Sieg gegen Ex-Klub: "Immer etwas ganz Besonderes"]]></title>
-            <description><![CDATA[Sieben Tore aus sieben Versuchen und ein Derbysieg gegen den Ex-Klub: Till Hermann erlebte mit der SG BBM Bietigheim einen besonderen Abend in Göppingen. Der Linksaußen sprach anschließend über seine Nervosität sowie die Bedeutung des Erfolgs für sein Team in den kommenden Wochen.]]></description>
-            <link>https://www.handball-world.news/artikel/hermann-nach-sieg-gegen-ex-klub-immer-etwas-ganz-besonderes-1260112</link>
-            <guid isPermaLink="false">1260112</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 10:50:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neun Wechsel: Das sind die Kapitäne der 18 HBL-Klubs]]></title>
-            <description><![CDATA[Acht Vereine brauchten zur Saison 2026/27 der Opel Handball-Bundesliga einen neuen Kapitän, auch der HC Erlangen hat einen Wechsel vorgenommen. Die meisten Vereine setzen auf einen Anführer. Bei zwei Vereinen ist es ein Duo, der THW Kiel setzt sogar auf ein Trio. handball-world wirft einen Blick auf die Kapitäne der HBL-Klubs:]]></description>
-            <link>https://www.handball-world.news/slideshow/neun-wechsel-das-sind-die-kapitaene-der-18-hbl-klubs-1239991</link>
-            <guid isPermaLink="false">1239991</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 09:25:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verletzungsschock im Derby: Halle-Neustadt schlägt Zwickau]]></title>
-            <description><![CDATA[Der SV Union Halle-Neustadt hat am fünften Spieltag der Handball Bundesliga Frauen den ersten Saisonsieg eingefahren. Die Wildcats setzten sich am Samstagabend im Ostderby gegen den BSV Sachsen Zwickau deutlich mit 33:25 (15:11) durch.]]></description>
-            <link>https://www.handball-world.news/spiel/halle-neustadt-gegen-zwickau-2026-handball-frauen-bundesliga-5244011/bericht</link>
-            <guid isPermaLink="false">1260103</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 09:04:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Matschke nach Derbypleite: "Jammern gilt nicht"]]></title>
-            <description><![CDATA[Frisch Auf Göppingen kassierte gegen die SG BBM Bietigheim die dritte Niederlage in Folge. Die angespannte Personalsituation macht sich zunehmend bemerkbar, doch Trainer Ben Matschke wollte keine Ausreden gelten lassen.]]></description>
-            <link>https://www.handball-world.news/artikel/matschke-nach-derbypleite-jammern-gilt-nicht-1260088</link>
-            <guid isPermaLink="false">1260088</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 09:10:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sechsjährige Durststrecke beendet: Dormagen zieht Krimi in Hüttenberg]]></title>
-            <description><![CDATA[Der TSV Bayer Dormagen hat den nächsten Auswärtscoup eingefahren. Beim heimstarken TV 05/07 Hüttenberg setzte sich das Team von Trainer Julian Bauer am Samstagabend mit 35:33 (18:19) durch und feierte damit den dritten Saisonsieg in der 2. Handball-Bundesliga.]]></description>
-            <link>https://www.handball-world.news/spiel/huettenberg-gegen-dormagen-2026-handball-bundesliga-5214111/bericht</link>
-            <guid isPermaLink="false">1260082</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 12:27:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
