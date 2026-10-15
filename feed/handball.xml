@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 15 Oct 2026 20:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2026 23:14:24 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Oct 2026 20:34:50 GMT</pubDate>
+        <pubDate>Thu, 15 Oct 2026 23:14:24 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[CL kompakt: Füchse mit Arbeitssieg, Barca und GOG problemlos]]></title>
+            <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-fuechse-mit-arbeitssieg-barca-und-gog-problemlos-1261355</link>
+            <guid isPermaLink="false">1261355</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 15 Oct 2026 20:53:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[15-mal Freihöfer: Füchse nach Arbeitssieg in Porto eine Runde weiter]]></title>
             <description><![CDATA[Die Füchse Berlin haben sich mit einem 36:33-Auswärtssieg beim FC Porto den Einzug in die Hauptrunde der Champions League gesichert. Insgesamt war es ein hart erarbeiteter Erfolg, bei dem vor allem Tim Freihöfer herausragte: Der Linksaußen erzielte starke 15 Treffer.]]></description>
@@ -256,14 +264,6 @@
             <guid isPermaLink="false">1261296</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 15 Oct 2026 03:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CL kompakt: Krimi in Aalborg, PSG und Veszprem problemlos]]></title>
-            <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
-            <link>https://www.handball-world.news/artikel/cl-kompakt-krimi-in-aalborg-psg-und-veszprem-problemlos-1261355</link>
-            <guid isPermaLink="false">1261355</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 14 Oct 2026 20:35:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Halbzeit zum Vergessen: Melsungen verliert in Nantes deutlich]]></title>
