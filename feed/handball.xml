@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 01:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2026 05:56:48 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 01:20:27 GMT</pubDate>
+        <pubDate>Fri, 16 Oct 2026 05:56:48 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: Wetzlar wartet nach Erlangen-Pleite weiter auf den ersten Sieg]]></title>
+            <description><![CDATA[Der HC Erlangen gewinnt zum Auftakt des 9. Spieltags mit 34:30 bei der HSG Wetzlar. Die Franken überzeugen als Team und mit einem starken Rubens Pierre im Tor, die Gastgeber warten unterdessen weiterhin auf den ersten Saisonsieg.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-wetzlar-wartet-nach-erlangen-pleite-weiter-auf-den-ersten-sieg-1261841</link>
+            <guid isPermaLink="false">1261841</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 05:25:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: Johansson wirft Kiel zum Krimi-Sieg gegen die Löwen]]></title>
+            <description><![CDATA[Fast wäre die Premiere von Michel Abt als neuem Cheftrainer geglückt, denn die Rhein-Neckar Löwen verpassten beim THW Kiel nach 60 Minuten auf Augenhöhe nur knapp einen Punktgewinn. Eric Johansson verwandelte den entscheidenden Siebenmeter zum 37:36-Heimsieg der Kieler.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-johansson-wirft-kiel-zum-krimi-sieg-gegen-die-loewen-1261845</link>
+            <guid isPermaLink="false">1261845</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 05:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wenn Handball360 plötzlich beim Mittagessen anruft]]></title>
+            <description><![CDATA[Handball360 soll den Spielbetrieb digitaler machen - doch zum Saisonstart häuften sich nicht nur technische Probleme. Auch persönliche Daten könnten zeitweise leichter erreichbar gewesen sein, als sie es sein sollten.]]></description>
+            <link>https://www.handball-world.news/artikel/wenn-handball360-ploetzlich-beim-mittagessen-anruft-1260891</link>
+            <guid isPermaLink="false">1260891</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 16 Oct 2026 04:15:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CL kompakt: Füchse mit Arbeitssieg, Barca und GOG problemlos]]></title>
             <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
@@ -31,7 +55,7 @@
             <link>https://www.handball-world.news/artikel/hbl-kompakt-loewen-verpassen-knapp-punkt-gegen-kiel-erlangen-siegt-souveraen-1261825</link>
             <guid isPermaLink="false">1261825</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 19:56:06 GMT</pubDate>
+            <pubDate>Fri, 16 Oct 2026 05:26:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wetzlar-Fans enttäuscht: Erlangen lässt den Gastgebern keine Chance]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1260162</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 11 Oct 2026 13:23:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1. bis 3. Liga: Diese Teams sind noch verlustpunktfrei]]></title>
-            <description><![CDATA[Die Handball-Saison 2026/27 hat Fahrt aufgenommen - einige Teams haben bislang noch keinen einzigen Punkt abgegeben. Ein Blick auf die Mannschaften aus den Ligen 1 bis 3, die aktuell noch verlustpunktfrei sind:]]></description>
-            <link>https://www.handball-world.news/artikel/1-bis-3-liga-diese-teams-sind-noch-verlustpunktfrei-1253161</link>
-            <guid isPermaLink="false">1253161</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 12:43:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rödertal findet gegen Liga-Schlusslicht zurück in die Erfolgsspur]]></title>
-            <description><![CDATA[Der HC Rödertal ist nach zuletzt zwei Pflichtspiel-Niederlagen wieder in die Erfolgsspur zurückgekehrt. Gegen das westfälische Team aus Lintfort gelang den Gastgeberinnen ein 31:23 (19:10)-Pflichtsieg.]]></description>
-            <link>https://www.handball-world.news/spiel/roedertal-gegen-lintfort-2026-handball-bundesliga-frauen-5242984/bericht</link>
-            <guid isPermaLink="false">1260152</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 12:18:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drei HBL-Spieler, ein Rückkehrer: Spaniens Kader für den EHF Euro Cup]]></title>
-            <description><![CDATA[Spaniens Nationaltrainer Jordi Ribera hat seinen 16-köpfigen Kader für die ersten beiden Spiele des EHF EURO Cups bekannt gegeben. Neben zahlreichen bekannten Namen stehen auch drei Bundesliga-Spieler im Aufgebot. Zudem darf sich ein Rückkehrer auf seinen nächsten Einsatz freuen.]]></description>
-            <link>https://www.handball-world.news/artikel/drei-hbl-spieler-ein-rueckkehrer-spaniens-kader-fuer-den-ehf-euro-cup-1260142</link>
-            <guid isPermaLink="false">1260142</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 11 Oct 2026 11:54:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
