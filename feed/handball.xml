@@ -4,11 +4,67 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 10:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 13:54:01 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Oct 2026 10:36:21 GMT</pubDate>
+        <pubDate>Sat, 17 Oct 2026 13:54:01 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Mikkel Hansen verklagt Streamingdienst]]></title>
+            <description><![CDATA[Der Streamingdienst HBO Max sieht sich in Dänemark mit einer Schadensersatzklage von 13 Sportlern konfrontiert. Darunter befindet sich auch der ehemalige Welthandballer Mikkel Hansen.]]></description>
+            <link>https://www.handball-world.news/artikel/mikkel-hansen-verklagt-streamingdienst-1262257</link>
+            <guid isPermaLink="false">1262257</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 13:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nach zwei Jahren: Hausherr vor Comeback]]></title>
+            <description><![CDATA[Lena Hausherr hat seit fast zwei Jahren kein Handballspiel mehr bestritten. Dies könnte sich heute ändern.]]></description>
+            <link>https://www.handball-world.news/artikel/nach-zwei-jahren-hausherr-vor-comeback-1262250</link>
+            <guid isPermaLink="false">1262250</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 13:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die Bundesliga-Transfers für den Sommer 2027 im Überblick]]></title>
+            <description><![CDATA[Bundesliga-Transfers 2027 - Aktuelle Wechsel-Übersicht der Handball-Teams für den Sommer 2027 - Hier weiter lesen]]></description>
+            <link>https://www.handball-world.news/artikel/die-bundesliga-transfers-fuer-den-sommer-2027-im-ueberblick-1243791</link>
+            <guid isPermaLink="false">1243791</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 12:49:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vor Melsungen: BHC mit Personalsorgen]]></title>
+            <description><![CDATA[Der Bergische HC tritt heute ein schweres Handball-Auswärtsspiel bei der MT Melsungen an. Hinter gleich mehreren Leistungsträger steht ein Fragezeichen.]]></description>
+            <link>https://www.handball-world.news/artikel/vor-melsungen-bhc-mit-personalsorgen-1262239</link>
+            <guid isPermaLink="false">1262239</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 12:21:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[So veränderte Kaufmann den Spielstil von Kai Häfner]]></title>
+            <description><![CDATA[Kai Häfner ist der Zielspieler im Angriff der Handballer des TVB Stuttgarts. Gleichzeitig hat Misha Kaufmann den Spielstil des Routiniers auf Anhieb verändert.]]></description>
+            <link>https://www.handball-world.news/artikel/so-veraenderte-kaufmann-den-spielstil-von-kai-haefner-1262245</link>
+            <guid isPermaLink="false">1262245</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 11:53:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vor Bietigheim-Spiel: Panne beim HC Hamburg]]></title>
+            <description><![CDATA[Der Handball Club Hamburg reist heute zu einem richtungsweisenden Duell nach Bietigheim. Die Vorbereitung lief jedoch nicht optimal.]]></description>
+            <link>https://www.handball-world.news/artikel/vor-bietigheim-spiel-panne-beim-hc-hamburg-1262236</link>
+            <guid isPermaLink="false">1262236</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 11:19:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Letzte Plätze vergeben: Dänemarks Kader für Deutschland-Test]]></title>
+            <description><![CDATA[Dänemarks Handballfrauen sind gut in Schwung, während der Nationalmannschaftspause konnte man sich den Sieg im EHF Euro Cup holen. Für die Duell in der Golden League gegen Deutschland und Norwegen hat Helle Thomsen nun ihren endgültigen Kader nominiert.]]></description>
+            <link>https://www.handball-world.news/artikel/letzte-plaetze-vergeben-daenemarks-kader-fuer-deutschland-test-1257549</link>
+            <guid isPermaLink="false">1257549</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 10:51:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3. Liga-Wahnsinn: Aue mit 49 Toren im Derby]]></title>
             <description><![CDATA[Der EHV Aue gastierte am Freitagabend zum Handball-Derby beim SV 04 Plauen-Oberlosa. Es wurde ein wahres Offensivspektakel.]]></description>
@@ -1152,62 +1208,6 @@
             <guid isPermaLink="false">1260641</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 12 Oct 2026 15:54:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Von Hangstein bis Roganovic: Die Top-Torschützen der 18 Bundesligisten]]></title>
-            <description><![CDATA[Kai Häfner ist derzeit der beste Torschütze der Handball-Bundesliga. Doch wer sind die besten Torschützen der einzelnen Teams? Der Blick auf die 18 Bundesligisten.]]></description>
-            <link>https://www.handball-world.news/slideshow/von-hangstein-bis-roganovic-die-top-torschuetzen-der-18-bundesligisten-1249755</link>
-            <guid isPermaLink="false">1249755</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 18:07:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nach Machulla-Aus: Wird Gensheimer jetzt wieder Löwen-Sportchef?]]></title>
-            <description><![CDATA[Die Rhein-Neckar Löwen haben am heutigen Montagvormittag die Trennung von Cheftrainer Maik Machulla bekanntgeben. Seine Nachfolge an der Seitenlinie steht bereits fest. Über die Neubesetzung der sportlichen Leitung soll noch beraten werden. Gibt es die Möglichkeit, dass Uwe Gensheimer den Posten zurückerhält?]]></description>
-            <link>https://www.handball-world.news/artikel/nach-machulla-aus-wird-gensheimer-jetzt-wieder-loewen-sportchef-1260553</link>
-            <guid isPermaLink="false">1260553</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 18:11:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dänemark bei EM ohne Tranborg]]></title>
-            <description><![CDATA[Dänemarks Frauennationalmannschaft muss bei der Handball-EM im Dezember auf eine Schlüsselspielerin verzichten. Mette Tranborg steht für die Endrunde nicht zur Verfügung.]]></description>
-            <link>https://www.handball-world.news/artikel/daenemark-bei-em-ohne-tranborg-1260614</link>
-            <guid isPermaLink="false">1260614</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 14:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aufsteigerin vorne: Die Top-Torschützinnen der 2. HBF]]></title>
-            <description><![CDATA[Die Spielzeit in der 2. Handball-Bundesliga der Frauen ist gestartet und eine Spielerin Aufsteiger SV Todefelde konnte sich fast erwartungsgemäß an die Spitze setzen.]]></description>
-            <link>https://www.handball-world.news/artikel/aufsteigerin-vorne-die-top-torschuetzinnen-der-2-hbf-1250537</link>
-            <guid isPermaLink="false">1250537</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 14:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trotz Kehrmann-Rot und A-Jugend-Keeper: Team HandbALL Lippe II wahrt weiße Heimweste]]></title>
-            <description><![CDATA[Das Team HandbALL Lippe II behielt auch im vierten Heimspiel in dieser Saison die Oberhand und schlug den TSV Anderten mit 40:36. "Komplette Hochachtung vor den Jungs für das, was sie hier wieder geleistet haben", jubelte auch Trainer Björn Piontek.]]></description>
-            <link>https://www.handball-world.news/spiel/team-handball-lippe-ii-gegen-tsv-anderten-2026-liga-nord-west-5263676/bericht</link>
-            <guid isPermaLink="false">1260609</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 14:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die Top-Torschützen der 3. Liga]]></title>
-            <description><![CDATA[Vier Staffeln gibt es in der 3. Handball-Liga. Mit 64 Klubs herrscht jede Menge Action im höchsten Amateurbereich. Wer prägt die Liga aktuell? Ein Blick auf die Top-Torschützen der Liga:]]></description>
-            <link>https://www.handball-world.news/artikel/die-top-torschuetzen-der-3-liga-1253916</link>
-            <guid isPermaLink="false">1253916</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 13:47:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sorgen bei Recken: So steht es um Fischer und Michalczik]]></title>
-            <description><![CDATA[Die TSV Hannover-Burgdorf ist mit 9:7 Zählern gestartet, doch die Recken plagen personelle Sorgen. Jetzt gesellen sich auch noch Marian Michalczik und Justus Fischer hinzu. handball-world fragte beim Bundesligisten nach.]]></description>
-            <link>https://www.handball-world.news/artikel/sorgen-bei-recken-so-steht-es-um-fischer-und-michalczik-1260600</link>
-            <guid isPermaLink="false">1260600</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 13:34:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
