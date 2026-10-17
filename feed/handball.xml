@@ -4,18 +4,34 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 16:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 18:48:59 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Oct 2026 16:40:56 GMT</pubDate>
+        <pubDate>Sat, 17 Oct 2026 18:48:59 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Hamburg mit Befreiungsschlag in Bietigheim]]></title>
+            <description><![CDATA[Der Handball Club Hamburg reiste mit reichlich Druck nach Bietigheim, hielt diesem aber stand: Dank der größeren Konsequenz im zweiten Abschnitt steuerten die über sechzig Minuten mit dem siebten Feldspieler agierenden Gäste zu einem 35:30-Erfolg - und ziehen in der Tabelle an den Hausherren vorbei.]]></description>
+            <link>https://www.handball-world.news/spiel/bietigheim-gegen-hc-hamburg-2026-handball-bundesliga-5213826/bericht</link>
+            <guid isPermaLink="false">1262351</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 18:37:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Weichenstellung: Melsungen verlängert mit Enderleit]]></title>
+            <description><![CDATA[Handball-Bundesligist MT Melsungen hat den Vertrag mit Linkshänder Nikolaj Enderleit verlängert. Dies gab der Verein direkt vor dem Spiel gegen den Bergischen HC bekannt. Der Rückraumspieler war 2024 nach fünf Jahren in Holstebro zu den Hessen gewechselt.]]></description>
+            <link>https://www.handball-world.news/artikel/weichenstellung-melsungen-verlaengert-mit-enderleit-1262390</link>
+            <guid isPermaLink="false">1262390</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 18:16:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dortmund geht in Champions League in Budapest unter]]></title>
             <description><![CDATA[Die Erfolgsserie von Borussia Dortmund in der Handball Champions League ist gerissen. Nach drei Siegen in Serie kassierte der deutsche Vizemeister bei Spitzenreiter Ferencvaros Budapest um die deutsche Nationalspielerin Emily Vogel ein überdeutliches 25:39 (13:16). In der Gruppe A liegt der BVB mit sechs Punkten aber weiter auf Kurs K.o.-Phase.]]></description>
             <link>https://www.handball-world.news/spiel/budapest-gegen-dortmund-2026-handball-champions-league-frauen-5249747/bericht</link>
             <guid isPermaLink="false">1262325</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 17 Oct 2026 16:30:21 GMT</pubDate>
+            <pubDate>Sat, 17 Oct 2026 17:14:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Live! BBM gegen Hamburg, BHC in Melsungen und Frauen-CL]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1260768</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 08:52:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball Business Blog: Titelsponsor für European League, neuer Eulen-Partner]]></title>
-            <description><![CDATA[Neue Partnerschaften oder Entwicklungen im Bereich Sponsoring sowie Personalien abseits des Parketts bei Vereinen oder Verbänden, Stellenausschreibungen - und vieles mehr aus dem Bereich Handball und Business.]]></description>
-            <link>https://www.handball-world.news/liveticker/handball-business-1125417</link>
-            <guid isPermaLink="false">1125417</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 13 Oct 2026 08:41:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Glasboden bei Handball-WM? DHB äußert sich]]></title>
-            <description><![CDATA[Beim letztjährigen Lidl Final4 um den DHB-Pokal sorgte ein LED-Glasboden für spektakuläre Momente. Nun hat sich der Deutsche Handballbund geäußert, wie man bei der Handball-WM im kommenden Jahr plant.]]></description>
-            <link>https://www.handball-world.news/artikel/glasboden-bei-handball-wm-dhb-aeussert-sich-1260749</link>
-            <guid isPermaLink="false">1260749</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 13 Oct 2026 07:58:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
