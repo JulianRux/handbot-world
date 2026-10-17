@@ -4,18 +4,26 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 17 Oct 2026 18:48:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 21:03:39 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Oct 2026 18:48:59 GMT</pubDate>
+        <pubDate>Sat, 17 Oct 2026 21:03:39 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Melsungen kehrt in Erfolgsspur zurück]]></title>
+            <description><![CDATA[In Erlangen und Nantes hatte die MT Melsungen zuletzt zwei Niederlagen in Folge kassiert, gegen den Bergischen HC aber fanden die Nordhessen heute wieder in die Erfolgsspur. Die Hausherren verbuchten einen am Ende deutlichen 33:26-Erfolg und behaupten sich damit im Verfolgerfeld während die Gäste auf einem Abstiegsplatz verbleiben.]]></description>
+            <link>https://www.handball-world.news/spiel/melsungen-gegen-bergischer-hc-2026-handball-bundesliga-5213822/bericht</link>
+            <guid isPermaLink="false">1262408</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 19:57:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hamburg mit Befreiungsschlag in Bietigheim]]></title>
             <description><![CDATA[Der Handball Club Hamburg reiste mit reichlich Druck nach Bietigheim, hielt diesem aber stand: Dank der größeren Konsequenz im zweiten Abschnitt steuerten die über sechzig Minuten mit dem siebten Feldspieler agierenden Gäste zu einem 35:30-Erfolg - und ziehen in der Tabelle an den Hausherren vorbei.]]></description>
             <link>https://www.handball-world.news/spiel/bietigheim-gegen-hc-hamburg-2026-handball-bundesliga-5213826/bericht</link>
             <guid isPermaLink="false">1262351</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 17 Oct 2026 18:37:14 GMT</pubDate>
+            <pubDate>Sat, 17 Oct 2026 19:14:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Weichenstellung: Melsungen verlängert mit Enderleit]]></title>
@@ -127,7 +135,7 @@
             <link>https://www.handball-world.news/artikel/so-veraenderte-kaufmann-den-spielstil-von-kai-haefner-1262245</link>
             <guid isPermaLink="false">1262245</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 17 Oct 2026 11:53:04 GMT</pubDate>
+            <pubDate>Sat, 17 Oct 2026 19:06:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vor Bietigheim-Spiel: Panne beim HC Hamburg]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1260784</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 09:33:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zweiter Linkshänder-Ausfall: So reagiert Norwegen]]></title>
-            <description><![CDATA[Erst die Verletzung von Topstar Nora Mörk und nun fällt mit Stine Skogrand auch eine weitere Linkshänderin für den Rückraum aus. Nun hat der Weltmeister doch noch personell reagiert.]]></description>
-            <link>https://www.handball-world.news/artikel/zweiter-linkshaender-ausfall-so-reagiert-norwegen-1260768</link>
-            <guid isPermaLink="false">1260768</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 13 Oct 2026 08:52:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
