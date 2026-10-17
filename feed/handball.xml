@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Oct 2026 23:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 06:10:46 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 16 Oct 2026 23:50:27 GMT</pubDate>
+        <pubDate>Sat, 17 Oct 2026 06:10:46 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Spannende Hanning-Ansage: Holen die Füchse noch mehr Weltstars?]]></title>
+            <description><![CDATA[Simon Pytlick und Dika Mem kommen nächsten Sommer zu den Füchsen Berlin. Doch das scheint nicht genug. Füchse-Boss Bob Hanning überrascht nun mit der Ankündigung weiterer Superstars. Auf dem Transfermarkt scheint noch einiges zu passieren:]]></description>
+            <link>https://www.handball-world.news/artikel/spannende-hanning-ansage-holen-die-fuechse-noch-mehr-weltstars-1261594</link>
+            <guid isPermaLink="false">1261594</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2026 06:00:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schluroff über das Freiwurf-Drama in Eisenach]]></title>
             <description><![CDATA[Der VfL Gummersbach konnte den ThSV Eisenach im Freitagsspiel der Handball-Bundesliga nicht abschütteln und kassierte nach einem Ballverlust in der letzten Minute den Ausgleich. Doch das letzte Wort hatte Miro Schluroff: Was er dazu sagt, dass sein spektakulärer Freiwurf am Ende doch nicht das Siegtor war.]]></description>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1260470</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 12 Oct 2026 10:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sieben Trainer in sieben Jahren: Wie die Machulla-Vorgänger abschnitten]]></title>
-            <description><![CDATA[Ihre erfolgreichste Ära hatten die Rhein-Neckar Löwen unter Nikolaj Jacobsen. Seit dem Abgang des dänischen Nationaltrainers kämpft der deutsche Meister von 2016 und 2017 um die Rückkehr an die Spitze. Der Umbruch dauert an. Michel Abt ist nach dem Aus von Maik Machulla der siebte Cheftrainer in sieben Jahren.]]></description>
-            <link>https://www.handball-world.news/artikel/sieben-trainer-in-sieben-jahren-wie-die-machulla-vorgaenger-abschnitten-1260508</link>
-            <guid isPermaLink="false">1260508</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 12 Oct 2026 11:07:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
