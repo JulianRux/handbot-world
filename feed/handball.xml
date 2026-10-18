@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 18 Oct 2026 00:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Oct 2026 05:10:24 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Oct 2026 00:43:55 GMT</pubDate>
+        <pubDate>Sun, 18 Oct 2026 05:10:24 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Vor Topspiel gegen die Füchse: Pytlicks Versprechen an Gidsel]]></title>
+            <description><![CDATA[Im Topspiel des 9. Spieltags treffen heute Nachmittag die SG Flensburg-Handewitt und die Füchse Berlin aufeinander. Damit kommt es auch zum Duell der Superstars zwischen Simon Pytlick und Mathias Gidsel. Ersterer garantiert den Füchsen bei handball-world: "Wir werden mit allem kommen, was wir haben."]]></description>
+            <link>https://www.handball-world.news/artikel/vor-topspiel-gegen-die-fuechse-pytlicks-versprechen-an-gidsel-1261989</link>
+            <guid isPermaLink="false">1261989</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 18 Oct 2026 05:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video - Kretzschmar und Hens uneinig: Wer hat im Topspiel die besseren Karten?]]></title>
+            <description><![CDATA[Am Sonntag um 15 Uhr treffen Flensburg und Berlin in einem richtungsweisenden Topspiel aufeinander. Im Podcast diskutieren Stefan Kretzschmar und Pascal Hens, wer im Duell der beiden Spitzenteams die besseren Karten hat.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-kretzschmar-und-hens-uneinig-wer-hat-im-topspiel-die-besseren-karten-1261181</link>
+            <guid isPermaLink="false">1261181</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 18 Oct 2026 04:24:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Im Video: Melsungen mit längerem Atem als BHC]]></title>
             <description><![CDATA[Die MT Melsungen erwischte gegen den Bergischen HC einen Start nach Maß, nach einer Auszeit beim Stand von 8:2 kamen die Gäste aber besser ins Spiel und hatten im zweiten Abschnitt die Chance auf den Ausgleich. Die blieb aber ungenutzt und die MT zog in der Folge über 23:19 auf 32:24 davon und siegte mit 33:26.]]></description>
@@ -528,14 +544,6 @@
             <guid isPermaLink="false">1247433</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 16 Oct 2026 09:48:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Im Video - Kretzschmar und Hens uneinig: Wer hat im Topspiel die besseren Karten?]]></title>
-            <description><![CDATA[Am Sonntag um 15 Uhr treffen Flensburg und Berlin in einem richtungsweisenden Topspiel aufeinander. Im Podcast diskutieren Stefan Kretzschmar und Pascal Hens, wer im Duell der beiden Spitzenteams die besseren Karten hat.]]></description>
-            <link>https://www.handball-world.news/videos/im-video-kretzschmar-und-hens-uneinig-wer-hat-im-topspiel-die-besseren-karten-1261181</link>
-            <guid isPermaLink="false">1261181</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 16 Oct 2026 18:51:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wenn Handball360 plötzlich beim Mittagessen anruft]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1260792</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 13 Oct 2026 12:15:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Beachhandball-Meisterschaft künftig bei Multisportevent]]></title>
-            <description><![CDATA[Zahlreiche Sportarten bündeln ihre Meisterschaftsentscheidungen im Multisportevent "Die Finals 2027". Im kommenden Jahr wird dann auch der Beachhandball dort vertreten sein. Das könnte auch zu mehr Präsenz im Free-TV führen.]]></description>
-            <link>https://www.handball-world.news/artikel/beachhandball-meisterschaft-kuenftig-bei-multisportevent-1260818</link>
-            <guid isPermaLink="false">1260818</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 13 Oct 2026 10:40:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
