@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 19 Oct 2026 19:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 23:01:11 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Oct 2026 19:27:25 GMT</pubDate>
+        <pubDate>Mon, 19 Oct 2026 23:01:11 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: Recken retten nach Sechs-Tore-Führung Punkt in Balingen]]></title>
+            <description><![CDATA[Das Montagsspiel der Handball-Bundesliga hatte einige Wellen: Hannover setzte sich im ersten Abschnitt auf fünf Tore ab, Balingen kam auf zwei Tore heran und wurde nach der Pause wieder auf sechs Treffer distanziert. Doch die Gastgeber kamen trotz fünf vergebener Siebenmeter zurück und am Ende retteten die Recken Sekunden vor Ende einen Punkt.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-recken-retten-nach-sechs-tore-fuehrung-punkt-in-balingen-1263133</link>
+            <guid isPermaLink="false">1263133</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 21:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Drei Sonntagskrimis, Dramatik in Eisenach]]></title>
+            <description><![CDATA[Die HSG Wetzlar wartet in der Handball-Bundesliga nach der 30:34-Niederlage gegen Erlangen weiter auf den ersten Saisonsieg. Der THW Kiel siegte im Krimi gegen die Rhein-Neckar Löwen beim Remis zwischen Eisenach und Gummersbach gab es Dramatik, ebenso wie am Sonntag beim Topspiel zwischen Flensburg und Berlin. Zum Abschluss gab es am Montag ein wellenhaftes Remis zwischen Balingen und Hannover. Ergebnisse und Torschützen des 9. Spieltages in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-drei-sonntagskrimis-dramatik-in-eisenach-1261825</link>
+            <guid isPermaLink="false">1261825</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 19:24:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL2: Essen gewinnt Montagsjubiläum]]></title>
+            <description><![CDATA[Am achten Spieltag der 2. Handball-Bundesliga behielt der VfL Lübeck-Schwartau im Krimi gegen Potsdam mit 29:28 die Oberhand, GWD Minden brachte Hagen die zweite Niederlage bei und Leipzig setzte sich mit einem Sieg gegen Hamm an die Tabellenspitze. Am Samstag landeten Dormagen gegen Coburg und Großwallstadt gegen Dessau Siege mit einem Tor Unterschied, Dresden distanzierte Ludwigshafen. Die Sonntagspartien gewannen Lübbecke und Ferndorf und Essen behielt am Montag die Oberhand.]]></description>
+            <link>https://www.handball-world.news/artikel/hbl2-essen-gewinnt-montagsjubilaeum-1262162</link>
+            <guid isPermaLink="false">1262162</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 19 Oct 2026 19:41:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Balingen vergibt Siebenmeter, Hannover die Führung]]></title>
             <description><![CDATA[Nach einer Partie mit mehreren Wellen trennten sich HBW Balingen-Weilstetten und die TSV Hannover-Burgdorf im Montagsspiel der Handball-Bundesliga mit einem 29:29 (13:16). Hannover gab dabei eine zwischenzeitliche Sechs-Tore-Führung aus der Hand, Balingen haderte mit insgesamt fünf vergebenen Siebenmetern.]]></description>
@@ -296,22 +320,6 @@
             <guid isPermaLink="false">1262752</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 18 Oct 2026 19:35:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL kompakt: Drei Sonntagskrimis, Dramatik in Eisenach]]></title>
-            <description><![CDATA[Die HSG Wetzlar wartet in der Handball-Bundesliga nach der 30:34-Niederlage gegen Erlangen weiter auf den ersten Saisonsieg. Der THW Kiel siegte im Krimi gegen die Rhein-Neckar Löwen beim Remis zwischen Eisenach und Gummersbach gab es Dramatik, ebenso wie am Sonntag beim Topspiel zwischen Flensburg und Berlin. Den Abschluss bildet am Montag die Partie zwischen Balingen und Hannover. Ergebnisse und Torschützen des 9. Spieltages in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-drei-sonntagskrimis-dramatik-in-eisenach-1261825</link>
-            <guid isPermaLink="false">1261825</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 06:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL2: Sonntagssiege für Ferndorf und Lübbecke]]></title>
-            <description><![CDATA[Am achten Spieltag der 2. Handball-Bundesliga behielt der VfL Lübeck-Schwartau im Krimi gegen Potsdam mit 29:28 die Oberhand, GWD Minden brachte Hagen die zweite Niederlage bei und Leipzig setzte sich mit einem Sieg gegen Hamm an die Tabellenspitze. Am Samstag landeten Dormagen gegen Coburg und Großwallstadt gegen Dessau Siege mit einem Tor Unterschied, Dresden distanzierte Ludwigshafen. Die Sonntagspartien gewannen Lübbecke und Ferndorf.]]></description>
-            <link>https://www.handball-world.news/artikel/hbl2-sonntagssiege-fuer-ferndorf-und-luebbecke-1262162</link>
-            <guid isPermaLink="false">1262162</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 18:01:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[1. HBF: Flames gewinnen Sonntagsmatch, Oldenburg schockt Dortmund]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1261717</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 19 Oct 2026 08:02:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blomberg vor Königsklassen-Härtetest in Metz: Ziele sind gesetzt]]></title>
-            <description><![CDATA[Mit Rückenwind aus der Bundesliga reist die HSG Blomberg-Lippe zum amtierenden Champions-League-Sieger. In Metz wartet am Samstag eine Herausforderung der Extraklasse.]]></description>
-            <link>https://www.handball-world.news/artikel/blomberg-vor-koenigsklassen-haertetest-in-metz-ziele-sind-gesetzt-1261705</link>
-            <guid isPermaLink="false">1261705</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2026 11:43:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
