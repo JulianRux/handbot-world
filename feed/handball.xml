@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Oct 2026 16:35:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 20:07:00 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 20 Oct 2026 16:35:45 GMT</pubDate>
+        <pubDate>Tue, 20 Oct 2026 20:07:00 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[U-16-WM: Deutschland im Halbfinale]]></title>
+            <description><![CDATA[Deutschlands U-16-Nationalteam ist mit weißer Weste ins Halbfinale eingezogen. Das Team von Gino Smits ließ gegen Usbekistan nichts anbrennen und siegte mit 51:19 (27:11). Im Halbfinale am Donnerstag kommt es nun zum Duell mit Russland.]]></description>
+            <link>https://www.handball-world.news/artikel/u-16-wm-deutschland-im-halbfinale-1263380</link>
+            <guid isPermaLink="false">1263380</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 20 Oct 2026 17:42:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Härtetests in Dänemark "optimale Vorbereitung" für DHB-Frauen]]></title>
             <description><![CDATA[Die deutschen Handballerinnen blicken voller Vorfreude auf die schwierige Aufgabe im nächsten EM-Test. Dabei musste der Kader auch noch einmal kurzfristig angepasst werden.]]></description>
@@ -31,7 +39,7 @@
             <link>https://www.handball-world.news/artikel/eine-moeglichkeit-dann-rechnet-fuechse-coach-krickau-mit-dem-wiede-comeback-1263322</link>
             <guid isPermaLink="false">1263322</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 20 Oct 2026 15:41:04 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2026 16:40:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Von Hangstein bis Roganovic: Die Top-Torschützen der 18 Bundesligisten]]></title>
@@ -471,7 +479,7 @@
             <link>https://www.handball-world.news/artikel/spielplan-ergebnisse-und-tabelle-der-u-16-wm-1262536</link>
             <guid isPermaLink="false">1262536</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 08:40:05 GMT</pubDate>
+            <pubDate>Tue, 20 Oct 2026 17:48:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[77 Tore: Füchse gewinnen Offensivfestival in Leverkusen]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1261959</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 16 Oct 2026 10:23:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gegen das DHB-Team: Der Kader von Belgien für die EM-Quali]]></title>
-            <description><![CDATA[20 Spieler hat Cherif Hamani für den Auftakt in die EM-Qualifikation absolviert. Vor jedem Duell werden 16 von ihnen ausgewählt, die für Belgien auf die Platte gehen. Für zwei belgische Nationalspieler ist das Duell gegen das DHB-Team dabei quasi ein Heimspiel.]]></description>
-            <link>https://www.handball-world.news/artikel/gegen-das-dhb-team-der-kader-von-belgien-fuer-die-em-quali-1261949</link>
-            <guid isPermaLink="false">1261949</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 16 Oct 2026 10:00:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
