@@ -4,18 +4,34 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 17:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 20:36:38 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Oct 2026 17:10:11 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 20:36:38 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
-            <title><![CDATA[Live: Füchse in Veszprem, frühes Langhoff-Rot]]></title>
+            <title><![CDATA[CL kompakt: Knorr siegt mit Aalborg, Nantes und PSG patzen]]></title>
+            <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-knorr-siegt-mit-aalborg-nantes-und-psg-patzen-1263715</link>
+            <guid isPermaLink="false">1263715</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 20:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Frühes Langhoff-Rot: Erneute Füchse-Pleite gegen Veszprem]]></title>
+            <description><![CDATA[Die Füchse Berlin haben zum dritten Mal in dieser Saison gegen One Veszprem HC verloren. Nach einer frühen Roten Karte für Matthes Langhoff und einem Neun-Tore-Rückstand kämpfte sich der Hauptstadtklub noch einmal zurück. Doch am Ende konnten die Ungarn verdient über ein 39:35 (20:13) jubeln.]]></description>
+            <link>https://www.handball-world.news/spiel/veszprem-gegen-berlin-2026-ehf-champions-league-5249866/bericht</link>
+            <guid isPermaLink="false">1263748</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 18:36:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live: Füchse kämpfen sich nach 9-Tore-Rückstand zurück]]></title>
             <description><![CDATA[In der Handball Champions League geht es in die heiße Phase der Gruppenphase. Die Füchse haben ein Schlüsselspiel in Veszprem, später haben Aalborg und Kriens-Luzern Heimspiele. Auch in mehreren internationalen Ligen wird gespielt. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
             <link>https://www.handball-world.news/matchkalender</link>
             <guid isPermaLink="false">1262275</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 17:06:39 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2026 18:02:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Transferticker: Bialowas-Verlängerung, Kristopans-Entscheidung]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1262236</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 17 Oct 2026 14:22:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Letzte Plätze vergeben: Dänemarks Kader für Deutschland-Test]]></title>
-            <description><![CDATA[Dänemarks Handballfrauen sind gut in Schwung, während der Nationalmannschaftspause konnte man sich den Sieg im EHF Euro Cup holen. Für die Duell in der Golden League gegen Deutschland und Norwegen hat Helle Thomsen nun ihren endgültigen Kader nominiert.]]></description>
-            <link>https://www.handball-world.news/artikel/letzte-plaetze-vergeben-daenemarks-kader-fuer-deutschland-test-1257549</link>
-            <guid isPermaLink="false">1257549</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 17 Oct 2026 10:51:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3. Liga-Wahnsinn: Aue mit 49 Toren im Derby]]></title>
-            <description><![CDATA[Der EHV Aue gastierte am Freitagabend zum Handball-Derby beim SV 04 Plauen-Oberlosa. Es wurde ein wahres Offensivspektakel.]]></description>
-            <link>https://www.handball-world.news/spiel/sv--plauen-oberlosa-gegen-aue-2026-liga-nord-ost-5263445/bericht</link>
-            <guid isPermaLink="false">1262234</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 17 Oct 2026 10:22:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
