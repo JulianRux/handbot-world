@@ -4,11 +4,51 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Oct 2026 01:32:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 06:27:52 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Oct 2026 01:32:45 GMT</pubDate>
+        <pubDate>Wed, 21 Oct 2026 06:27:52 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Ein Liter Blut verloren: Lübbecke mehrere Wochen ohne Sturhahn]]></title>
+            <description><![CDATA[Handball-Zweitligist TuS N-Lübbecke muss in den kommenden Wochen auf Tjorven Sturhahn verzichten. Der Rückraumspieler muss nach einer Trainingsverletzung noch ein weiteres Mal operiert werden.]]></description>
+            <link>https://www.handball-world.news/artikel/ein-liter-blut-verloren-luebbecke-mehrere-wochen-ohne-sturhahn-1263357</link>
+            <guid isPermaLink="false">1263357</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 06:24:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plötzlich im DHB-Team: Wer ist David Móré?]]></title>
+            <description><![CDATA[David Móré wurde von Bundestrainer Alfred Gislason zum Auftakt der EM-Qualifikation ins Aufgebot der Handball-Nationalmannschaft berufen. handball-world schaut genauer auf den Linksaußen.]]></description>
+            <link>https://www.handball-world.news/artikel/ploetzlich-im-dhb-team-wer-ist-david-more-1038719</link>
+            <guid isPermaLink="false">1038719</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 06:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball am Mittwoch: Füchse in Veszprem]]></title>
+            <description><![CDATA[In der Champions League steht heute der 5. Spieltag auf dem Programm. Aus deutscher Sicht richtet sich der Blick vor allem nach Ungarn: Dort gastieren die Füchse Berlin bei Veszprem. Der Schweizer Meister Kriens-Luzern empfängt unterdessen Kielce. Bei den Frauen beginnt die Qualifikation für die Weltmeisterschaft.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-mittwoch-fuechse-in-veszprem-1253098</link>
+            <guid isPermaLink="false">1253098</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 06:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mertens, Kohlbacher und Co.: Diese Stars fehlen im DHB-Kader]]></title>
+            <description><![CDATA[Während in Niklas Theiß und David Moré zwei Neulinge den Sprung in den 18-köpfigen Kader von Handball-Bundestrainer Alfred Gislason geschafft haben, fehlen einige prominente Namen im Aufgebot für die November-Länderspiele - wie zum Beispiel Lukas Mertens und Jannik Kohlbacher. Eine Auswahl:]]></description>
+            <link>https://www.handball-world.news/slideshow/mertens-kohlbacher-und-co-diese-stars-fehlen-im-dhb-kader-1263520</link>
+            <guid isPermaLink="false">1263520</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 04:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nicht nur Topstars: Das macht Veszprem so stark]]></title>
+            <description><![CDATA[15 Spiele, 15 Siege - sowohl in der heimischen Liga als auch in der Champions League ist One Veszprem HC mit weißer Weste bislang durch die Saison marschiert. Auch bei der Klub-WM konnte niemand den Ungarn das Wasser reichen. Aber was macht Veszprem in dieser Saison so stark?]]></description>
+            <link>https://www.handball-world.news/artikel/nicht-nur-topstars-das-macht-veszprem-so-stark-1263329</link>
+            <guid isPermaLink="false">1263329</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 21 Oct 2026 03:30:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[U-16-WM: Deutschland im Halbfinale]]></title>
             <description><![CDATA[Deutschlands U-16-Nationalteam ist mit weißer Weste ins Halbfinale eingezogen. Das Team von Gino Smits ließ gegen Usbekistan nichts anbrennen und siegte mit 51:19 (27:11). Im Halbfinale am Donnerstag kommt es nun zum Duell mit Russland.]]></description>
@@ -250,14 +290,6 @@
             <pubDate>Tue, 20 Oct 2026 03:30:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Plötzlich im DHB-Team: Wer ist David Móré?]]></title>
-            <description><![CDATA[David Móré wurde von Bundestrainer Alfred Gislason zum Auftakt der EM-Qualifikation ins Aufgebot der Handball-Nationalmannschaft berufen. handball-world schaut genauer auf den Linksaußen.]]></description>
-            <link>https://www.handball-world.news/artikel/ploetzlich-im-dhb-team-wer-ist-david-more-1038719</link>
-            <guid isPermaLink="false">1038719</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 20 Oct 2026 14:59:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Im Video: Recken retten nach Sechs-Tore-Führung Punkt in Balingen]]></title>
             <description><![CDATA[Das Montagsspiel der Handball-Bundesliga hatte einige Wellen: Hannover setzte sich im ersten Abschnitt auf fünf Tore ab, Balingen kam auf zwei Tore heran und wurde nach der Pause wieder auf sechs Treffer distanziert. Doch die Gastgeber kamen trotz fünf vergebener Siebenmeter zurück und am Ende retteten die Recken Sekunden vor Ende einen Punkt.]]></description>
             <link>https://www.handball-world.news/videos/im-video-recken-retten-nach-sechs-tore-fuehrung-punkt-in-balingen-1263133</link>
@@ -386,12 +418,12 @@
             <pubDate>Mon, 19 Oct 2026 12:55:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Auf Flensburg folgt Veszprém: Keine Pause für die Füchse]]></title>
+            <title><![CDATA[Auf Flensburg folgt Veszprem: Keine Pause für die Füchse]]></title>
             <description><![CDATA[Die bittere Niederlage in Flensburg müssen die Füchse schnell abhaken. Denn in der Champions League wartet in Ungarn eine wegweisende Partie für den weiteren Verlauf für die Königsklasse.]]></description>
-            <link>https://www.handball-world.news/artikel/auf-flensburg-folgt-veszpr-m-keine-pause-fuer-die-fuechse-1262946</link>
+            <link>https://www.handball-world.news/artikel/auf-flensburg-folgt-veszprem-keine-pause-fuer-die-fuechse-1262946</link>
             <guid isPermaLink="false">1262946</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 12:38:01 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2026 06:14:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wer hat die meisten Einsätze in der Bundesliga?]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1261985</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 16 Oct 2026 13:14:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diese Regelrevolutionen gibt es bei der U-16-WM]]></title>
-            <description><![CDATA[Im marokkanischen Agadir wird die erste U-16-WM im Handball ausgespielt. 16 Mannschaften kämpfen unter besonderen Vorzeichen um den ersten Titel bei einem Großturnier. Der Handball-Weltverband IHF setzt auch auf ein paar Regel-Revolutionen.]]></description>
-            <link>https://www.handball-world.news/artikel/diese-regelrevolutionen-gibt-es-bei-der-u-16-wm-1262014</link>
-            <guid isPermaLink="false">1262014</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 16 Oct 2026 12:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Wichtiges Zeichen": Recken binden Toptorschütze Pedersen]]></title>
-            <description><![CDATA[Die TSV Hannover-Burgdorf konnte eine wichtige Personalentscheidung treffen und Toptorjäger August Pedersen langfristig binden.]]></description>
-            <link>https://www.handball-world.news/artikel/wichtiges-zeichen-recken-binden-toptorschuetze-pedersen-1261996</link>
-            <guid isPermaLink="false">1261996</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 16 Oct 2026 11:19:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aalborg vermeldet wirtschaftliches "Rekordjahr"]]></title>
-            <description><![CDATA[Bei Aalborg Handbold strebt man hohe Ziele an und das alles auf einem wirtschaftlich gesunden Fundament. Das 15. Jahr in Folge steht am Ende eines Geschäftsjahres ein Plus bei Dänemarks Ligaprimus, der sogar von einem Rekordjahr spricht.]]></description>
-            <link>https://www.handball-world.news/artikel/aalborg-vermeldet-wirtschaftliches-rekordjahr-1261981</link>
-            <guid isPermaLink="false">1261981</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 16 Oct 2026 10:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Füchsin Van der Baan vor besonderem Comeback in Leverkusen]]></title>
-            <description><![CDATA[Am 6. Spieltag der 2. Handball-Bundesliga der Frauen treffen die Füchse Berlin auswärts auf den TSV Bayer 04 Leverkusen. Im Fokus steht das mögliche Comeback von Britt van der Baan, die nach ihrer Verletzung ausgerechnet gegen ihre ehemaligen Mannschaftskolleginnen wieder auf der Platte stehen könnte.]]></description>
-            <link>https://www.handball-world.news/artikel/fuechsin-van-der-baan-vor-besonderem-comeback-in-leverkusen-1261959</link>
-            <guid isPermaLink="false">1261959</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 16 Oct 2026 10:23:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
