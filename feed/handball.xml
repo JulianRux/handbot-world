@@ -4,18 +4,98 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 12:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 17:20:41 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 12:19:03 GMT</pubDate>
+        <pubDate>Thu, 22 Oct 2026 17:20:41 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
+            <title><![CDATA[Live: MT und SCM im Einsatz, Derby in der HBL]]></title>
+            <description><![CDATA[In der EHF Champions League sind heute die MT Melsungen und der SC Magdeburg im Einsatz. Unterdessen findet in der Handball-Bundesliga das Derby zwischen dem TVB Stuttgart und der SG BBM Bietigheim statt. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1262275</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 16:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball Business Blog: Hamburg stellt Kommunikation neu auf]]></title>
+            <description><![CDATA[Neue Partnerschaften oder Entwicklungen im Bereich Sponsoring sowie Personalien abseits des Parketts bei Vereinen oder Verbänden, Stellenausschreibungen - und vieles mehr aus dem Bereich Handball und Business.]]></description>
+            <link>https://www.handball-world.news/liveticker/handball-business-1125417</link>
+            <guid isPermaLink="false">1125417</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 15:47:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die Bundesliga-Transfers für den Sommer 2026 im Überblick]]></title>
+            <description><![CDATA[Bundesliga-Transfers 2026 - Aktuelle Wechsel-Übersicht der Handball-Teams für den Sommer 2026 - Hier weiter lesen]]></description>
+            <link>https://www.handball-world.news/artikel/die-bundesliga-transfers-fuer-den-sommer-2026-im-ueberblick-1139572</link>
+            <guid isPermaLink="false">1139572</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 15:25:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neuer Löwen-Cheftrainer: Welchen Zweitjob Abt hat]]></title>
+            <description><![CDATA[Infolge der Trennung von Maik Machulla haben die Rhein-Neckar Löwen Michel Abt zum Cheftrainer befördert. Abt verdient aber nicht nur als Handball-Trainer sein Geld.]]></description>
+            <link>https://www.handball-world.news/artikel/neuer-loewen-cheftrainer-welchen-zweitjob-abt-hat-1264105</link>
+            <guid isPermaLink="false">1264105</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 15:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rückkehr unklar: Zwei Hanau-Rückraumspieler fallen aus]]></title>
+            <description><![CDATA[Handball-Drittligist HSG Hanau muss in nächster Zeit auf Lukas Böhm und Jan-Philipp Winkler verzichten. Die beiden Rückraumspieler fallen verletzungsbedingt aus.]]></description>
+            <link>https://www.handball-world.news/artikel/rueckkehr-unklar-zwei-hanau-rueckraumspieler-fallen-aus-1264120</link>
+            <guid isPermaLink="false">1264120</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 14:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heute geht's weiter: Der Spielplan der Bundesliga]]></title>
+            <description><![CDATA[Handball-Bundesliga Saison 2026/27 - alle Infos zum Spielplan]]></description>
+            <link>https://www.handball-world.news/artikel/heute-geht-s-weiter-der-spielplan-der-bundesliga-1191123</link>
+            <guid isPermaLink="false">1191123</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 14:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kritik an Laesö: Kretzschmar zweifelt an Wetzlars Rückraum]]></title>
+            <description><![CDATA[Die HSG Wetzlar ist derzeit Schlusslicht der Handball-Bundesliga. Stefan Kretzschmar äußerte nun Kritik an Nikolaj Laesö und stellt infrage, ob der Rückraumspieler wirklich zur Mannschaft passt.]]></description>
+            <link>https://www.handball-world.news/artikel/kritik-an-laesoe-kretzschmar-zweifelt-an-wetzlars-rueckraum-1264087</link>
+            <guid isPermaLink="false">1264087</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 13:55:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Acht Debütanten bei U 17 - auch U 21 in Dresden]]></title>
+            <description><![CDATA[Der Deutsche Handballbund (DHB) versammelt die U-17- und die U-21-Nationalmannschaft Anfang November in Dresden. Bei der jüngeren Auswahl sind acht Neulinge dabei.]]></description>
+            <link>https://www.handball-world.news/artikel/acht-debuetanten-bei-u-17-auch-u-21-in-dresden-1264058</link>
+            <guid isPermaLink="false">1264058</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 13:21:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Semper über Gislason: "Hat mich gefreut, dass er ..."]]></title>
+            <description><![CDATA[Franz Semper wurde von Handball-Bundestrainer Alfred Gislason nicht für die November-Länderspiele nominiert. Wie der Rückraumspieler aber verrät, gab es Kontakt zwischen den beiden.]]></description>
+            <link>https://www.handball-world.news/artikel/semper-ueber-gislason-hat-mich-gefreut-dass-er-1264072</link>
+            <guid isPermaLink="false">1264072</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 12:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Krimi gegen Kriens-Luzern: Kielce bucht Hauptrunden-Ticket]]></title>
+            <description><![CDATA[Es war das entscheidende Gruppenspiel um den zweiten Platz in der Gruppe F und das damit verbundene Ticket für die Hauptrunde der Handball Champions League. In einer umkämpften und ausgeglichenen Partie setzte sich Industria Kielce schließlich mit 32:30 (19:17) gegen den HC Kriens-Luzern durch.]]></description>
+            <link>https://www.handball-world.news/spiel/kriens-luzern-gegen-kielce-2026-ehf-champions-league-5249876/bericht</link>
+            <guid isPermaLink="false">1264038</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 12:31:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nächste Niederlage: Warum es bei den Füchsen nicht läuft]]></title>
-            <description><![CDATA[In der Champions League kassieren die Füchse Berlin beim Top-Team aus Veszprem ihre dritte Niederlage in Serie. Dafür gibt es mehrere Gründe.]]></description>
+            <description><![CDATA[In der Champions League kassieren die Füchse Berlin beim Top-Team aus Veszprem ihre dritte Niederlage in den letzten vier Spielen. Dafür gibt es mehrere Gründe.]]></description>
             <link>https://www.handball-world.news/artikel/naechste-niederlage-warum-es-bei-den-fuechsen-nicht-laeuft-1264034</link>
             <guid isPermaLink="false">1264034</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 12:13:57 GMT</pubDate>
+            <pubDate>Thu, 22 Oct 2026 12:58:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Die Schiedsrichter-Ansetzungen der 2. HBL]]></title>
@@ -176,14 +256,6 @@
             <guid isPermaLink="false">1263748</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 11:05:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live: Füchse kämpfen sich nach 9-Tore-Rückstand zurück]]></title>
-            <description><![CDATA[In der Handball Champions League geht es in die heiße Phase der Gruppenphase. Die Füchse haben ein Schlüsselspiel in Veszprem, später haben Aalborg und Kriens-Luzern Heimspiele. Auch in mehreren internationalen Ligen wird gespielt. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1262275</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 18:02:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Transferticker: Bialowas-Verlängerung, Kristopans-Entscheidung]]></title>
@@ -1136,78 +1208,6 @@
             <guid isPermaLink="false">1262531</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 18 Oct 2026 09:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fall Golla: Welthandballer Gidsel mit klarer Forderung]]></title>
-            <description><![CDATA[Die Causa Johannes Golla sorgt weiter für Wirbel im Handball. Nun schaltete sich auch Welthandballer Mathias Gidsel ein. Der dänische Superstar hat eine klare Meinung und fordert Änderungen der Transferregeln.]]></description>
-            <link>https://www.handball-world.news/artikel/fall-golla-welthandballer-gidsel-mit-klarer-forderung-1262527</link>
-            <guid isPermaLink="false">1262527</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 09:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schmitt-Verletzung und Mallwitz-Show: Eulen chancenlos in Dresden]]></title>
-            <description><![CDATA[Der HC Elbflorenz bleibt in der 2. Handball-Bundesliga auf Erfolgskurs. Am Samstagnachmittag feierten die Dresdner einen deutlichen 38:28-Heimsieg (18:13) gegen die Eulen Ludwigshafen. Wie schon eine Woche zuvor in Coburg sorgte eine starke Phase rund um die Halbzeit für die Entscheidung.]]></description>
-            <link>https://www.handball-world.news/spiel/dresden-gegen-die-eulen-2026-handball-bundesliga-5214119/bericht</link>
-            <guid isPermaLink="false">1262510</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 09:17:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Hand aufs Harz" - Handball-Tour in sieben Städten]]></title>
-            <description><![CDATA[Im November und Dezember macht "Hand aufs Harz" in Kiel, Hannover, Köln, Magdeburg, Stuttgart, Berlin und München Station. Legenden, Gesichter aus dem TV und prominente Persönlichkeiten aus ganz unterschiedlichen Bereichen werden dabei über den Handball reden.]]></description>
-            <link>https://www.handball-world.news/artikel/hand-aufs-harz-handball-tour-in-sieben-staedten-1262319</link>
-            <guid isPermaLink="false">1262319</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 08:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pajovic vor Topspiel: "Es ist nicht nur Gidsel"]]></title>
-            <description><![CDATA[Mathias Gidsel ist der Dreh- und Angelpunkt der Füchse, doch für Flensburgs Trainer Ales Pajovic ist die Berliner Offensive weit mehr als nur ein Welthandballer. Was macht den Gegner aus seiner Sicht so gefährlich - und wie steht es um Niclas Kirkelökke?]]></description>
-            <link>https://www.handball-world.news/artikel/pajovic-vor-topspiel-es-ist-nicht-nur-gidsel-1262502</link>
-            <guid isPermaLink="false">1262502</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 08:36:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball am Sonntag: HBL-Topspiel, HBF und zweite Ligen]]></title>
-            <description><![CDATA[Am heutigen Sonntag kommt es ab 15 Uhr zu einem echten Highlight-Spiel: Die Füchse Berlin sind zu Gast bei der SG Flensburg-Handewitt. Außerdem stehen zwei weitere Partien in der HBL an. Auch in der HBF und in den zweiten Ligen wird gespielt, genau so wie in der 3. Liga und international.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-sonntag-hbl-topspiel-hbf-und-zweite-ligen-1252136</link>
-            <guid isPermaLink="false">1252136</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 07:58:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHB im Dezember mit Trainer:innen-Tagen]]></title>
-            <description><![CDATA[Die 2. DHB-Trainer:innen-Tage werden am 19. und 20. Dezember 2026 in Frankfurt stattfinden. Sie stehen laut Verband im Zeichen der Weiterentwicklung von Training, Coaching und Spielverständnis.]]></description>
-            <link>https://www.handball-world.news/artikel/dhb-im-dezember-mit-trainer-innen-tagen-1262302</link>
-            <guid isPermaLink="false">1262302</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 07:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Köster wirft Dormagen zum Last-Minute-Sieg gegen Coburg]]></title>
-            <description><![CDATA[Der TSV Bayer Dormagen konnte am Samstagabend einen knappen Heimsieg einfahren. Gegen den HSC 2000 Coburg behielt das Team von Trainer Julian Bauer in einer spannenden Schlussphase die Oberhand uns setzte sich am Ende mit 30:29 (14:16) durch.]]></description>
-            <link>https://www.handball-world.news/spiel/dormagen-gegen-coburg-2026-handball-bundesliga-5214123/bericht</link>
-            <guid isPermaLink="false">1262487</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 11:00:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Flames und Göppingen vor richtungsweisendem Duell]]></title>
-            <description><![CDATA[In der Handball Bundesliga Frauen spielen nach einer Hin- und Rückrunde die vier besten Teams um den Titel. Den Anschluss an das Top-Quartett wollen sowohl die Flames der HSG Bensheim/Auerbach wie auch Frisch Auf Göppingen halten und so zumindest weiter im Rennen bleiben.]]></description>
-            <link>https://www.handball-world.news/artikel/flames-und-goeppingen-vor-richtungsweisendem-duell-1262270</link>
-            <guid isPermaLink="false">1262270</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 06:52:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mertens "sicher, dass Bennet uns da wieder etwas hinzaubert"]]></title>
-            <description><![CDATA[In der Spitzengruppe der Handball-Bundesliga, in der Champions League vorzeitig eine Runde weiter - für den SC Magdeburg ist die Saison nach Plan angelaufen. Das ist sie allerdings auch für den TVB Stuttgart, der mit positivem Punktekonto anreist.]]></description>
-            <link>https://www.handball-world.news/artikel/mertens-sicher-dass-bennet-uns-da-wieder-etwas-hinzaubert-1262253</link>
-            <guid isPermaLink="false">1262253</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 06:14:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
