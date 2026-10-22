@@ -4,11 +4,59 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Oct 2026 17:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2026 20:57:57 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Oct 2026 17:20:41 GMT</pubDate>
+        <pubDate>Thu, 22 Oct 2026 20:57:57 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[CL: Diese Teams stehen in der Hauptrunde]]></title>
+            <description><![CDATA[Der 4. Spieltag der Handball Champions League ist zur Hälfte absolviert. Einige Mannschaften haben sich das Weiterkommen in die Hauptrunde bereits gesichert.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-diese-teams-stehen-in-der-hauptrunde-1261411</link>
+            <guid isPermaLink="false">1261411</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 20:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CL kompakt: MT bleibt im Rennen, Szeged ist raus]]></title>
+            <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-mt-bleibt-im-rennen-szeged-ist-raus-1263715</link>
+            <guid isPermaLink="false">1263715</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 20:51:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elf Weber-Tore: SCM schlägt Kolstad auch ohne Stammkräfte]]></title>
+            <description><![CDATA[Der SC Magdeburg bleibt in der Champions League weiter ohne Punktverlust. Beim 35:32-Auswärtssieg gegen Kolstad konnte Bennet Wiegert einige Stammkräfte schonen, während andere Spieler die Gelegenheit nutzten, sich in den Vordergrund zu spielen.]]></description>
+            <link>https://www.handball-world.news/spiel/kolstad-gegen-magdeburg-2026-ehf-champions-league-5249877/bericht</link>
+            <guid isPermaLink="false">1264176</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 20:53:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Derby-Demontage: Stuttgart überrollt Bietigheim]]></title>
+            <description><![CDATA[Der TVB Stuttgart ließ der SG BBM Bietigheim in der zweiten Halbzeit kaum noch Luft und feierte mit einem deutlichen 39:29 (16:15) einen überzeugenden Derbysieg. Angeführt von einem starken El-Tayar und einer bärenstarken Defensive drehten die Stuttgarter nach der Pause richtig auf und ließen Bietigheim am Ende keine Chance.]]></description>
+            <link>https://www.handball-world.news/spiel/stuttgart-gegen-bietigheim-2026-handball-bundesliga-5213834/bericht</link>
+            <guid isPermaLink="false">1264143</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 19:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SCM gegen Kolstad ohne Kapitän Saugstrup]]></title>
+            <description><![CDATA[Der SC Magdeburg gastiert am 5. Spieltag der Champions League bei Kolstad. Den Einzug in die Hauptrunde hat der SCM bereits sicher, dennoch will das Team von Bennet Wiegert den nächsten Sieg einfahren. Dabei muss der Trainer kurzfristig auf Kreisläufer Magnus Saugstrup verzichten.]]></description>
+            <link>https://www.handball-world.news/artikel/scm-gegen-kolstad-ohne-kapitaen-saugstrup-1264169</link>
+            <guid isPermaLink="false">1264169</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 19:07:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Krimi-Sieg gegen Plock: MT wahrt Chance auf CL-Hauptrunde]]></title>
+            <description><![CDATA[Die MT Melsungen hat im ersten Endspiel um den Einzug in die Hauptrunde der Champions League die Nerven behalten. Mit einem 28:26-Erfolg gegen Wisla Plock wahrt der Bundesligist seine Chancen auf das Weiterkommen. Dank einer starken Schlussphase hat die MT den Einzug in die nächste Runde wieder selbst in der Hand.]]></description>
+            <link>https://www.handball-world.news/spiel/melsungen-gegen-wisla-plock-2026-ehf-champions-league-5249869/bericht</link>
+            <guid isPermaLink="false">1264146</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 22 Oct 2026 18:37:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live: MT und SCM im Einsatz, Derby in der HBL]]></title>
             <description><![CDATA[In der EHF Champions League sind heute die MT Melsungen und der SC Magdeburg im Einsatz. Unterdessen findet in der Handball-Bundesliga das Derby zwischen dem TVB Stuttgart und der SG BBM Bietigheim statt. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
@@ -232,22 +280,6 @@
             <guid isPermaLink="false">1263704</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 22 Oct 2026 03:30:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CL kompakt: Knorr siegt mit Aalborg, Nantes und PSG patzen]]></title>
-            <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
-            <link>https://www.handball-world.news/artikel/cl-kompakt-knorr-siegt-mit-aalborg-nantes-und-psg-patzen-1263715</link>
-            <guid isPermaLink="false">1263715</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 05:23:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CL: Diese Teams stehen in der Hauptrunde]]></title>
-            <description><![CDATA[Der 4. Spieltag der Handball Champions League ist zur Hälfte absolviert. Einige Mannschaften haben sich das Weiterkommen in die Hauptrunde bereits gesichert.]]></description>
-            <link>https://www.handball-world.news/artikel/cl-diese-teams-stehen-in-der-hauptrunde-1261411</link>
-            <guid isPermaLink="false">1261411</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 22 Oct 2026 06:10:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frühes Langhoff-Rot: Erneute Füchse-Pleite gegen Veszprem]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1162566</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 18 Oct 2026 10:34:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Saarlouis mit Reaktion auf Niederlage]]></title>
-            <description><![CDATA[Nach der ersten Niederlage der Drittliga-Saison gegen Münster in der Vorwoche zeigte die HG Saarlouis bei Schlusslicht HV Vallendar keine Schwäche und zog mit dem 38:27-Erfolg in der Tabelle wieder an Münster vorbei.]]></description>
-            <link>https://www.handball-world.news/spiel/hv-vallendar-gegen-saarlouis-2026-liga-sued-west-5263922/bericht</link>
-            <guid isPermaLink="false">1262537</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 10:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Werder trotz 5:0-Start mit 21:32 gegen Rödertal]]></title>
-            <description><![CDATA[Die Handballerinnen des SV Werder Bremen haben auch das dritte Heimspiel der Saison verloren: Gegen den HC Rödertal gab es eine 21:32 (11:15)-Niederlage - und das trotz eines 5:0-Starts. Bremen wartet weiter auf den zweiten Sieg, Rödertal zieht mit acht Punkten auf den siebten Platz.]]></description>
-            <link>https://www.handball-world.news/spiel/bremen-gegen-roedertal-2026-handball-bundesliga-frauen-5242995/bericht</link>
-            <guid isPermaLink="false">1262548</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 10:31:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vor Auftakt in EM-Quali: Die Bilanz des DHB-Teams gegen Belgien]]></title>
-            <description><![CDATA[Vor 27 Jahren hat Deutschland zuletzt ein Länderspiel gegen Belgien absolviert. Erst acht Mal gab es diese Konstellation überhaupt. Die Bilanz spricht vor dem Auftakt in die Qualifikation zur Handball-EM 2028 dabei eindeutig für das DHB-Team:]]></description>
-            <link>https://www.handball-world.news/artikel/vor-auftakt-in-em-quali-die-bilanz-des-dhb-teams-gegen-belgien-1261903</link>
-            <guid isPermaLink="false">1261903</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 09:48:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kehrmann will die Lemgoer Serie fortsetzen]]></title>
-            <description><![CDATA[Der Coup in Berlin war der dritte Sieg des TBV Lemgo Lippe in Folge in der Handball-Bundesliga, Florian Kehrmann will mit seinem Team heute gegen Frisch Auf Göppingen den vierten nachlegen.]]></description>
-            <link>https://www.handball-world.news/artikel/kehrmann-will-die-lemgoer-serie-fortsetzen-1262531</link>
-            <guid isPermaLink="false">1262531</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 18 Oct 2026 09:58:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
