@@ -4,18 +4,34 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 23 Oct 2026 20:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2026 23:03:46 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 23 Oct 2026 20:06:12 GMT</pubDate>
+        <pubDate>Fri, 23 Oct 2026 23:03:46 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[2. HBL: Elbflorenz souverän, Siege für Potsdam und GWD]]></title>
+            <description><![CDATA[Zum Auftakt des 9. Spieltags der 2. Handball-Bundesliga hat der Spitzenreiter HC Elbflorenz seine Auswärtsaufgabe gelöst. Unterdessen gewann auch der 1. VfL Potsdam. Außerdem setzte sich GWD Minden deutlich durch. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbl-elbflorenz-souveraen-siege-fuer-potsdam-und-gwd-1264462</link>
+            <guid isPermaLink="false">1264462</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 20:28:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Lemgos fünfter Sieg in Folge, Göppingen erleichtert]]></title>
+            <description><![CDATA[Der TBV Lemgo Lippe hat am 10. Spieltag der Handball-Bundesliga den fünften Sieg in Folge gefeiert. Unterdessen beendete Frisch Auf Göppingen seine Negativserie. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-lemgos-fuenfter-sieg-in-folge-goeppingen-erleichtert-1264463</link>
+            <guid isPermaLink="false">1264463</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 23 Oct 2026 20:15:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stutzke-Rot, Lemgo-Serie: Spektakuläre TBV-Aufholjagd in Hannover]]></title>
             <description><![CDATA[Fünfter Sieg in Folge für den TBV Lemgo Lippe: In der Handball-Bundesliga setzte sich das Team von Florian Kehrmann bei der TSV Hannover-Burgdorf mit 29:26 (12:15) durch.]]></description>
             <link>https://www.handball-world.news/spiel/hannover-gegen-lemgo-2026-handball-bundesliga-5213830/bericht</link>
             <guid isPermaLink="false">1264440</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 20:04:34 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2026 20:08:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schiller-Meilenstein: Göppingen zurück in der Erfolgsspur]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1262903</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 19 Oct 2026 09:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kurioser Halbzeit-Wirbel: Warum Wiegert so hartnäckig intervenierte]]></title>
-            <description><![CDATA[Ein aberkanntes Tor, hitzige Diskussionen und ein denkbar knapper Sieg: Beim Duell zwischen dem SC Magdeburg und dem TVB Stuttgart sorgte ein Wechselfehler kurz vor der Halbzeit in der Handball-Bundesliga für eine kuriose Szene. SCM-Coach Bennet Wiegert findet nach der Partie klare Worte dazu:]]></description>
-            <link>https://www.handball-world.news/artikel/kurioser-halbzeit-wirbel-warum-wiegert-so-hartnaeckig-intervenierte-1262904</link>
-            <guid isPermaLink="false">1262904</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 10:08:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[77 Tore: Füchse gewinnen Offensivfestival in Leverkusen]]></title>
-            <description><![CDATA[Die Füchse Berlin bleiben an der Spitzengruppe der 2. Handball Bundesliga Frauen dran: Beim TSV Bayer 04 Leverkusen setzten sich die Hauptstädterinnen in einem Torfestival mit 40:37 durch.]]></description>
-            <link>https://www.handball-world.news/spiel/leverkusen-gegen-fuechse-berlin-2026-handball-bundesliga-frauen-5242993/bericht</link>
-            <guid isPermaLink="false">1262912</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 19 Oct 2026 08:21:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
