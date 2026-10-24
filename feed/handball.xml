@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 17:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 19:43:41 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 17:33:34 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 19:43:41 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[2. HBL: Elbflorenz souverän, Leipzig unterliegt, Essen jubelt]]></title>
+            <description><![CDATA[Zum Auftakt des 9. Spieltags der 2. Handball-Bundesliga hat Spitzenreiter HC Elbflorenz Dresden seine Auswärtsaufgabe gelöst. Auch der 1. VfL Potsdam und GWD Minden konnten siegen. Der SC DHfK Leipzig musste sich unterdessen in Dessau geschlagen geben. Der TV Hüttenberg unterlag dem TuSEM Essen. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbl-elbflorenz-souveraen-leipzig-unterliegt-essen-jubelt-1264462</link>
+            <guid isPermaLink="false">1264462</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 19:30:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trotz Firnhaber-Rot: Erlangen lässt sich vom THW nicht abschütteln]]></title>
+            <description><![CDATA[Der HC Erlangen kämpfte bis zum Schluss, nach 60 Minuten setzte es im 23. Duell gegen den THW Kiel allerdings dennoch die 23. Niederlage. Die Zebras konnten zwar zu keinem Zeitpunkt vollends den Deckel draufmachen, setzten sich schlussendlich allerdings souverän mit 36:31 (20:14) gegen die Mittelfranken durch.]]></description>
+            <link>https://www.handball-world.news/spiel/erlangen-gegen-kiel-2026-handball-bundesliga-5213832/bericht</link>
+            <guid isPermaLink="false">1264694</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 19:15:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Balingen verlängert mit "ganz wichtiger Säule für unsere Defensive"]]></title>
             <description><![CDATA[Der HBW Balingen-Weilstetten stellt die Weichen Richtung Zukunft: Nach der Vertragsverlängerung von Yonathan Dayan hat nun auch Rückraumspieler Magnus Grupe Klarheit.]]></description>
@@ -232,14 +248,6 @@
             <guid isPermaLink="false">1047810</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 24 Oct 2026 08:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBL: Elbflorenz souverän, Siege für Potsdam und GWD]]></title>
-            <description><![CDATA[Zum Auftakt des 9. Spieltags der 2. Handball-Bundesliga hat der Spitzenreiter HC Elbflorenz seine Auswärtsaufgabe gelöst. Unterdessen gewann auch der 1. VfL Potsdam. Außerdem setzte sich GWD Minden deutlich durch. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbl-elbflorenz-souveraen-siege-fuer-potsdam-und-gwd-1264462</link>
-            <guid isPermaLink="false">1264462</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 20:28:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HBL kompakt: Lemgos fünfter Sieg in Folge, Göppingen erleichtert]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1263187</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 06:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHB-Team: Das sind die Spiele bis zur Heim-WM]]></title>
-            <description><![CDATA[In 85 Tagen ist es so weit: Im Januar 2027 findet die Handball-WM in Deutschland statt. Wie sieht der Fahrplan des DHB-Teams bis dahin aus?]]></description>
-            <link>https://www.handball-world.news/artikel/dhb-team-das-sind-die-spiele-bis-zur-heim-wm-1220718</link>
-            <guid isPermaLink="false">1220718</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 09:36:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
