@@ -4,18 +4,58 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 19:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2026 21:52:50 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 19:43:41 GMT</pubDate>
+        <pubDate>Sat, 24 Oct 2026 21:52:50 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Gold! Deutschland siegt im Finale der U-16-WM]]></title>
+            <description><![CDATA[Die starken Leistungen im Verlauf der im Handball erstmals ausgetragenen U-16-WM bestätigte der weibliche Nachwuchs aus Deutschland im heutigen Finale gegen Ungarn: Mit einem überzeugenden 37:32-Erfolg sicherte sich die DHB-Jugend den Titel.]]></description>
+            <link>https://www.handball-world.news/artikel/gold-deutschland-siegt-im-finale-der-u-16-wm-1264815</link>
+            <guid isPermaLink="false">1264815</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 21:47:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: THW Kiel hält seine Serie gegen Erlangen]]></title>
+            <description><![CDATA[Ein Zwischenspurt zum 20:14 zur Pause ebnete für den THW Kiel gegen den HC Erlangen den 23. Sieg im 23. Vergleich beider Vereine. Der HCE kämpfte verbissen und verkraftete auch die Rote Karte gegen Sebastian Firnhaber - am Ende stand aber ein 36:31 für die Gäste auf der Anzeigetafel.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-thw-kiel-haelt-seine-serie-gegen-erlangen-1264758</link>
+            <guid isPermaLink="false">1264758</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 20:42:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche - in der Saarlouis im Topspiel in Krefeld siegte und Altenholz die weiße Weste einbüßte - auf einen Blick.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 20:27:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Lemgos fünfter Sieg in Folge, Melsungen holt ersten Auswärtserfolg]]></title>
+            <description><![CDATA[Der TBV Lemgo Lippe hat am 10. Spieltag der Handball-Bundesliga den fünften Sieg in Folge gefeiert. Unterdessen beendete Frisch Auf Göppingen seine Negativserie. Der THW Kiel feierte trotz kurzer Schwächephase einen Start-Ziel-Sieg beim HC Erlangen und die MT Melsungen holte nach einem Abnutzungskampf in Balingen den ersten Auswärtssieg. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-lemgos-fuenfter-sieg-in-folge-melsungen-holt-ersten-auswaertserfolg-1264463</link>
+            <guid isPermaLink="false">1264463</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 20:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abnutzungskampf pur: Melsungen zittert sich in Balingen zum ersten Auswärtssieg]]></title>
+            <description><![CDATA[Die MT Melsungen kann den ersten Erfolg in der Ferne feiern: In einer torarmen Partie legte der HBW Balingen-Weilstetten lange vor, in einer umkämpften Schlussphase setzten sich die Nordhessen dann allerdings mit 27:26 (12:14) durch.]]></description>
+            <link>https://www.handball-world.news/spiel/balingen-gegen-melsungen-2026-handball-bundesliga-5213836/bericht</link>
+            <guid isPermaLink="false">1264752</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 20:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2. HBL: Elbflorenz souverän, Leipzig unterliegt, Essen jubelt]]></title>
             <description><![CDATA[Zum Auftakt des 9. Spieltags der 2. Handball-Bundesliga hat Spitzenreiter HC Elbflorenz Dresden seine Auswärtsaufgabe gelöst. Auch der 1. VfL Potsdam und GWD Minden konnten siegen. Der SC DHfK Leipzig musste sich unterdessen in Dessau geschlagen geben. Der TV Hüttenberg unterlag dem TuSEM Essen. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
             <link>https://www.handball-world.news/artikel/2-hbl-elbflorenz-souveraen-leipzig-unterliegt-essen-jubelt-1264462</link>
             <guid isPermaLink="false">1264462</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 19:30:47 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2026 19:44:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trotz Firnhaber-Rot: Erlangen lässt sich vom THW nicht abschütteln]]></title>
@@ -23,7 +63,7 @@
             <link>https://www.handball-world.news/spiel/erlangen-gegen-kiel-2026-handball-bundesliga-5213832/bericht</link>
             <guid isPermaLink="false">1264694</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 19:15:35 GMT</pubDate>
+            <pubDate>Sat, 24 Oct 2026 19:55:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Balingen verlängert mit "ganz wichtiger Säule für unsere Defensive"]]></title>
@@ -240,22 +280,6 @@
             <guid isPermaLink="false">1264513</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 24 Oct 2026 08:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche - in der Krefeld nach deutlicher Führung den ersten Punkt abgab - auf einen Blick.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 08:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL kompakt: Lemgos fünfter Sieg in Folge, Göppingen erleichtert]]></title>
-            <description><![CDATA[Der TBV Lemgo Lippe hat am 10. Spieltag der Handball-Bundesliga den fünften Sieg in Folge gefeiert. Unterdessen beendete Frisch Auf Göppingen seine Negativserie. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-lemgos-fuenfter-sieg-in-folge-goeppingen-erleichtert-1264463</link>
-            <guid isPermaLink="false">1264463</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 08:43:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stutzke-Rot, Lemgo-Serie: Spektakuläre TBV-Aufholjagd in Hannover]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1263204</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 07:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Balingens Aufholjagd: "Können auch gewinnen"]]></title>
-            <description><![CDATA[Der HBW Balingen-Weilstetten hat im Montagabendspiel der Handball-Bundesliga gegen die TSV Hannover-Burgdorf nach deutlichem Rückstand noch einen Punkt geholt. Trotzdem war die Freude ob des Spielverlaufes zumindest ein wenig gedämpft.]]></description>
-            <link>https://www.handball-world.news/artikel/balingens-aufholjagd-koennen-auch-gewinnen-1263194</link>
-            <guid isPermaLink="false">1263194</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 20 Oct 2026 07:12:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Essen feiert ersten Saisonsieg gegen Emsdetten]]></title>
-            <description><![CDATA[Der TUSEM Essen hat den ersten Saisonsieg in der 2. Handball-Bundesliga eingefahren. Am 8. Spieltag gelang ein 32:25 (14:10)-Heimsieg gegen den TV Emsdetten, doch die Mannschaft von Trainer Kenji Hövels bleibt zunächst auf dem 18. Tabellenplatz.]]></description>
-            <link>https://www.handball-world.news/spiel/essen-gegen-emsdetten-2026-handball-bundesliga-5214118/bericht</link>
-            <guid isPermaLink="false">1263191</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 20 Oct 2026 06:47:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wochenlanger Ausfall: Lauge verpasst Dänemark-Spiele]]></title>
-            <description><![CDATA[Rückschlag für die dänische Handball-Nationalmannschaft: Routinier Rasmus Lauge fällt verletzungsbedingt mehrere Wochen aus und verpasst somit die kommenden Länderspiele.]]></description>
-            <link>https://www.handball-world.news/artikel/wochenlanger-ausfall-lauge-verpasst-daenemark-spiele-1263187</link>
-            <guid isPermaLink="false">1263187</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 20 Oct 2026 06:23:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
