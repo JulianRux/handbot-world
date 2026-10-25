@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 19:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 21:47:50 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 19:22:00 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 21:47:50 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: VfL Gummersbach stoppt Flensburg]]></title>
+            <description><![CDATA[Ausrufezeichen des VfL Gummersbach: Die mit ausgeglichenem Punktekonto in die neue Handball-Saison gestarteten Oberbergischen brachten in eigener Halle die bis dato ungeschlagene SG Flensburg-Handewitt zu Fall - auch dank achtzehn Paraden von Bertram Obling.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-vfl-gummersbach-stoppt-flensburg-1265197</link>
+            <guid isPermaLink="false">1265197</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 21:38:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: Wiede-Comeback bei Füchse-Sieg über Wetzlar]]></title>
+            <description><![CDATA[Mit einer klaren Steigerung in der Abwehr gelang den Füchsen Berlin gegen die HSG Wetzlar der erwartete 36:30-Sieg in der Handball-Bundesliga. Emotionaler Höhepunkt im Fuchsbau war allerdings das Comeback nach über einem Jahr Zwangspause. Auch Max Darj stand aufgrund der bevorstehenden Trennung zum Saisonende im Fokus.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-wiede-comeback-bei-fuechse-sieg-ueber-wetzlar-1265157</link>
+            <guid isPermaLink="false">1265157</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 20:30:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: BHC gewinnt Sonntagskrimi gegen Hamburg]]></title>
+            <description><![CDATA[Big Points für den Bergischen HC. Gegen den HC Hamburg konnten sich die Löwen in einem Sonntagskrimi am Ende mit 26:25 durchkämpfen und sich mit dem Gamewinner von Sören Steinhaus auf einen Nichtabstiegsplatz vorarbeiten. Auch der HCH bleibt im Abstiegskampf.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-bhc-gewinnt-sonntagskrimi-gegen-hamburg-1265173</link>
+            <guid isPermaLink="false">1265173</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 21:28:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
             <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche - in der Saarlouis im Topspiel in Krefeld siegte und Altenholz die weiße Weste einbüßte - auf einen Blick.]]></description>
@@ -23,7 +47,7 @@
             <link>https://www.handball-world.news/artikel/hbl-kompakt-gummersbach-knackt-flensburg-lemgos-serie-haelt-1264463</link>
             <guid isPermaLink="false">1264463</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 18:57:44 GMT</pubDate>
+            <pubDate>Sun, 25 Oct 2026 21:42:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Im Video: Starker Späth nicht genug: Löwen unterliegen SCM]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1263554</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 08:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Durchbruch in der Bundesliga: Bialowas bleibt bei Erlangen]]></title>
-            <description><![CDATA[Yannik Bialowas ist bislang eine der Entdeckungen dieser Bundesliga-Saison. Nun ist klar: Der Linksaußen bleibt über die laufende Spielzeit hinaus beim HC Erlangen.]]></description>
-            <link>https://www.handball-world.news/artikel/durchbruch-in-der-bundesliga-bialowas-bleibt-bei-erlangen-1263576</link>
-            <guid isPermaLink="false">1263576</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 07:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kretzschmar: Videobeweis nimmt dem Handball die Emotionen]]></title>
-            <description><![CDATA[Über den Einsatz des Videobeweises in der Handball-Bundesliga wird viel diskutiert. Stefan Kretzschmar ist eigentlich ein Freund des Systems, doch es gibt auch einen Nachteil. "Wir nehmen dem Sport die Emotionen und das nicht wenig", so der Dyn-Experte beim Vodcast Kretzsche & Schmiso. "Es dient dem Gerechtigkeitsding des Spiels."]]></description>
-            <link>https://www.handball-world.news/videos/kretzschmar-videobeweis-nimmt-dem-handball-die-emotionen-1263580</link>
-            <guid isPermaLink="false">1263580</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 12:57:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die größten Stars von Füchse-Gegner Veszprem]]></title>
-            <description><![CDATA[Der Traum vom Gewinn der EHF Champions League lebt und der Hunger ist im 50-jährigen Bestehen des Klubs so groß wie lange nicht. Daher hat Veszprem auf dem Transfermarkt noch einmal kräftig investiert und drei hochkarätige Neuzugänge verpflichtet. handball-world wirft vor dem Rückspiel gegen die Füchse Berlin einen Blick auf die größten Stars von Ungarns Ligaprimus.]]></description>
-            <link>https://www.handball-world.news/slideshow/die-groessten-stars-von-fuechse-gegner-veszprem-1252816</link>
-            <guid isPermaLink="false">1252816</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 07:15:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
