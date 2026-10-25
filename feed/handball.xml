@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Oct 2026 21:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 01:47:03 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Oct 2026 21:52:50 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 01:47:03 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: Melsungen mit Krimi-Sieg in Balingen]]></title>
+            <description><![CDATA[Aufsteiger HBW Balingen-Weilstetten lieferte dem CL-Teilnehmer MT Melsungen über sechzig Minuten einen packenden Kampf - in dem ein Doppelschlag von Erik Balenciaga und Olle Forsell Schefvert die Gäste am Ende auf die Siegstraße brachte: Die MT rettete ein knappes 27:26 über die Linie.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-melsungen-mit-krimi-sieg-in-balingen-1264811</link>
+            <guid isPermaLink="false">1264811</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 24 Oct 2026 22:42:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gold! Deutschland siegt im Finale der U-16-WM]]></title>
             <description><![CDATA[Die starken Leistungen im Verlauf der im Handball erstmals ausgetragenen U-16-WM bestätigte der weibliche Nachwuchs aus Deutschland im heutigen Finale gegen Ungarn: Mit einem überzeugenden 37:32-Erfolg sicherte sich die DHB-Jugend den Titel.]]></description>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1248389</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 20 Oct 2026 08:05:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Länderspiel-Doppelpack als Stresstest für DHB-Frauen]]></title>
-            <description><![CDATA[Die deutschen Handballerinnen wollen bei der EM im Dezember um die Medaillen mitspielen. Auf dem Weg zum Turnier wartet am Wochenende eine knallharte Standortbestimmung.]]></description>
-            <link>https://www.handball-world.news/artikel/laenderspiel-doppelpack-als-stresstest-fuer-dhb-frauen-1263204</link>
-            <guid isPermaLink="false">1263204</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 20 Oct 2026 07:39:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
