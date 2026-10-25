@@ -4,11 +4,91 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 25 Oct 2026 16:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 19:22:00 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Oct 2026 16:37:26 GMT</pubDate>
+        <pubDate>Sun, 25 Oct 2026 19:22:00 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche - in der Saarlouis im Topspiel in Krefeld siegte und Altenholz die weiße Weste einbüßte - auf einen Blick.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 19:03:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBL kompakt: Gummersbach knackt Flensburg, Lemgos Serie hält]]></title>
+            <description><![CDATA[Der TBV Lemgo Lippe hat am 10. Spieltag der Handball-Bundesliga den fünften Sieg in Folge gefeiert. Unterdessen beendete Frisch Auf Göppingen seine Negativserie. Die meisten Favoriten konnten ihre Partien gewinnen, zum Abschluss aber verlor die SG Flensburg-Handewitt in Gummersbach. Der BHC schaffte einen Krimierfolg über Hamburg. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-kompakt-gummersbach-knackt-flensburg-lemgos-serie-haelt-1264463</link>
+            <guid isPermaLink="false">1264463</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 18:57:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: Starker Späth nicht genug: Löwen unterliegen SCM]]></title>
+            <description><![CDATA[Die Rhein-Neckar Löwen haben ihre Heimpremiere unter Michael Abt gegen den SC Magdeburg mit 23:31 verloren. Trotz eines starken 4:0-Laufs nach der Pause und einer überzeugenden Torhüterleistung von David Späth setzte sich der SCM am Ende verdient durch.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-starker-spaeth-nicht-genug-loewen-unterliegen-scm-1265087</link>
+            <guid isPermaLink="false">1265087</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 18:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obling-Rekord bringt Gummersbach den Flensburg-Coup]]></title>
+            <description><![CDATA[Die einmal mehr ausverkaufte Schwalbe-Arena war nicht mehr zu halten. Ein überragender Bertram Obling hinter einer starken Abwehrformation sicherte dem VfL Gummersbach den 31:30-Heimsieg über die SG Flensburg-Handewitt.]]></description>
+            <link>https://www.handball-world.news/spiel/gummersbach-gegen-flensburg-2026-handball-bundesliga-5213833/bericht</link>
+            <guid isPermaLink="false">1265081</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 18:47:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2. HBL: Auswärtssiege am Sonntag, Leipzig unterliegt, Essen jubelt]]></title>
+            <description><![CDATA[Zum Auftakt des 9. Spieltags der 2. Handball-Bundesliga hat Spitzenreiter HC Elbflorenz Dresden seine Auswärtsaufgabe gelöst. Auch der 1. VfL Potsdam und GWD Minden konnten siegen. Der SC DHfK Leipzig musste sich unterdessen in Dessau geschlagen geben. Der TV Hüttenberg unterlag dem TuSEM Essen. Am Sonntag gab es knappe Auswärtssiege Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbl-auswaertssiege-am-sonntag-leipzig-unterliegt-essen-jubelt-1264462</link>
+            <guid isPermaLink="false">1264462</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 18:27:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Erste Heimpunkte: BHC gewinnt Kellerduell]]></title>
+            <description><![CDATA[Beide Mannschaften hatten sich einen besseren Start in die laufende Saison erhofft. Mit lediglich zwei Punkten für den Bergischen HC und fünf Zählern für den HC Hamburg rangierten beide Teams vor dem Anpfiff im unteren Tableau. In einer hart umkämpften Partie setzte sich schließlich der BHC mit 26:25 (13:11) gegen den HC Hamburg durch.]]></description>
+            <link>https://www.handball-world.news/spiel/bergischer-hc-gegen-hc-hamburg-2026-handball-bundesliga-5213835/bericht</link>
+            <guid isPermaLink="false">1265036</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 17:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Übersicht: Alle Handball-Medaillen von Deutschland]]></title>
+            <description><![CDATA[Eine Übersicht über die Edelmetall-Sammlung der Nationalmannschaften aus Deutschland im Handball - in der Halle, im Sand und auf dem Feld stehen für Männer, Frauen und Nachwuchs insgesamt 45 Titel und noch viele weiteren Medaillen auf der Habenseite.]]></description>
+            <link>https://www.handball-world.news/artikel/uebersicht-alle-handball-medaillen-von-deutschland-992928</link>
+            <guid isPermaLink="false">992928</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 17:18:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wiede feiert Comeback bei Füchse-Sieg gegen Wetzlar]]></title>
+            <description><![CDATA[Mit einer klaren Steigerung in der Abwehr gelang den Füchsen Berlin gegen die HSG Wetzlar der erwartete 36:30-Sieg in der Handball-Bundesliga. Fabian Wiede feierte dabei sein Comeback nach Kreuzbandriss. Die zwei Punkte waren dabei schon kurz nach der Halbzeit sicher, ein Garant dafür waren die freien Treffer.]]></description>
+            <link>https://www.handball-world.news/spiel/berlin-gegen-wetzlar-2026-handball-bundesliga-5213828/bericht</link>
+            <guid isPermaLink="false">1265016</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 17:16:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stefan Kretzschmar veröffentlicht mit "HARZBLUT" sein Handball-Manifest]]></title>
+            <description><![CDATA[Stefan Kretzschmar veröffentlicht am 26. November 2026 sein neues Buch "HARZBLUT - Das Handball-Manifest". Anders als in einer klassischen Sportlerbiografie steht diesmal nicht seine Karriere im Mittelpunkt, sondern der Handball selbst - als Sport, Lebensgefühl und Gemeinschaft.]]></description>
+            <link>https://www.handball-world.news/artikel/stefan-kretzschmar-veroeffentlicht-mit-harzblut-sein-handball-manifest-1264013</link>
+            <guid isPermaLink="false">1264013</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 18:06:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Überragender Mönch: HCOB setzt Ausrufezeichen im Topspiel]]></title>
+            <description><![CDATA[Der HC Oppenweiler/Backnang ist auf Kurs. Das 33:26 im Topspiel gegen den TSV Neuhausen/Filder war der sechste Sieg in Serie. Die Mannschaft von Coach Rui Silva überzeugte in der Abwehr und hatte auch im Angriff viele sehenswerte Szenen. Rückraumspieler Louis Mönch überragte mit 13 Toren bei 15 Versuchen.]]></description>
+            <link>https://www.handball-world.news/spiel/hcob-gegen-tsv-neuhausenfilder-2026-liga-sued-5264173/bericht</link>
+            <guid isPermaLink="false">1265049</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 25 Oct 2026 16:51:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ein Dutzend Tore von Unbehaun reichen Dormagens Reserve nicht]]></title>
             <description><![CDATA[Die Reserve des TSV Bayer Dormagen hat den zweiten Saisonsieg in der 3. Liga knapp verpasst. Nach einer umkämpften Partie musste sich die Mannschaft von Trainer Peer Pütz am Samstagabend im heimischen TSV Bayer Sportcenter dem TV Kirchzell mit 32:35 (16:18) geschlagen geben. T]]></description>
@@ -82,12 +162,12 @@
             <pubDate>Sun, 25 Oct 2026 14:24:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live: SCM-Sieg, BHC und Füchse zur Pause vorne]]></title>
-            <description><![CDATA[Mehrere Topteams sind im Einsatz. Der SC Magdeburg gewann am Ende klar bei den Rhein-Neckar Löwen, aktuell empfangen die Füchse Berlin die HSG Wetzlar. Zeitgleich um 16.30 Uhr spielt der HC Hamburg beim Bergischen HC. Ab 18 Uhr stehen sich der VfL Gummersbach und die SG Flensburg-Handewitt gegenüber. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
+            <title><![CDATA[Live: Gummersbach setzt Flensburg unter Druck]]></title>
+            <description><![CDATA[Mehrere Topteams sind im Einsatz. Der SC Magdeburg gewann am Ende klar bei den Rhein-Neckar Löwen, die Füchse Berlin hatten keine Mühe mit der HSG Wetzlar. Zeitgleich gewann der Bergische HC einen Krimi gegen Hamburg. Seit 18 Uhr stehen sich der VfL Gummersbach und die SG Flensburg-Handewitt in einem intensiven Duell gegenüber. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
             <link>https://www.handball-world.news/matchkalender</link>
             <guid isPermaLink="false">1262275</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 16:18:23 GMT</pubDate>
+            <pubDate>Sun, 25 Oct 2026 18:20:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[367 Tage nach Kreuzbandriss: Wiede zurück auf der Platte]]></title>
@@ -234,36 +314,12 @@
             <pubDate>Sat, 24 Oct 2026 20:42:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche - in der Saarlouis im Topspiel in Krefeld siegte und Altenholz die weiße Weste einbüßte - auf einen Blick.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 20:27:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL kompakt: Lemgos fünfter Sieg in Folge, Melsungen holt ersten Auswärtserfolg]]></title>
-            <description><![CDATA[Der TBV Lemgo Lippe hat am 10. Spieltag der Handball-Bundesliga den fünften Sieg in Folge gefeiert. Unterdessen beendete Frisch Auf Göppingen seine Negativserie. Der THW Kiel feierte trotz kurzer Schwächephase einen Start-Ziel-Sieg beim HC Erlangen und die MT Melsungen holte nach einem Abnutzungskampf in Balingen den ersten Auswärtssieg, auch der SC Magdeburg feierte einen deutlichen Auswärtssieg gegen die Rhein-Neckar Löwen. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-lemgos-fuenfter-sieg-in-folge-melsungen-holt-ersten-auswaertserfolg-1264463</link>
-            <guid isPermaLink="false">1264463</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 16:01:50 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Abnutzungskampf pur: Melsungen zittert sich in Balingen zum ersten Auswärtssieg]]></title>
             <description><![CDATA[Die MT Melsungen kann den ersten Erfolg in der Ferne feiern: In einer torarmen Partie legte der HBW Balingen-Weilstetten lange vor, in einer umkämpften Schlussphase setzten sich die Nordhessen dann allerdings mit 27:26 (12:14) durch.]]></description>
             <link>https://www.handball-world.news/spiel/balingen-gegen-melsungen-2026-handball-bundesliga-5213836/bericht</link>
             <guid isPermaLink="false">1264752</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 24 Oct 2026 20:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBL: Elbflorenz souverän, Leipzig unterliegt, Essen jubelt]]></title>
-            <description><![CDATA[Zum Auftakt des 9. Spieltags der 2. Handball-Bundesliga hat Spitzenreiter HC Elbflorenz Dresden seine Auswärtsaufgabe gelöst. Auch der 1. VfL Potsdam und GWD Minden konnten siegen. Der SC DHfK Leipzig musste sich unterdessen in Dessau geschlagen geben. Der TV Hüttenberg unterlag dem TuSEM Essen. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbl-elbflorenz-souveraen-leipzig-unterliegt-essen-jubelt-1264462</link>
-            <guid isPermaLink="false">1264462</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 19:44:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trotz Firnhaber-Rot: Erlangen lässt sich vom THW nicht abschütteln]]></title>
@@ -999,7 +1055,7 @@
             <link>https://www.handball-world.news/artikel/kretzschmar-videobeweis-kotzt-mich-diese-saison-ein-bisschen-an-1263692</link>
             <guid isPermaLink="false">1263692</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 15:00:02 GMT</pubDate>
+            <pubDate>Sun, 25 Oct 2026 18:01:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[So läuft die Qualifikation für die Frauen-WM 2027]]></title>
@@ -1152,62 +1208,6 @@
             <guid isPermaLink="false">1252816</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 07:15:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vertragsauflösung in Metzingen: Kusian mit überraschendem Karriereende]]></title>
-            <description><![CDATA[Die Verantwortlichen des Bundesligisten TuS Metzingen haben in beiderseitigem Einvernehmen den Vertrag mit Linkshänderin Maraike Kusian mit sofortiger Wirkung aufgelöst. Kusian war vor Saisonbeginn 26/27 von Borussia Dortmund zu den Ermstälerinnen gewechselt und beendet nun ihre Karriere.]]></description>
-            <link>https://www.handball-world.news/artikel/vertragsaufloesung-in-metzingen-kusian-mit-ueberraschendem-karriereende-1263552</link>
-            <guid isPermaLink="false">1263552</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 14:07:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ein Liter Blut verloren: Lübbecke mehrere Wochen ohne Sturhahn]]></title>
-            <description><![CDATA[Handball-Zweitligist TuS N-Lübbecke muss in den kommenden Wochen auf Tjorven Sturhahn verzichten. Der Rückraumspieler muss nach einer Trainingsverletzung noch ein weiteres Mal operiert werden.]]></description>
-            <link>https://www.handball-world.news/artikel/ein-liter-blut-verloren-luebbecke-mehrere-wochen-ohne-sturhahn-1263357</link>
-            <guid isPermaLink="false">1263357</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 06:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plötzlich im DHB-Team: Wer ist David Móré?]]></title>
-            <description><![CDATA[David Móré wurde von Bundestrainer Alfred Gislason zum Auftakt der EM-Qualifikation ins Aufgebot der Handball-Nationalmannschaft berufen. handball-world schaut genauer auf den Linksaußen.]]></description>
-            <link>https://www.handball-world.news/artikel/ploetzlich-im-dhb-team-wer-ist-david-more-1038719</link>
-            <guid isPermaLink="false">1038719</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 06:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball am Mittwoch: Füchse in Veszprem]]></title>
-            <description><![CDATA[In der Champions League steht heute der 5. Spieltag auf dem Programm. Aus deutscher Sicht richtet sich der Blick vor allem nach Ungarn: Dort gastieren die Füchse Berlin bei Veszprem. Der Schweizer Meister Kriens-Luzern empfängt unterdessen Kielce. Bei den Frauen beginnt die Qualifikation für die Weltmeisterschaft.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-mittwoch-fuechse-in-veszprem-1253098</link>
-            <guid isPermaLink="false">1253098</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 06:50:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mertens, Kohlbacher und Co.: Diese Stars fehlen im DHB-Kader]]></title>
-            <description><![CDATA[Während in Niklas Theiß und David Moré zwei Neulinge den Sprung in den 18-köpfigen Kader von Handball-Bundestrainer Alfred Gislason geschafft haben, fehlen einige prominente Namen im Aufgebot für die November-Länderspiele - wie zum Beispiel Lukas Mertens und Jannik Kohlbacher. Eine Auswahl:]]></description>
-            <link>https://www.handball-world.news/slideshow/mertens-kohlbacher-und-co-diese-stars-fehlen-im-dhb-kader-1263520</link>
-            <guid isPermaLink="false">1263520</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 09:22:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicht nur Topstars: Das macht Veszprem so stark]]></title>
-            <description><![CDATA[15 Spiele, 15 Siege - sowohl in der heimischen Liga als auch in der Champions League ist One Veszprem HC mit weißer Weste bislang durch die Saison marschiert. Auch bei der Klub-WM konnte niemand den Ungarn das Wasser reichen. Aber was macht Veszprem in dieser Saison so stark?]]></description>
-            <link>https://www.handball-world.news/artikel/nicht-nur-topstars-das-macht-veszprem-so-stark-1263329</link>
-            <guid isPermaLink="false">1263329</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 03:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U-16-WM: Deutschland im Halbfinale]]></title>
-            <description><![CDATA[Deutschlands U-16-Nationalteam ist mit weißer Weste ins Halbfinale eingezogen. Das Team von Gino Smits ließ gegen Usbekistan nichts anbrennen und siegte mit 51:19 (27:11). Im Halbfinale am Donnerstag kommt es nun zum Duell mit Russland.]]></description>
-            <link>https://www.handball-world.news/artikel/u-16-wm-deutschland-im-halbfinale-1263380</link>
-            <guid isPermaLink="false">1263380</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 20 Oct 2026 17:42:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
