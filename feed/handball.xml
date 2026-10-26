@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 19:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 23:24:06 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 19:48:20 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2026 23:24:06 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[2. HBL: Krimisieg für Hagen, Leipzig unterliegt, Essen jubelt]]></title>
+            <description><![CDATA[Zum Auftakt des 9. Spieltags der 2. Handball-Bundesliga hat Spitzenreiter HC Elbflorenz Dresden seine Auswärtsaufgabe gelöst. Auch der 1. VfL Potsdam und GWD Minden konnten siegen. Der SC DHfK Leipzig musste sich unterdessen in Dessau geschlagen geben. Der TV Hüttenberg unterlag dem TuSEM Essen. Im Montagsspiel rettete Pascal Bochmann mit einer spektakulären Parade Hagen in letzter Sekunde einen 30:29-Sieg. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbl-krimisieg-fuer-hagen-leipzig-unterliegt-essen-jubelt-1264462</link>
+            <guid isPermaLink="false">1264462</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 20:30:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Not-Op nach Stoß in Genitalbereich bei Nationalspieler Belos]]></title>
             <description><![CDATA[Die personelle Situation bei HSG Holding Graz verschärft sich. Der österreichische Nationalspieler Nemanja Belos musste sich einer Not-Operation unterziehen.]]></description>
@@ -336,14 +344,6 @@
             <guid isPermaLink="false">1265081</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 25 Oct 2026 18:47:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBL: Auswärtssiege am Sonntag, Leipzig unterliegt, Essen jubelt]]></title>
-            <description><![CDATA[Zum Auftakt des 9. Spieltags der 2. Handball-Bundesliga hat Spitzenreiter HC Elbflorenz Dresden seine Auswärtsaufgabe gelöst. Auch der 1. VfL Potsdam und GWD Minden konnten siegen. Der SC DHfK Leipzig musste sich unterdessen in Dessau geschlagen geben. Der TV Hüttenberg unterlag dem TuSEM Essen. Am Sonntag gab es knappe Auswärtssiege Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbl-auswaertssiege-am-sonntag-leipzig-unterliegt-essen-jubelt-1264462</link>
-            <guid isPermaLink="false">1264462</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 18:27:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Erste Heimpunkte: BHC gewinnt Kellerduell]]></title>
