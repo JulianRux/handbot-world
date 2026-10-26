@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Oct 2026 01:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2026 06:57:16 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Oct 2026 01:42:05 GMT</pubDate>
+        <pubDate>Mon, 26 Oct 2026 06:57:16 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Abt zwischen Aufbruch und Baustellen: So plant der neue Löwen-Coach]]></title>
+            <description><![CDATA[Die Löwen verlieren Abts Heimpremiere gegen Magdeburg. Der neue Coach spricht über Baustellen und die Zukunft mit Uwe Gensheimer.]]></description>
+            <link>https://www.handball-world.news/artikel/abt-zwischen-aufbruch-und-baustellen-so-plant-der-neue-loewen-coach-1265067</link>
+            <guid isPermaLink="false">1265067</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 04:30:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vranjes dementiert Nielsen-Gerüchte: "Bis jetzt kein Thema"]]></title>
+            <description><![CDATA[Kommt Emil Nielsen in die Handball-Bundesliga? Die Gerüchte um den Weltklasse-Torhüter und die SG Flensburg-Handewitt sorgen für Gesprächsstoff. Sportchef Ljubomir Vranjes dementiert aktuelle Gespräche. Einen möglichen Transfer des Dänen würde er allerdings nicht ausschließen - und erklärt, welche Vorteile die SG im Werben um Nielsen haben könnte.]]></description>
+            <link>https://www.handball-world.news/artikel/vranjes-dementiert-nielsen-geruechte-bis-jetzt-kein-thema-1265149</link>
+            <guid isPermaLink="false">1265149</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 26 Oct 2026 04:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Im Video: VfL Gummersbach stoppt Flensburg]]></title>
             <description><![CDATA[Ausrufezeichen des VfL Gummersbach: Die mit ausgeglichenem Punktekonto in die neue Handball-Saison gestarteten Oberbergischen brachten in eigener Halle die bis dato ungeschlagene SG Flensburg-Handewitt zu Fall - auch dank achtzehn Paraden von Bertram Obling.]]></description>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1257732</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 21 Oct 2026 08:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL-Deal mit algerischem TV-Sender: Das steckt dahinter]]></title>
-            <description><![CDATA[Die Handball-Bundesliga (HBL) hat einen Deal mit dem algerischen TV-Sender Sport Plus HD abgeschlossen. Was steckt hinter dieser Zusammenarbeit?]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-deal-mit-algerischem-tv-sender-das-steckt-dahinter-1263565</link>
-            <guid isPermaLink="false">1263565</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 08:26:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ungarns neuer Nationaltrainer verzichtet auf Sipos]]></title>
-            <description><![CDATA[Laszlo Sotonyi ist seit Sommer neuer Trainer der ungarischen Männer-Nationalmannschaft. Für die EM-Qualifikationsspiele gegen Montenegro und den Kosovo setzt er auf eine Mischung aus erfahrenen Kräften und jungen Talenten. Melsungens Adrian Sipos wurde nicht nominiert.]]></description>
-            <link>https://www.handball-world.news/artikel/ungarns-neuer-nationaltrainer-verzichtet-auf-sipos-1263554</link>
-            <guid isPermaLink="false">1263554</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 21 Oct 2026 08:02:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
