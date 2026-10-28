@@ -4,11 +4,91 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 14:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 19:40:16 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Oct 2026 14:20:41 GMT</pubDate>
+        <pubDate>Wed, 28 Oct 2026 19:40:16 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Videobeweis in Schlussszene: MT Melsungen bucht Hauptrundenticket]]></title>
+            <description><![CDATA[Die MT Melsungen hat sich in die Hauptrunde der EHF Champions League gezittert. In einer intensiven Partie mit einer Zeitstrafe gegen den starken Keeper Simic, einer Roten Karte gegen Skopjes Abwehrchef Jankowski und einem Videobeweis in der Schlussszene, reichte dem Bundesligisten ein 26:26-Remis.]]></description>
+            <link>https://www.handball-world.news/spiel/vardar-gegen-melsungen-2026-ehf-champions-league-5249880/bericht</link>
+            <guid isPermaLink="false">1266192</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 19:37:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zugunglück in Spanien: Pokalspiel abgesagt]]></title>
+            <description><![CDATA[Bei einem Zugunglück in Spanien sterben Dutzende Menschen. Der spanische Fußballverband reagiert und ändert seine Pokal-Pläne. Auch Spaniens Handball ist betroffen.]]></description>
+            <link>https://www.handball-world.news/artikel/zugunglueck-in-spanien-pokalspiel-abgesagt-1266187</link>
+            <guid isPermaLink="false">1266187</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 17:40:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live: Melsungens Endspiel, SCM und Knorr in Paris]]></title>
+            <description><![CDATA[In der Champions League endet die Gruppenphase. Ab 18.45 Uhr werden die Hauptrundentickets der Gruppe B vergeben, mit dabei ist auch die MT Melsungen. Später am Abend empfängt der SC Magdeburg den HC Kriens-Luzern und Juri Knorr spielt mit Aalborg bei seinem künftigen Klub Paris Saint-Germain. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1262275</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 17:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verletzungsticker: Jurmalas Hoffnung, Smits verpasst EM-Quali]]></title>
+            <description><![CDATA[Welcher Spieler oder welche Spielerin hat sich verletzt, wo steht noch eine Diagnose aus und wo eine Rückkehr bevor? Der Verletzungsticker von handball-world liefert eine chronologische Übersicht.]]></description>
+            <link>https://www.handball-world.news/liveticker/1061262</link>
+            <guid isPermaLink="false">1061262</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:41:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ohne Metzner: Der Kader des HC Erlangen 2026/27]]></title>
+            <description><![CDATA[Der HC Erlangen hat seinen Kader verjüngt. Langjährige HCE-Spieler wie Antonio Metzner sind weg. Ein Blick auf das Aufgebot des Handball-Bundesligisten für die Saison 2026/27.]]></description>
+            <link>https://www.handball-world.news/artikel/ohne-metzner-der-kader-des-hc-erlangen-2026-27-1208494</link>
+            <guid isPermaLink="false">1208494</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:24:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kretzschmar überzeugt: U-19-Weltmeister wird Darj-Ersatz]]></title>
+            <description><![CDATA[Mit der Trennung von Kapitän Max Darj zum Saisonende haben die Füchse Berlin am Wochenende für Diskussionen in Handball-Deutschland gesorgt. Experte Stefan Kretzschmar hat einen klaren Favoriten, wenn es um die Nachfolge des Schweden geht.]]></description>
+            <link>https://www.handball-world.news/artikel/kretzschmar-ueberzeugt-u-19-weltmeister-wird-darj-ersatz-1266106</link>
+            <guid isPermaLink="false">1266106</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 16:00:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transferticker: Sellin-Entscheidung, Darj-Gerücht]]></title>
+            <description><![CDATA[Was passiert gerade auf dem Handball-Transfermarkt? Im Transferticker von handball-world gibt es - in Kooperation mit Picard - die neuesten Entwicklungen.]]></description>
+            <link>https://www.handball-world.news/liveticker/handball-transfers-1034721</link>
+            <guid isPermaLink="false">1034721</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 15:36:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dann plant Göppingens Jurmala sein Comeback]]></title>
+            <description><![CDATA[Die Personalsituation bei Frisch Auf Göppingen ist angespannt, Trainer Ben Matschke stand zuletzt kein gelernter Kreisläufer mehr zur Verfügung. Nun hat sich Ludvig Jurmala geäußert, wann er mit einem Comeback rechnet.]]></description>
+            <link>https://www.handball-world.news/artikel/dann-plant-goeppingens-jurmala-sein-comeback-1266143</link>
+            <guid isPermaLink="false">1266143</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 15:30:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Deutschland in Zürich: Ab wann es EM-Tickets zu kaufen gibt]]></title>
+            <description><![CDATA[Im Januar 2027 findet die Handball-WM 2027 in Deutschland statt. Doch schon jetzt rückt das nächste Großereignis in den Fokus: die EM 2028. Ab wann es EM-Tickets zu kaufen gibt:]]></description>
+            <link>https://www.handball-world.news/artikel/deutschland-in-zuerich-ab-wann-es-em-tickets-zu-kaufen-gibt-1266131</link>
+            <guid isPermaLink="false">1266131</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 14:49:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Österreich will mehr: Bilyk und Romero rufen Top 10 als Ziel aus]]></title>
+            <description><![CDATA[Die österreichische Handball-Nationalmannschaft war in den letzten Jahren immer wieder für große Überraschungen gut. Nun steigt der Anspruch im ÖHB-Team. Trainer Romero und Kapitän Bilyk rufen die Top 10 als Ziel aus.]]></description>
+            <link>https://www.handball-world.news/artikel/oesterreich-will-mehr-bilyk-und-romero-rufen-top-10-als-ziel-aus-1266115</link>
+            <guid isPermaLink="false">1266115</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 14:21:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ohne Odense-Torfrau: Dänemark legt vorläufigen EM-Kader fest]]></title>
             <description><![CDATA[Dänemarks Nationaltrainerin Helle Thomsen hat sich auf ein erweitertes Aufgebot festgelegt, das bei der anstehenden Handball-EM zum Einsatz kommen kann. Vor allem im Tor fehlt eine langjährige Leistungsträgerin.]]></description>
@@ -176,14 +256,6 @@
             <guid isPermaLink="false">1265773</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 16:51:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verletzungsticker: Lichtlein-Ausfall, Not-Op in Graz]]></title>
-            <description><![CDATA[Welcher Spieler oder welche Spielerin hat sich verletzt, wo steht noch eine Diagnose aus und wo eine Rückkehr bevor? Der Verletzungsticker von handball-world liefert eine chronologische Übersicht.]]></description>
-            <link>https://www.handball-world.news/liveticker/1061262</link>
-            <guid isPermaLink="false">1061262</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 27 Oct 2026 16:41:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Von Knorr bis Dissinger: Diese Deutschen spielen im Ausland]]></title>
@@ -826,14 +898,6 @@
             <pubDate>Sun, 25 Oct 2026 14:24:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live: Gummersbach setzt Flensburg unter Druck]]></title>
-            <description><![CDATA[Mehrere Topteams sind im Einsatz. Der SC Magdeburg gewann am Ende klar bei den Rhein-Neckar Löwen, die Füchse Berlin hatten keine Mühe mit der HSG Wetzlar. Zeitgleich gewann der Bergische HC einen Krimi gegen Hamburg. Seit 18 Uhr stehen sich der VfL Gummersbach und die SG Flensburg-Handewitt in einem intensiven Duell gegenüber. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1262275</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 25 Oct 2026 18:20:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[367 Tage nach Kreuzbandriss: Wiede zurück auf der Platte]]></title>
             <description><![CDATA[Es hatte sich bereist angekündigt, heute ist es endlich soweit: Nach über einem Jahr Pause gibt Fabian Wiede gegen die HSG Wetzlar sein Comeback für die Füchse Berlin.]]></description>
             <link>https://www.handball-world.news/artikel/367-tage-nach-kreuzbandriss-wiede-zurueck-auf-der-platte-1264968</link>
@@ -1144,70 +1208,6 @@
             <guid isPermaLink="false">1264566</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 24 Oct 2026 08:38:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neuer Meilenstein für HÖJ: "Wir haben Träume und Ambitionen"]]></title>
-            <description><![CDATA[Mit der Verpflichtung von Stars wie Lasse Andersson hat HÖJ Elite bereits ein deutliches Zeichen gesetzt. Jetzt folgt der nächste große Schritt: Mit einer geplanten Multiarena will der Verein auch infrastrukturell die Voraussetzungen für ein Top-Team schaffen.]]></description>
-            <link>https://www.handball-world.news/artikel/neuer-meilenstein-fuer-hoej-wir-haben-traeume-und-ambitionen-1264383</link>
-            <guid isPermaLink="false">1264383</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 08:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Dann kippt das Momentum": So drehte Lemgo das Recken-Match]]></title>
-            <description><![CDATA[Fünfter Sieg in Serie für den TBV Lemgo Lippe und Platz 4 verteidigt. Dabei haben die Blau-Weißen im Auswärtsspiel bei der TSV Hannover-Burgdorf einen wahnsinnigen Endspurt hingelegt, einen Fünf-Tore-Rückstand in einen 29:26-Auswärtserfolg verwandelt.]]></description>
-            <link>https://www.handball-world.news/artikel/dann-kippt-das-momentum-so-drehte-lemgo-das-recken-match-1264550</link>
-            <guid isPermaLink="false">1264550</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 08:43:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball am Samstag: HBL mit THW und SCM und HBF-Derbys]]></title>
-            <description><![CDATA[Heute stehen in der Handball-Bundesliga drei Partien auf dem Programm, unter anderem haben der THW Kiel und der SC Magdeburg die Topspiele des Wochenendes. In der 2. HBL sind es ebenfalls drei Begegnungen. In der Frauenbundesliga haben viele Partien Derbycharakter. Ein Klick auf den Zwischenstand führt direkt zum Liveticker, einer auf das Team zu weiteren Infos wie Kader, News und Vereinsspielplan.]]></description>
-            <link>https://www.handball-world.news/artikel/handball-am-samstag-hbl-mit-thw-und-scm-und-hbf-derbys-1262208</link>
-            <guid isPermaLink="false">1262208</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 09:19:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Existenz bedroht": Ukrainischer Handball am Scheideweg]]></title>
-            <description><![CDATA[Der ukrainische Handballverband (UHF) fürchtet um seinen Fortbestand und fordert mehr Unterstützung vom Weltverband IHF und der Kontinental-Vereinigung EHF.]]></description>
-            <link>https://www.handball-world.news/artikel/existenz-bedroht-ukrainischer-handball-am-scheideweg-1264538</link>
-            <guid isPermaLink="false">1264538</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 07:00:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Plötzlich Topspiel gegen Kiel: Warum Erlangen kein Chaos-Klub mehr ist]]></title>
-            <description><![CDATA[Der HC Erlangen empfängt am heutigen Samstag den THW Kiel zum Bundesliga-Topspiel. Um den einstigen "FC Hollywood" des Handballs ist es auffällig ruhig geworden - und der sportliche Aufschwung des einzigen bayerischen HBL-Klubs hat Gründe.]]></description>
-            <link>https://www.handball-world.news/artikel/ploetzlich-topspiel-gegen-kiel-warum-erlangen-kein-chaos-klub-mehr-ist-1264450</link>
-            <guid isPermaLink="false">1264450</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 05:30:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Im Video: Lemgo dreht Recken-Match nach Stutzke-Rot]]></title>
-            <description><![CDATA[Fünfter Sieg in Serie für den TBV Lemgo Lippe und Platz 4 verteidigt. Dabei haben die Blau-Weißen im Auswärtsspiel bei der TSV Hannover-Burgdorf einen wahnsinnigen Endspurt hingelegt, einen Fünf-Tore-Rückstand in einen 29:26-Auswärtserfolg verwandelt.]]></description>
-            <link>https://www.handball-world.news/videos/im-video-lemgo-dreht-recken-match-nach-stutzke-rot-1264513</link>
-            <guid isPermaLink="false">1264513</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 08:15:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stutzke-Rot, Lemgo-Serie: Spektakuläre TBV-Aufholjagd in Hannover]]></title>
-            <description><![CDATA[Fünfter Sieg in Folge für den TBV Lemgo Lippe: In der Handball-Bundesliga setzte sich das Team von Florian Kehrmann bei der TSV Hannover-Burgdorf mit 29:26 (12:15) durch.]]></description>
-            <link>https://www.handball-world.news/spiel/hannover-gegen-lemgo-2026-handball-bundesliga-5213830/bericht</link>
-            <guid isPermaLink="false">1264440</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 20:08:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schiller-Meilenstein: Göppingen zurück in der Erfolgsspur]]></title>
-            <description><![CDATA[Nachdem Frisch Auf Göppingen aus den vergangenen vier Bundesliga-Spielen keine Punkte mitnehmen konnte, war die Mannschaft von Ben Matschke gegen den ThSV Eisenach von Beginn an hochmotiviert. Mit viel Kampfgeist und einer geschlossenen Mannschaftsleistung setzte sich Frisch Auf am Ende mit 34:26 (17:13) durch und beendete somit die Negativserie.]]></description>
-            <link>https://www.handball-world.news/spiel/goeppingen-gegen-eisenach-2026-handball-bundesliga-5213831/bericht</link>
-            <guid isPermaLink="false">1264442</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 23 Oct 2026 19:25:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
