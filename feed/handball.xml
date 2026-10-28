@@ -4,18 +4,58 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 19:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Oct 2026 23:31:21 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Oct 2026 19:40:16 GMT</pubDate>
+        <pubDate>Wed, 28 Oct 2026 23:31:21 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[CL kompakt: PSG-Sieg über Aalborg, Melsungen und Plock weiter]]></title>
+            <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-psg-sieg-ueber-aalborg-melsungen-und-plock-weiter-1266201</link>
+            <guid isPermaLink="false">1266201</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 21:43:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nach Weber-Blitzstart: Magdeburg lässt Kriens-Luzern keine Chance]]></title>
+            <description><![CDATA[Sechstes Spiel, sechster Sieg - beim 36:29 über den HC Kriens-Luzern hatte der SC Magdeburg keine Mühe, um die weiße Weste in der EHF Champions League zu wahren. Für Kriens-Luzern geht es nun in der European League weiter.]]></description>
+            <link>https://www.handball-world.news/spiel/magdeburg-gegen-kriens-luzern-2026-ehf-champions-league-5249889/bericht</link>
+            <guid isPermaLink="false">1266226</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 21:26:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zum Achtelfinale: Diese CL-Teams rücken in die European League nach]]></title>
+            <description><![CDATA[Nach einer Reform sind European League und Champions League mit einem neuen Modus in die Saison 2026/27 gestartet. Dabei werden Teilnehmer aus der Königklasse nach der Vorrunde in die European League wechseln. Ein Großteil der Nachrücker steht bereits fest:]]></description>
+            <link>https://www.handball-world.news/artikel/zum-achtelfinale-diese-cl-teams-ruecken-in-die-european-league-nach-1261680</link>
+            <guid isPermaLink="false">1261680</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 20:40:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CL: Diese Teams stehen in der Hauptrunde]]></title>
+            <description><![CDATA[Der 4. Spieltag der Handball Champions League ist zur Hälfte absolviert. Einige Mannschaften haben sich das Weiterkommen in die Hauptrunde bereits gesichert.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-diese-teams-stehen-in-der-hauptrunde-1261411</link>
+            <guid isPermaLink="false">1261411</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 20:35:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Füchse, SCM, MT: Auf diese Teams könnten sie in der CL-Hauptrunde treffen]]></title>
+            <description><![CDATA[Die Füchse Berlin, der SC Magdeburg und die MT Melsungen haben sich bereits für die Hauptrunde der EHF Champions League 2026/27 qualifiziert. Das sind die (möglichen) Hauptrunden-Gegner der deutschen Teams:]]></description>
+            <link>https://www.handball-world.news/artikel/fuechse-scm-mt-auf-diese-teams-koennten-sie-in-der-cl-hauptrunde-treffen-1231578</link>
+            <guid isPermaLink="false">1231578</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 28 Oct 2026 20:01:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Videobeweis in Schlussszene: MT Melsungen bucht Hauptrundenticket]]></title>
             <description><![CDATA[Die MT Melsungen hat sich in die Hauptrunde der EHF Champions League gezittert. In einer intensiven Partie mit einer Zeitstrafe gegen den starken Keeper Simic, einer Roten Karte gegen Skopjes Abwehrchef Jankowski und einem Videobeweis in der Schlussszene, reichte dem Bundesligisten ein 26:26-Remis.]]></description>
             <link>https://www.handball-world.news/spiel/vardar-gegen-melsungen-2026-ehf-champions-league-5249880/bericht</link>
             <guid isPermaLink="false">1266192</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 19:37:05 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2026 19:51:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zugunglück in Spanien: Pokalspiel abgesagt]]></title>
@@ -26,12 +66,12 @@
             <pubDate>Wed, 28 Oct 2026 17:40:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live: Melsungens Endspiel, SCM und Knorr in Paris]]></title>
-            <description><![CDATA[In der Champions League endet die Gruppenphase. Ab 18.45 Uhr werden die Hauptrundentickets der Gruppe B vergeben, mit dabei ist auch die MT Melsungen. Später am Abend empfängt der SC Magdeburg den HC Kriens-Luzern und Juri Knorr spielt mit Aalborg bei seinem künftigen Klub Paris Saint-Germain. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
+            <title><![CDATA[Live: Melsungens weiter, SCM und Knorr in Paris]]></title>
+            <description><![CDATA[In der Champions League endet die Gruppenphase. Ab 18.45 Uhr wurden die Hauptrundentickets der Gruppe B vergeben, mit dabei war auch die MT Melsungen, die sich weiter rettete. Später am Abend empfängt der SC Magdeburg den HC Kriens-Luzern und Juri Knorr spielt mit Aalborg bei seinem künftigen Klub Paris Saint-Germain. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
             <link>https://www.handball-world.news/matchkalender</link>
             <guid isPermaLink="false">1262275</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 17:00:06 GMT</pubDate>
+            <pubDate>Wed, 28 Oct 2026 19:46:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Verletzungsticker: Jurmalas Hoffnung, Smits verpasst EM-Quali]]></title>
@@ -368,14 +408,6 @@
             <guid isPermaLink="false">1181486</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 10:51:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Füchse, SCM, MT: Auf diese Teams könnten sie in der CL-Hauptrunde treffen]]></title>
-            <description><![CDATA[Die Füchse Berlin und der SC Magdeburg haben sich bereits für die Hauptrunde der EHF Champions League 2026/27 qualifiziert. Die MT Melsungen könnte folgen. Das sind die (möglichen) Hauptrunden-Gegner der deutschen Teams:]]></description>
-            <link>https://www.handball-world.news/artikel/fuechse-scm-mt-auf-diese-teams-koennten-sie-in-der-cl-hauptrunde-treffen-1231578</link>
-            <guid isPermaLink="false">1231578</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 27 Oct 2026 10:25:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ex-Bundesliga-Profi und Kapitän verlässt OHC]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1264584</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 24 Oct 2026 12:45:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Hatten einiges gutzumachen": Frisch Auf beendet Negativserie]]></title>
-            <description><![CDATA[Nach vier Niederlagen in Serie ist Frisch Auf Göppingen wieder in die Erfolgsspur zurückgekehrt und festigte trotz aller Personalsorgen seine Position im Mittelfeld.]]></description>
-            <link>https://www.handball-world.news/artikel/hatten-einiges-gutzumachen-frisch-auf-beendet-negativserie-1264570</link>
-            <guid isPermaLink="false">1264570</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 09:41:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[U19-Kader des DHB mit fünf Akteuren vom THW Kiel]]></title>
-            <description><![CDATA[Vom 26. bis zum 31. Oktober absolviert das U-19-Handball-Nationalteam einen Lehrgang in Damp. Dieser steht im Zeichen einer erweiterten Förderperspektive, sodass das Trainerteam insgesamt 28 Spieler eingeladen hat - unter ihnen sind gleich fünf Spieler des THW Kiel.]]></description>
-            <link>https://www.handball-world.news/artikel/u19-kader-des-dhb-mit-fuenf-akteuren-vom-thw-kiel-1262280</link>
-            <guid isPermaLink="false">1262280</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 09:19:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die besten Siebenmeter-Schützen der Handball-Bundesliga]]></title>
-            <description><![CDATA[Marcel Schiller schreibt gerade an seiner eigenen Geschichte. Der Linksaußen von Frisch Auf Göppingen gehört zu den besten Siebenmeterschützen der Handball-Bundesliga. Omar Ingi Magnusson hat eine andere SCM-Ikone überholt, ganz vorne ist jedoch weiter Hans Lindberg. Eine Übersicht:]]></description>
-            <link>https://www.handball-world.news/slideshow/die-besten-siebenmeter-schuetzen-der-handball-bundesliga-1216490</link>
-            <guid isPermaLink="false">1216490</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 08:56:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Höler und "fantastische Disziplin" bringen Potsdam den Sieg]]></title>
-            <description><![CDATA[Der 1. VfL Potsdam hat in der 2. Handball-Bundesliga in die Erfolgsspur zurückgefunden. Nach zwei bitteren Niederlagen gewannen die Schützlinge von Trainer Emir Kurtagic am Freitagabend vor 950 Fans in der MBS-Arena mit 31:25 (17:13) gegen die HSG Nordhorn-Lingen.]]></description>
-            <link>https://www.handball-world.news/spiel/potsdam-gegen-nordhorn-2026-handball-bundesliga-5214125/bericht</link>
-            <guid isPermaLink="false">1264566</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 08:38:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
