@@ -4,11 +4,59 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Oct 2026 23:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Oct 2026 08:54:46 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Oct 2026 23:31:21 GMT</pubDate>
+        <pubDate>Thu, 29 Oct 2026 08:54:46 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[SCM nach perfektem Vorrundenabschluss: "Von der ersten Minute an geliefert"]]></title>
+            <description><![CDATA[Mit dem sechsten Sieg im sechsten Spiel beendet der SC Magdeburg die Vorrunde der Handball Champions League makellos. Entsprechend zufrieden zeigte sich Bennet Wiegert nach dem souveränen Start-Ziel-Sieg gegen den HC Kriens-Luzern.]]></description>
+            <link>https://www.handball-world.news/artikel/scm-nach-perfektem-vorrundenabschluss-von-der-ersten-minute-an-geliefert-1266327</link>
+            <guid isPermaLink="false">1266327</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 08:33:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Comeback für Norwegen? Herrem überraschend im vorläufigen EM-Kader]]></title>
+            <description><![CDATA[Am Freitag stellt Norwegens Handball-Nationaltrainer der Frauen Ole Gustav Gjekstad seinen EM-Kader vor. Der 35er-Kader ist bereits veröffentlicht, Camilla Herrem ist überraschend dabei.]]></description>
+            <link>https://www.handball-world.news/artikel/comeback-fuer-norwegen-herrem-ueberraschend-im-vorlaeufigen-em-kader-1266326</link>
+            <guid isPermaLink="false">1266326</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 08:39:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im direkten Duell: Paris klaut Aalborg die Hauptrunden-Punkte]]></title>
+            <description><![CDATA[Aalborg Handbold musste sich am Mittwochabend in der Handball Champions League auswärts bei Paris Saint-Germain mit 25:32 geschlagen geben. Trotz einer zwischenzeitlichen Aufholjagd konnten die Dänen die Niederlage nicht verhindern und gehen mit 1:3 Punkten in die Hauptrunde.]]></description>
+            <link>https://www.handball-world.news/spiel/paris-sg-gegen-aalborg-ab-2026-ehf-champions-league-5249882/bericht</link>
+            <guid isPermaLink="false">1266318</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 08:03:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball-Bundestrainer wird Fußball-Losfee]]></title>
+            <description><![CDATA[Normalerweise profitiert Handball-Deutschland von der Expertise von Markus Gaugisch. Bald wirkt er auch im Fußball mit.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-bundestrainer-wird-fussball-losfee-1266314</link>
+            <guid isPermaLink="false">1266314</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:22:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handball am Donnerstag: Gummersbach und Flensburg in HBL, CL für Füchse]]></title>
+            <description><![CDATA[In der Handball-Bundesliga kommt es zu Duellen zwischen der SG Flensburg-Handewitt und dem HBW Balingen-Weilstetten sowie zwischen Frisch Auf Göppingen und VfL Gummersbach. Zudem treten die Füchse Berlin in der EHF Champions League gegen Partizan Belgrad an.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-donnerstag-gummersbach-und-flensburg-in-hbl-cl-fuer-fuechse-1261546</link>
+            <guid isPermaLink="false">1261546</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 07:00:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Füchse, SCM, MT: Auf diese Teams treffen sie in der CL-Hauptrunde]]></title>
+            <description><![CDATA[Die Füchse Berlin, der SC Magdeburg und die MT Melsungen haben sich für die Hauptrunde der EHF Champions League 2026/27 qualifiziert. Die Gegner der deutschen Teams stehen bereits fest - mit einer Ausnahme.]]></description>
+            <link>https://www.handball-world.news/artikel/fuechse-scm-mt-auf-diese-teams-treffen-sie-in-der-cl-hauptrunde-1231578</link>
+            <guid isPermaLink="false">1231578</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 05:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CL kompakt: PSG-Sieg über Aalborg, Melsungen und Plock weiter]]></title>
             <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
@@ -40,14 +88,6 @@
             <guid isPermaLink="false">1261411</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 20:35:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Füchse, SCM, MT: Auf diese Teams könnten sie in der CL-Hauptrunde treffen]]></title>
-            <description><![CDATA[Die Füchse Berlin, der SC Magdeburg und die MT Melsungen haben sich bereits für die Hauptrunde der EHF Champions League 2026/27 qualifiziert. Das sind die (möglichen) Hauptrunden-Gegner der deutschen Teams:]]></description>
-            <link>https://www.handball-world.news/artikel/fuechse-scm-mt-auf-diese-teams-koennten-sie-in-der-cl-hauptrunde-treffen-1231578</link>
-            <guid isPermaLink="false">1231578</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 20:01:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Videobeweis in Schlussszene: MT Melsungen bucht Hauptrundenticket]]></title>
@@ -407,7 +447,7 @@
             <link>https://www.handball-world.news/artikel/sommer-2026-die-wechsel-in-der-handball-bundesliga-frauen-1181486</link>
             <guid isPermaLink="false">1181486</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 27 Oct 2026 10:51:02 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2026 06:21:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ex-Bundesliga-Profi und Kapitän verlässt OHC]]></title>
@@ -1168,46 +1208,6 @@
             <guid isPermaLink="false">1264601</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 24 Oct 2026 12:07:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nach CL-Aus: Szeged will "notwendige Schlussfolgerungen ziehen"]]></title>
-            <description><![CDATA[Die Enttäuschung bei Pick Szeged war groß. Mit dem Unentschieden in heimischer Halle gegen GOG können die Ungarn in der Champions League nicht mehr weiterkommen, spielen künftig in der EHF European League weiter. Nun hat sich der Klub an seine Fans gewendet.]]></description>
-            <link>https://www.handball-world.news/artikel/nach-cl-aus-szeged-will-notwendige-schlussfolgerungen-ziehen-1264603</link>
-            <guid isPermaLink="false">1264603</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 14:21:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[80. Geburtstag: Die einzige Handballerin als deutsche Olympia-Fahnenträgerin]]></title>
-            <description><![CDATA[Erst einmal durfte eine Handballerin das Team Deutschland bei der Eröffnungsfeier der Olympischen Spiele als Fahnenträgerin vertreten. Vierundvierzig Jahre ist das nun her. Einem Handballer wurde diese Ehre noch nicht zuteil. Wer also war Deutschlands einzige Handball-Fahnenträger-Vertretung?]]></description>
-            <link>https://www.handball-world.news/artikel/80-geburtstag-die-einzige-handballerin-als-deutsche-olympia-fahnentraegerin-1038917</link>
-            <guid isPermaLink="false">1038917</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 11:14:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Ganz entscheidend": Warum Stutzkes Rot die Recken aus der Spur brachte]]></title>
-            <description><![CDATA[Die TSV Hannover-Burgdorf konnte die Seriensieger vom TBV Lemgo Lippe nicht stoppen. Die Rote Karte für Lukas Stutzke war ein Knackpunkt in der Partie, ein weiterer war Lemgos taktische Neujustierung.]]></description>
-            <link>https://www.handball-world.news/artikel/ganz-entscheidend-warum-stutzkes-rot-die-recken-aus-der-spur-brachte-1264588</link>
-            <guid isPermaLink="false">1264588</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 11:35:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vorbild Gensheimer: Norwegens Handball-Legende Herrem verrät Erfolgsrezept]]></title>
-            <description><![CDATA[Camilla Herrem gilt als eine der erfolgreichsten Linksaußen im Frauenhandball. Die Norwegerin gibt exklusive Einblicke in ihre Karriere und erklärt, wie sie das Spiel versteht, sich auf ihre Gegnerinnen vorbereitet und was sie besonders motiviert.]]></description>
-            <link>https://www.handball-world.news/artikel/vorbild-gensheimer-norwegens-handball-legende-herrem-verraet-erfolgsrezept-1263659</link>
-            <guid isPermaLink="false">1263659</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 10:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HC Elbflorenz Dresden festigt Tabellenführung mit Ferndorf-Sieg]]></title>
-            <description><![CDATA[Der HC Elbflorenz hat seine Spitzenposition behauptet. Beim TuS Ferndorf konnten die Sachsen auch den Ausfall von Keeper Marino Mallwitz wegstecken, feierten angeführt von Sebastian Greß ein 35:28 (17:14) beim TuS Ferndorf.]]></description>
-            <link>https://www.handball-world.news/spiel/ferndorf-gegen-dresden-2026-handball-bundesliga-5214133/bericht</link>
-            <guid isPermaLink="false">1264584</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 24 Oct 2026 12:45:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
