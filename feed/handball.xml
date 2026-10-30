@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Oct 2026 20:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 00:14:40 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 29 Oct 2026 20:35:06 GMT</pubDate>
+        <pubDate>Fri, 30 Oct 2026 00:14:40 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Zum Achtelfinale: Diese CL-Teams rücken in die European League nach]]></title>
+            <description><![CDATA[Nach einer Reform sind European League und Champions League mit einem neuen Modus in die Saison 2026/27 gestartet. Dabei werden Teilnehmer aus der Königklasse nach der Vorrunde in die European League wechseln. Nun stehen alle Nachrücker fest:]]></description>
+            <link>https://www.handball-world.news/artikel/zum-achtelfinale-diese-cl-teams-ruecken-in-die-european-league-nach-1261680</link>
+            <guid isPermaLink="false">1261680</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 21:46:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CL: Diese Teams stehen in der Hauptrunde]]></title>
+            <description><![CDATA[Der 4. Spieltag der Handball Champions League ist zur Hälfte absolviert. Einige Mannschaften haben sich das Weiterkommen in die Hauptrunde bereits gesichert.]]></description>
+            <link>https://www.handball-world.news/artikel/cl-diese-teams-stehen-in-der-hauptrunde-1261411</link>
+            <guid isPermaLink="false">1261411</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 21:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[CL kompakt: Bukarest holt letztes Hauptrunden-Ticket]]></title>
+            <description><![CDATA[Am 6. Spieltag der Handball Champions League haben Wisla Plock, die MT Melsungen und Dinamo Bukarest sich die letzten drei Tickets in die Hauptrunde gesichert. PSG besiegte Aalborg und Sporting Lissabon GOG. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-bukarest-holt-letztes-hauptrunden-ticket-1266201</link>
+            <guid isPermaLink="false">1266201</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 29 Oct 2026 21:34:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HBL kompakt: Favoritensiege zum Auftakt]]></title>
             <description><![CDATA[Zum Auftakt des 11. Spieltags der Handball-Bundesliga wurden sowohl der VfL Gummersbach als auch die SG Flensburg-Handewitt ihrer Favoritenrolle gerecht. Am Wochenende stehen weitere spannende Begegnungen an: Während am Freitag die untere Tabellenhälfte in den Fokus rückt, sind am Samstag und Sonntag auch die übrigen Topteams gefordert.]]></description>
@@ -266,14 +290,6 @@
             <pubDate>Thu, 29 Oct 2026 10:03:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[CL kompakt: PSG-Sieg über Aalborg, Melsungen und Plock weiter]]></title>
-            <description><![CDATA[Am 3. Spieltag der Handball Champions League hat Neuling HC Kriens-Luzern den ersten Sieg eingefahren. Während der SC Magdeburg das Topspiel gegen Kielce gewann, waren Veszprem und Paris gnadenlos. Zudem siegte GOG in Kristianstad.]]></description>
-            <link>https://www.handball-world.news/artikel/cl-kompakt-psg-sieg-ueber-aalborg-melsungen-und-plock-weiter-1266201</link>
-            <guid isPermaLink="false">1266201</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 21:43:45 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Nach Weber-Blitzstart: Magdeburg lässt Kriens-Luzern keine Chance]]></title>
             <description><![CDATA[Sechstes Spiel, sechster Sieg - beim 36:29 über den HC Kriens-Luzern hatte der SC Magdeburg keine Mühe, um die weiße Weste in der EHF Champions League zu wahren. Für Kriens-Luzern geht es nun in der European League weiter.]]></description>
             <link>https://www.handball-world.news/spiel/magdeburg-gegen-kriens-luzern-2026-ehf-champions-league-5249889/bericht</link>
@@ -288,22 +304,6 @@
             <guid isPermaLink="false">1047810</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 29 Oct 2026 11:35:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zum Achtelfinale: Diese CL-Teams rücken in die European League nach]]></title>
-            <description><![CDATA[Nach einer Reform sind European League und Champions League mit einem neuen Modus in die Saison 2026/27 gestartet. Dabei werden Teilnehmer aus der Königklasse nach der Vorrunde in die European League wechseln. Ein Großteil der Nachrücker steht bereits fest:]]></description>
-            <link>https://www.handball-world.news/artikel/zum-achtelfinale-diese-cl-teams-ruecken-in-die-european-league-nach-1261680</link>
-            <guid isPermaLink="false">1261680</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 20:40:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CL: Diese Teams stehen in der Hauptrunde]]></title>
-            <description><![CDATA[Der 4. Spieltag der Handball Champions League ist zur Hälfte absolviert. Einige Mannschaften haben sich das Weiterkommen in die Hauptrunde bereits gesichert.]]></description>
-            <link>https://www.handball-world.news/artikel/cl-diese-teams-stehen-in-der-hauptrunde-1261411</link>
-            <guid isPermaLink="false">1261411</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 20:35:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Videobeweis in Schlussszene: MT Melsungen bucht Hauptrundenticket]]></title>
