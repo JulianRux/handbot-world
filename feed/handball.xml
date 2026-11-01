@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 23:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 02:35:56 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 31 Oct 2026 23:48:35 GMT</pubDate>
+        <pubDate>Sun, 01 Nov 2026 02:35:56 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: SC Magdeburg in Lemgo mit besseren Nerven]]></title>
+            <description><![CDATA[Der TBV Lemgo Lippe lieferte dem SC Magdeburg einen packenden Fight, ließ sich nicht abschütteln. Doch die Gastgeber verpassten in der Schlussphase mehrfach den psychologisch wichtigen Anschlusstreffer und der amtierende Handball-Meister spielte seine Crunchtime-Qualitäten aus.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-sc-magdeburg-in-lemgo-mit-besseren-nerven-1267283</link>
+            <guid isPermaLink="false">1267283</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 31 Oct 2026 23:54:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Im Video: THW Kiel lässt Stuttgart auflaufen]]></title>
             <description><![CDATA[Nach einer temporeichen und ausgeglichenen Anfangsphase bekam der THW Kiel gegen den TVB Stuttgart das Heft in die Hand - auch weil die Gäste in vierzehn Minuten nur einen Wurf im Gehäuse von Gonzalo Perez de Vargas unterbringen konnten.]]></description>
@@ -39,7 +47,7 @@
             <link>https://www.handball-world.news/artikel/hbl-kompakt-magdeburgs-arbeitssieg-kiel-mit-gala-1266652</link>
             <guid isPermaLink="false">1266652</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 31 Oct 2026 21:30:03 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 00:12:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2. HBF: Nürtingen und Füchse siegen in Topspielen]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1265592</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 27 Oct 2026 09:14:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mit letzter Parade: Hagen schlägt Großwallstadt]]></title>
-            <description><![CDATA[Der VfL Eintracht Hagen setzt auch gegen den TV Großwallstadt seinen starken Handball-Saisonstart fort. Nach einem umkämpften Spiel entschied schließlich eine letzte Parade über Gewinner und Verlierer.]]></description>
-            <link>https://www.handball-world.news/spiel/hagen-gegen-grosswallstadt-2026-handball-bundesliga-5214128/bericht</link>
-            <guid isPermaLink="false">1265594</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 27 Oct 2026 08:30:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
