@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Nov 2026 20:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 23:53:11 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Nov 2026 20:36:54 GMT</pubDate>
+        <pubDate>Sun, 01 Nov 2026 23:53:11 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Paris distanziert Montpellier deutlich]]></title>
+            <description><![CDATA[Überraschend klar wies Paris Saint-Germain am Sonntag im Topspiel der LNH in Frankreich die Gäste aus Montpellier in die Schranken: Am Ende stand ein 33:23 auf der Anzeigetafel.]]></description>
+            <link>https://www.handball-world.news/spiel/paris-sg-gegen-montpellier-2026-lnh-division-5240231/bericht</link>
+            <guid isPermaLink="false">1267647</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 01 Nov 2026 22:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Im Video: Balingen bricht nach der Pause in Gummersbach ein]]></title>
+            <description><![CDATA[Eine Halbzeit lang konnte der HBW Balingen-Weilstetten beim VfL Gummersbach mithalten. Eine umkämpfte erste Hälfte endete mit einem 16:16-Remis. Nach dem Seitenwechsel drehten die Oberbergischen dann allerdings auf und siegten schließlich klar mit zehn Toren Differenz.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-balingen-bricht-nach-der-pause-in-gummersbach-ein-1267590</link>
+            <guid isPermaLink="false">1267590</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 01 Nov 2026 21:52:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Im Video: 40 starke Minuten reichen Eisenach gegen Berlin nicht]]></title>
             <description><![CDATA[Der ThSV Eisenach spielte gegen die Füchse Berlin eine überragende erste Hälfte, ging nach einem 8:1-Lauf mit einer komfortablen 16:10-Führung in die Pause. Doch der Hauptstadtklub drehte nach dem Seitenwechsel auf, kämpfte sich zurück ins Spiel und setzte sich schließlich nervenstark durch.]]></description>
@@ -39,7 +55,7 @@
             <link>https://www.handball-world.news/artikel/hbl-kompakt-mt-zittert-sich-zum-derbysieg-fuechse-mit-grosser-erleichterung-1266652</link>
             <guid isPermaLink="false">1266652</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 18:57:15 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 21:52:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Deutlicher Sieg gegen Balingen: Gummersbach dreht nach Pause auf]]></title>
@@ -47,7 +63,7 @@
             <link>https://www.handball-world.news/spiel/gummersbach-gegen-balingen-2026-handball-bundesliga-5213816/bericht</link>
             <guid isPermaLink="false">1267527</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 18:48:33 GMT</pubDate>
+            <pubDate>Sun, 01 Nov 2026 21:52:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2. HBL: Potsdamer Krimisieg, Leipzig zurück in Erfolgsspur]]></title>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1266096</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 28 Oct 2026 13:13:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Niederlande in EM-Quali ohne Gummersbachs Smits]]></title>
-            <description><![CDATA[Ende September wurde Mark Bult zum neuen Bondscoach der Niederlande ernannt. In seinem ersten Aufgebot wollte der 44-Jährige auch auf Kay Smits zurückgreifen. Doch für den Linkshänder vom VfL Gummersbach wird nun Ersatz nötig.]]></description>
-            <link>https://www.handball-world.news/artikel/niederlande-in-em-quali-ohne-gummersbachs-smits-1266066</link>
-            <guid isPermaLink="false">1266066</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 13:06:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicht SCM, nicht THW: Gegen diesen HBL-Klub hat Balingen noch nie gewonnen]]></title>
-            <description><![CDATA[Der HBW Balingen-Weilstetten hat in seiner Historie gegen 16 aktuelle Handball-Bundesligisten schon mindestens einmal gewonnen. Einzig gegen ein Team sind die "Gallier" bislang noch erfolglos. Dabei handelt es sich weder um den SC Magdeburg, noch um den THW Kiel.]]></description>
-            <link>https://www.handball-world.news/artikel/nicht-scm-nicht-thw-gegen-diesen-hbl-klub-hat-balingen-noch-nie-gewonnen-1266044</link>
-            <guid isPermaLink="false">1266044</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 28 Oct 2026 12:10:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
