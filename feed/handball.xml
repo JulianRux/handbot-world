@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Nov 2026 17:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2026 22:25:09 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Nov 2026 17:20:01 GMT</pubDate>
+        <pubDate>Tue, 03 Nov 2026 22:25:09 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Vom Handball-Profi zum Gründer - die Geschichte hinter Sportartikelhersteller spized]]></title>
+            <description><![CDATA[Mit 24 Jahren musste Robin Teppich seine Handballkarriere beenden. Einige Jahre später gründete er spized - ein Unternehmen, das Vereinen ermöglicht, ihre Sportbekleidung individuell zu gestalten.]]></description>
+            <link>https://www.handball-world.news/artikel/vom-handball-profi-zum-gruender-die-geschichte-hinter-sportartikelhersteller-spized-1260751</link>
+            <guid isPermaLink="false">1260751</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 03 Nov 2026 20:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Nach verpasster WM-Quali: Ungarn mit Neustart für "neue Ära"]]></title>
             <description><![CDATA[Bei der Handball-WM im Januar ist Ungarn nicht dabei. Mit einem neuen Chefcoach und neuen Spielern will man nun in der EM-Qualifikation durchstarten. Dort wartet gleich zum Auftakt eine hohe Hürde.]]></description>
@@ -159,7 +167,7 @@
             <link>https://www.handball-world.news/artikel/ex-bundestrainer-brand-adelt-das-dhb-team-so-viel-potenzial-wie-seit-50-jahren-nicht-1267846</link>
             <guid isPermaLink="false">1267846</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 16:10:52 GMT</pubDate>
+            <pubDate>Tue, 03 Nov 2026 20:48:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[So sehen die neuen DHB-Trikots aus]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1266860</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 30 Oct 2026 15:52:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hauptrundenspiele terminiert: So geht's in der Champions League weiter]]></title>
-            <description><![CDATA[Alle drei deutschen Champions-League-Teilnehmer haben sich für die nächste Phase des der Königsklasse im Handball qualifiziert. Wie es nach der Vorrunde weitergeht und warum die Füchse Berlin mit dem Rücken zur Wand stehen:]]></description>
-            <link>https://www.handball-world.news/artikel/hauptrundenspiele-terminiert-so-geht-s-in-der-champions-league-weiter-1266458</link>
-            <guid isPermaLink="false">1266458</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 30 Oct 2026 15:23:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
