@@ -4,18 +4,58 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Nov 2026 17:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 22:52:31 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 05 Nov 2026 17:44:40 GMT</pubDate>
+        <pubDate>Thu, 05 Nov 2026 22:52:31 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
-            <title><![CDATA[Live: Deutschland startet in die EM-Quali]]></title>
+            <title><![CDATA[Gislason nach Belgien-Sieg: "Da war ich angefressen"]]></title>
+            <description><![CDATA[Am Ende war der 42:32-Auftakterfolg über Belgien zum Auftakt standesgemäß, doch Bundestrainer Alfred Gislason haderte vor allem im ersten Spielabschnitt mit der Defensive und kritisierte vor allem einem einen Punkt im deutschen Spiel.]]></description>
+            <link>https://www.handball-world.news/artikel/gislason-nach-belgien-sieg-da-war-ich-angefressen-1269040</link>
+            <guid isPermaLink="false">1269040</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 21:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grgic und Golla geben den Ton an: Deutschland gegen Belgien in der Einzelkritik]]></title>
+            <description><![CDATA[Deutschland startet mit einem 42:32-Erfolg gegen Belgien in die Qualifikation zur Handball-EM. Nach einer zunächst noch anfälligen Defensive steigerte sich das DHB-Team im zweiten Durchgang deutlich und sorgte mit einer offensiveren Abwehrformation für klare Verhältnisse. Die deutsche Mannschaft in der Einzelkritik:]]></description>
+            <link>https://www.handball-world.news/slideshow/grgic-und-golla-geben-den-ton-an-deutschland-gegen-belgien-in-der-einzelkritik-1269012</link>
+            <guid isPermaLink="false">1269012</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 21:45:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Abwehrumstellung lässt Deutschland in EM-Quali durchstarten]]></title>
+            <description><![CDATA[Der Start für Deutschland in die EM-Qualifikation lief letztlich standesgemäß. Belgien konnte das DHB-Team vor allem in der ersten Halbzeit noch ärgern, doch im zweiten Spielabschnitt zog die Defensive mit einer Umstellung die Zügel an und feierte letztlich ein ungefährdetes 42:32 (22:18) und ist damit Spitzenreiter der Qualifikationsgruppe.]]></description>
+            <link>https://www.handball-world.news/spiel/deutschland-gegen-belgien-2026-handball-em-qualifikation-5198026/bericht</link>
+            <guid isPermaLink="false">1269007</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 21:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EM-Quali: Favoriten-Siege, Italien und Tschechien mit Mühe]]></title>
+            <description><![CDATA[Die Favoriten haben sich am Ende durchgesetzt, wenngleich Tschechien erst in der Crunchtime Israel besiegte und auch Italien durchaus Mühe im Heimspiel gegen die Slowakei hatte. Österreich besiegte WM-Teilnehmer Türkei. Bei Islands 48:26-Kantersieg konnte Omar Ingi Magnusson mit seinem 400. Länderspieltor einen Meilenstein erreichen.]]></description>
+            <link>https://www.handball-world.news/artikel/em-quali-favoriten-siege-italien-und-tschechien-mit-muehe-1268621</link>
+            <guid isPermaLink="false">1268621</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 21:24:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drei deutsche Städte: Hier findet die WM 2029 statt]]></title>
+            <description><![CDATA[Noch vor der Heim-WM 2027, die Deutschland alleine ausrichtet, hat der Deutsche Handballbund bekannt gegeben, wo bei der Handball-WM 2029 gespielt wird. Dann ist der DHB Co-Ausrichter mit Frankreich.]]></description>
+            <link>https://www.handball-world.news/artikel/drei-deutsche-staedte-hier-findet-die-wm-2029-statt-1269002</link>
+            <guid isPermaLink="false">1269002</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 05 Nov 2026 19:43:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live: Deutschland mit 42 Treffern gegen Belgien]]></title>
             <description><![CDATA[Nach dem Auftakt am gestrigen Mittwoch startet auch Deutschland heute in die EM-Qualifikation. In der Uber Arena kann es gegen Belgien zudem zu zwei Länderspiel-Debüts kommen. Auch zahlreiche weitere Top-Nationen sind auf europäischer Ebene gefordert. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
+            <link>https://www.handball-world.news/spiel/deutschland-hb-gegen-belgien-hb-5198026/ticker</link>
             <guid isPermaLink="false">1262275</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 05 Nov 2026 17:00:05 GMT</pubDate>
+            <pubDate>Thu, 05 Nov 2026 21:09:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Schweizer Meister HC Kriens-Luzern: Schlumpf zieht Schlussstrich]]></title>
@@ -232,14 +272,6 @@
             <guid isPermaLink="false">1268343</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 05 Nov 2026 04:30:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EM-Quali: Österreich-Sieg, Tschechien mit Mühe]]></title>
-            <description><![CDATA[Die Favoriten haben sich am Ende durchgesetzt, wenngleich Tschechien erst in der Crunchtime Israel besiegte. Österreich besiegte WM-Teilnehmer Türkei. Bei Islands 48:26-Kantersieg konnte Omar Ingi Magnusson mit seinem 400. Länderspieltor einen Meilenstein erreichen.]]></description>
-            <link>https://www.handball-world.news/artikel/em-quali-oesterreich-sieg-tschechien-mit-muehe-1268621</link>
-            <guid isPermaLink="false">1268621</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 21:46:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[EHF Euro Cup: Dänemark patzt nach Hoxer-Sorgen, Schweiz verliert]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1239419</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 01 Nov 2026 14:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Vorne häufig festgerannt": Buxtehude verliert Nordderby gegen Oldenburg]]></title>
-            <description><![CDATA[Die Rahmenbedingungen für das Nordderby stimmten mit 1329 Zuschauern. Zumindest kämpferisch hielt das 67. Nord-Derby zwischen dem BSV und dem VfL Oldenburg über 60 Minuten alles, was man sich versprochen hatte. Am Ende setzte sich der VfL erstmals nach vier Jahren wieder in Buxtehude durch, gewann mit 27:24 (13:11).]]></description>
-            <link>https://www.handball-world.news/spiel/buxtehude-gegen-oldenburg-2026-handball-frauen-bundesliga-5244019/bericht</link>
-            <guid isPermaLink="false">1267426</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 14:18:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lehrgang der Beach-U17: 22 Spielerinnen nominiert]]></title>
-            <description><![CDATA[Für die weibliche U17-Beachhandball-Nationalmannschaft steht im November ein weiterer Lehrgang auf dem Programm. Hierfür hat DHB-Trainer Dennis Redlich 22 Spielerinnen nominiert.]]></description>
-            <link>https://www.handball-world.news/artikel/lehrgang-der-beach-u17-22-spielerinnen-nominiert-1267402</link>
-            <guid isPermaLink="false">1267402</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 13:52:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Kämpferische Top-Einstellung": Gelnhausen verteidigt Tabellenspitze in Opladen]]></title>
-            <description><![CDATA[Der TV Gelnhausen hat seine Tabellenführung in der 3. Liga Süd-West erfolgreich verteidigt. Am zehnten Spieltag setzten sich die Barbarossastädter beim heimstarken TuS 82 Opladen mit 26:20 (15:12) durch.]]></description>
-            <link>https://www.handball-world.news/spiel/tus--opladen-gegen-gelnhausen-2026-liga-sued-west-5263941/bericht</link>
-            <guid isPermaLink="false">1267409</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 13:34:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Gezeigt, was in uns steckt": Handball-Luchse schöpfen Mut aus Niederlage]]></title>
-            <description><![CDATA[Die Handball-Luchse haben eine weitere Niederlage hinnehmen müssen. Gegen den ambitionierten HSV Solingen-Gräfrath 76 unterlag die Mannschaft von Trainer Dubravko Prelcec vor 255 Zuschauern in der NordHeideHalle mit 24:28 (11:9).]]></description>
-            <link>https://www.handball-world.news/spiel/luchse-gegen-solingen-graefrath-2026-handball-bundesliga-frauen-5243003/bericht</link>
-            <guid isPermaLink="false">1267408</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 01 Nov 2026 13:09:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
