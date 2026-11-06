@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Nov 2026 17:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2026 22:08:01 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Nov 2026 17:15:46 GMT</pubDate>
+        <pubDate>Fri, 06 Nov 2026 22:08:01 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[1. HBF: Buxtehude siegt am Freitag, Krimis am Mittwoch]]></title>
+            <description><![CDATA[Am 8. Spieltag der Handball-Bundesliga Frauen gab es im Topspiel zwischen Blomberg und Bensheim/Auerbach keinen Sieger. Dadurch ist Borussia Dortmund nach Punkten gleichauf. Oldenburg siegte hauchdünn bei Halle-Neustadt und festigte Platz 4. Am Freitag zog Buxtehude an Metzingen vorbei. Ergebnisse und Torschützinnen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/1-hbf-buxtehude-siegt-am-freitag-krimis-am-mittwoch-1268629</link>
+            <guid isPermaLink="false">1268629</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 06 Nov 2026 19:57:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live: HBF-Spiel am Freitagabend]]></title>
             <description><![CDATA[Zwei Tabellennachbarn stehen sich am Freitagabend in der Handball-Bundesliga Frauen gegenüber. Während der Buxtehuder SV mit einem Auswärtserfolg an Metzingen vorbeiziehen könnte, würde Frisch Auf Göppingen mit einem Heimerfolg mit dem BSV gleichziehen. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken und nach Spielende den Spielbericht.]]></description>
@@ -464,14 +472,6 @@
             <guid isPermaLink="false">1268665</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 21:25:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[1. HBF: Zwei Krimis am Mittwoch, Remis in Blomberg]]></title>
-            <description><![CDATA[Am 8. Spieltag der Handball-Bundesliga Frauen gab es im Topspiel zwischen Blomberg und Bensheim/Auerbach keinen Sieger. Dadurch ist Borussia Dortmund nach Punkten gleichauf. Oldenburg siegte hauchdünn bei Halle-Neustadt und festigte Platz 4. Ergebnisse und Torschützinnen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/1-hbf-zwei-krimis-am-mittwoch-remis-in-blomberg-1268629</link>
-            <guid isPermaLink="false">1268629</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 20:15:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trotz Lichtlein-Ausfall: Darum verzichtete Gislason auf eine Nachnominierung]]></title>
