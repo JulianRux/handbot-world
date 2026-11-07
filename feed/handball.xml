@@ -4,11 +4,43 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 18:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 22:22:39 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Nov 2026 18:53:56 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 22:22:39 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche auf einen Blick.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 21:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EM-Quali: Kroatien und Italien feiern Auswärtssiege, Israel überrascht Slowenien]]></title>
+            <description><![CDATA[Der zweite Spieltag der EM-Qualifikation hielt einige spannende Begegnungen bereit. Während sich Kroatien in Gruppe 1 souverän mit 35:25 gegen Finnland durchsetzte, musste Slowenien in Gruppe 5 eine 28:31-Heimniederlage gegen Israel hinnehmen. In der Gruppe von Deutschland, sicherte sich Italien mit einem 24:20-Erfolg gegen Belgien zwei wichtige Punkte. Die nächsten Partien greifen erst morgen ins Geschehen ein. Dann ist auch das DHB-Team gefordert: Deutschland trifft um 18 Uhr auf die Slowakei und möchte die nächsten Punkte in der Qualifikation einfahren.]]></description>
+            <link>https://www.handball-world.news/artikel/em-quali-kroatien-und-italien-feiern-auswaertssiege-israel-ueberrascht-slowenien-1269493</link>
+            <guid isPermaLink="false">1269493</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 20:55:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2. HBF: Nürtingen festigt die Tabellenführung, Füchse gewinnen Topspiel]]></title>
+            <description><![CDATA[Die SG Nürtingen-Zizishausen festigte mit einem deutlichen Sieg gegen den Bergischen HC die Tabellenführung. Die Füchse Berlin entschieden das Topspiel gegen den HSV Solingen-Gräfrath für sich und bleiben Mainz dicht auf den Fersen. Im Tabellenkeller sammelte Werder Bremen wichtige Punkte gegen Todesfelde. Morgen treffen Bayer 04 Leverkusen und der VfL Waiblingen aufeinander.]]></description>
+            <link>https://www.handball-world.news/artikel/2-hbf-nuertingen-festigt-die-tabellenfuehrung-fuechse-gewinnen-topspiel-1267132</link>
+            <guid isPermaLink="false">1267132</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 20:38:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blomberg kämpft, Györ dominiert: Deutliche Niederlage im CL-Duell]]></title>
+            <description><![CDATA[Die HSG Blomberg-Lippe zeigte gegen Champions-League-Favorit Györ zunächst eine starke Leistung, musste sich am Ende jedoch deutlich mit 21:36 geschlagen geben. Vor dem Rückspiel in Ungarn blickt das Team auf die Gründe für den Einbruch nach der Pause.]]></description>
+            <link>https://www.handball-world.news/spiel/blomberg-lippe-gegen-gyoer-2026-handball-champions-league-frauen-5249761/bericht</link>
+            <guid isPermaLink="false">1269565</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 07 Nov 2026 19:53:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ägypten sichert sich weitere Handball-Großereignisse bis 2029]]></title>
             <description><![CDATA[Ägypten baut seine Rolle als Gastgeber internationaler Handball-Großereignisse weiter aus. Eine neue Vereinbarung mit der IHF bringt dabei gleich mehrere spannende Entwicklungen für die kommenden Jahre mit sich.]]></description>
@@ -160,14 +192,6 @@
             <guid isPermaLink="false">1269371</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 07 Nov 2026 09:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche auf einen Blick.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 09:32:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flexibilität als Schlüssel: Was Jordi Ribera über die moderne Abwehr sagt]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1267791</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 02 Nov 2026 15:33:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Werder Bremen mit Kantersieg in 2. Liga]]></title>
-            <description><![CDATA[Zweiter Auswärtserfolg der Saison für den SV Werder Bremen in der 2. Handball Bundesliga Frauen: Bei der SG 09 Kirchhof sicherten sich die Grün-Weißen durch ein deutliches 37:29 beide Punkte. Bereits beim 21:11 zur Pause war die Partie entschieden.]]></description>
-            <link>https://www.handball-world.news/spiel/sg--kirchhof-gegen-bremen-2026-handball-bundesliga-frauen-5243005/bericht</link>
-            <guid isPermaLink="false">1267862</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 02 Nov 2026 15:29:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Offensiv "keine Sorgen": Bayer Leverkusen mit erstem Saisonsieg]]></title>
-            <description><![CDATA[Der TSV Bayer 04 Leverkusen überzeugt beim 40:33-Auswärtserfolg mit einem starken Start, viel Offensivkraft und einem geschlossenen Mannschaftsauftritt.]]></description>
-            <link>https://www.handball-world.news/spiel/rostocker-gegen-leverkusen-2026-handball-bundesliga-frauen-5243001/bericht</link>
-            <guid isPermaLink="false">1267860</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 02 Nov 2026 15:24:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zwischen Derby-Frust und Nationalmannschaft: Niklas Theiß vor besonderer Woche]]></title>
-            <description><![CDATA[Die Enttäuschung nach der Niederlage im Hessenderby war bei Niklas Theiß groß. Mit der HSG Wetzlar steht er weiterhin sieglos am Tabellenende der Handball-Bundesliga. Doch während seine Mannschaft dringend Punkte im Abstiegskampf benötigt, wartet auf den Rückraumspieler in der Länderspielpause ein ganz besonderes Erlebnis: die erste Zeit bei der Nationalmannschaft.]]></description>
-            <link>https://www.handball-world.news/artikel/zwischen-derby-frust-und-nationalmannschaft-niklas-theiss-vor-besonderer-woche-1267793</link>
-            <guid isPermaLink="false">1267793</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 02 Nov 2026 15:06:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
