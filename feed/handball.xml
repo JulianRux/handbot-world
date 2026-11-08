@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Nov 2026 19:01:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2026 22:42:57 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Nov 2026 19:01:03 GMT</pubDate>
+        <pubDate>Sun, 08 Nov 2026 22:42:57 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[EM-Quali: Israel schlägt Slowenien, DHB-Team souverän, Schweden mit 50 Treffern]]></title>
+            <description><![CDATA[Der zweite Spieltag der EM-Qualifikation hielt einige spannende Begegnungen bereit. Während sich Kroatien souverän gegen Finnland durchsetzte, musste Slowenien eine überraschende Heim-Niederlage gegen Israel hinnehmen. DHB-Gegner Italien sicherte sich mit einem 24:20-Erfolg gegen Belgien zwei wichtige Punkte. Deutschland setzte sich in der Slowakei unterdessen souverän durch.]]></description>
+            <link>https://www.handball-world.news/artikel/em-quali-israel-schlaegt-slowenien-dhb-team-souveraen-schweden-mit-50-treffern-1269493</link>
+            <guid isPermaLink="false">1269493</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 20:34:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EHF Euro Cup: Schweiz verliert doppelt, kein Sieger im iberischen Duell]]></title>
+            <description><![CDATA[Zum Auftakt des EHF Euro Cups hat sich Portugal mit einem 33:28-Heimsieg über die Schweiz an die Spitze gesetzt. Spanien kam in beiden Duellen gegen Dänemark und Portugal nicht über ein Unentschieden hinaus. Dänemark  setzte sich unterdessen vor Rekordkulisse in der Schweiz durch.]]></description>
+            <link>https://www.handball-world.news/artikel/ehf-euro-cup-schweiz-verliert-doppelt-kein-sieger-im-iberischen-duell-1268665</link>
+            <guid isPermaLink="false">1268665</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 20:33:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zweiter Sieg in EM-Quali: DHB-Team schürt Lust auf Heim-WM]]></title>
+            <description><![CDATA[Zwei Spiele, zwei Siege: Deutschlands Handballer haben ihre Pflichtaufgaben in der EM-Qualifikation mit Bravour gemeistert. Drei Tage nach dem souveränen Erfolg gegen Belgien (42:32) feierte die Mannschaft von Bundestrainer Alfred Gislason beim 39:27 (24:12) in der Slowakei ein wahres Schützenfest und kann sich jetzt ganz auf die Heim-WM im Januar konzentrieren.]]></description>
+            <link>https://www.handball-world.news/artikel/zweiter-sieg-in-em-quali-dhb-team-schuert-lust-auf-heim-wm-1269905</link>
+            <guid isPermaLink="false">1269905</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 08 Nov 2026 19:24:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Starker Knorr-Ersatz, Wolff überzeugt: Slowakei gegen Deutschland in der Einzelkritik]]></title>
             <description><![CDATA[Die deutschen Handballer erledigten auch ihre zweite Pflichtaufgabe in der EM-Qualifikation. Nach fünf schwachen Minuten steigerte sich das DHB-Team und gewann in der Slowakei deutlich mit 39:27 (24:12). Die deutsche Mannschaft in der Einzelkritik:]]></description>
@@ -272,14 +296,6 @@
             <guid isPermaLink="false">1047810</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 08 Nov 2026 09:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[EM-Quali: Kroatien und Italien feiern Auswärtssiege, Israel überrascht Slowenien]]></title>
-            <description><![CDATA[Der zweite Spieltag der EM-Qualifikation hielt einige spannende Begegnungen bereit. Während sich Kroatien in Gruppe 1 souverän mit 35:25 gegen Finnland durchsetzte, musste Slowenien in Gruppe 5 eine 28:31-Heimniederlage gegen Israel hinnehmen. In der Gruppe von Deutschland, sicherte sich Italien mit einem 24:20-Erfolg gegen Belgien zwei wichtige Punkte. Die nächsten Partien greifen erst morgen ins Geschehen ein. Dann ist auch das DHB-Team gefordert: Deutschland trifft um 18 Uhr auf die Slowakei und möchte die nächsten Punkte in der Qualifikation einfahren.]]></description>
-            <link>https://www.handball-world.news/artikel/em-quali-kroatien-und-italien-feiern-auswaertssiege-israel-ueberrascht-slowenien-1269493</link>
-            <guid isPermaLink="false">1269493</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 10:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Blomberg kämpft, Györ dominiert: Deutliche Niederlage im CL-Duell]]></title>
@@ -922,14 +938,6 @@
             <pubDate>Thu, 05 Nov 2026 04:30:07 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[EHF Euro Cup: Dänemark patzt nach Hoxer-Sorgen, Schweiz verliert]]></title>
-            <description><![CDATA[Im EHF Euro Cup hat sich Portugal mit einem 33:28-Heimsieg über die Schweiz an die Spitze gesetzt. Das Duell zwischen Dänemark und Spanien kannte am Ende keinen Sieger. Beim Welt- und Europameister war die Partie für Mads Hoxer mit einer Schulterblessur frühzeitig beendet.]]></description>
-            <link>https://www.handball-world.news/artikel/ehf-euro-cup-daenemark-patzt-nach-hoxer-sorgen-schweiz-verliert-1268665</link>
-            <guid isPermaLink="false">1268665</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 21:25:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Trotz Lichtlein-Ausfall: Darum verzichtete Gislason auf eine Nachnominierung]]></title>
             <description><![CDATA[Deutschlands Handball-Nationalmannschaft der Männer startet in dieser Woche in die EM-Qualifikation. Nach der Verletzung von Nils Lichtlein verzichtete Bundestrainer Alfred Gislason auf einen Ersatz und hat das nun begründet.]]></description>
             <link>https://www.handball-world.news/artikel/trotz-lichtlein-ausfall-darum-verzichtete-gislason-auf-eine-nachnominierung-1268545</link>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1268133</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 14:48:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MT Melsungen mit stärkster Defensive der Liga: Sportvorstand Larsson ist überzeugt]]></title>
-            <description><![CDATA[Die MT Melsungen blickt trotz Verletzungssorgen und hoher Belastung auf einen erfolgreichen Saisonverlauf. Besonders eine Mannschaftsleistung sticht dabei heraus und sorgt für Zufriedenheit beim Sportvorstand.]]></description>
-            <link>https://www.handball-world.news/artikel/mt-melsungen-mit-staerkster-defensive-der-liga-sportvorstand-larsson-ist-ueberzeugt-1268099</link>
-            <guid isPermaLink="false">1268099</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 14:21:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
