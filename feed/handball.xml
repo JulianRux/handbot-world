@@ -4,11 +4,83 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Nov 2026 01:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2026 09:24:27 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 09 Nov 2026 01:58:47 GMT</pubDate>
+        <pubDate>Mon, 09 Nov 2026 09:24:27 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Halbzeit-Vorsprung vergeben: Dortmund verliert Krimi zum CL-Hinrunden-Abschluss]]></title>
+            <description><![CDATA[Bittere Niederlage: Zum Abschluss der Hinrunde muss sich Borussia Dortmund in der EHF Champions League nach einer 13:9-Halbzeitführung  mit 24:25 gegen OTP Group Buducnost geschlagen geben.]]></description>
+            <link>https://www.handball-world.news/spiel/dortmund-gegen-zrk-buducnost-2026-handball-champions-league-frauen-5249757/bericht</link>
+            <guid isPermaLink="false">1270030</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 08:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hanning über Debütant Móré: "Bessere Werbung kann man nicht machen"]]></title>
+            <description><![CDATA[Die Länderspiele gegen Belgien und die Slowakei seien "fast ein Muster ohne Wert" sagt Bob Hanning. Der kicker-Kolumnist lobte besonders einen Debütanten der deutschen Handball-Nationalmannschaft und blickt gespannt auf die Kader-Nominierung von Alfred Gislason.]]></description>
+            <link>https://www.handball-world.news/videos/hanning-ueber-debuetant-more-bessere-werbung-kann-man-nicht-machen-1270061</link>
+            <guid isPermaLink="false">1270061</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 09:12:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gislason nach DHB-Siegen glücklich: "Alle haben Leistung gebracht"]]></title>
+            <description><![CDATA[Alfred Gislason hat die Qual der Wahl - doch der Bundestrainer lässt sich beim Poker um die letzten WM-Kaderplätze nicht in die Karten schauen.]]></description>
+            <link>https://www.handball-world.news/artikel/gislason-nach-dhb-siegen-gluecklich-alle-haben-leistung-gebracht-1270015</link>
+            <guid isPermaLink="false">1270015</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 08:33:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flensburg bestätigt Witzke-Abschied]]></title>
+            <description><![CDATA[Die SG Flensburg-Handewitt hat den Wechsel von Luca Witzke zum Handball Club Hamburg bestätigt. Sein Debüt in der Hansestadt gibt 27-Jährige bereits am Mittwoch.]]></description>
+            <link>https://www.handball-world.news/artikel/flensburg-bestaetigt-witzke-abschied-1270045</link>
+            <guid isPermaLink="false">1270045</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 08:30:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DHB-Team: Nur noch zwei Spiele bis zur Heim-WM]]></title>
+            <description><![CDATA[In 68 Tagen ist es so weit: Im Januar 2027 findet die Handball-WM in Deutschland statt. Abgesehen von der unmittelbaren WM-Qualifikation steht kein weiteres Länderspiel mehr an. Der Fahrplan des DHB-Teams bis zum Großturnier:]]></description>
+            <link>https://www.handball-world.news/artikel/dhb-team-nur-noch-zwei-spiele-bis-zur-heim-wm-1220718</link>
+            <guid isPermaLink="false">1220718</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 08:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zweifacher Europameister Fernandez beendet Karriere]]></title>
+            <description><![CDATA[Ángel Fernández wird am Ende der laufenden Saison seine Karriere beenden. Der Kapitän des spanischen Erstligisten Bathco BM Torrelavega verabschiedet sich damit nach vielen erfolgreichen Jahren vom aktiven Handball.]]></description>
+            <link>https://www.handball-world.news/artikel/zweifacher-europameister-fernandez-beendet-karriere-1269817</link>
+            <guid isPermaLink="false">1269817</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 07:23:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Ganz klare Steigerung": DHB-Team vor Heim-WM im Torrausch]]></title>
+            <description><![CDATA[Erst Belgien, jetzt die Slowakei: Deutschland spaziert durch die EM-Qualifikation. Der zweite Handball-Kantersieg wird zur lockeren Trainingseinheit. Nun rückt die Heim-WM in den Fokus.]]></description>
+            <link>https://www.handball-world.news/artikel/ganz-klare-steigerung-dhb-team-vor-heim-wm-im-torrausch-1269938</link>
+            <guid isPermaLink="false">1269938</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 07:15:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamburg verpflichtet Flensburger Witzke]]></title>
+            <description><![CDATA[Der 51-malige Nationalspieler Luca Witzke wechselt von der SG Flensburg-Handewitt zum HC Hamburg - zunächst nur bis zum Saisonende.]]></description>
+            <link>https://www.handball-world.news/artikel/hamburg-verpflichtet-flensburger-witzke-1270007</link>
+            <guid isPermaLink="false">1270007</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 06:07:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schwalb fordert Winter-Transferfenster: "Es gibt doch nichts Schlimmeres"]]></title>
+            <description><![CDATA[Martin Schwalb kritisiert die immer frühzeitigeren Wechselvereinbarungen im deutschen Handball. Im Gespräch mit handball-world fordert der 63-Jährige ein Umdenken, bringt ein Winter-Transferfenster sowie marktgerechte Ablösesummen ins Spiel und verteilt eine Spitze gegen die Handball-Bosse.]]></description>
+            <link>https://www.handball-world.news/artikel/schwalb-fordert-winter-transferfenster-es-gibt-doch-nichts-schlimmeres-1269199</link>
+            <guid isPermaLink="false">1269199</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Mon, 09 Nov 2026 04:30:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[EM-Quali: Israel schlägt Slowenien, DHB-Team souverän, Schweden mit 50 Treffern]]></title>
             <description><![CDATA[Der zweite Spieltag der EM-Qualifikation hielt einige spannende Begegnungen bereit. Während sich Kroatien souverän gegen Finnland durchsetzte, musste Slowenien eine überraschende Heim-Niederlage gegen Israel hinnehmen. DHB-Gegner Italien sicherte sich mit einem 24:20-Erfolg gegen Belgien zwei wichtige Punkte. Deutschland setzte sich in der Slowakei unterdessen souverän durch.]]></description>
@@ -392,14 +464,6 @@
             <guid isPermaLink="false">1142319</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 07 Nov 2026 13:08:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DHB-Team: Nur noch drei Spiele bis zur Heim-WM]]></title>
-            <description><![CDATA[In 67 Tagen ist es so weit: Im Januar 2027 findet die Handball-WM in Deutschland statt. Wie sieht der Fahrplan des DHB-Teams bis dahin aus?]]></description>
-            <link>https://www.handball-world.news/artikel/dhb-team-nur-noch-drei-spiele-bis-zur-heim-wm-1220718</link>
-            <guid isPermaLink="false">1220718</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 13:58:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Keine Sparmaßnahme": Bob Hanning erläutert Schröder-Entscheidung]]></title>
@@ -1144,70 +1208,6 @@
             <guid isPermaLink="false">1267870</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 04 Nov 2026 05:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wechselt jetzt die ganze Nationalmannschaft?]]></title>
-            <description><![CDATA[Knorr, Uscins und Fischer wechseln, um Späth, Wolff und Golla wird spekuliert. Packt jetzt die halbe Nationalmannschaft ihre Koffer? Höchste Zeit, dass der DHB einen Umzugsdienst als Sponsor gewinnt, meint unser Kolumnist.]]></description>
-            <link>https://www.handball-world.news/artikel/wechselt-jetzt-die-ganze-nationalmannschaft-1268115</link>
-            <guid isPermaLink="false">1268115</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 14:44:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vom Handball-Profi zum Gründer - die Geschichte hinter Sportartikelhersteller spized]]></title>
-            <description><![CDATA[Mit 24 Jahren musste Robin Teppich seine Handballkarriere beenden. Einige Jahre später gründete er spized - ein Unternehmen, das Vereinen ermöglicht, ihre Sportbekleidung individuell zu gestalten.]]></description>
-            <link>https://www.handball-world.news/artikel/vom-handball-profi-zum-gruender-die-geschichte-hinter-sportartikelhersteller-spized-1260751</link>
-            <guid isPermaLink="false">1260751</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 04 Nov 2026 14:38:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nach verpasster WM-Quali: Ungarn mit Neustart für "neue Ära"]]></title>
-            <description><![CDATA[Bei der Handball-WM im Januar ist Ungarn nicht dabei. Mit einem neuen Chefcoach und neuen Spielern will man nun in der EM-Qualifikation durchstarten. Dort wartet gleich zum Auftakt eine hohe Hürde.]]></description>
-            <link>https://www.handball-world.news/artikel/nach-verpasster-wm-quali-ungarn-mit-neustart-fuer-neue-aera-1268100</link>
-            <guid isPermaLink="false">1268100</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 16:54:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Katar: Mehrfacher CL-Sieger wird Nationaltrainer]]></title>
-            <description><![CDATA[Katars Nationalteam hat kurz vor der Handball-WM in Deutschland einen neuen Trainer bekommen. Der neue Chef an der Seitenlinie hat mehrfach die Champions League gewonnen.]]></description>
-            <link>https://www.handball-world.news/artikel/katar-mehrfacher-cl-sieger-wird-nationaltrainer-1268090</link>
-            <guid isPermaLink="false">1268090</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 16:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wer kam unter Gislason zu seinem Debüt? Die große Übersicht]]></title>
-            <description><![CDATA[In Niklas Theiß und David Móré hat Handball-Bundestrainer Alfred Gislason zwei Neulinge für die EM-Qualifikationsspiele in dieser Woche nominiert. Wie viele Nationalspieler unter Gislason ihr Debüt gegeben haben und in welchem Jahr der Ära die meisten Länderspiel-Premieren gefeiert wurden:]]></description>
-            <link>https://www.handball-world.news/artikel/wer-kam-unter-gislason-zu-seinem-debuet-die-grosse-uebersicht-1268122</link>
-            <guid isPermaLink="false">1268122</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 11:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ÖHB-Team als Favorit in EM-Quali-Auftakt gegen Türkei]]></title>
-            <description><![CDATA[Mykola Bilyk und die Handball-Nationalmannschaft von Österreich starten am Mittwoch (18.00 Uhr/live ORF Sport +) in Graz ihre EM-Mission. Die ÖHB-Männer wollen sich nicht nur für die kontinentale Endrunde 2028 qualifizieren, sie wollen dort auch eine gewichtige Rolle spielen.]]></description>
-            <link>https://www.handball-world.news/artikel/oehb-team-als-favorit-in-em-quali-auftakt-gegen-tuerkei-1268131</link>
-            <guid isPermaLink="false">1268131</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 15:43:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball im Fernsehen: Start der EM-Quali]]></title>
-            <description><![CDATA[Die Handball-Bundesliga ruht, etliche Stars sind mit ihren Nationalmannschaften unterwegs, unter anderem startet Deutschland in die EM-Quali. Im Frauenhandball wird auch wieder in Champions und European League gespielt. Die TV-Termine der Woche:]]></description>
-            <link>https://www.handball-world.news/artikel/handball-im-fernsehen-start-der-em-quali-1100485</link>
-            <guid isPermaLink="false">1100485</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 15:16:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Island in EM-Quali ohne Göppingens Gislason]]></title>
-            <description><![CDATA[Als Snorri Gudjonsson vor einigen Wochen sein Aufgebot für den Start in die EM-Qualifikation nominierte, war auch Ymir Gislason dabei. Nun steht allerdings fest, der Kreisläufer von Frisch Auf Göppingen wird sein Comeback erst nach der Länderspielpause geben.]]></description>
-            <link>https://www.handball-world.news/artikel/island-in-em-quali-ohne-goeppingens-gislason-1268133</link>
-            <guid isPermaLink="false">1268133</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 03 Nov 2026 14:48:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
