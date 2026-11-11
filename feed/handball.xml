@@ -4,18 +4,98 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Nov 2026 17:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 23:28:44 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Nov 2026 17:16:28 GMT</pubDate>
+        <pubDate>Wed, 11 Nov 2026 23:28:44 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
-            <title><![CDATA[Live: DHB-Pokal-Achtelfinale mit SCM, THW und Füchsen]]></title>
-            <description><![CDATA[Heute stehen fünf Achtelfinal-Duelle im DHB-Pokal an. So sind zum Beispiel der SC Magdeburg, der THW Kiel und die Füchse Berlin im Einsatz. Die Partien im Liveticker:]]></description>
-            <link>https://www.handball-world.news/spiel/vfl-eintracht-hagen-gegen-tsv-gwd-minden-5269377/ticker</link>
-            <guid isPermaLink="false">1245795</guid>
+            <title><![CDATA[DHB-Pokal: Diese Teams stehen im Viertelfinale]]></title>
+            <description><![CDATA[Im DHB-Pokal-Achtelfinale hat sich der THW Kiel knapp beim TBV Lemgo Lippe durchgesetzt. Auch der SC Magdeburg und die Füchse Berlin sind eine Runde weiter. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/dhb-pokal-diese-teams-stehen-im-viertelfinale-1270791</link>
+            <guid isPermaLink="false">1270791</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 11 Nov 2026 17:00:15 GMT</pubDate>
+            <pubDate>Wed, 11 Nov 2026 20:48:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Erlangen lässt Emsdetten keine Chance]]></title>
+            <description><![CDATA[Der HC Erlangen hat seine Aufgabe im DHB-Pokal souverän gelöst. Beim TV Emsdetten setzte sich der HCE mit 38:26 durch und machte damit den Einzug ins Viertelfinale perfekt. Die Gastgeber hielten zunächst dagegen, mussten die Gäste im weiteren Spielverlauf aber ziehen lassen.]]></description>
+            <link>https://www.handball-world.news/spiel/emsdetten-gegen-erlangen-2026-dhb-pokal-5269378/bericht</link>
+            <guid isPermaLink="false">1270802</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 20:41:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[13 Gidsel-Treffer beim Pokal-Spiel "unter Freunden"]]></title>
+            <description><![CDATA[Titelverteidiger Füchse Berlin wurde im Achtelfinale des DHB-Pokals bei Kooperationspartner 1. VfL Potsdam seiner Favoritenrolle gerecht und löste mit einem ungefährdeten 42:30 (23:14) das Viertelfinal-Ticket.]]></description>
+            <link>https://www.handball-world.news/spiel/potsdam-gegen-berlin-2026-dhb-pokal-5269375/bericht</link>
+            <guid isPermaLink="false">1270800</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 20:48:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nach Nervenschlacht: Göppingen beendet in Balingen Pokal-Durststrecke]]></title>
+            <description><![CDATA[Nach schwierigen Wochen in der Liga hatten der HBW Balingen-Weilstetten und Frisch Auf Göppingen am Mittwoch die Chance, im Derby das Viertelfinale im DHB-Pokal zu erreichen. Die Spannung wuchs dabei im Spielverlauf ins Unermessliche. Mit 34:33 (19:19) erreichte Göppingen erstmals seit 2018 das Pokal-Viertelfinale. Die letzte Situation entschied darüber.]]></description>
+            <link>https://www.handball-world.news/spiel/balingen-gegen-goeppingen-2026-dhb-pokal-5269376/bericht</link>
+            <guid isPermaLink="false">1270778</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 20:21:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Torhüter-Show in Lemgo: Kiel zieht ins Viertelfinale ein]]></title>
+            <description><![CDATA[Der THW Kiel steht im DHB-Pokal-Viertelfinale: Die "Zebras" setzten sich mit 35:34 (18:14) beim TBV Lemgo Lippe durch. Andreas Wolff und Constantin Möstl lieferten eine Torhüter-Show.]]></description>
+            <link>https://www.handball-world.news/spiel/lemgo-gegen-kiel-2026-dhb-pokal-5269374/bericht</link>
+            <guid isPermaLink="false">1270789</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 19:56:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viertelfinal-Ticket: SCM mit Tor-Spektakel gegen Hamburg]]></title>
+            <description><![CDATA[Der SC Magdeburg hat sich im Achtelfinale des DHB-Pokals gegen den Handball Club Hamburg deutlich mit 43:32 (22:19) durchgesetzt. Damit ziehen die Magdeburger ins Viertelfinale ein.]]></description>
+            <link>https://www.handball-world.news/spiel/magdeburg-gegen-hc-hamburg-2026-dhb-pokal-5269381/bericht</link>
+            <guid isPermaLink="false">1270822</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 20:02:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Der Wunsch nach mehr Respekt]]></title>
+            <description><![CDATA[Nach 25 Texten am "Tag des Schiedsrichters" 2026 erfolgt mit diesem Beitrag der "Abpfiff" des Thementags. Anderthalb Monate vor Weihnachten hat handball-world.news die Unparteiischen gefragt, was auf ihrem Wunschzettel steht.]]></description>
+            <link>https://www.handball-world.news/artikel/der-wunsch-nach-mehr-respekt-1270712</link>
+            <guid isPermaLink="false">1270712</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 19:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Das Shotclock-Experiment]]></title>
+            <description><![CDATA[Eine Shotclock als Lösung für die Subjektivität des passiven Spiels: Die Idee geistert immer wieder durch die Handball-Szene. Für den "Tag des Schiedsrichters" unterzog handball-world.news mit zwei Landesliga-Mannschaften aus Hamburg die Wurfuhr einem Praxistest.]]></description>
+            <link>https://www.handball-world.news/artikel/das-shotclock-experiment-1270797</link>
+            <guid isPermaLink="false">1270797</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lemgos Top-Torschütze Versteijnen verlängert vorzeitig]]></title>
+            <description><![CDATA[Tolle Nachricht für die Fans des TBV Lemgo Lippe: Top-Torschütze Niels Versteijnen hat seinen Vertrag beim Handball-Bundesligisten vorzeitig verlängert.]]></description>
+            <link>https://www.handball-world.news/artikel/lemgos-top-torschuetze-versteijnen-verlaengert-vorzeitig-1270793</link>
+            <guid isPermaLink="false">1270793</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:17:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Jetzt läuft der Hase andersherum": Schulze/Tönnies im Interview mit unserer Redakteurin]]></title>
+            <description><![CDATA[Seit über zehn Jahren berichtet Julia Nikoleit für handball-world über Schiedsrichter-Themen und hat unzählige Interviews geführt. Dieses Jahr gab es am "Tag des Schiedsrichters" einen Rollentausch - und unsere Redakteurin stellte sich den Fragen von Robert Schulze und Tobias Tönnies.]]></description>
+            <link>https://www.handball-world.news/artikel/jetzt-laeuft-der-hase-andersherum-schulze-toennies-im-interview-mit-unserer-redakteurin-1270742</link>
+            <guid isPermaLink="false">1270742</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 18:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ein Anruf mit Folgen]]></title>
+            <description><![CDATA[Auch in Zeiten von E-Mails, Messenger-Diensten und Videocalls ist das Telefonat für Schiedsrichter:innen ein elementarer Bestandteil ihres Hobbys. Für den "Tag des Schiedsrichters" erinnern sich sieben Schiedsrichter an einen Anruf zurück, der etwas für sie verändert hat - sei es den Tag, ihre Karriere oder sogar ein Leben.]]></description>
+            <link>https://www.handball-world.news/artikel/ein-anruf-mit-folgen-1270724</link>
+            <guid isPermaLink="false">1270724</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 17:30:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ein Blick in die Zukunft des Schiedsrichterwesens]]></title>
@@ -24,6 +104,14 @@
             <guid isPermaLink="false">1270717</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 11 Nov 2026 17:00:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live: DHB-Pokal-Achtelfinale mit SCM, THW und Füchsen]]></title>
+            <description><![CDATA[Heute stehen fünf Achtelfinal-Duelle im DHB-Pokal an. So sind zum Beispiel der SC Magdeburg, der THW Kiel und die Füchse Berlin im Einsatz. Die Partien im Liveticker:]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1245795</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 11 Nov 2026 19:09:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Sehr bittere Nachricht": Neckarsulms Soffel am Knie verletzt]]></title>
@@ -39,7 +127,7 @@
             <link>https://www.handball-world.news/artikel/regelecke-ein-faq-zum-direkten-freiwurf-nach-schlusssignal-1270709</link>
             <guid isPermaLink="false">1270709</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 11 Nov 2026 16:30:01 GMT</pubDate>
+            <pubDate>Wed, 11 Nov 2026 17:41:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Großwallstadt reagiert auf Horlebein-Verletzung]]></title>
@@ -331,11 +419,11 @@
         </item>
         <item>
             <title><![CDATA[Die 25 Texte am "Tag des Schiedsrichters" 2026]]></title>
-            <description><![CDATA[Schiedsrichter:innen sind ein elementarer Bestandteil des Handballs. Die Redaktion von handball-world stellt die für unsere Sportart unverzichtbaren Unparteiischen daher am heutigen "Tag des Schiedsrichters" in den Mittelpunkt und widmet sich dem Thema mit insgesamt 25 Texten.]]></description>
+            <description><![CDATA[Schiedsrichter:innen sind ein elementarer Bestandteil des Handballs. Die Redaktion von handball-world stellte die für unsere Sportart unverzichtbaren Unparteiischen daher am heutigen "Tag des Schiedsrichters" in den Mittelpunkt und widmete sich dem Thema mit insgesamt 25 Texten.]]></description>
             <link>https://www.handball-world.news/artikel/die-25-texte-am-tag-des-schiedsrichters-2026-1270568</link>
             <guid isPermaLink="false">1270568</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 11 Nov 2026 16:13:20 GMT</pubDate>
+            <pubDate>Wed, 11 Nov 2026 19:05:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[15. Todestag: Gedenken an Methe/Methe]]></title>
@@ -1120,94 +1208,6 @@
             <guid isPermaLink="false">1266022</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sun, 08 Nov 2026 07:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slowakei gegen Deutschland: Wer überträgt live im TV und Stream?]]></title>
-            <description><![CDATA[Am Sonntag (8. November) gastieren die deutschen Handballer in der Slowakei. Wo wird das EM-Qualifikationsspiel übertragen?]]></description>
-            <link>https://www.handball-world.news/artikel/slowakei-gegen-deutschland-wer-uebertraegt-live-im-tv-und-stream-1268470</link>
-            <guid isPermaLink="false">1268470</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 06:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche auf einen Blick.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 09:35:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Blomberg kämpft, Györ dominiert: Deutliche Niederlage im CL-Duell]]></title>
-            <description><![CDATA[Die HSG Blomberg-Lippe zeigte gegen Champions-League-Favorit Györ zunächst eine starke Leistung, musste sich am Ende jedoch deutlich mit 21:36 geschlagen geben. Vor dem Rückspiel in Ungarn blickt das Team auf die Gründe für den Einbruch nach der Pause.]]></description>
-            <link>https://www.handball-world.news/spiel/blomberg-lippe-gegen-gyoer-2026-handball-champions-league-frauen-5249761/bericht</link>
-            <guid isPermaLink="false">1269565</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 08 Nov 2026 09:09:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ägypten sichert sich weitere Handball-Großereignisse bis 2029]]></title>
-            <description><![CDATA[Ägypten baut seine Rolle als Gastgeber internationaler Handball-Großereignisse weiter aus. Eine neue Vereinbarung mit der IHF bringt dabei gleich mehrere spannende Entwicklungen für die kommenden Jahre mit sich.]]></description>
-            <link>https://www.handball-world.news/artikel/aegypten-sichert-sich-weitere-handball-grossereignisse-bis-2029-1269477</link>
-            <guid isPermaLink="false">1269477</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 16:31:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Schwalb vor Heim-WM 2027: "Die Dänen sind jetzt einfach mal dran"]]></title>
-            <description><![CDATA[Martin Schwalb blickt optimistisch auf die Handball-Weltmeisterschaft 2027 in Deutschland. Der ehemalige Meistertrainer sieht die DHB-Auswahl gut gerüstet, um bei der Heim-WM um den Titel mitzuspielen. Im Gespräch mit handball-world erklärt der 63-Jährige, warum das Turnier für die deutsche Mannschaft zum richtigen Zeitpunkt kommt, vor welchem Gegner er besonders warnt - und welche ungewöhnliche Lösung er sich im rechten Rückraum vorstellen kann.]]></description>
-            <link>https://www.handball-world.news/artikel/schwalb-vor-heim-wm-2027-die-daenen-sind-jetzt-einfach-mal-dran-1269196</link>
-            <guid isPermaLink="false">1269196</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 16:00:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ÖHB-Trio: Aus der Jugend in Richtung 1500 Länderspieltore]]></title>
-            <description><![CDATA[Mit dem 37:31-Heimsieg über die Türkei ist Österreich am Mittwoch erfolgreich in die Qualifikation zur Handball-EM. Mykola Bilyk, Sebastian Frimmel und Tobias Wagner unterstrichen dabei einmal mehr ihre Bedeutung und schraubten ihre gemeinsame Ausbeute auf 1.462 Tore im Nationalteam. Das Trio hat dabei eine besondere Verbindung.]]></description>
-            <link>https://www.handball-world.news/artikel/oehb-trio-aus-der-jugend-in-richtung-1500-laenderspieltore-1269375</link>
-            <guid isPermaLink="false">1269375</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 15:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Derbysieg in Hanau: TV Gelnhausen festigt Tabellenführung]]></title>
-            <description><![CDATA[Der TV Gelnhausen bleibt in der 3. Liga Süd-West das Maß aller Dinge. Im Main-Kinzig-Derby setzte sich der ungeschlagene Tabellenführer vor 1.100 Zuschauern auswärts bei der HSG Hanau mit 36:30 (18:13) durch. Rund 350 mitgereiste TVG-Fans sorgten für eine beeindruckende Atmosphäre und unterstützten ihre Mannschaft lautstark. Mit nun 20:2 Punkten verteidigen die Barbarossastädter ihre Tabellenführung.]]></description>
-            <link>https://www.handball-world.news/spiel/hanau-gegen-gelnhausen-2026-liga-sued-west-5263855/bericht</link>
-            <guid isPermaLink="false">1269424</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 15:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wolff zieht mit Hens gleich]]></title>
-            <description><![CDATA[Ein besonderer Meilenstein für Handball-Nationaltorhüter Andreas Wolff ist verschoben. Da der Kieler am Donnerstag im Spiel gegen Belgien nicht im Kader stand, wird er Länderspiel 200 erst im Januar in der WM-Vorbereitung feiern. Morgen zieht er unterdessen wohl mit 2007-Weltmeister Pascal Hens gleich.]]></description>
-            <link>https://www.handball-world.news/artikel/wolff-zieht-mit-hens-gleich-1267859</link>
-            <guid isPermaLink="false">1267859</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 15:02:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Handball Heute: Alle Spiele des Tages]]></title>
-            <description><![CDATA[Drei Partien der Qualifikation für die Handball-EM 2028 stehen heute auf dem Programm, unter anderem treffen in der deutschen Gruppe Belgien und Italien aufeinander. Blomberg und Oldenburg spielen international, auch die 2. HBF und die 3. Liga spielen. Ein Klick auf die Partie führt zum detaillierten Ticker inklusive Spielverlauf, unter "Spieldaten" gibt es zudem eine Eventansicht und weitere Statistiken.]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1262275</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 14:45:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Einmalig in der Karriere": Kobylinska voller Vorfreude auf die Heim-EM]]></title>
-            <description><![CDATA[Die Vorfreude auf die Frauen-Handball-Europameisterschaft 2026 steigt, besonders in Polen. Für Nationalmannschaftskapitänin Monika Kobylinska wird das Turnier zu einem ganz besonderen Karrierehöhepunkt. Nach elf Jahren im Nationaltrikot darf sie erstmals eine Europameisterschaft vor heimischem Publikum erleben.]]></description>
-            <link>https://www.handball-world.news/artikel/einmalig-in-der-karriere-kobylinska-voller-vorfreude-auf-die-heim-em-1269415</link>
-            <guid isPermaLink="false">1269415</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 14:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gislasons Luxusproblem: Wer darf mit zur Heim-WM?]]></title>
-            <description><![CDATA[Die deutschen Handballer feierten einen Pflichtsieg zum Auftakt der EM-Qualifikation, die Debütanten überzeugen und Alfred Gislason hat beim WM-Casting ein Luxusproblem.]]></description>
-            <link>https://www.handball-world.news/artikel/gislasons-luxusproblem-wer-darf-mit-zur-heim-wm-1269393</link>
-            <guid isPermaLink="false">1269393</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 07 Nov 2026 14:00:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
