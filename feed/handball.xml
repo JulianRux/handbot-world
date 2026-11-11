@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Nov 2026 17:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 02:11:03 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Nov 2026 17:51:09 GMT</pubDate>
+        <pubDate>Wed, 11 Nov 2026 02:11:03 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Eintracht Hagen schreibt im Pokalkrimi Vereinsgeschichte]]></title>
+            <description><![CDATA[Der VfL Eintracht Hagen hat Vereinsgeschichte geschrieben. Im zweitligainternen Pokalduell konnte man sich nach zwischenzeitlicher Sieben-Tore-Führung mit 33:32 (15:11) ins Viertelfinale gekämpft.]]></description>
+            <link>https://www.handball-world.news/spiel/hagen-gegen-minden-2026-dhb-pokal-5269377/bericht</link>
+            <guid isPermaLink="false">1270530</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 10 Nov 2026 20:28:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live: Zweitliga-Duell um Pokal-Viertelfinale]]></title>
             <description><![CDATA[Zum Auftakt des Achtelfinals im DHB-Pokal duellieren sich am Dienstagabend gleich zwei Zweitligisten um einen der begehrten Plätze im Viertelfinale. GWD Minden konnte auswärts schon den Erstligisten Bietigheim eliminieren, Eintracht Hagen hat Heimvorteil und besser in die Saison gestartet. Auch in Spanien und Österreich wird gespielt. Die Partie im Liveticker:]]></description>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1269012</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 06 Nov 2026 14:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Abwehrumstellung lässt Deutschland in EM-Quali durchstarten]]></title>
-            <description><![CDATA[Der Start für Deutschland in die EM-Qualifikation lief letztlich standesgemäß. Belgien konnte das DHB-Team vor allem in der ersten Halbzeit noch ärgern, doch im zweiten Spielabschnitt zog die Defensive mit einer Umstellung die Zügel an und feierte letztlich ein ungefährdetes 42:32 (22:18) und ist damit Spitzenreiter der Qualifikationsgruppe.]]></description>
-            <link>https://www.handball-world.news/spiel/deutschland-gegen-belgien-2026-handball-em-qualifikation-5198026/bericht</link>
-            <guid isPermaLink="false">1269007</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 05 Nov 2026 21:39:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
