@@ -4,11 +4,35 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Nov 2026 01:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2026 08:02:39 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 14 Nov 2026 01:46:05 GMT</pubDate>
+        <pubDate>Sat, 14 Nov 2026 08:02:39 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Handball am Samstag: Topspiel Füchse - Kiel im Free-TV]]></title>
+            <description><![CDATA[Heute wird der Samstag mit einem Kracher zwischen den Füchsen Berlin und dem THW Kiel eröffnet und das in der ARD. Vier weitere HBL-Spiele, dazu 2. Liga bei den Frauen wird international gespielt. Ein Klick auf den Zwischenstand führt direkt zum Liveticker, einer auf das Team zu weiteren Infos wie Kader, News und Vereinsspielplan.]]></description>
+            <link>https://www.handball-world.news/artikel/handball-am-samstag-topspiel-fuechse-kiel-im-free-tv-1262208</link>
+            <guid isPermaLink="false">1262208</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 07:56:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Irre Zahlen: So gut ist Móré]]></title>
+            <description><![CDATA[Die Form des Neu-Nationalspielers David Móré ist beeindruckend. Seine Zahlen in der laufenden Saison sind irre.]]></description>
+            <link>https://www.handball-world.news/artikel/irre-zahlen-so-gut-ist-more-1271163</link>
+            <guid isPermaLink="false">1271163</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 06:30:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Warum wird das Topspiel in Berlin um 15.55 Uhr angepfiffen?]]></title>
+            <description><![CDATA[Am heutigen Samstag (14. November) steht das nächste Spitzenspiel der Saison 2026/27 in der Handball-Bundesliga an. Angepfiffen wird das Duell zwischen den Füchsen Berlin und dem THW Kiel um 15.55 Uhr - eine eher ungewöhnliche Zeit. Woran liegt das?]]></description>
+            <link>https://www.handball-world.news/artikel/warum-wird-das-topspiel-in-berlin-um-1555-uhr-angepfiffen-1143925</link>
+            <guid isPermaLink="false">1143925</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 14 Nov 2026 06:00:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Noch 20 Tage: Der Spielplan der Frauen-EM 2026]]></title>
             <description><![CDATA[In 20 Tagen geht's los: Die Handball-Europameisterschaft der Frauen 2026 findet vom 3. bis 20. Dezember in Polen, Rumänien, Tschechien, der Slowakei und der Türkei statt. Ein Blick auf den Spielplan:]]></description>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1270117</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 10 Nov 2026 08:56:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bundesliga 2026/27: Wann die Topspiele stattfinden]]></title>
-            <description><![CDATA[Der 12. Spieltag der Opel Handball-Bundesliga 2026/27 hält gleich zwei Topspiele bereit. Auf welche Duelle können sich die Handball-Fans freuen? Ein Blick auf den Spielplan:]]></description>
-            <link>https://www.handball-world.news/artikel/bundesliga-2026-27-wann-die-topspiele-stattfinden-1241133</link>
-            <guid isPermaLink="false">1241133</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 09 Nov 2026 13:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verlosung: Tickets für Füchse-Kiel zu gewinnen]]></title>
-            <description><![CDATA[Mit freundlicher Unterstützung von Lidl, Frische-Partner des DHB und Namenssponsor des Final4 des DHB-Pokal der Handball Bundesliga, verlosen wir auf Instagram 4x2 Karten für das bevorstehende HBL-Spiel zwischen den Füchsen Berlin und dem THW Kiel am 14. November, 15:55 Uhr.]]></description>
-            <link>https://www.handball-world.newshttps://www.instagram.com/p/Dfg8akjsqYd/</link>
-            <guid isPermaLink="false">1162566</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 09 Nov 2026 13:09:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Die Top-Torschützen der 3. Liga]]></title>
-            <description><![CDATA[Vier Staffeln gibt es in der 3. Handball-Liga. Mit 64 Klubs herrscht jede Menge Action im höchsten Amateurbereich. Wer prägt die Liga aktuell? Ein Blick auf die Top-Torschützen der Liga:]]></description>
-            <link>https://www.handball-world.news/artikel/die-top-torschuetzen-der-3-liga-1253916</link>
-            <guid isPermaLink="false">1253916</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 09 Nov 2026 13:04:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
