@@ -4,9 +4,9 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 17:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 00:59:50 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2026 17:30:49 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 00:59:50 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
         <item>
@@ -730,14 +730,6 @@
             <pubDate>Sat, 14 Nov 2026 11:11:01 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Handball-WM: Public Viewing für Vereine mit ganz besonderer Fan-Aktion]]></title>
-            <description><![CDATA[Euer Verein plant ein Public Viewing zur Handball-WM 2027? Dann bewerbt euch kostenlos um eines von sieben Fan-Paketen von spized! Jeder ausgewählte Verein erhält 30 individuell gestaltete Fan-Trikots, 50 Schals und einen Ballsack mit zehn Handbällen von Molten sowie den offiziellen WM-Spielball. Jetzt mitmachen!]]></description>
-            <link>https://www.handball-world.news/artikel/handball-wm-public-viewing-fuer-vereine-mit-ganz-besonderer-fan-aktion-1271482</link>
-            <guid isPermaLink="false">1271482</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 07:27:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA["Spontane Schnapsidee": Höhner und Oimara mit WM-Song]]></title>
             <description><![CDATA[Deutschlands Handball-Nationalteam der Männer beginnt die Handball-WM in München und endet in Köln. Das führte nun zu einem besonderen Joint-Venture vom bayrischen Sänger Oimara und der Kölner Band Höhner.]]></description>
             <link>https://www.handball-world.news/artikel/spontane-schnapsidee-hoehner-und-oimara-mit-wm-song-1271488</link>
@@ -1208,6 +1200,14 @@
             <guid isPermaLink="false">1270924</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Thu, 12 Nov 2026 09:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Souveräner Heimsieg: Dortmund macht Final4-Einzug perfekt]]></title>
+            <description><![CDATA[Borussia Dortmund hat sich im Viertelfinale des DHB-Pokals mit einem 36:25-Erfolg gegen Frisch Auf Göppingen erneut für das Final4 qualifiziert. Nach anfänglichen Schwierigkeiten übernahmen die Dortmunderinnen zunehmend die Kontrolle und machten mit einer starken zweiten Halbzeit den Einzug ins Finalturnier perfekt.]]></description>
+            <link>https://www.handball-world.news/spiel/dortmund-gegen-goeppingen-2026-deutscher-handball-pokal-frauen-5270196/bericht</link>
+            <guid isPermaLink="false">1270909</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Thu, 12 Nov 2026 09:01:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
