@@ -4,11 +4,51 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 17:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 00:11:57 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Nov 2026 17:56:47 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 00:11:57 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[EL kompakt: Flensburg zittert sich zum Sieg, BHC und VfL ohne Sieg]]></title>
+            <description><![CDATA[Am Dienstagabend wurden alle Partien des 4.Spieltags der European League absolviert. Die SG Flensburg-Handewitt konnte nur knapp den Sieg feiern, während sich der Bergische HC die Punkte teilen muss. Der VfL Gummersbach musste sich im Duell gegen Pelister geschlagen geben.]]></description>
+            <link>https://www.handball-world.news/artikel/el-kompakt-flensburg-zittert-sich-zum-sieg-bhc-und-vfl-ohne-sieg-1272444</link>
+            <guid isPermaLink="false">1272444</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 22:06:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Peric wird zum BHC-Schreck: Packender Krimi bis zur letzten Sekunde]]></title>
+            <description><![CDATA[In der EHF European League trennt sich der Bergische HC in der Gruppenphase von MRK Sesvete mit 32:32. In einer umkämpften Partie mit wechselnden Führungen und einer dramatischen Schlussphase verpasst der BHC den Heimsieg in letzter Sekunde.]]></description>
+            <link>https://www.handball-world.news/spiel/bergischer-hc-gegen-sesvete-2026-ehf-pokal-5260752/bericht</link>
+            <guid isPermaLink="false">1272452</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 21:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bittere Wende: Gummersbach verspielt Fünf-Tore-Führung]]></title>
+            <description><![CDATA[Der VfL Gummersbach muss am vierten Spieltag der Gruppenphase der EHF European-League eine Niederlage hinnehmen. Im Rückspiel gegen HC Eurofarm Pelister verspielt der VfL eine zwischenzeitliche Fünf-Tore-Führung und unterliegt am Ende knapp mit 28:29. Damit dreht Pelister die Partie nach einem deutlichen Rückstand zur Halbzeit noch zu seinen Gunsten.]]></description>
+            <link>https://www.handball-world.news/spiel/hc-pelister-gegen-gummersbach-2026-ehf-pokal-5260757/bericht</link>
+            <guid isPermaLink="false">1272479</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 21:47:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beinahe-Überraschung: Flensburg siegt nach Rückstand in Buzau]]></title>
+            <description><![CDATA[Die SG Flensburg-Handewitt hat eine Überraschung in Buzau nur knapp abwenden können. Am 4. Spieltag in Gruppe E der European-League musst der Favorit nach einer durchwachsenen ersten Halbzeit und einem Zwei-Tore-Rückstand zur Pause lange kämpfen, um die Partie zu drehen. Erst nach dem Seitenwechsel fand Flensburg besser ins Spiel und sicherte sich letztlich mit 31:33 den Sieg.]]></description>
+            <link>https://www.handball-world.news/spiel/buzau-gegen-flensburg-2026-ehf-pokal-5260746/bericht</link>
+            <guid isPermaLink="false">1272448</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 19:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Staatsanwaltschaft ermittelt gegen Hamm-Westfalen]]></title>
+            <description><![CDATA[Nach der Rückkehr in die 2. Handball-Bundesliga steckt der ASV Hamm-Westfalen mitten im Abstiegskampf, doch nun sorgen abseits des Parketts Ermittlungen der Staatsanwaltschaft für Unruhe. Grund sind Anschuldigungen eines Spielers, der Verein veröffentlichte eine Stellungnahme.]]></description>
+            <link>https://www.handball-world.news/artikel/staatsanwaltschaft-ermittelt-gegen-hamm-westfalen-1272316</link>
+            <guid isPermaLink="false">1272316</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 18:03:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Live: Re-Start der European League mit Flensburg, Gummersbach und BHC]]></title>
             <description><![CDATA[Die SG Flensburg-Handewitt, der VfL Gummersbach und der Bergische HC sind heute in der EHF European League im Einsatz. Auch in der 2. Handball-Bundesliga wird gespielt. Die Partien im Ticker:]]></description>
@@ -39,7 +79,7 @@
             <link>https://www.handball-world.news/artikel/nfl-statt-hbl-hanning-legt-den-finger-in-die-wunde-1272358</link>
             <guid isPermaLink="false">1272358</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 16:07:15 GMT</pubDate>
+            <pubDate>Tue, 17 Nov 2026 18:05:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Titelverteidiger vorne: Die besten Vorlagengeber der Bundesliga]]></title>
@@ -136,14 +176,6 @@
             <guid isPermaLink="false">1272353</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 11:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Staatsanwaltschaft ermittelt gegen Hamm-Westfalen]]></title>
-            <description><![CDATA[Nach der Rückkehr in die 2. Handball-Bundesliga steckt der ASV Hamm-Westfalen mitten im Abstiegskampf, doch dem Klub aus dem Ruhrgebiet droht aktuell juristischer Ärger.]]></description>
-            <link>https://www.handball-world.news/artikel/staatsanwaltschaft-ermittelt-gegen-hamm-westfalen-1272316</link>
-            <guid isPermaLink="false">1272316</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 11:27:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Neue Fan-App und KI-Assistenten: Füchse starten Digital-Offensive]]></title>
@@ -1176,38 +1208,6 @@
             <guid isPermaLink="false">1271203</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 13 Nov 2026 09:02:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kretzschmar nach EM-Quali: "Das hat mich schon überrascht"]]></title>
-            <description><![CDATA[Die deutsche Handball-Nationalmannschaft der Männer ist erfolgreich in die Qualifikation zur EM im kommenden Jahr gestartet. Stefan Kretzschmar hat in den Spielen gegen Belgien und die Slowakei allerdings etwas vermisst.]]></description>
-            <link>https://www.handball-world.news/artikel/kretzschmar-nach-em-quali-das-hat-mich-schon-ueberrascht-1271214</link>
-            <guid isPermaLink="false">1271214</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 09:01:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pytlick und Minne: Ein Zusammenspiel, das Flensburg trägt]]></title>
-            <description><![CDATA[Die SG Flensburg-Handewitt setzte sich im DHB-Pokal-Achtelfinale mit 35:34 gegen den VfL Gummersbach durch - auch dank eines überragenden Simon Pytlick. Im Zusammenspiel mit Aymeric Minne übernimmt der Däne zunehmend eine Schlüsselrolle.]]></description>
-            <link>https://www.handball-world.news/artikel/pytlick-und-minne-ein-zusammenspiel-das-flensburg-traegt-1271185</link>
-            <guid isPermaLink="false">1271185</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 08:18:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ex-Nationalspielerin und CL-Siegerin: DHB trauert um Boueke]]></title>
-            <description><![CDATA[Der Deutsche Handballbund trauert um Petra Boueke. Die frühere Spielmacherin vom TV Lützellinden ist am 10. November im Alter von 62 Jahren verstorben.]]></description>
-            <link>https://www.handball-world.news/artikel/ex-nationalspielerin-und-cl-siegerin-dhb-trauert-um-boueke-1271182</link>
-            <guid isPermaLink="false">1271182</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 07:51:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Miro trägt uns": Knappes Pokalaus für Gummersbach in Flensburg]]></title>
-            <description><![CDATA[Der VfL Gummersbach hat den Einzug ins Viertelfinale des DHB-Pokals knapp verpasst. Trotz einer starken ersten Halbzeit und einer zwischenzeitlichen Drei-Tore-Führung unterlagen die Oberbergischen bei der SG Flensburg-Handewitt mit 34:35 (21:18). Damit endet die Pokalreise des VfL wie bereits in der vergangenen Saison im Achtelfinale.]]></description>
-            <link>https://www.handball-world.news/artikel/miro-traegt-uns-knappes-pokalaus-fuer-gummersbach-in-flensburg-1271175</link>
-            <guid isPermaLink="false">1271175</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 13 Nov 2026 07:34:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
