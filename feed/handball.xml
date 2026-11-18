@@ -4,11 +4,43 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 16:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 23:02:45 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 16:33:17 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 23:02:45 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[CL kompakt: Hauptrunde gestartet, Füchse kämpfen vergeblich]]></title>
+            <description><![CDATA[Am 6. Spieltag der Handball Champions League haben Wisla Plock, die MT Melsungen und Dinamo Bukarest sich die letzten drei Tickets in die Hauptrunde gesichert. PSG besiegte Aalborg und Sporting Lissabon GOG. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/cl-kompakt-hauptrunde-gestartet-fuechse-kaempfen-vergeblich-1272733</link>
+            <guid isPermaLink="false">1272733</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 21:24:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Füchse ohne Antwort: THC zieht souverän ins Pokal-Halbfinale ein]]></title>
+            <description><![CDATA[Der Thüringer HC hat sich mit einem 37:25-Auswärtssieg bei den Füchsen Berlin für das Haushahn Final4 des DHB-Pokals qualifiziert. Nach anfänglichen Schwierigkeiten steigerten sich die Thüringerinnen im Spielverlauf deutlich und sorgten mit einer starken zweiten Halbzeit für klare Verhältnisse.]]></description>
+            <link>https://www.handball-world.news/spiel/fuechse-berlin-gegen-thueringer-hc-2026-deutscher-handball-pokal-frauen-5270193/bericht</link>
+            <guid isPermaLink="false">1272803</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 21:14:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aalborgs Abwehrbollwerk: Gidsel und Co. finden kein Durchkommen]]></title>
+            <description><![CDATA[Zum Auftakt der Handball-Champions-League-Hauptrunde mussten sich die Füchse Berlin auswärts bei Aalborg Handbold mit 31:34 geschlagen geben. Vor allem die starke Abwehr der Dänen stellte die Berliner immer wieder vor Probleme. Trotz einer Aufholjagd im zweiten Durchgang behielt Aalborg am Ende die Oberhand.]]></description>
+            <link>https://www.handball-world.news/spiel/aalborg-ab-gegen-berlin-2026-ehf-champions-league-5275645/bericht</link>
+            <guid isPermaLink="false">1272732</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 19:45:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Live: Re-Start der Champions League mit Aalborg - Füchse]]></title>
+            <description><![CDATA[Zum Re-Start der EHF Champions League gastieren die Füchse Berlin heute bei Aalborg Handbold. Die Partie im Ticker:]]></description>
+            <link>https://www.handball-world.news/spiel/aalborg-ab-handbold-gegen-fuechse-berlin-5275645/ticker</link>
+            <guid isPermaLink="false">1224043</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 17:00:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leistungsträgerin fällt voraussichtlich aus: Polens Kader für die Frauen-EM 2026]]></title>
             <description><![CDATA[Polen hat seinen Kader für die Frauen-Handball-EM 2026 bekannt gegeben. Doch kurz vor dem Turnier droht ein herber Verlust: Leistungsträgerin Aleksandra Rosiak hat sich schwer am Knie verletzt.]]></description>
@@ -19,11 +51,11 @@
         </item>
         <item>
             <title><![CDATA[Kretzschmar vermisst zwei Namen im WM-Kader: "Sie hätten es verdient"]]></title>
-            <description><![CDATA[Stefan Kretzschmar hätte Leif Tissier und Elias Newel gerne im erweiterten WM-Kader gesehen. Warum er die beiden Spieler bei ihren aktuellen Leistungen für eine Nominierung verdient hält und welche Kritik er an Gislasons Kaderauswahl übt.]]></description>
+            <description><![CDATA[Stefan Kretzschmar hätte Leif Tissier und Elias Newel gerne im erweiterten WM-Kader gesehen. Warum aus seiner Sicht beide Spieler eine Nominierung verdient gehabt hätten und welche Kritik er an Gislasons Kaderauswahl übt.]]></description>
             <link>https://www.handball-world.news/artikel/kretzschmar-vermisst-zwei-namen-im-wm-kader-sie-haetten-es-verdient-1272709</link>
             <guid isPermaLink="false">1272709</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 16:00:01 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2026 18:22:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trainieren mit den Profis und WM-Finale in Köln]]></title>
@@ -264,14 +296,6 @@
             <guid isPermaLink="false">1272316</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 18:03:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live: Re-Start der European League mit Flensburg, Gummersbach und BHC]]></title>
-            <description><![CDATA[Die SG Flensburg-Handewitt, der VfL Gummersbach und der Bergische HC sind heute in der EHF European League im Einsatz. Auch in der 2. Handball-Bundesliga wird gespielt. Die Partien im Ticker:]]></description>
-            <link>https://www.handball-world.news/matchkalender</link>
-            <guid isPermaLink="false">1224043</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 17:00:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zurück zur SCM-DNA: Meister Magdeburg setzt auf Youngsters]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1271109</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 14 Nov 2026 12:12:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bergischer HC: Kellerduell gegen Eisenach "mental schwierig"]]></title>
-            <description><![CDATA[Entscheidungen fallen in der Opel HBL in der Hinrunde natürlich noch nicht. Doch im Kampf um den Klassenerhalt sind es genau die Spiele, die besonders wichtig sind: Am Samstag (20 Uhr) empfängt der Bergische HC den ThSV Eisenach in der Unihalle Wuppertal.]]></description>
-            <link>https://www.handball-world.news/artikel/bergischer-hc-kellerduell-gegen-eisenach-mental-schwierig-1271508</link>
-            <guid isPermaLink="false">1271508</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 11:51:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mit doppelter 18: Die Hall of Fame der Füchse Berlin]]></title>
-            <description><![CDATA[Die Füchse Berlin haben noch eine exklusive Hall of Fame mit wenigen Mitgliedern. 2013 rief der Hauptstadtklub seine Legendengalerie ins Leben, bislang wurden fünf Spieler aufgenommen und ein Sechster aus der diesjährigen Mannschaft ist angekündigt.]]></description>
-            <link>https://www.handball-world.news/slideshow/mit-doppelter-18-die-hall-of-fame-der-fuechse-berlin-1239419</link>
-            <guid isPermaLink="false">1239419</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 11:11:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Spontane Schnapsidee": Höhner und Oimara mit WM-Song]]></title>
-            <description><![CDATA[Deutschlands Handball-Nationalteam der Männer beginnt die Handball-WM in München und endet in Köln. Das führte nun zu einem besonderen Joint-Venture vom bayrischen Sänger Oimara und der Kölner Band Höhner.]]></description>
-            <link>https://www.handball-world.news/artikel/spontane-schnapsidee-hoehner-und-oimara-mit-wm-song-1271488</link>
-            <guid isPermaLink="false">1271488</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sat, 14 Nov 2026 10:47:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
