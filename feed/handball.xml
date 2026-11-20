@@ -4,11 +4,163 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Nov 2026 09:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2026 18:39:57 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Nov 2026 09:58:04 GMT</pubDate>
+        <pubDate>Fri, 20 Nov 2026 18:39:57 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Live: Hannover - Stuttgart und Erlangen - Balingen]]></title>
+            <description><![CDATA[In der Handball-Bundesliga stehen heute zwei Partien an: Die TSV Hannover-Burgdorf empfängt den TVB Stuttgart und der HC Erlangen trifft auf den HBW Balingen-Weilstetten. Die Partien im Ticker:]]></description>
+            <link>https://www.handball-world.news/matchkalender</link>
+            <guid isPermaLink="false">1224043</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 17:00:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Transferticker: Andersen-Update, Gömmel-Verlängerung]]></title>
+            <description><![CDATA[Was passiert gerade auf dem Handball-Transfermarkt? Im Transferticker von handball-world gibt es - in Kooperation mit Picard - die neuesten Entwicklungen.]]></description>
+            <link>https://www.handball-world.news/liveticker/handball-transfers-1034721</link>
+            <guid isPermaLink="false">1034721</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 16:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SG BBM Bietigheim: Linksaußen Pfeifer operiert]]></title>
+            <description><![CDATA[Alexander Pfeifer vom Handball-Bundesligisten SG BBM Bietigheim ist operiert worden. Der Eingriff ist erfolgreich verlaufen.]]></description>
+            <link>https://www.handball-world.news/artikel/sg-bbm-bietigheim-linksaussen-pfeifer-operiert-1273302</link>
+            <guid isPermaLink="false">1273302</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 16:27:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Flensborg holt neuen Trainer]]></title>
+            <description><![CDATA[Der DHK Flensborg geht mit einem neuen Cheftrainer in die kommende Saison. Matthias Hinrichsen übernimmt beim Handball-Drittligisten das Amt von Magnus Frisk Jensen.]]></description>
+            <link>https://www.handball-world.news/artikel/flensborg-holt-neuen-trainer-1273300</link>
+            <guid isPermaLink="false">1273300</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 16:14:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milosavljev zurück zu den Füchsen? Hanning bezieht Stellung]]></title>
+            <description><![CDATA[Dejan Milosavljev und die Füchse Berlin - könnte es nach dem Abschied im Sommer ein Wiedersehen geben? Ein entsprechendes Gerücht macht derzeit die Runde. Geschäftsführer Bob Hanning hat sich dazu gegenüber handball-world geäußert.]]></description>
+            <link>https://www.handball-world.news/artikel/milosavljev-zurueck-zu-den-fuechsen-hanning-bezieht-stellung-1273282</link>
+            <guid isPermaLink="false">1273282</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 16:11:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Verletzungsticker: Steinhauser fraglich, Bergendahl-Verletzung]]></title>
+            <description><![CDATA[Welcher Spieler oder welche Spielerin hat sich verletzt, wo steht noch eine Diagnose aus und wo eine Rückkehr bevor? Der Verletzungsticker von handball-world liefert eine chronologische Übersicht.]]></description>
+            <link>https://www.handball-world.news/liveticker/1061262</link>
+            <guid isPermaLink="false">1061262</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 15:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die zehn größten Vertrags-Fragezeichen der Bundesliga]]></title>
+            <description><![CDATA[Im kommenden Sommer laufen die Verträge einiger Stars aus. Ein Blick auf die zehn größten Vertrags-Fragezeichen der Handball-Bundesliga:]]></description>
+            <link>https://www.handball-world.news/slideshow/die-zehn-groessten-vertrags-fragezeichen-der-bundesliga-1251186</link>
+            <guid isPermaLink="false">1251186</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 15:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rhein-Neckar Löwen vor Flensburg mit Linkshänder-Sorgen]]></title>
+            <description><![CDATA[Die Rhein-Neckar Löwen haben vor dem Auswärtsspiel bei der SG Flensburg-Handewitt derzeit Linkshänder-Sorgen, denn neben Edwin Aspenbäck ist eine weitere Stammkraft fraglich.]]></description>
+            <link>https://www.handball-world.news/artikel/rhein-neckar-loewen-vor-flensburg-mit-linkshaender-sorgen-1273272</link>
+            <guid isPermaLink="false">1273272</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 14:43:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heute geht's weiter: Der Spielplan der Bundesliga]]></title>
+            <description><![CDATA[Handball-Bundesliga Saison 2026/27 - alle Infos zum Spielplan]]></description>
+            <link>https://www.handball-world.news/artikel/heute-geht-s-weiter-der-spielplan-der-bundesliga-1191123</link>
+            <guid isPermaLink="false">1191123</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 14:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mit Gottfridsson: Das ist Schwedens erweiterter Kader für die WM]]></title>
+            <description><![CDATA[Am 14. Dezember will Schwedens Nationaltrainer Michael Apelgren bekanntgeben, mit welchem Kader er die Handball-Weltmeisterschaft in Deutschland in Angriff nimmt. Im erweiterten Aufgebot stehen 35 Profis - neben 12 Bundesliga-Profis ist auch Jim Gottfridsson dabei.]]></description>
+            <link>https://www.handball-world.news/artikel/mit-gottfridsson-das-ist-schwedens-erweiterter-kader-fuer-die-wm-1273260</link>
+            <guid isPermaLink="false">1273260</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 15:07:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dahmke gibt Einblicke: So arbeitet der THW seine Topspiel-Schwäche auf]]></title>
+            <description><![CDATA[Der THW Kiel steht aktuell auf dem zweiten Tabellenplatz der Handball-Bundesliga. Doch in den Topspielen gegen den SC Magdeburg, die SG Flensburg-Handewitt und die Füchse Berlin haben die "Zebras" keinen Sieg geholt. THW-Linksaußen Rune Dahmke äußert sich nun dazu.]]></description>
+            <link>https://www.handball-world.news/artikel/dahmke-gibt-einblicke-so-arbeitet-der-thw-seine-topspiel-schwaeche-auf-1273251</link>
+            <guid isPermaLink="false">1273251</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 13:30:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Die Bundesliga-Transfers für den Sommer 2026 im Überblick]]></title>
+            <description><![CDATA[Bundesliga-Transfers 2026 - Aktuelle Wechsel-Übersicht der Handball-Teams für den Sommer 2026 - Hier weiter lesen]]></description>
+            <link>https://www.handball-world.news/artikel/die-bundesliga-transfers-fuer-den-sommer-2026-im-ueberblick-1139572</link>
+            <guid isPermaLink="false">1139572</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cikusa-Sorgen bei Barcelona nach Sieg in Kielce]]></title>
+            <description><![CDATA[Der FC Barcelona hat seine weiße Weste in der Handball Champions League gewahrt, Industria Kielce droht hingegen nach dem 24:32 (14:18) im ersten Heimspiel der Hauptrunde das vorzeitige Aus.]]></description>
+            <link>https://www.handball-world.news/spiel/kielce-gegen-barcelona-2026-ehf-champions-league-5275640/bericht</link>
+            <guid isPermaLink="false">1273247</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:44:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bielefeld holt Torwart von Spitzenreiter Spenge]]></title>
+            <description><![CDATA[Die TSG A-H Bielefeld verstärkt sich ab der kommenden Saison 27/28 auf der Torhüterposition. Mit Mika Brokmeier wechselt ein erfahrener Schlussmann vom Ligakonkurrenten und Spitzenreiter TuS Spenge nach Bielefeld.]]></description>
+            <link>https://www.handball-world.news/artikel/bielefeld-holt-torwart-von-spitzenreiter-spenge-1273226</link>
+            <guid isPermaLink="false">1273226</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 12:06:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hüttenberg holt Torhüter vom Bergischen HC]]></title>
+            <description><![CDATA[Gleich beide Stammtorhüter fallen derzeit beim TV Hüttenberg aus. Nun haben die Mittelhessen beim Erstligisten Bergischen HC für die kommenden Spiele in der 2. Handball-Bundesliga gefunden.]]></description>
+            <link>https://www.handball-world.news/artikel/huettenberg-holt-torhueter-vom-bergischen-hc-1273234</link>
+            <guid isPermaLink="false">1273234</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 11:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Mental zermürbend": Melsungen verlangt Paris alles ab]]></title>
+            <description><![CDATA[Die MT Melsungen zeigt zum Auftakt der Hauptrunde in der Champions League eine beeindruckende Leistung gegen Frankreichs Spitzenteam Paris St. Germain. Am Ende fehlt nicht viel zur Überraschung.]]></description>
+            <link>https://www.handball-world.news/artikel/mental-zermuerbend-melsungen-verlangt-paris-alles-ab-1273219</link>
+            <guid isPermaLink="false">1273219</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 11:15:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rodgau Nieder-Roden hält zwei U-18-Nationalspieler]]></title>
+            <description><![CDATA[Handball-Drittligist HSG Rodgau Nieder-Roden konnte zwei wichtige Weichenstellungen vornehmen und die U-18-Nationalspieler Luca Möller und Constantin Meyer mehrjährig an sich binden.]]></description>
+            <link>https://www.handball-world.news/artikel/rodgau-nieder-roden-haelt-zwei-u-18-nationalspieler-1273213</link>
+            <guid isPermaLink="false">1273213</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 10:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gidsel weit vor der Konkurrenz: Die Top-Torschützen der Champions League]]></title>
+            <description><![CDATA[Der 5. Spieltag der Handball Champions League 2026/27 ist absolviert. Wer sind die besten Torschützen?]]></description>
+            <link>https://www.handball-world.news/artikel/gidsel-weit-vor-der-konkurrenz-die-top-torschuetzen-der-champions-league-1251347</link>
+            <guid isPermaLink="false">1251347</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 10:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SCM-Gerüchte um Hamburgs Andersen: Schmedt äußert sich]]></title>
+            <description><![CDATA[Am Sonntag muss der SC Magdeburg beim HC Hamburg antreten. Im Fokus steht vor allem Frederik Bo Andersen, denn der dänische Nationalspieler soll im Fokus des Deutschen Meisters sein.]]></description>
+            <link>https://www.handball-world.news/artikel/scm-geruechte-um-hamburgs-andersen-schmedt-aeussert-sich-1273194</link>
+            <guid isPermaLink="false">1273194</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 10:14:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DHB-Beachhandballer mit zwei Debütanten bei IHF Global Tour Finals]]></title>
             <description><![CDATA[Es wird noch einmal heiß im Sand: Am 4. und 5. Dezember tritt die deutsche Männer-Nationalmannschaft im Beachhandball bei den IHF Global Tour Finals im Oman an. Für das Turnier mit Kroatien, Polen und den Gastgebern als Gegner hat Bundestrainer Marten Franke seinen 10er-Kader nominiert.]]></description>
@@ -66,6 +218,14 @@
             <pubDate>Fri, 20 Nov 2026 07:00:06 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
+            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche auf einen Blick.]]></description>
+            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
+            <guid isPermaLink="false">1047810</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Fri, 20 Nov 2026 10:59:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Wer steigt in die Bundesliga auf? So spannend ist das Rennen in der 2. HBL]]></title>
             <description><![CDATA[Wer steigt am Ende dieser Saison in die Opel Handball-Bundesliga auf? Ein Blick auf das Aufstiegsrennen in der 2. HBL:]]></description>
             <link>https://www.handball-world.news/artikel/wer-steigt-in-die-bundesliga-auf-so-spannend-ist-das-rennen-in-der-2-hbl-1272531</link>
@@ -112,14 +272,6 @@
             <guid isPermaLink="false">1273102</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Fri, 20 Nov 2026 08:42:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Live: Melsungen nach Rückstand mit Remis zur Pause]]></title>
-            <description><![CDATA[Zum Re-Start der EHF Champions League musste der SCM zittern, um sich bei GOG mit 36:35 durchzusetzen. Eine Verletzung von Oscar Bergendahl, eine Spielunterbrechung gab es zwischenzeitlich. Bei Melsungens Heimspiel gegen Paris kämpften sich die Nordhessen nach einem 12:15-Rückstand noch zum 18:18-Pausenstand. Die Partie im Ticker:]]></description>
-            <link>https://www.handball-world.news/spiel/mt-melsungen-gegen-paris-saint-germain-handball-5275647/ticker</link>
-            <guid isPermaLink="false">1224043</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 19 Nov 2026 20:27:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zukunft von Schwedens Handball-Legende Roberts geklärt]]></title>
@@ -335,7 +487,7 @@
             <link>https://www.handball-world.news/artikel/warum-findet-heute-kein-hbl-spiel-statt-1272420</link>
             <guid isPermaLink="false">1272420</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Thu, 19 Nov 2026 05:00:00 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2026 14:07:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wiegert schwärmt von Zehnder: "Da geht mir das Herz auf"]]></title>
@@ -754,14 +906,6 @@
             <pubDate>Tue, 17 Nov 2026 10:13:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Verletzungsticker: Hallbäck-Ausfall, Jörgensen-Update]]></title>
-            <description><![CDATA[Welcher Spieler oder welche Spielerin hat sich verletzt, wo steht noch eine Diagnose aus und wo eine Rückkehr bevor? Der Verletzungsticker von handball-world liefert eine chronologische Übersicht.]]></description>
-            <link>https://www.handball-world.news/liveticker/1061262</link>
-            <guid isPermaLink="false">1061262</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 09:38:02 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Von Hangstein bis Schluroff: Die Top-Torschützen der 18 Bundesligisten]]></title>
             <description><![CDATA[Mathias Gidsel ist derzeit der beste Torschütze der Handball-Bundesliga. Doch wer sind die besten Torschützen der einzelnen Teams? Der Blick auf die 18 Bundesligisten.]]></description>
             <link>https://www.handball-world.news/slideshow/von-hangstein-bis-schluroff-die-top-torschuetzen-der-18-bundesligisten-1249755</link>
@@ -922,14 +1066,6 @@
             <pubDate>Mon, 16 Nov 2026 13:19:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Transferticker: Stehl-Verlängerung, Mellegard-Rückkehr]]></title>
-            <description><![CDATA[Was passiert gerade auf dem Handball-Transfermarkt? Im Transferticker von handball-world gibt es - in Kooperation mit Picard - die neuesten Entwicklungen.]]></description>
-            <link>https://www.handball-world.news/liveticker/handball-transfers-1034721</link>
-            <guid isPermaLink="false">1034721</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 13:04:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hamm "härter und aggressiver" bei Sieg über Hüttenberg]]></title>
             <description><![CDATA[Mit einem verdienten 36:32-Sieg hat sich der ASV Hamm-Westfalen am Samstagabend gegen TV Hüttenberg zwei wichtige Punkte im Kampf um den Klassenerhalt in der 2. Handball-Bundesliga gesichert.]]></description>
             <link>https://www.handball-world.news/spiel/hamm-westfalen-gegen-huettenberg-2026-handball-bundesliga-5214145/bericht</link>
@@ -1072,142 +1208,6 @@
             <guid isPermaLink="false">1271962</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 16 Nov 2026 07:00:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Magdeburgs Stärke: "Es ist egal, gegen wen wir spielen"]]></title>
-            <description><![CDATA[Mit 14 Treffern und vier Assists gehörte Omar Ingi Magnusson im Spiel gegen die SG Flensburg-Handewitt zu den prägenden Spielern der Magdeburger Machtdemonstration. Von Beginn an trat der SCM mit viel Energie und Entschlossenheit an und setzte die Flensburger sowohl im Angriff als auch in der Abwehr unter Druck.]]></description>
-            <link>https://www.handball-world.news/artikel/magdeburgs-staerke-es-ist-egal-gegen-wen-wir-spielen-1271827</link>
-            <guid isPermaLink="false">1271827</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 06:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comeback bei der Heim-WM? Pekeler spricht über seine Rückkehr]]></title>
-            <description><![CDATA[Hendrik Pekeler hat seine Karriere in der deutschen Nationalmannschaft eigentlich beendet. Trotzdem taucht der Kreisläufer des THW Kiel nun wieder im 35er-Kader von Bundestrainer Alfred Gislason für die Heim-WM auf. Ein Comeback ist damit allerdings noch nicht geplant.]]></description>
-            <link>https://www.handball-world.news/artikel/comeback-bei-der-heim-wm-pekeler-spricht-ueber-seine-rueckkehr-1271785</link>
-            <guid isPermaLink="false">1271785</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 04:30:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HBL kompakt: Füchse schlagen Kiel, Magdeburger Machtdemonstration]]></title>
-            <description><![CDATA[Die Füchse Berlin haben sich mit dem Sieg im Spitzenspiel im Kampf um die Champions League zurückgemeldet. Später holten die HSG Wetzlar und der Bergische HC wichtige Zähler im Abstiegskampf. Der TBV Lemgo Lippe kam bei den Rhein-Neckar Löwen nur zu einem Remis, auch die MT Melsungen kam gegen Bietigheim nicht über ein Unentschieden hinaus. Unterdessen deklassierte der SC Magdeburg die SG Flensburg-Handewitt. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-kompakt-fuechse-schlagen-kiel-magdeburger-machtdemonstration-1271625</link>
-            <guid isPermaLink="false">1271625</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 19:19:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Obling als Rückhalt: Gummersbach bezwingt Hannover]]></title>
-            <description><![CDATA[Nach der Niederlage gegen Flensburg wollte der VfL Gummersbach zurück in die Erfolgsspur. Gegen Hannover entwickelte sich zunächst ein umkämpftes Duell auf Augenhöhe. Trotz einer ausgeglichenen ersten Halbzeit (18:18) gelang es den Gastgebern nach dem Seitenwechsel, zunehmend die Kontrolle zu übernehmen und sich am Ende mit 33:29 durchzusetzen.]]></description>
-            <link>https://www.handball-world.news/spiel/gummersbach-gegen-hannover-2026-handball-bundesliga-5213851/bericht</link>
-            <guid isPermaLink="false">1271839</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 19:11:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Im Video: SC Magdeburg mit Ausrufezeichen gegen Flensburg]]></title>
-            <description><![CDATA[Das Topspiel der Handball-Bundesliga wurde zur Machtdemonstration des SC Magdeburg: Mit dem 37:29 gegen die SG Flensburg-Handewitt wurde ein direkter Konkurrent deutlich distanziert und die Tabellenspitze erobert.]]></description>
-            <link>https://www.handball-world.news/videos/im-video-sc-magdeburg-mit-ausrufezeichen-gegen-flensburg-1271841</link>
-            <guid isPermaLink="false">1271841</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 18:53:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBF: Topteams erfolgreich, Remis im Kellerduell]]></title>
-            <description><![CDATA[Die Topteams gaben sich keine Blöße, das Spitzentrio rund um die SG Nürtingen-Zizishausen, die Füchse Berlin und den HC Rödertal feierte sogar zweistellige Siege. Einen echten Krimi gab es im Breisgau. Der SV Werder Bremen zog mit dem 31:30-Auswärtserfolg an der HSG Freiburg vorbei. Am Sonntag unterlag der VfL Waiblingen im Topspiel und das Kellerduell endete unentschieden.]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbf-topteams-erfolgreich-remis-im-kellerduell-1271652</link>
-            <guid isPermaLink="false">1271652</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 19:26:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2. HBL: Big Points für TUSEM und Hamm, Nordhorn deklassiert Großwallstadt]]></title>
-            <description><![CDATA[Zum Auftakt des 11. Spieltags der 2. Handball-Bundesliga hat Spitzenreiter HC Elbflorenz gepatzt und das Ostduell bei Dessau-Roßlau verloren. Im Tabellenkeller holten TUSEM Essen und der ASV Hamm-Westfalen die Big Points. Zudem deklassierte Nordhorn den TV Großwallstadt im Duell der Tabellennachbarn. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/2-hbl-big-points-fuer-tusem-und-hamm-nordhorn-deklassiert-grosswallstadt-1271614</link>
-            <guid isPermaLink="false">1271614</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 13:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[3. Liga: Ergebnisse und Tabellen]]></title>
-            <description><![CDATA[Die Saison in der 3. Handball-Liga ist gestartet. In vier Staffeln kämpfen insgesamt 64 Mannschaften um die Platzierungen. Gesucht werden Aufsteiger in die 2. Bundesliga, Absteiger in die Regionalligen und auch Teilnehmer am DHB-Pokal. Die Spiele und Ergebnisse der Woche auf einen Blick.]]></description>
-            <link>https://www.handball-world.news/artikel/3-liga-ergebnisse-und-tabellen-1047810</link>
-            <guid isPermaLink="false">1047810</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 18:44:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Erfolgreiche Salvat-Premiere: Bietigheim knöpft Melsungen einen Punkt ab]]></title>
-            <description><![CDATA[Die SG BBM Bietigheim zeigt die gewünschte Reaktion: Im ersten Spiel unter Sebastiá Salvat überzeugte der Aufsteiger in der Handball-Bundesliga und machte der MT Melsungen über 60 Minuten das Leben schwer. Trotz zwischenzeitigem Fünf-Tore-Vorsprung reichte es zwar nicht zum Sieg, schließlich entführten die Schwaben in Nordhessen jedoch zumindest einen Punkt.]]></description>
-            <link>https://www.handball-world.news/spiel/melsungen-gegen-bietigheim-2026-handball-bundesliga-5213848/bericht</link>
-            <guid isPermaLink="false">1271837</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 17:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BVB in Champions League zurück in der Erfolgsspur]]></title>
-            <description><![CDATA[Die Handballerinnen von Borussia Dortmund sind in der Champions League in die Erfolgsspur zurückgekehrt. Nach zwei Niederlagen in Folge gewann der BVB dank einer Leistungssteigerung in der zweiten Hälfte 26:25 (10:13) bei OTP Group Buducnost aus Montenegro.]]></description>
-            <link>https://www.handball-world.news/spiel/zrk-buducnost-gegen-dortmund-2026-handball-champions-league-frauen-5249762/bericht</link>
-            <guid isPermaLink="false">1271854</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 17:45:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Totalausfall": Grgic nach Niederlage deutlich selbstkritisch]]></title>
-            <description><![CDATA[Die SG Flensburg-Handewitt konnte im Duell mit dem SC Magdeburg nicht an die eigenen Erwartungen anknüpfen und musste sich dem amtierenden Meister deutlich geschlagen geben. Marko Grgic zeigte sich nach der Partie entsprechend enttäuscht. Der Flensburger fand klare Worte für den Auftritt seiner Mannschaft.]]></description>
-            <link>https://www.handball-world.news/artikel/totalausfall-grgic-nach-niederlage-deutlich-selbstkritisch-1271819</link>
-            <guid isPermaLink="false">1271819</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 18:54:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Neu-Auflage des European-League-Finals: Viertelfinal-Partien im DHB-Pokal ausgelost]]></title>
-            <description><![CDATA[Nach dem Topspiel in der Handball-Bundesliga wurden in Magdeburg die Viertelfinal-Partien im DHB-Pokal ausgelost. Los-Fee Lukas Märtens brachte die Getec Arena dabei erneut zum Jubeln. Unterdessen kommt es zur Neuauflage des Endspiels der EHF European League.]]></description>
-            <link>https://www.handball-world.news/artikel/neu-auflage-des-european-league-finals-viertelfinal-partien-im-dhb-pokal-ausgelost-1271788</link>
-            <guid isPermaLink="false">1271788</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 16:12:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MT Melsungen bindet Stehl bis 2030]]></title>
-            <description><![CDATA[Handball-Bundesligist MT Melsungen hat eine langfristige Weichenstellung auf der rechten Außenbahn bekannt gegeben: Der 20-jährige Leon Stehl verlängerte seinen Vertrag vorzeitig bis 2030.]]></description>
-            <link>https://www.handball-world.news/artikel/mt-melsungen-bindet-stehl-bis-2030-1271818</link>
-            <guid isPermaLink="false">1271818</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 16:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Magnusson kaum zu stoppen: SCM gegen Flensburg in der Einzelkritik]]></title>
-            <description><![CDATA[Während Omar Ingi Magnusson mit seiner Treffsicherheit überzeugte und Gisli Kristjansson immer wieder Lücken in der Flensburger Abwehr fand, zeigte auch Simon Möller trotz der Niederlage starke Paraden. Das Topspiel der Handball-Bundesliga in der Einzelkritik:]]></description>
-            <link>https://www.handball-world.news/artikel/magnusson-kaum-zu-stoppen-scm-gegen-flensburg-in-der-einzelkritik-1271792</link>
-            <guid isPermaLink="false">1271792</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 18:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machtdemonstration: Magdeburg deklassiert Flensburg mit Offensiv-Gala]]></title>
-            <description><![CDATA[Der SC Magdeburg ist neuer Tabellenführer der Opel Handball-Bundesliga. Besonders offensiv agierten die Elbstädter nah am Optimum. So enteilte der SCM bereits zur Pause auf sechs Treffer und schlug die SG Flensburg-Handewitt schließlich deutlich mit 37:29.]]></description>
-            <link>https://www.handball-world.news/spiel/magdeburg-gegen-flensburg-2026-handball-bundesliga-5213846/bericht</link>
-            <guid isPermaLink="false">1271790</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 08:39:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kolossal bis kuschlig: Die Spielstätten der Bundesliga]]></title>
-            <description><![CDATA[Die Handball-Bundesliga gilt als stärkste Liga der Welt und das nicht nur wegen der Qualität auf dem Spielfeld. Die Getec Arena ist im Topspiel gegen die SG Flensburg-Handewitt erneut ausverkauft. Woche für Woche herrscht in den Arenen der Klubs eine besondere Atmosphäre. Von traditionsreichen Hallen bis zu modernen Multifunktionsarenen: Ein Blick auf die Spielstätten der Bundesliga für die Saison 2026/27.]]></description>
-            <link>https://www.handball-world.news/slideshow/kolossal-bis-kuschlig-die-spielstaetten-der-bundesliga-1134376</link>
-            <guid isPermaLink="false">1134376</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 15:09:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tabellenführer gestürzt: Dessau bezwingt Elbflorenz im Derby-Krimi]]></title>
-            <description><![CDATA[Der HC Elbflorenz Dresden unterliegt dem Dessau-Roßlauer HV in einem packenden Derby der 2. Handball-Bundesliga knapp mit 35:36. Trotz einer starken Moral und einer dramatischen Aufholjagd müssen sich die Dresdner Tabellenführer am Ende geschlagen geben.]]></description>
-            <link>https://www.handball-world.news/spiel/dessau-rosslau-gegen-dresden-2026-handball-bundesliga-5214149/bericht</link>
-            <guid isPermaLink="false">1271783</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 15 Nov 2026 14:45:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
