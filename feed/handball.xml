@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 00:04:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 06:54:08 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 00:04:07 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 06:54:08 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA["Die Mannschaft ist reif": So sieht Fritz die deutschen WM-Chancen]]></title>
+            <description><![CDATA[Henning Fritz blickt optimistisch auf die Handball-WM 2027 in Deutschland. Gegenüber handball-world äußert sich der Weltmeister zu den Titelchancen des DHB-Teams und erklärt, warum Deutschland mit viel Selbstbewusstsein in das Turnier gehen kann.]]></description>
+            <link>https://www.handball-world.news/artikel/die-mannschaft-ist-reif-so-sieht-fritz-die-deutschen-wm-chancen-1272113</link>
+            <guid isPermaLink="false">1272113</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 06:30:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Es wird Veränderungen geben": THW Kiel plant Kaderumbau]]></title>
+            <description><![CDATA[Gleich sechs Verträge laufen beim THW Kiel im kommenden Sommer aus. Geschäftsführer Viktor Szilagyi spricht über die Zukunft der Routiniers, eine mögliche Nachverpflichtung für Elias Ellefsen a Skipagötu und die Perspektive von Nationaltorhüter Andreas Wolff.]]></description>
+            <link>https://www.handball-world.news/artikel/es-wird-veraenderungen-geben-thw-kiel-plant-kaderumbau-1273276</link>
+            <guid isPermaLink="false">1273276</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 06:00:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2. HBL: Lübeck-Schwartau an der Spitze]]></title>
             <description><![CDATA[Am 12. Spieltag der 2. Handball-Bundesliga hat der VfL Lübeck-Schwartau zumindest vorübergehend die Tabellenführung übernommen. Auch die anderen Favoriten in den Freitagsspielen, Hagen und Minden, gewannen. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
@@ -1192,22 +1208,6 @@
             <guid isPermaLink="false">1271990</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Mon, 16 Nov 2026 13:08:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hanning: "Wochenende der absoluten Big Points"]]></title>
-            <description><![CDATA["Das ist so eine geile Liga", sagt Bob Hanning nach dem 12. Spieltag der Handball-Bundesliga in seiner kicker-Kolumne. Der Füchse-Boss blickt zudem auf die Auslosung der Viertelfinal-Partien im DHB-Pokal.]]></description>
-            <link>https://www.handball-world.news/videos/hanning-wochenende-der-absoluten-big-points-1271992</link>
-            <guid isPermaLink="false">1271992</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 09:52:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VfL-Matchwinner Obling: "Das ist die Stärke unserer Mannschaft"]]></title>
-            <description><![CDATA[Der VfL Gummersbach konnte nach dem Aus im DHB-Pokal einen wichtigen Heimsieg landen. Nach einer Leistungssteigerung im zweiten Durchgang, in der vor allem Bertram Obling herausstach, besiegten die Oberbergischen die TSV Hannover-Burgdorf mit 33:29 (18:18).]]></description>
-            <link>https://www.handball-world.news/artikel/vfl-matchwinner-obling-das-ist-die-staerke-unserer-mannschaft-1271973</link>
-            <guid isPermaLink="false">1271973</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Mon, 16 Nov 2026 08:37:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
