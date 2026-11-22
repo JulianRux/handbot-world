@@ -4,11 +4,27 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 20:49:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 00:43:23 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 20:49:47 GMT</pubDate>
+        <pubDate>Sun, 22 Nov 2026 00:43:23 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[#Regelecke: Ab wann ist ein Ball (oder ein Spieler) im Aus?]]></title>
+            <description><![CDATA[Aus oder kein Aus: Beim Durchbruch von Mathis Häseler protestierte der Bergische HC. Was sagt der Blick ins Regelwerk?]]></description>
+            <link>https://www.handball-world.news/artikel/regelecke-ab-wann-ist-ein-ball-oder-ein-spieler-im-aus-1273700</link>
+            <guid isPermaLink="false">1273700</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 23:08:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HBF kompakt: Krimi-Samstag bringt vier Auswärtssiege und ein Remis]]></title>
+            <description><![CDATA[Die letzten Begegnungen der Handball Bundesliga Frauen vor der EM-Pause hatten es noch einmal in sich: Während der Thüringer HC einen deutlichen Auswärtserfolg feierte, fuhren Metzingen und Göppingen Krimisiege in der Fremde ein. Leipzig feierte den zweiten Punkt und Blomberg einen Sieg im Topspiel gegen Borussia Dortmund.]]></description>
+            <link>https://www.handball-world.news/artikel/hbf-kompakt-krimi-samstag-bringt-vier-auswaertssiege-und-ein-remis-1273592</link>
+            <guid isPermaLink="false">1273592</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 21:13:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bergischer HC hat im Kellerduell in Bietigheim immer Antworten]]></title>
             <description><![CDATA[Nach dem Trainerwechsel hatte die SG BBM Bietigheim mit einem Remis in Melsungen aufhorchen lassen, doch der erhoffte Sprung aus dem Tabellenkeller der Handball-Bundesliga gelang im direkten Duell mit dem Bergischen HC heute nicht. Die Gäste hatten immer Antworten und vergrößern durch den 2).23-Erfolg das Polster auf den Konkurrenten und die Abstiegszone auf drei Punkte.]]></description>
@@ -16,6 +32,14 @@
             <guid isPermaLink="false">1273619</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Sat, 21 Nov 2026 20:26:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Späte Wende in Lemgo: Gummersbach kämpft sich zurück]]></title>
+            <description><![CDATA[Der TBV Lemgo Lippe und der VfL Gummersbach lieferten sich in der Handball-Bundesliga ein intensives und lange ausgeglichenes NRW-Duell. Lemgo lag zwischenzeitlich in Führung, doch auch dank eines starken Miro Schluroff sorgten die Gäste in der Schlussphase noch einmal für eine Wende. Der VfL springt durch den 36:34-Erfolg vorübergehend auf den vierten Platz, der TBV rutscht auf den achten Rang.]]></description>
+            <link>https://www.handball-world.news/spiel/lemgo-gegen-gummersbach-2026-handball-bundesliga-5213861/bericht</link>
+            <guid isPermaLink="false">1273610</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 22:58:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Überraschung gegen den Favoriten: Eisenach bezwingt Melsungen]]></title>
@@ -234,12 +258,12 @@
             <pubDate>Fri, 20 Nov 2026 21:32:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[HBL: Erlösung für Balingen, Remis in Hannover]]></title>
-            <description><![CDATA[Am 13. Spieltag der Handball-Bundesliga düpierte der HBW Balingen-Weilstetten den HC Erlangen. Außerdem gab es ein Remis in Hannover. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
-            <link>https://www.handball-world.news/artikel/hbl-erloesung-fuer-balingen-remis-in-hannover-1273325</link>
+            <title><![CDATA[HBL im Stenogramm: Eisenach mit Überraschung, Gummersbach mit Comeback und BHC mit Punkten]]></title>
+            <description><![CDATA[Am Freitag düpierte der HBW Balingen-Weilstetten in der Handball-Bundesliga den HC Erlangen und in Hannover gab es ein umkämpftes Remis. Am Samstag überraschte Eisenach die MT Melsungen, der Bergische HC fuhr wichtige Punkte bei der SG BBM Bietigheim ein und Gummersbach jubelte über eine späte Wende in Lemgo. Am Sonntag setzt sich der 13. Spieltag der HBL fort. Die Spiele, Ergebnisse und Torschützen in der Übersicht:]]></description>
+            <link>https://www.handball-world.news/artikel/hbl-im-stenogramm-eisenach-mit-ueberraschung-gummersbach-mit-comeback-und-bhc-mit-punkten-1273325</link>
             <guid isPermaLink="false">1273325</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 21:16:45 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2026 21:53:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Erlangen enttäuscht: Balingen gelingt Befreiungsschlag]]></title>
@@ -311,7 +335,7 @@
             <link>https://www.handball-world.news/slideshow/die-zehn-groessten-vertrags-fragezeichen-der-bundesliga-1251186</link>
             <guid isPermaLink="false">1251186</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 15:12:25 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2026 21:57:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rhein-Neckar Löwen vor Flensburg mit Linkshänder-Sorgen]]></title>
@@ -426,12 +450,12 @@
             <pubDate>Fri, 20 Nov 2026 09:06:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Liga bestätigt: Wann wird das Viertelfinale im DHB-Pokal der Frauen ausgelost?]]></title>
+            <title><![CDATA[Liga bestätigt: Wann wird das Halbfinale im DHB-Pokal der Frauen ausgelost?]]></title>
             <description><![CDATA[Seit gestern herrscht Klarheit, welche vier Mannschaften sich für das Finalturnier im DHB-Pokal vorgekämpft haben. Der Titelverteidiger, der Vorjahresfinalist und zwei weitere ehemalige DHB-Pokalsieger sind beim Haushahn Final4 unter sich. Nun steht auch fest, wann die Halbfinalpartien ausgelost werden.]]></description>
-            <link>https://www.handball-world.news/artikel/liga-bestaetigt-wann-wird-das-viertelfinale-im-dhb-pokal-der-frauen-ausgelost-1273151</link>
+            <link>https://www.handball-world.news/artikel/liga-bestaetigt-wann-wird-das-halbfinale-im-dhb-pokal-der-frauen-ausgelost-1273151</link>
             <guid isPermaLink="false">1273151</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Fri, 20 Nov 2026 08:42:04 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2026 22:50:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Dort hat für mich alles angefangen": Warum sich Karabatic im Amateurhandball engagiert]]></title>
@@ -1184,30 +1208,6 @@
             <guid isPermaLink="false">1272253</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Tue, 17 Nov 2026 07:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Trotz starker Leistungen nicht im WM-Kader: So reagiert Musche]]></title>
-            <description><![CDATA[Mit überzeugenden Auftritten beim SC Magdeburg hat sich Matthias Musche wiederholt für die Nationalmannschaft empfohlen. Dennoch steht der Linksaußen für die Heim-WM nicht im 35er-Kader von Bundestrainer Alfred Gislason. Die Entscheidung kommt für Musche nicht unerwartet. Im Gespräch mit handball-world erklärt er, warum er sie sogar nachvollziehen kann.]]></description>
-            <link>https://www.handball-world.news/artikel/trotz-starker-leistungen-nicht-im-wm-kader-so-reagiert-musche-1272247</link>
-            <guid isPermaLink="false">1272247</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 07:55:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nicht Späth, nicht Wolff: Er ist jetzt der beste HBL-Torhüter]]></title>
-            <description><![CDATA[Wer sind in der Handball-Bundesliga 2026/27 die Top-Torhüter? Die Übersicht.]]></description>
-            <link>https://www.handball-world.news/artikel/nicht-spaeth-nicht-wolff-er-ist-jetzt-der-beste-hbl-torhueter-1268506</link>
-            <guid isPermaLink="false">1268506</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 05:00:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Der Kampf um die Playoffs: So stehen die deutschen Teams in der European League]]></title>
-            <description><![CDATA[Nach einer längeren Pause kehrt heute Abend die EHF European League zurück. Für die drei deutschen Vertreter Bergischer HC, SG Flensburg-Handewitt und VfL Gummersbach geht es in der Gruppenphase nun in die entscheidende Phase für das Weiterkommen.]]></description>
-            <link>https://www.handball-world.news/artikel/der-kampf-um-die-playoffs-so-stehen-die-deutschen-teams-in-der-european-league-1272062</link>
-            <guid isPermaLink="false">1272062</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Tue, 17 Nov 2026 04:30:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
