@@ -4,11 +4,19 @@
         <description><![CDATA[Handball World ist das Portal für die Welt des Handballs &#10061; Topaktuelle News - Livescores - Tabellen - Statistiken &#10061; Immer top informiert]]></description>
         <link>https://www.handball-world.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 21:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 01:38:32 GMT</lastBuildDate>
         <atom:link href="https://www.handball-world.news/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 21:11:47 GMT</pubDate>
+        <pubDate>Mon, 23 Nov 2026 01:38:32 GMT</pubDate>
         <copyright><![CDATA[2026 handball-world]]></copyright>
         <language><![CDATA[de]]></language>
+        <item>
+            <title><![CDATA[Im Video: Kiel hält Wetzlar in 18 Minuten bei zwei Gegentoren]]></title>
+            <description><![CDATA[Der THW Kiel brachte die Merkur Ostseehalle im ersten Heimspiel seit drei Wochen ordentlich zum Jubeln. Nach 25 Minuten führten die Zebras mit 14:4, nach 60 Minuten stand ein 31:22 (15:8) und ein Saison-Bestwert von Andreas Wolff auf dem Konto.]]></description>
+            <link>https://www.handball-world.news/videos/im-video-kiel-haelt-wetzlar-in-18-minuten-bei-zwei-gegentoren-1274051</link>
+            <guid isPermaLink="false">1274051</guid>
+            <dc:creator><![CDATA[handball-world]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 21:42:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Im Video: Magdeburg mit Start-Ziel-Sieg in Hamburg]]></title>
             <description><![CDATA[Der Auswärts-Erfolg des SC Magdeburg war am Sonntagnachmittag zu keiner Zeit in Gefahr: Schon zur Halbzeit führten die Elbstädter mit 16:8. Angeführt vom zehnfachen Torschützen Albin Lagergren feierten die Elbstädter einen klaren 33:22-Start-Ziel-Sieg.]]></description>
@@ -47,7 +55,7 @@
             <link>https://www.handball-world.news/spiel/kiel-gegen-wetzlar-2026-handball-bundesliga-5213855/bericht</link>
             <guid isPermaLink="false">1273996</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Sun, 22 Nov 2026 19:01:25 GMT</pubDate>
+            <pubDate>Sun, 22 Nov 2026 21:44:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[2. HBL: Big Points für Coburg und Hüttenberg, HC Elbflorenz auf Platz 1]]></title>
@@ -1200,14 +1208,6 @@
             <guid isPermaLink="false">1272554</guid>
             <dc:creator><![CDATA[handball-world]]></dc:creator>
             <pubDate>Wed, 18 Nov 2026 08:48:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Verletzung beim FC Barcelona: Cikusa fällt aus]]></title>
-            <description><![CDATA[Der FC Barcelona muss vorerst auf Djordje Cikusa verzichten. Der Rückraum-Rechte hat sich eine Knöchelverstauchung zugezogen und wird voraussichtlich zwei bis vier Wochen ausfallen.]]></description>
-            <link>https://www.handball-world.news/artikel/verletzung-beim-fc-barcelona-cikusa-faellt-aus-1272536</link>
-            <guid isPermaLink="false">1272536</guid>
-            <dc:creator><![CDATA[handball-world]]></dc:creator>
-            <pubDate>Wed, 18 Nov 2026 08:46:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
